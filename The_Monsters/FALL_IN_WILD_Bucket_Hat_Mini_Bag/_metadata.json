@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 36,
+  "spu_id": 1366,
+  "spu_ext_id": 36,
+  "product_url": "https://www.popmart.com/us/pop-now/set/36",
+  "official_name": "THE MONSTERS FALL IN WILD SERIES-Bucket Hat Mini Bag Blind Box",
+  "series_name": "FALL IN WILD Bucket Hat Mini Bag",
+  "folder": "The_Monsters/FALL_IN_WILD_Bucket_Hat_Mini_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "PLATYCERIUM",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PLATYCERIUM.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BELLFLOWER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BELLFLOWER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CACTUS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CACTUS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MONSTERA DELICIOSA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MONSTERA_DELICIOSA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CROTALARIA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CROTALARIA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DATURA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DATURA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GARDENER",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "GARDENER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:08.373Z"
+}

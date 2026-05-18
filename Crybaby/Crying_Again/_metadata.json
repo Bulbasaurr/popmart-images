@@ -1,0 +1,145 @@
+{
+  "popnow_set_id": 81,
+  "spu_id": 1549,
+  "spu_ext_id": 81,
+  "product_url": "https://www.popmart.com/us/pop-now/set/81",
+  "official_name": "CRYBABY Crying Again Series Figures",
+  "series_name": "Crying Again",
+  "folder": "Crybaby/Crying_Again",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "BABY BROWN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BABY_BROWN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BABY BLONDE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BABY_BLONDE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HEARTLESS GIRL",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HEARTLESS_GIRL.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "STAR BOY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "STAR_BOY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LOVE IS LOVE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LOVE_IS_LOVE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "THE ROBBER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "THE_ROBBER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SHE'S ALICE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SHES_ALICE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LOVE MAKE US CRY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LOVE_MAKE_US_CRY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'LL GIVE YOU ALL MY LOVE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ILL_GIVE_YOU_ALL_MY_LOVE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'LL BRING YOU A FLOWER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ILL_BRING_YOU_A_FLOWER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WHAT A FROG",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WHAT_A_FROG.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DUCK YOU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DUCK_YOU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "THE QUEEN OF BROKEN HEART",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "THE_QUEEN_OF_BROKEN_HEART.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "SHE'S ALICE HALLOWEEN VER.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "SHES_ALICE_HALLOWEEN_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "THE ROBBER RED VER.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "THE_ROBBER_RED_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:45.510Z"
+}

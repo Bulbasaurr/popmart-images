@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 105,
+  "spu_id": 1624,
+  "spu_ext_id": 105,
+  "product_url": "https://www.popmart.com/us/pop-now/set/105",
+  "official_name": "POLAR - HELLO POLAR Season 1 Series Figures",
+  "series_name": "HELLO POLAR Season 1",
+  "folder": "Polar/HELLO_POLAR_Season_1",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Polar",
+    "character_group": "Polar",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Polar"
+  },
+  "rows": [
+    {
+      "character_name": "\"Ready! Let's Go!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ready_Lets_Go.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Good Morning!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Morning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Yum-Yum!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yum_Yum.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bedtime Story",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bedtime_Story.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Who's There?\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whos_There.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Haha, I Win\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Haha_I_Win.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Em...Mushrooming\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "EmMushrooming.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"A~ Wake Up\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A~_Wake_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Yeah! Gotcha!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yeah_Gotcha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubble Pop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubble_Pop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Oops!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oops.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Somezzz..",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Somezzz.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aha! I'm back.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Aha_Im_back.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:07:10.860Z"
+}

@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 34,
+  "spu_id": 1364,
+  "spu_ext_id": 34,
+  "product_url": "https://www.popmart.com/us/pop-now/set/34",
+  "official_name": "Toy Story: Andy's Room Series Scene Sets",
+  "series_name": "Andy Room Scene Sets",
+  "folder": "Popmart_Collab/Disney/Andy_Room_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Rex",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rex.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bo Peep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bo_Peep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aliens Eat Cookies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aliens_Eat_Cookies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Woody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Woody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buzz Lightyear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Buzz_Lightyear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jessie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jessie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Slinky Dog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Slinky_Dog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aliens Rainbow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aliens_Rainbow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Woody And Bullseye",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Woody_And_Bullseye.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:07.497Z"
+}

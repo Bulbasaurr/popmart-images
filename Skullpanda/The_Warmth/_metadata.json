@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 21,
+  "spu_id": 1291,
+  "spu_ext_id": 21,
+  "product_url": "https://www.popmart.com/us/pop-now/set/21",
+  "official_name": "SKULLPANDA The Warmth Series",
+  "series_name": "The Warmth",
+  "folder": "Skullpanda/The_Warmth",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Mind With the Wind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mind_With_the_Wind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wandering",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wandering.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Doodling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doodling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Day Off",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Day_Off.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Recall the Past",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Recall_the_Past.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Raining Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Raining_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Scent",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Scent.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Encounter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Encounter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taste From the Memory",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taste_From_the_Memory.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Loosening",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Loosening.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Enjoy Oneself",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Enjoy_Oneself.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chirping",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chirping.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Warmth",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Warmth.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:00.250Z"
+}

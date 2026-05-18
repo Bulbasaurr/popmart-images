@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 87,
+  "spu_id": 1559,
+  "spu_ext_id": 87,
+  "product_url": "https://www.popmart.com/us/pop-now/set/87",
+  "official_name": "We are Twinkle Twinkle Series-Plush Pendant Blind Box",
+  "series_name": "Plush Pendant",
+  "folder": "Twinkle_Twinkle/Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Little Sun",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Sun.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Superman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Superman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Yawn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Yawn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Happiness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Happiness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Goodnight, Twinkle Twinkle",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Goodnight_Twinkle_Twinkle.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:52.492Z"
+}

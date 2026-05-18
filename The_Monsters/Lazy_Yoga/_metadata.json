@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 67,
+  "spu_id": 1470,
+  "spu_ext_id": 67,
+  "product_url": "https://www.popmart.com/us/pop-now/set/67",
+  "official_name": "THE MONSTERS Lazy Yoga Series Figures",
+  "series_name": "Lazy Yoga",
+  "folder": "The_Monsters/Lazy_Yoga",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Little Bird",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Bird.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zone Out",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zone_Out.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ab Roller",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ab_Roller.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweating",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweating.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Confident",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Confident.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stretch Out",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stretch_Out.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lay Down",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lay_Down.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Americano",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Americano.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Show Off",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Show_Off.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sleeping",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sleeping.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yoga Coach (Secret）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Yoga_Coach_Secret）.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:28.663Z"
+}

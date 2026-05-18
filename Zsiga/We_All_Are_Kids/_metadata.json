@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 86,
+  "spu_id": 1558,
+  "spu_ext_id": 86,
+  "product_url": "https://www.popmart.com/us/pop-now/set/86",
+  "official_name": "Zsiga We All Are Kids Series Figures",
+  "series_name": "We All Are Kids",
+  "folder": "Zsiga/We_All_Are_Kids",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Zsiga"
+  },
+  "rows": [
+    {
+      "character_name": "Observer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Observer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Opening Act",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Opening_Act.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shielding",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shielding.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pretending to Be Bad",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pretending_to_Be_Bad.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Healing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Healing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "On Guard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "On_Guard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Losing Control",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Losing_Control.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Outer Form",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Outer_Form.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Walking Hazard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Walking_Hazard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Balloon Brake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Balloon_Brake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Watch out for the Bad Guys",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Watch_out_for_the_Bad_Guys.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "New Clothes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "New_Clothes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bull's Eye",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Bulls_Eye.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:50.961Z"
+}

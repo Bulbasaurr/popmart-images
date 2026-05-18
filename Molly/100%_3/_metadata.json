@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 61,
+  "spu_id": 1463,
+  "spu_ext_id": 61,
+  "product_url": "https://www.popmart.com/us/pop-now/set/61",
+  "official_name": "MEGA SPACE MOLLY 100% Series 3",
+  "series_name": "100% 3",
+  "folder": "Molly/100%_3",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Tenderheart Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tenderheart_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Garfield",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Garfield.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Luck Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Luck_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gary Baseman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gary_Baseman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TETRIS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TETRIS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ted 2",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ted_2.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Graffiti",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Graffiti.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heartfelt Words",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heartfelt_Words.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peach 2016",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peach_2016.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Louis De Guzman",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Louis_De_Guzman.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "TEAM COCA-COLA",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "TEAM_COCA_COLA.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Starry",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Starry.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:27.003Z"
+}

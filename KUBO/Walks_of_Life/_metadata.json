@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 22,
+  "spu_id": 1292,
+  "spu_ext_id": 22,
+  "product_url": "https://www.popmart.com/us/pop-now/set/22",
+  "official_name": "KUBO Walks of Life Series Figures",
+  "series_name": "Walks of Life",
+  "folder": "KUBO/Walks_of_Life",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "KUBO",
+    "character_group": "KUBO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "KUBO"
+  },
+  "rows": [
+    {
+      "character_name": "Speeding Along",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Speeding_Along.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Muse",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Muse.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lifeline",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lifeline.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gentleman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gentleman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Find Your Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Find_Your_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Click-click",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Click_click.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Toughness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toughness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "On a Mission",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "On_a_Mission.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cowboy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cowboy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vagabond",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vagabond.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Judgement",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Judgement.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Order",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Order.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Victor",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Victor.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:01.412Z"
+}

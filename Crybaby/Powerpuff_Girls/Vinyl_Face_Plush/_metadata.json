@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 39,
+  "spu_id": 1397,
+  "spu_ext_id": 39,
+  "product_url": "https://www.popmart.com/us/pop-now/set/39",
+  "official_name": "CRYBABY × Powerpuff Girls Series-Vinyl Face Plush Blind Box",
+  "series_name": "Vinyl Face Plush",
+  "folder": "Crybaby/Powerpuff_Girls/Vinyl_Face_Plush",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Crybaby",
+    "external_ip": "Powerpuff Girls"
+  },
+  "rows": [
+    {
+      "character_name": "Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny Bubbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_Bubbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buttercup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Buttercup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny Buttercup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_Buttercup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Morbucks",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Morbucks.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:08:50.231Z"
+}

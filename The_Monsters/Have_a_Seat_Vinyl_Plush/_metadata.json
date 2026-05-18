@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 50,
+  "spu_id": 1419,
+  "spu_ext_id": 50,
+  "product_url": "https://www.popmart.com/us/pop-now/set/50",
+  "official_name": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+  "series_name": "Have a Seat Vinyl Plush",
+  "folder": "The_Monsters/Have_a_Seat_Vinyl_Plush",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Zizi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zizi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ququ",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ququ.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dada",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dada.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sisi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sisi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baba",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baba.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hehe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hehe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Duoduo",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Duoduo.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:13.775Z"
+}

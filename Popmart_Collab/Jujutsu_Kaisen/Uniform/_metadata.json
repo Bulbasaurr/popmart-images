@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 89,
+  "spu_id": 1574,
+  "spu_ext_id": 89,
+  "product_url": "https://www.popmart.com/us/pop-now/set/89",
+  "official_name": "Jujutsu Kaisen Uniform Series Figures",
+  "series_name": "Uniform",
+  "folder": "Popmart_Collab/Jujutsu_Kaisen/Uniform",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Jujutsu Kaisen",
+    "character_group": "Jujutsu Kaisen",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Jujutsu Kaisen"
+  },
+  "rows": [
+    {
+      "character_name": "Panda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Panda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Megumi Fushiguro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Megumi_Fushiguro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nobara Kugisaki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nobara_Kugisaki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Maki Zen'in",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Maki_Zenin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mai Zen'in",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mai_Zenin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Satoru Gojo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Satoru_Gojo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Utahime Iori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Utahime_Iori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aoi Todo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aoi_Todo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Toge Inumaki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toge_Inumaki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yuji Itadori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yuji_Itadori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kento Nanami",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kento_Nanami.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kasumi Miwa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kasumi_Miwa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ryomen Sukuna",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ryomen_Sukuna.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:54.080Z"
+}

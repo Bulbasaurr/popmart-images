@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 9,
+  "spu_id": 1248,
+  "spu_ext_id": 9,
+  "product_url": "https://www.popmart.com/us/pop-now/set/9",
+  "official_name": "SKULLPANDA The Ink Plum Blossom Series Figures",
+  "series_name": "The Ink Plum Blossom",
+  "folder": "Skullpanda/The_Ink_Plum_Blossom",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Forest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Forest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moss",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moss.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Bamboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Bamboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Snow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Snow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Wind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Wind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Bridge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Bridge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Valley",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Valley.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Scene",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Scene.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Courtyard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Courtyard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Root",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Root.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Plum Blossom",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Plum_Blossom.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:58.794Z"
+}

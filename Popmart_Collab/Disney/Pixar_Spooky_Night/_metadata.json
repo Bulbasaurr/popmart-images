@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 94,
+  "spu_id": 1614,
+  "spu_ext_id": 94,
+  "product_url": "https://www.popmart.com/us/pop-now/set/94",
+  "official_name": "Disney/Pixar Spooky Night Series Figures",
+  "series_name": "Pixar Spooky Night",
+  "folder": "Popmart_Collab/Disney/Pixar_Spooky_Night",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Scarecrow Woody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scarecrow_Woody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zombie Buzz Lightyear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zombie_Buzz_Lightyear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Forky the Vampire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Forky_the_Vampire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ghost Billy, Goat, and Gruff",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ghost_Billy_Goat_and_Gruff.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Witch Bo Peep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Witch_Bo_Peep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jack-in-the-Box Slinky Dog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jack_in_the_Box_Slinky_Dog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankenstein Rex",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankenstein_Rex.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vampire Buzz Lightyear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vampire_Buzz_Lightyear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Masked Jessie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Masked_Jessie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pirate Ducky and Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pirate_Ducky_and_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wizard Alien",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wizard_Alien.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pumpkin Alien",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pumpkin_Alien.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Skeleton Woody",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Skeleton_Woody.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:07:03.341Z"
+}

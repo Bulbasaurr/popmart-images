@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 8,
+  "spu_id": 1247,
+  "spu_ext_id": 8,
+  "product_url": "https://www.popmart.com/us/pop-now/set/8",
+  "official_name": "HIRONO Reshape Series Figures",
+  "series_name": "Reshape",
+  "folder": "Hirono/Reshape",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Drowning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drowning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fading",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fading.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Costume",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Costume.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Voyage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Voyage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Burst",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Burst.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Paradise Lost",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paradise_Lost.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Parasite",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Parasite.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Healing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Healing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Woodcarving",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Woodcarving.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppet",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Puppet.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:58.790Z"
+}

@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 78,
+  "spu_id": 1525,
+  "spu_ext_id": 78,
+  "product_url": "https://www.popmart.com/us/pop-now/set/78",
+  "official_name": "PINO JELLY Star Project Series Figures",
+  "series_name": "Star Project",
+  "folder": "Pino_Jelly/Star_Project",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pino Jelly",
+    "character_group": "Pino Jelly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pino Jelly"
+  },
+  "rows": [
+    {
+      "character_name": "Trainee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trainee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Studio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Studio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Live Stage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Live_Stage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meet＆Greet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meet＆Greet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Athletics",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Athletics.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Variety Show",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Variety_Show.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Trading Card Shoot",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trading_Card_Shoot.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fanchant",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fanchant.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Walk After Work",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Walk_After_Work.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Day Off",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Day_Off.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Makeup Room",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Makeup_Room.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Practice Room",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Practice_Room.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dance JELLY",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dance_JELLY.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Award Show",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Award_Show.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:38.791Z"
+}

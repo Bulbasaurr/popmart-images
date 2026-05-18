@@ -1,0 +1,138 @@
+{
+  "popnow_set_id": 104,
+  "spu_id": 1620,
+  "spu_ext_id": 104,
+  "product_url": "https://www.popmart.com/us/pop-now/set/104",
+  "official_name": "Hirono × Le Petit Prince Series Figures",
+  "series_name": "Figures",
+  "folder": "Hirono/Le_Petit_Prince/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Hirono",
+    "external_ip": "Le Petit Prince"
+  },
+  "rows": [
+    {
+      "character_name": "The King",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_King.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Conceited Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Conceited_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Tippler",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Tippler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Businessman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Businessman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Lamplighter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Lamplighter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Geographer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Geographer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Little Prince",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Little_Prince.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Snake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Snake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Fox",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Fox.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Switchman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Switchman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Merchant",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Merchant.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Little Prince-Special Edition",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "The_Little_Prince_Special_Edition.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "The Pilot",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Pilot.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:08:50.242Z"
+}

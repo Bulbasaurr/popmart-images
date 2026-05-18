@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 49,
+  "spu_id": 1418,
+  "spu_ext_id": 49,
+  "product_url": "https://www.popmart.com/us/pop-now/set/49",
+  "official_name": "CRYBABY Sunset Concert Series-Plush Pendant Blind Box",
+  "series_name": "Sunset Concert Plush Pendant",
+  "folder": "Crybaby/Sunset_Concert_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Purplish Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purplish_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bright Orange",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bright_Orange.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pink Grey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink_Grey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dim Green",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dim_Green.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Beige Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Beige_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pink White",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink_White.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Graduation Season",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Graduation_Season.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:13.029Z"
+}

@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 71,
+  "spu_id": 1485,
+  "spu_ext_id": 71,
+  "product_url": "https://www.popmart.com/us/pop-now/set/71",
+  "official_name": "We are Twinkle Twinkle Series Figures",
+  "series_name": "Figures",
+  "folder": "Twinkle_Twinkle/Figures",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Nighty Night",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nighty_Night.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Waiting for You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Waiting_for_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Just a Tad Sweeter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Just_a_Tad_Sweeter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Where is My Brain?",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Where_is_My_Brain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heartbreak Harmony",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heartbreak_Harmony.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Magic",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Magic.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moon Gelato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moon_Gelato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "You Equal Sunshine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "You_Equal_Sunshine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Master of Chill",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Master_of_Chill.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:31.380Z"
+}

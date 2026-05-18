@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 13,
+  "spu_id": 1279,
+  "spu_ext_id": 13,
+  "product_url": "https://www.popmart.com/us/pop-now/set/13",
+  "official_name": "Spy × Family Anya's Daily Life Series Figures",
+  "series_name": "Anya Daily Life",
+  "folder": "Popmart_Collab/Spy_x_Family/Anya_Daily_Life",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Spy x Family",
+    "character_group": "Spy x Family",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Spy x Family"
+  },
+  "rows": [
+    {
+      "character_name": "Sleepy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sleepy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "First Sight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "First_Sight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Exercise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Exercise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Relaxed Smile",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Relaxed_Smile.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:59.416Z"
+}

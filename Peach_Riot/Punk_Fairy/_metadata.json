@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 5,
+  "spu_id": 1244,
+  "spu_ext_id": 5,
+  "product_url": "https://www.popmart.com/us/pop-now/set/5",
+  "official_name": "Peach Riot Punk Fairy Series Figures",
+  "series_name": "Punk Fairy",
+  "folder": "Peach_Riot/Punk_Fairy",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Poppy Daisy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Daisy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Sweet Pea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Sweet_Pea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Sunflower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Sunflower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Tree Stump",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Tree_Stump.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Mushroom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Mushroom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Lily Pad",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Lily_Pad.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Acorn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Acorn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Leaf",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Leaf.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Rainstorm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Rainstorm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Morning Dew",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Morning_Dew.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Ice",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Ice.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Moonrise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Moonrise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Strawberry",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Poppy_Strawberry.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:55.203Z"
+}

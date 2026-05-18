@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 32,
+  "spu_id": 1362,
+  "spu_ext_id": 32,
+  "product_url": "https://www.popmart.com/us/pop-now/set/32",
+  "official_name": "CRYBABY Sad Club Series - Plush Flower Blind Box",
+  "series_name": "Sad Club Plush Flower",
+  "folder": "Crybaby/Sad_Club_Plush_Flower",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Papaya Yellow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Papaya_Yellow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura Pink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Pink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taro Purple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taro_Purple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sky Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sky_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sunshine Yellow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunshine_Yellow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rouge Pink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rouge_Pink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cherry Red",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Cherry_Red.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:06.454Z"
+}

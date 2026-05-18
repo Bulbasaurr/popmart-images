@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 14,
+  "spu_id": 1280,
+  "spu_ext_id": 14,
+  "product_url": "https://www.popmart.com/us/pop-now/set/14",
+  "official_name": "CRYBABY Sad Club Series Scene Sets",
+  "series_name": "Sad Club Scene Sets",
+  "folder": "Crybaby/Sad_Club_Scene_Sets",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "LEFT BEHIND",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LEFT_BEHIND.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TEARDROP BOWL",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TEARDROP_BOWL.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DEVASTATED",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DEVASTATED.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "THE HOTTEST DAY OF SUMMER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "THE_HOTTEST_DAY_OF_SUMMER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BIG CLEANING DAY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BIG_CLEANING_DAY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WITHERING FLOWER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WITHERING_FLOWER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SLEEPLESS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SLEEPLESS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TEARDROPS ON THE PILLOW",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TEARDROPS_ON_THE_PILLOW.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A SAD SHOW",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "A_SAD_SHOW.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:00.247Z"
+}

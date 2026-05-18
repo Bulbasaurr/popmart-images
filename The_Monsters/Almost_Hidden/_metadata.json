@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 43,
+  "spu_id": 1404,
+  "spu_ext_id": 43,
+  "product_url": "https://www.popmart.com/us/pop-now/set/43",
+  "official_name": "THE MONSTERS Almost Hidden Series Figures",
+  "series_name": "Almost Hidden",
+  "folder": "The_Monsters/Almost_Hidden",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Sculpture",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sculpture.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flower Pot",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flower_Pot.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lamp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lamp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spray Can",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spray_Can.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Canned Pineapple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Canned_Pineapple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flask",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flask.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cactus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cactus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Traffic Light",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Traffic_Light.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mailbox",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mailbox.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tree House",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tree_House.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fire Hydrant",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fire_Hydrant.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bread Bag",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bread_Bag.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiddie Ride",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Kiddie_Ride.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:12.024Z"
+}

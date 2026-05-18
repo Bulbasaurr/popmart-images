@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 28,
+  "spu_id": 1351,
+  "spu_ext_id": 28,
+  "product_url": "https://www.popmart.com/us/pop-now/set/28",
+  "official_name": "Universal Despicable Me 4 Series Figures",
+  "series_name": "4",
+  "folder": "Popmart_Collab/Despicable_Me/4",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Universal Despicable Me",
+    "character_group": "Universal Despicable Me",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Universal Despicable Me"
+  },
+  "rows": [
+    {
+      "character_name": "Mega Minion Jerry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mega_Minion_Jerry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mega Minion Mel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mega_Minion_Mel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mega Minion Gus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mega_Minion_Gus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pit Crew Carl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pit_Crew_Carl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pit Crew Ron",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pit_Crew_Ron.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pit Crew Phil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pit_Crew_Phil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "AVL Dave",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AVL_Dave.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "AVL Gus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AVL_Gus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thief Phil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thief_Phil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Tom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Party_Tom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Jerry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Party_Jerry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Jorge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Party_Jorge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gru Jr.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Gru_Jr.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:04.875Z"
+}

@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 93,
+  "spu_id": 1613,
+  "spu_ext_id": 93,
+  "product_url": "https://www.popmart.com/us/pop-now/set/93",
+  "official_name": "DIMOO Weaving Wonders Series Figures",
+  "series_name": "Weaving Wonders",
+  "folder": "Dimoo/Weaving_Wonders",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Dreams of Courage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dreams_of_Courage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bear Guardian",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bear_Guardian.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreams of Sailing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dreams_of_Sailing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moonlight Explorer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moonlight_Explorer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wishful Dreaming",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wishful_Dreaming.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreams of Painting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dreams_of_Painting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drawing Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drawing_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreams of a Garden",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dreams_of_a_Garden.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Floating Gardener",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Floating_Gardener.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream with a Butterfly",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_with_a_Butterfly.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Butterfly Wizard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Butterfly_Wizard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreams of Good Fortune",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dreams_of_Good_Fortune.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Fortune Cat",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Fortune_Cat.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:07:00.542Z"
+}

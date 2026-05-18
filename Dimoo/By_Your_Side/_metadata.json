@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 27,
+  "spu_id": 1346,
+  "spu_ext_id": 27,
+  "product_url": "https://www.popmart.com/us/pop-now/set/27",
+  "official_name": "DIMOO By Your Side Series Figures",
+  "series_name": "By Your Side",
+  "folder": "Dimoo/By_Your_Side",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Calm Down",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Calm_Down.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Don't Overthink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dont_Overthink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheer Up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheer_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candy for You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candy_for_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light Up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Light_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Embrace Emotions",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Embrace_Emotions.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peace of Mind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peace_of_Mind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meditation",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meditation.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pleasure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pleasure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Startled",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Startled.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shielded",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shielded.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Don't Be Afraid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dont_Be_Afraid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Imaginary Encounter",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Imaginary_Encounter.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Imaginary Adventure",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Imaginary_Adventure.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:08:50.226Z"
+}

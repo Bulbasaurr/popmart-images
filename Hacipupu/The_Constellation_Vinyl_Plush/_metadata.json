@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 99,
+  "spu_id": 1617,
+  "spu_ext_id": 99,
+  "product_url": "https://www.popmart.com/us/pop-now/set/99",
+  "official_name": "HACIPUPU The Constellation Series-Vinyl Plush Blind Box",
+  "series_name": "The Constellation Vinyl Plush",
+  "folder": "Hacipupu/The_Constellation_Vinyl_Plush",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Aries",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aries.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taurus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taurus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gemini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gemini.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cancer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cancer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Virgo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Virgo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Libra",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Libra.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scorpio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scorpio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sagittarius",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sagittarius.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Capricornus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Capricornus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aquarius",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aquarius.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pisces",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pisces.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Astrological Angel",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Astrological_Angel.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:07:05.433Z"
+}

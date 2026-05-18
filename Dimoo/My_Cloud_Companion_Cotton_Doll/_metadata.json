@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 72,
+  "spu_id": 1486,
+  "spu_ext_id": 72,
+  "product_url": "https://www.popmart.com/us/pop-now/set/72",
+  "official_name": "DIMOO My Cloud Companion Series-Cotton Doll Blind Box",
+  "series_name": "My Cloud Companion Cotton Doll",
+  "folder": "Dimoo/My_Cloud_Companion_Cotton_Doll",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Green",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Green.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cyan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cyan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "White",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "White.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orange",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Orange.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainy Blue",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Rainy_Blue.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:32.803Z"
+}

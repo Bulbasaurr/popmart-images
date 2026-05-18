@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 53,
+  "spu_id": 1438,
+  "spu_ext_id": 53,
+  "product_url": "https://www.popmart.com/us/pop-now/set/53",
+  "official_name": "Hirono Shelter Series Figures",
+  "series_name": "Shelter",
+  "folder": "Hirono/Shelter",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Candleholder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candleholder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mantel Clock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mantel_Clock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Traffic Cone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Traffic_Cone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fort",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fort.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Circus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Circus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cabin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cabin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Birdy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Birdy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Alien",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Alien.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Warrior",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Warrior.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sunny Doll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunny_Doll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Birdcage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Birdcage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stuffed Bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Stuffed_Bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:16.392Z"
+}

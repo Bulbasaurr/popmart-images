@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 85,
+  "spu_id": 1557,
+  "spu_ext_id": 85,
+  "product_url": "https://www.popmart.com/us/pop-now/set/85",
+  "official_name": "PUCKY Roly-Poly Kitty Series-Vinyl Plush Blind Box",
+  "series_name": "Roly Poly Kitty Vinyl Plush",
+  "folder": "Pucky/Roly_Poly_Kitty_Vinyl_Plush",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Noble Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Noble_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Black Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Black_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pink Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Red Tabby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Tabby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "American Shorthair",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "American_Shorthair.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Calico",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Calico.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Cat",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Lucky_Cat.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:47.907Z"
+}

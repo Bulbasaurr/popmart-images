@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 79,
+  "spu_id": 1545,
+  "spu_ext_id": 79,
+  "product_url": "https://www.popmart.com/us/pop-now/set/79",
+  "official_name": "Sweet Bean Fruit World Adventure Series Figures",
+  "series_name": "Fruit World Adventure",
+  "folder": "Sweet_Bean/Fruit_World_Adventure",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Sweet Bean",
+    "character_group": "Sweet Bean",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Sweet Bean"
+  },
+  "rows": [
+    {
+      "character_name": "Strawberry Take Off",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Take_Off.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hunter Penguin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hunter_Penguin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pear Runner",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pear_Runner.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rowing Pineapple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rowing_Pineapple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orange Alchemist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Orange_Alchemist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cherry Treasure Hunter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cherry_Treasure_Hunter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gardener Grapes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gardener_Grapes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grass-skiing Lychee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grass_skiing_Lychee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon Diver",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lemon_Diver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Watermelon Warrior",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Watermelon_Warrior.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lazy Banana",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lazy_Banana.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peach Princess",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peach_Princess.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Berry Tunes",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Berry_Tunes.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:41.894Z"
+}

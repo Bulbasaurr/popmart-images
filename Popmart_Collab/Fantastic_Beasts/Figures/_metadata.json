@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 66,
+  "spu_id": 1468,
+  "spu_ext_id": 66,
+  "product_url": "https://www.popmart.com/us/pop-now/set/66",
+  "official_name": "Fantastic Beasts Series Figures",
+  "series_name": "Figures",
+  "folder": "Popmart_Collab/Fantastic_Beasts/Figures",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Fantastic Beasts",
+    "character_group": "Fantastic Beasts",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Fantastic Beasts"
+  },
+  "rows": [
+    {
+      "character_name": "Niffler",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Niffler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zouwu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zouwu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Demiguise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Demiguise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thunderbird",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thunderbird.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Erumpent",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Erumpent.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Occamy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Occamy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Newt Scamander",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Newt_Scamander.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:28.509Z"
+}

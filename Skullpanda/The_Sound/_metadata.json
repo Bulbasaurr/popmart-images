@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 37,
+  "spu_id": 1367,
+  "spu_ext_id": 37,
+  "product_url": "https://www.popmart.com/us/pop-now/set/37",
+  "official_name": "SKULLPANDA The Sound Series Figures",
+  "series_name": "The Sound",
+  "folder": "Skullpanda/The_Sound",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Vigilance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Vigilance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Pensiveness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pensiveness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Terror",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Terror.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Anger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Anger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Disgust",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Disgust.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ecstasy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ecstasy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Serenity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Serenity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Admiration",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Admiration.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Grief",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Grief.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Trust",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Trust.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Awe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Awe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Joy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Joy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Equilibrium",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Equilibrium.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:08.385Z"
+}

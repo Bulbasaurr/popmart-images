@@ -1,0 +1,130 @@
+{
+  "popnow_set_id": 92,
+  "spu_id": 1578,
+  "spu_ext_id": 92,
+  "product_url": "https://www.popmart.com/us/pop-now/set/92",
+  "official_name": "THE MONSTERS × Kow Yokoyama Ma.k. Series",
+  "series_name": "Series",
+  "folder": "The_Monsters/Kow_Yokoyama/Series",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "Kow Yokoyama"
+  },
+  "rows": [
+    {
+      "character_name": "S.A.F.S Prototype Bryophytes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_Prototype_Bryophytes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ausf.G Sun Rising",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AusfG_Sun_Rising.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ausf.G Horizon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AusfG_Horizon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "S.A.F.S Darksteel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_Darksteel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "S.A.F.S Snowman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_Snowman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A.F.S Mk.l Dusk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AFS_Mkl_Dusk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A.F.S Mk.l Amethyst",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "AFS_Mkl_Amethyst.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fliege Storm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fliege_Storm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fliege Flame",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fliege_Flame.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "S.A.F.S × LABUBU Sand Wave",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_×_LABUBU_Sand_Wave.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "S.A.F.S ×LABUBU Corrosion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_×LABUBU_Corrosion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "S.A.F.S Prototype Flamingo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SAFS_Prototype_Flamingo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Repair Man",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Repair_Man.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:08:50.239Z"
+}

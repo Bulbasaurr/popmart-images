@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 73,
+  "spu_id": 1519,
+  "spu_ext_id": 73,
+  "product_url": "https://www.popmart.com/us/pop-now/set/73",
+  "official_name": "Genshin Impact Dress-Up Dreams Themed Chibi Series Figures",
+  "series_name": "Dress Up Dreams Themed Chibi",
+  "folder": "Popmart_Collab/Genshin_Impact/Dress_Up_Dreams_Themed_Chibi",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Genshin Impact",
+    "character_group": "Genshin Impact",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Genshin Impact"
+  },
+  "rows": [
+    {
+      "character_name": "Albedo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Albedo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thoma",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thoma.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jean",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jean.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tartaglia",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tartaglia.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hu Tao",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hu_Tao.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Barbara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Barbara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ganyu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ganyu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Xiangling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Xiangling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Xingqiu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Xingqiu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gorou",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gorou.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yoimiya",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yoimiya.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Venti",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Venti.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Venti Special Edition",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Venti_Special_Edition.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:35.081Z"
+}

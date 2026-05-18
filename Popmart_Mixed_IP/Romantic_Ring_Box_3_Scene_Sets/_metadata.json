@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 58,
+  "spu_id": 1450,
+  "spu_ext_id": 58,
+  "product_url": "https://www.popmart.com/us/pop-now/set/58",
+  "official_name": "Romantic Ring Box Series 3 Scene Sets",
+  "series_name": "Romantic Ring Box 3 Scene Sets",
+  "folder": "Popmart_Mixed_IP/Romantic_Ring_Box_3_Scene_Sets",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "MOLLY Galactic Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Galactic_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Close To You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Close_To_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Another Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Another_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Mysterious Trajectory",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_Mysterious_Trajectory.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUCKY Blazing Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUCKY_Blazing_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Bean You Are My Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Bean_You_Are_My_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Sugary Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Sugary_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "KUBO When I Miss You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KUBO_When_I_Miss_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HACIPUPU Our Love Song",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HACIPUPU_Our_Love_Song.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHAKA Distance Between Us",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHAKA_Distance_Between_Us.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA In My Heart",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "SKULLPANDA_In_My_Heart.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:22.871Z"
+}

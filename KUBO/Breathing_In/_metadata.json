@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 54,
+  "spu_id": 1439,
+  "spu_ext_id": 54,
+  "product_url": "https://www.popmart.com/us/pop-now/set/54",
+  "official_name": "KUBO Breathing In Series Figures",
+  "series_name": "Breathing In",
+  "folder": "KUBO/Breathing_In",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "KUBO",
+    "character_group": "KUBO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "KUBO"
+  },
+  "rows": [
+    {
+      "character_name": "Laurel Whispers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Laurel_Whispers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sands of Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sands_of_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sea of Oblivion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sea_of_Oblivion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nightmare",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nightmare.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flipped",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flipped.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Endless Summer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Endless_Summer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Misty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Misty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tonight or Never",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tonight_or_Never.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Winter's Clarity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winters_Clarity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soft Embrace",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soft_Embrace.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Eternal Amber",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eternal_Amber.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Final Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Final_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Someone Like You",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Someone_Like_You.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:20.191Z"
+}

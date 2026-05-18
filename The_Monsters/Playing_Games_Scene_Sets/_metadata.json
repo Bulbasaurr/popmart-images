@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 84,
+  "spu_id": 1556,
+  "spu_ext_id": 84,
+  "product_url": "https://www.popmart.com/us/pop-now/set/84",
+  "official_name": "THE MONSTERS Playing Games Series Scene Sets",
+  "series_name": "Playing Games Scene Sets",
+  "folder": "The_Monsters/Playing_Games_Scene_Sets",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Here There Be Monsters",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Here_There_Be_Monsters.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Train Charges Forward",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Train_Charges_Forward.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Play",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Play.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Climbing Fun",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Climbing_Fun.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Knight Duel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Knight_Duel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fun Battle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fun_Battle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aerial Rotation",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Aerial_Rotation.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:46.484Z"
+}

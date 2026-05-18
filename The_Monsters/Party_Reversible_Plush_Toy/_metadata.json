@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 59,
+  "spu_id": 1461,
+  "spu_ext_id": 59,
+  "product_url": "https://www.popmart.com/us/pop-now/set/59",
+  "official_name": "THE MONSTERS Party Series-Reversible Plush Toy Blind Box",
+  "series_name": "Party Reversible Plush Toy",
+  "folder": "The_Monsters/Party_Reversible_Plush_Toy",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "LABUBU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "YAYA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "YAYA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TYCOCO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TYCOCO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIPPO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIPPO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SPOOKY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SPOOKY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PATO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PATO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Originals",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "LABUBU_Originals.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:24.554Z"
+}

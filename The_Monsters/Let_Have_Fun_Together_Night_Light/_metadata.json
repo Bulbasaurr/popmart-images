@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 74,
+  "spu_id": 1521,
+  "spu_ext_id": 74,
+  "product_url": "https://www.popmart.com/us/pop-now/set/74",
+  "official_name": "THE MONSTERS Let's Have Fun Together Series-Night Light Blind Box",
+  "series_name": "Let Have Fun Together Night Light",
+  "folder": "The_Monsters/Let_Have_Fun_Together_Night_Light",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Good Health",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Health.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happiness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happiness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peace",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peace.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prosperity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Prosperity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Luck",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Luck.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Satisfaction",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Satisfaction.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "All the Best",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "All_the_Best.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:06:35.865Z"
+}

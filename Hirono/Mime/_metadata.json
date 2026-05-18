@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 7,
+  "spu_id": 1246,
+  "spu_ext_id": 7,
+  "product_url": "https://www.popmart.com/us/pop-now/set/7",
+  "official_name": "HIRONO Mime Series Figures",
+  "series_name": "Mime",
+  "folder": "Hirono/Mime",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Guardian",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Guardian.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seeker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seeker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Devilry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Devilry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drifter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drifter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unspoken",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unspoken.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Patience",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Patience.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prison",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Prison.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Destroy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Destroy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poem",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poem.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Secrecy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Secrecy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silent",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Silent.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:57.864Z"
+}

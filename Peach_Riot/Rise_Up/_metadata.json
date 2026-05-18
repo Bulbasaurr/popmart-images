@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 6,
+  "spu_id": 1245,
+  "spu_ext_id": 6,
+  "product_url": "https://www.popmart.com/us/pop-now/set/6",
+  "official_name": "Peach Riot Rise Up Series Figures",
+  "series_name": "Rise Up",
+  "folder": "Peach_Riot/Rise_Up",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Poppy Baddie on Bass",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Baddie_on_Bass.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Lil' Lead",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Lil_Lead.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Sick Beats",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Sick_Beats.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Business",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Business.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Brain Stormer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Brain_Stormer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie The Boss",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_The_Boss.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi Pop Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Pop_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie Diva",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Diva.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy Electric Funk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Electric_Funk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi The Singer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_The_Singer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie The Rhythm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_The_Rhythm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-The Gleeman",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Gigi_The_Gleeman.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:05:56.624Z"
+}

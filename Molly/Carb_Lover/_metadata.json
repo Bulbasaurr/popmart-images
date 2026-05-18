@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 102,
+  "spu_id": 1618,
+  "spu_ext_id": 102,
+  "product_url": "https://www.popmart.com/us/pop-now/set/102",
+  "official_name": "MOLLY Carb-Lover Series Figures",
+  "series_name": "Carb Lover",
+  "folder": "Molly/Carb_Lover",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Crocodile Bread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crocodile_Bread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pick-a-Boo Burger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pick_a_Boo_Burger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yammy bread shoes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yammy_bread_shoes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Croissant Balaclava",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Croissant_Balaclava.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let's Go Hot Dog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lets_Go_Hot_Dog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart to heart toast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_to_heart_toast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taiyaki Princess",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taiyaki_Princess.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Elegant waffle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Elegant_waffle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baker or gardener",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baker_or_gardener.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Afternoon tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Afternoon_tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soft punch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soft_punch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet ballet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_ballet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pretend Bear Bread",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pretend_Bear_Bread.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:07:05.437Z"
+}
