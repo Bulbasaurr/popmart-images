@@ -1,0 +1,145 @@
+{
+  "popnow_set_id": 264,
+  "spu_id": 2775,
+  "spu_ext_id": 264,
+  "product_url": "https://www.popmart.com/us/pop-now/set/264",
+  "official_name": "Hand in Hand Series-2 in 1 Cable Blind Box",
+  "series_name": "Hand in Hand 2 in 1 Cable",
+  "folder": "Popmart_Mixed_IP/Hand_in_Hand_2_in_1_Cable",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Navigating in Dew",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Navigating_in_Dew.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Falling for the Bloom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Falling_for_the_Bloom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seeing You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seeing_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Trying to Think",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trying_to_Think.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Paper Plane Dreams",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paper_Plane_Dreams.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Journey to Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Journey_to_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Join My List",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Join_My_List.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Embrace the Breeze",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Embrace_the_Breeze.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Elegant Waltz",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Elegant_Waltz.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Intervals of Silence",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Intervals_of_Silence.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Invisible Monologue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Invisible_Monologue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Piloting the Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Piloting_the_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Feeling in the Rain",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Feeling_in_the_Rain.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Tranquility Blossom",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Tranquility_Blossom.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Existing Notes",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Existing_Notes.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:03.409Z"
+}

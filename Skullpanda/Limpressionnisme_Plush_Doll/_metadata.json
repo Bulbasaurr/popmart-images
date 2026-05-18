@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 272,
+  "spu_id": 2790,
+  "spu_ext_id": 272,
+  "product_url": "https://www.popmart.com/us/pop-now/set/272",
+  "official_name": "θSKULLPANDA L'impressionnisme Series Plush Doll",
+  "series_name": "Limpressionnisme Plush Doll",
+  "folder": "Skullpanda/Limpressionnisme_Plush_Doll",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Teakwood",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teakwood.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pond",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pond.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lightning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lightning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Windflower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Windflower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dawn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dawn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dew",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dew.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Amber",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Amber.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "In the Garden",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "In_the_Garden.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:12.481Z"
+}

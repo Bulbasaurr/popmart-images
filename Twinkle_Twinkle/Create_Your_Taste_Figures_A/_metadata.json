@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 296,
+  "spu_id": 3025,
+  "spu_ext_id": 296,
+  "product_url": "https://www.popmart.com/us/pop-now/set/296",
+  "official_name": "Twinkle Twinkle Create Your Taste Series Figures - A",
+  "series_name": "Create Your Taste Figures A",
+  "folder": "Twinkle_Twinkle/Create_Your_Taste_Figures_A",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Garlic Butter Sauce",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Garlic_Butter_Sauce.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milk Biscuit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Milk_Biscuit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peanut Butter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peanut_Butter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mustard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mustard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Salmon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Salmon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chocolate Sauce",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chocolate_Sauce.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cookie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cookie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baguette",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baguette.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "White Bread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "White_Bread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Lemon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Milk",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Milk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Chili Sauce",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Chili_Sauce.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:35.648Z"
+}

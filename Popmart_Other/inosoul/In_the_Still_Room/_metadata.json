@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 276,
+  "spu_id": 2793,
+  "spu_ext_id": 276,
+  "product_url": "https://www.popmart.com/us/pop-now/set/276",
+  "official_name": "inosoul In the Still Room Series Figures",
+  "series_name": "In the Still Room",
+  "folder": "Popmart_Other/inosoul/In_the_Still_Room",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "inosoul",
+    "character_group": "inosoul",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "inosoul"
+  },
+  "rows": [
+    {
+      "character_name": "The Lonely Light",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Lonely_Light.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moon in the Mirror",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moon_in_the_Mirror.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Traveler",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Traveler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moving Castle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moving_Castle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Wax Seal Vow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Wax_Seal_Vow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ship of Memories",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ship_of_Memories.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ghost's Sanctuary",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ghosts_Sanctuary.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Unfinished Story",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Unfinished_Story.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rubies in the Cabinet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rubies_in_the_Cabinet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Forgotten Statue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Forgotten_Statue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Song of the Soul",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Song_of_the_Soul.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Portrait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Portrait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frozen Time",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Frozen_Time.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:15.470Z"
+}

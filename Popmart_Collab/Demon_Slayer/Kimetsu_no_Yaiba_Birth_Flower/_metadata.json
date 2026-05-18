@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 268,
+  "spu_id": 2784,
+  "spu_ext_id": 268,
+  "product_url": "https://www.popmart.com/us/pop-now/set/268",
+  "official_name": "Demon Slayer: Kimetsu no Yaiba Birth Flower Series Figures",
+  "series_name": "Kimetsu no Yaiba Birth Flower",
+  "folder": "Popmart_Collab/Demon_Slayer/Kimetsu_no_Yaiba_Birth_Flower",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Demon Slayer",
+    "character_group": "Demon Slayer",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Demon Slayer"
+  },
+  "rows": [
+    {
+      "character_name": "Himejima Gyomei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Himejima_Gyomei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shinazugawa Sanemi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinazugawa_Sanemi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tomioka Giyu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tomioka_Giyu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kanroji Mitsuri",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kanroji_Mitsuri.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kocho Shinobu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kocho_Shinobu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tokito Muichiro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tokito_Muichiro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Agatsuma Zenitsu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Agatsuma_Zenitsu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Iguro Obanai",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Iguro_Obanai.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Uzui Tengen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Uzui_Tengen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kamado Nezuko",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kamado_Nezuko.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kamado Tanjiro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kamado_Tanjiro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hashibira Inosuke",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hashibira_Inosuke.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rengoku Kyojuro",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Rengoku_Kyojuro.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:09.718Z"
+}

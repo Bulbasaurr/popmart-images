@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 273,
+  "spu_id": 2791,
+  "spu_ext_id": 273,
+  "product_url": "https://www.popmart.com/us/pop-now/set/273",
+  "official_name": "Care Bears Colorful Hugs Series Figures",
+  "series_name": "Colorful Hugs",
+  "folder": "Popmart_Collab/Care_Bears/Colorful_Hugs",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Care Bears",
+    "character_group": "Care Bears",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Care Bears"
+  },
+  "rows": [
+    {
+      "character_name": "Bedtime Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bedtime_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Luck Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Luck_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Always There Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Always_There_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Friend Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Friend_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Share Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Share_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Funshine Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Funshine_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grumpy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grumpy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wish_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheer Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheer_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Work of Heart Bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Work_of_Heart_Bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:13.410Z"
+}

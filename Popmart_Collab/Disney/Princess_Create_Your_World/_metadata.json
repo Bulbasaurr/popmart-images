@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 314,
+  "spu_id": 3332,
+  "spu_ext_id": 314,
+  "product_url": "https://www.popmart.com/us/pop-now/set/314",
+  "official_name": "Disney Princess Create Your World Series Figures",
+  "series_name": "Princess Create Your World",
+  "folder": "Popmart_Collab/Disney/Princess_Create_Your_World",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Aurora in the Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aurora_in_the_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jasmine's New World",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jasmines_New_World.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moana's Destination",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moanas_Destination.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snow White's Sweet Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snow_Whites_Sweet_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tiana Breaks the Curse",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tiana_Breaks_the_Curse.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pocahontas' Journey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pocahontas_Journey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dance with Rapunzel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dance_with_Rapunzel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ariel under the Sea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ariel_under_the_Sea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Belle's Tales of Friendship",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Belles_Tales_of_Friendship.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinderella's Midnight Magic",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinderellas_Midnight_Magic.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mulan Takes up Arms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mulan_Takes_up_Arms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Merida's Challenge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meridas_Challenge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Belle's Winter Date",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Belles_Winter_Date.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:15:00.644Z"
+}

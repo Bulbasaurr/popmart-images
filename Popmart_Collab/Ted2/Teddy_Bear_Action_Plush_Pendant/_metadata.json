@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 286,
+  "spu_id": 2981,
+  "spu_ext_id": 286,
+  "product_url": "https://www.popmart.com/us/pop-now/set/286",
+  "official_name": "Ted2 Teddy Bear Action Plush Pendant",
+  "series_name": "Teddy Bear Action Plush Pendant",
+  "folder": "Popmart_Collab/Ted2/Teddy_Bear_Action_Plush_Pendant",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Ted2",
+    "character_group": "Ted2",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Ted2"
+  },
+  "rows": [
+    {
+      "character_name": "Necktie Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Necktie_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bow Tie Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bow_Tie_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Raincoat Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Raincoat_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cowboy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cowboy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Party_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vest Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vest_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Suit Bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Suit_Bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:25.648Z"
+}

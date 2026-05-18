@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 270,
+  "spu_id": 2786,
+  "spu_ext_id": 270,
+  "product_url": "https://www.popmart.com/us/pop-now/set/270",
+  "official_name": "HACIPUPU Rolling Time Machine Series Figures",
+  "series_name": "Rolling Time Machine",
+  "folder": "Hacipupu/Rolling_Time_Machine",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Toot-Toot Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toot_Toot_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Piggy Traveller",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Piggy_Traveller.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Voyager",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Voyager.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wind-up Dog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wind_up_Dog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Big Bear, Little Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Big_Bear_Little_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fantasia Gashapon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fantasia_Gashapon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Carousel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Carousel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hey and See you!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hey_and_See_you.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wish_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny Snow Cone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_Snow_Cone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Whack-No-Mole",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whack_No_Mole.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Haci's 24-HOUR",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hacis_24_HOUR.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:10.855Z"
+}

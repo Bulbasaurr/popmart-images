@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 288,
+  "spu_id": 2995,
+  "spu_ext_id": 288,
+  "product_url": "https://www.popmart.com/us/pop-now/set/288",
+  "official_name": "THE MONSTERS Wacky Mart Series-Squishy Charm Blind Box",
+  "series_name": "Wacky Mart Squishy Charm",
+  "folder": "The_Monsters/Wacky_Mart_Squishy_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Corn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Corn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Onigiri",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Onigiri.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yakitori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yakitori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Milk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grilled Sausage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grilled_Sausage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chips",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chips.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Microwave Oven",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Microwave_Oven.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:31.246Z"
+}

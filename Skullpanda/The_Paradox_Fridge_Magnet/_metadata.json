@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 298,
+  "spu_id": 2947,
+  "spu_ext_id": 298,
+  "product_url": "https://www.popmart.com/us/pop-now/set/298",
+  "official_name": "SKULLPANDA The Paradox Series Fridge Magnet",
+  "series_name": "The Paradox Fridge Magnet",
+  "folder": "Skullpanda/The_Paradox_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Spin a Cocoon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spin_a_Cocoon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Internal Dialogue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Internal_Dialogue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Out of the Mud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Out_of_the_Mud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Bond",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Bond.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Key",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Key.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:36.980Z"
+}

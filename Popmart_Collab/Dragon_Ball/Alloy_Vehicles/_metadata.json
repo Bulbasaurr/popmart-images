@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 308,
+  "spu_id": 3302,
+  "spu_ext_id": 308,
+  "product_url": "https://www.popmart.com/us/pop-now/set/308",
+  "official_name": "DRAGON BALL-Alloy Vehicles Series Figures",
+  "series_name": "Alloy Vehicles",
+  "folder": "Popmart_Collab/Dragon_Ball/Alloy_Vehicles",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Dragon Ball",
+    "character_group": "Dragon Ball",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Dragon Ball"
+  },
+  "rows": [
+    {
+      "character_name": "Oolong-House Wagon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oolong_House_Wagon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Monster Carrot-Rabbit Car",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Monster_Carrot_Rabbit_Car.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "General Blue-X-wing Airplane",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "General_Blue_X_wing_Airplane.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pirate Cave-Small Submarine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pirate_Cave_Small_Submarine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yamcha-Airplane No.115",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yamcha_Airplane_No115.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bulma-Capsule No.9 Motorcycle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bulma_Capsule_No9_Motorcycle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pilaf Machine-Ostrich Ver.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pilaf_Machine_Ostrich_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:47.771Z"
+}

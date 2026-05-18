@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 304,
+  "spu_id": 3088,
+  "spu_ext_id": 304,
+  "product_url": "https://www.popmart.com/us/pop-now/set/304",
+  "official_name": "Star Wars Bobblehead Series Figures",
+  "series_name": "Bobblehead",
+  "folder": "Popmart_Collab/Star_Wars/Bobblehead",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Star Wars",
+    "character_group": "Star Wars",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Star Wars"
+  },
+  "rows": [
+    {
+      "character_name": "Jar Jar Binks",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jar_Jar_Binks.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Darth Maul",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Darth_Maul.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "B1 Battle Droid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "B1_Battle_Droid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clone Trooper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clone_Trooper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "C-3PO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "C_3PO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jango Fett",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jango_Fett.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Master Yoda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Master_Yoda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chewbacca",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chewbacca.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Padmé Amidala",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Padmé_Amidala.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Obi-Wan Kenobi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Obi_Wan_Kenobi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anakin Skywalker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anakin_Skywalker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Young Anakin Skywalker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Young_Anakin_Skywalker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Darth Vader",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Darth_Vader.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:42.688Z"
+}

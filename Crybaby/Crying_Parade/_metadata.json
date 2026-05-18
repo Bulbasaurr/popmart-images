@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 287,
+  "spu_id": 2992,
+  "spu_ext_id": 287,
+  "product_url": "https://www.popmart.com/us/pop-now/set/287",
+  "official_name": "CRYBABY Crying Parade Series",
+  "series_name": "Crying Parade",
+  "folder": "Crybaby/Crying_Parade",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Trumpet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Trumpet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yes! Can Can",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yes_Can_Can.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Girl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Girl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peace Please",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peace_Please.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Monkey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Monkey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Long Legged Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Long_Legged_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Drummer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Drummer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ugly Duckling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ugly_Duckling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Letter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Letter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fall",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fall.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Keep Go Go",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Keep_Go_Go.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Free Lion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Free_Lion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Saddest King",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Saddest_King.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:28.891Z"
+}

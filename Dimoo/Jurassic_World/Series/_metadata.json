@@ -1,0 +1,130 @@
+{
+  "popnow_set_id": 289,
+  "spu_id": 3051,
+  "spu_ext_id": 289,
+  "product_url": "https://www.popmart.com/us/pop-now/set/289",
+  "official_name": "DIMOO Jurassic World Series",
+  "series_name": "Series",
+  "folder": "Dimoo/Jurassic_World/Series",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Dimoo",
+    "external_ip": "Jurassic World"
+  },
+  "rows": [
+    {
+      "character_name": "Brachiosaurus Feeder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brachiosaurus_Feeder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pterosaur Paraglider",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pterosaur_Paraglider.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jurassic History",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jurassic_History.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jurassic Guide",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jurassic_Guide.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dinosaur Egg Researcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dinosaur_Egg_Researcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baby Dinosaur Knight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baby_Dinosaur_Knight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Park Sightseeing Bus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Park_Sightseeing_Bus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dinosaur Trainer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dinosaur_Trainer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spherical Tour Bus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spherical_Tour_Bus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Birth of a Baby Dinosaur",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Birth_of_a_Baby_Dinosaur.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug a Dinosaur",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_a_Dinosaur.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Growth Recorder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Growth_Recorder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ow Ow",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ow_Ow.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:34.088Z"
+}

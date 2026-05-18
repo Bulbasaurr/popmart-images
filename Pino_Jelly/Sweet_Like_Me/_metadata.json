@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 300,
+  "spu_id": 3086,
+  "spu_ext_id": 300,
+  "product_url": "https://www.popmart.com/us/pop-now/set/300",
+  "official_name": "PINO JELLY Sweet Like Me Series Figures",
+  "series_name": "Sweet Like Me",
+  "folder": "Pino_Jelly/Sweet_Like_Me",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pino Jelly",
+    "character_group": "Pino Jelly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pino Jelly"
+  },
+  "rows": [
+    {
+      "character_name": "Happy Gummy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Gummy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jelly Filled Gummy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jelly_Filled_Gummy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Popping Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Popping_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Breath Mint",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Breath_Mint.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sugar Cube",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sugar_Cube.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chewy Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chewy_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chocolate Egg",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chocolate_Egg.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sand Fudge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sand_Fudge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Smooth Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Smooth_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sleeping Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sleeping_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubble Gum",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubble_Gum.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lollipop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lollipop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Price of Sweets",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Price_of_Sweets.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Sugar Blend",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sugar_Blend.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:38.731Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 319,
+  "spu_id": 3442,
+  "spu_ext_id": 319,
+  "product_url": "https://www.popmart.com/us/pop-now/set/319",
+  "official_name": "One Piece - The Grand Line Series Vehicles",
+  "series_name": "Grand Line Vehicles",
+  "folder": "Popmart_Collab/One_Piece/Grand_Line_Vehicles",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "One Piece",
+    "character_group": "One Piece",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "One Piece"
+  },
+  "rows": [
+    {
+      "character_name": "Red Force",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Force.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Perfume Yuda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Perfume_Yuda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Oro Jackson",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oro_Jackson.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baratie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baratie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thousand Sunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thousand_Sunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Navy HQ 3",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Navy_HQ_3.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dragon's Ship",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dragons_Ship.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moby Dick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moby_Dick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Going Merry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Going_Merry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Queen Mama Chanter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Queen_Mama_Chanter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Polar Tang",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Polar_Tang.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spade Pirates Ship",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spade_Pirates_Ship.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mister Luffy Go",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Mister_Luffy_Go.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:15:13.412Z"
+}

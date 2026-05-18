@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 305,
+  "spu_id": 3089,
+  "spu_ext_id": 305,
+  "product_url": "https://www.popmart.com/us/pop-now/set/305",
+  "official_name": "CRYBABY SHINY SHINY SERIES-Card Holder Blind Box",
+  "series_name": "SHINY SHINY Card Holder",
+  "folder": "Crybaby/SHINY_SHINY_Card_Holder",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Shiny Sweetheart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Sweetheart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Dancer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Dancer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Singer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Singer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Dummy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Dummy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Cowboy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Cowboy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Model",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiny_Model.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiny Queen",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Shiny_Queen.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:43.231Z"
+}

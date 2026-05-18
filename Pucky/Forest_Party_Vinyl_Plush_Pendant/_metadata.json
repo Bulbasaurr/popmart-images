@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 231,
+  "spu_id": 2343,
+  "spu_ext_id": 231,
+  "product_url": "https://www.popmart.com/us/pop-now/set/231",
+  "official_name": "PUCKY Forest Party Series-Vinyl Plush Pendant Blind Box",
+  "series_name": "Forest Party Vinyl Plush Pendant",
+  "folder": "Pucky/Forest_Party_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "BIRDIE BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BIRDIE_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MUSHROOM BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MUSHROOM_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LEAF BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LEAF_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BUTTERFLY BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BUTTERFLY_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FLOWER BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FLOWER_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TREE BABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TREE_BABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "UNICORN BABY",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "UNICORN_BABY.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:00.956Z"
+}

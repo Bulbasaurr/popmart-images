@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 306,
+  "spu_id": 3118,
+  "spu_ext_id": 306,
+  "product_url": "https://www.popmart.com/us/pop-now/set/306",
+  "official_name": "Snoopy The Best Friends Series Figures",
+  "series_name": "Best Friends",
+  "folder": "Popmart_Collab/Peanuts/Best_Friends",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Peanuts",
+    "character_group": "Peanuts",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Peanuts"
+  },
+  "rows": [
+    {
+      "character_name": "Roller-skating",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Roller_skating.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sunbathing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunbathing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Coffee & Pancake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coffee_and_Pancake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Motorcycle Energy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Motorcycle_Energy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baseball Team",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baseball_Team.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bite the Bait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bite_the_Bait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Classical Piano",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Classical_Piano.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Comic Break",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Comic_Break.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jack-in-the-box",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jack_in_the_box.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flying Ace",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Flying_Ace.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:45.514Z"
+}

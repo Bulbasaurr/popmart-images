@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 277,
+  "spu_id": 2794,
+  "spu_ext_id": 277,
+  "product_url": "https://www.popmart.com/us/pop-now/set/277",
+  "official_name": "THE MONSTERS Wacky Mart Series-Tumbler Blind Box",
+  "series_name": "Wacky Mart Tumbler",
+  "folder": "The_Monsters/Wacky_Mart_Tumbler",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Blush Pink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blush_Pink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubble Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubble_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Green Pomelo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Green_Pomelo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Misty Purple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Misty_Purple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Honey Orange",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honey_Orange.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tomato Red",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tomato_Red.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caramel Brown",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Caramel_Brown.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:16.082Z"
+}

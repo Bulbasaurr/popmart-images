@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 280,
+  "spu_id": 2866,
+  "spu_ext_id": 280,
+  "product_url": "https://www.popmart.com/us/pop-now/set/280",
+  "official_name": "Minions Bedtime Stories by Bob and Tim Series Figures",
+  "series_name": "Bedtime Stories by Bob and Tim",
+  "folder": "Popmart_Collab/Minions/Bedtime_Stories_by_Bob_and_Tim",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Minions",
+    "character_group": "Minions",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Minions"
+  },
+  "rows": [
+    {
+      "character_name": "Medieval Songs",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Medieval_Songs.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Royal History",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Royal_History.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spooky Wives Tales",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spooky_Wives_Tales.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Santa's Workshop Manual",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Santas_Workshop_Manual.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Arctic Survival Guide",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Arctic_Survival_Guide.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Martial Art Legend",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Martial_Art_Legend.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hula 101",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hula_101.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Breakfast Cookbook",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Breakfast_Cookbook.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Airplane Safety",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Airplane_Safety.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Disco Dance Steps",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Disco_Dance_Steps.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Boxing Fundamentals",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Boxing_Fundamentals.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Galaxy Adventures",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Galaxy_Adventures.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bedtime Stories",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Bedtime_Stories.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:17.822Z"
+}

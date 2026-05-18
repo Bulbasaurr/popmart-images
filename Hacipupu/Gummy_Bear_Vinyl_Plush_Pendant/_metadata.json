@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 279,
+  "spu_id": 2795,
+  "spu_ext_id": 279,
+  "product_url": "https://www.popmart.com/us/pop-now/set/279",
+  "official_name": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
+  "series_name": "Gummy Bear Vinyl Plush Pendant",
+  "folder": "Hacipupu/Gummy_Bear_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Peach Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peach_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Green Apple Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Green_Apple_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pineapple Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pineapple_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blueberry Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blueberry_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grape Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grape_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cherry Flavor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cherry_Flavor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Latte Flavor",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Latte_Flavor.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:16.655Z"
+}

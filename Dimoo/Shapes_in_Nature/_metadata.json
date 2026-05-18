@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 301,
+  "spu_id": 3029,
+  "spu_ext_id": 301,
+  "product_url": "https://www.popmart.com/us/pop-now/set/301",
+  "official_name": "DIMOO Shapes in Nature Series Figures",
+  "series_name": "Shapes in Nature",
+  "folder": "Dimoo/Shapes_in_Nature",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Touching",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Touching.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hearing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hearing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seeing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seeing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Weathered Rock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Weathered_Rock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Raindrop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Raindrop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Melting Ice",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Melting_Ice.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Parting Clouds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Parting_Clouds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Withering Flowers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Withering_Flowers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cloud Whisper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cloud_Whisper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fallen Leaves",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fallen_Leaves.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rising Wind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rising_Wind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Newborn Soul",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Newborn_Soul.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Upward Growth",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Upward_Growth.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:38.733Z"
+}

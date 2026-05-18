@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 313,
+  "spu_id": 3329,
+  "spu_ext_id": 313,
+  "product_url": "https://www.popmart.com/us/pop-now/set/313",
+  "official_name": "KUBO City of Sunset Series Figures",
+  "series_name": "City of Sunset",
+  "folder": "KUBO/City_of_Sunset",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "KUBO",
+    "character_group": "KUBO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "KUBO"
+  },
+  "rows": [
+    {
+      "character_name": "Dreamscaper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dreamscaper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love That Heals",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_That_Heals.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "New Oasis",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "New_Oasis.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Absolute Obedience",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Absolute_Obedience.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drift Together",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drift_Together.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Eons Ago",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eons_Ago.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Weakening Signals",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Weakening_Signals.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Era Replica",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Era_Replica.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Corrosion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Corrosion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pulse Warning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pulse_Warning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Forgotten Promises",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Forgotten_Promises.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Apocalyptic Quest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Apocalyptic_Quest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vita",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Vita.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:57.528Z"
+}

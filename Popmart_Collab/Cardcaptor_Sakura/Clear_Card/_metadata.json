@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 283,
+  "spu_id": 2944,
+  "spu_ext_id": 283,
+  "product_url": "https://www.popmart.com/us/pop-now/set/283",
+  "official_name": "Cardcaptor Sakura: Clear Card Series Figures",
+  "series_name": "Clear Card",
+  "folder": "Popmart_Collab/Cardcaptor_Sakura/Clear_Card",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Cardcaptor Sakura",
+    "character_group": "Cardcaptor Sakura",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Cardcaptor Sakura"
+  },
+  "rows": [
+    {
+      "character_name": "Sakura - Afternoon Tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Afternoon_Tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tomoyo - Afternoon Tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tomoyo_Afternoon_Tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - School Uniform",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_School_Uniform.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Syaoran - School Uniform",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Syaoran_School_Uniform.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Clear Crystal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Clear_Crystal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Clow Card",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Clow_Card.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Frog Raincoat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Frog_Raincoat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Crown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Crown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura - Clear Crystal Special Ver.",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sakura_Clear_Crystal_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:22.323Z"
+}

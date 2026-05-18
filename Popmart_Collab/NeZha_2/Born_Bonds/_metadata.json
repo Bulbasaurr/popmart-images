@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 316,
+  "spu_id": 3454,
+  "spu_ext_id": 316,
+  "product_url": "https://www.popmart.com/us/pop-now/set/316",
+  "official_name": "NeZha 2 Born Bonds Series Figures",
+  "series_name": "Born Bonds",
+  "folder": "Popmart_Collab/NeZha_2/Born_Bonds",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "NeZha 2",
+    "character_group": "NeZha 2",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "NeZha 2"
+  },
+  "rows": [
+    {
+      "character_name": "Naughty Nezha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Naughty_Nezha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lotus Root Starch Ao Bing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lotus_Root_Starch_Ao_Bing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lotus Root Starch Nezha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lotus_Root_Starch_Nezha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hand in Hand Nezha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hand_in_Hand_Nezha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Battle-ready Nezha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Battle_ready_Nezha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hand in Hand Ao Bing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hand_in_Hand_Ao_Bing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Battle-ready Ao Bing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Battle_ready_Ao_Bing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cuddly Ao Bing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cuddly_Ao_Bing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nezha's Ao Bing Edition",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Nezhas_Ao_Bing_Edition.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:15:04.882Z"
+}

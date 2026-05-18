@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 312,
+  "spu_id": 3328,
+  "spu_ext_id": 312,
+  "product_url": "https://www.popmart.com/us/pop-now/set/312",
+  "official_name": "DIMOO Crush on Coffee Series-Soft-faced Plush Keychain Blind Box",
+  "series_name": "Crush on Coffee Soft faced Plush Keychain",
+  "folder": "Dimoo/Crush_on_Coffee_Soft_faced_Plush_Keychain",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Cold Brew Black Tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cold_Brew_Black_Tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grapefruit Americano",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grapefruit_Americano.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caramel Coffee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caramel_Coffee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aromatic Mocha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aromatic_Mocha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Coconut Latte",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coconut_Latte.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sea Salt Cream Milk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sea_Salt_Cream_Milk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heartfelt Espresso",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Heartfelt_Espresso.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:54.426Z"
+}

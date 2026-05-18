@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 303,
+  "spu_id": 3087,
+  "spu_ext_id": 303,
+  "product_url": "https://www.popmart.com/us/pop-now/set/303",
+  "official_name": "Nyota I Am the Seasons Series Figures",
+  "series_name": "I Am the Seasons",
+  "folder": "Nyota/I_Am_the_Seasons",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Nyota",
+    "character_group": "Nyota",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Nyota"
+  },
+  "rows": [
+    {
+      "character_name": "Autumn Glow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Autumn_Glow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowfall Bliss",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowfall_Bliss.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cloudwatcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cloudwatcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Forest Tapestry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Forest_Tapestry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hidden in Autumn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hidden_in_Autumn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Life of Leisure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Life_of_Leisure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blue Skies Ahead",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blue_Skies_Ahead.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Summer Murmurs",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Summer_Murmurs.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sunseeker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunseeker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Wisteria",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Wisteria.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bamboo After Rain",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bamboo_After_Rain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Genesis",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Genesis.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Walking into Spring",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Walking_into_Spring.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:41.683Z"
+}

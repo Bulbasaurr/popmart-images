@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 281,
+  "spu_id": 2867,
+  "spu_ext_id": 281,
+  "product_url": "https://www.popmart.com/us/pop-now/set/281",
+  "official_name": "Zsiga Take It Slow Series Figures",
+  "series_name": "Take It Slow",
+  "folder": "Zsiga/Take_It_Slow",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Zsiga"
+  },
+  "rows": [
+    {
+      "character_name": "Line Up!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Line_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Scarecrow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Scarecrow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Protecting the Water",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Protecting_the_Water.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Afternoon at the Ranch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Afternoon_at_the_Ranch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lying in the Clouds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lying_in_the_Clouds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Camping Night",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Camping_Night.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wind's Kiss",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winds_Kiss.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Building Sandcastles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Building_Sandcastles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Playful Sprites",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Playful_Sprites.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Walking in the Meadow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Walking_in_the_Meadow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drying Clothes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drying_Clothes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blowing Waves",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blowing_Waves.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sunflower",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sunflower.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:18.942Z"
+}

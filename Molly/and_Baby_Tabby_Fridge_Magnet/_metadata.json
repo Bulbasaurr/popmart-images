@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 266,
+  "spu_id": 2777,
+  "spu_ext_id": 266,
+  "product_url": "https://www.popmart.com/us/pop-now/set/266",
+  "official_name": "Baby Molly & Baby Tabby Series-Fridge Magnet Blind Box",
+  "series_name": "and Baby Tabby Fridge Magnet",
+  "folder": "Molly/and_Baby_Tabby_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Face The Storm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Face_The_Storm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sneak a Bite",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sneak_a_Bite.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Furry Brush",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Furry_Brush.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Paper Bag Obsession",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paper_Bag_Obsession.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milk Lover",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Milk_Lover.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Together to the Kindergarten",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Together_to_the_Kindergarten.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The New King",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_New_King.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:05.167Z"
+}

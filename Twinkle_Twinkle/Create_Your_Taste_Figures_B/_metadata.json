@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 297,
+  "spu_id": 3026,
+  "spu_ext_id": 297,
+  "product_url": "https://www.popmart.com/us/pop-now/set/297",
+  "official_name": "Twinkle Twinkle Create Your Taste Series Figures - B",
+  "series_name": "Create Your Taste Figures B",
+  "folder": "Twinkle_Twinkle/Create_Your_Taste_Figures_B",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Tomato Sauce",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tomato_Sauce.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry Milk Cookie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Milk_Cookie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hot Dog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hot_Dog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mayonnaise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mayonnaise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pretzel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pretzel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blueberry Bread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blueberry_Bread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blueberry Jam",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blueberry_Jam.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Squid Ink Sausage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Squid_Ink_Sausage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Black Pepper Sauce",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Black_Pepper_Sauce.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sugar Cookie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sugar_Cookie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Strawberry Milk",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Strawberry_Milk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Twinkle Candy",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Twinkle_Candy.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:36.556Z"
+}

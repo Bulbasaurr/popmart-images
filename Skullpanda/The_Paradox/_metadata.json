@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 284,
+  "spu_id": 2945,
+  "spu_ext_id": 284,
+  "product_url": "https://www.popmart.com/us/pop-now/set/284",
+  "official_name": "SKULLPANDA The Paradox Series Figures",
+  "series_name": "The Paradox",
+  "folder": "Skullpanda/The_Paradox",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Out of the Mud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Out_of_the_Mud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Jewel Cage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Jewel_Cage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spin a Cocoon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spin_a_Cocoon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Being a Butterfly",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Being_a_Butterfly.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Diving In",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Diving_In.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flying High",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flying_High.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Hold",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Hold.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Bond",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Bond.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The External Echoes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_External_Echoes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Internal Dialogue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Internal_Dialogue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Asymmetrical Balance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Asymmetrical_Balance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Cyclical Path",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Cyclical_Path.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Key",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Key.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:22.325Z"
+}

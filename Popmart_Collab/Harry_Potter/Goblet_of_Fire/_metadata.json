@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 302,
+  "spu_id": 3030,
+  "spu_ext_id": 302,
+  "product_url": "https://www.popmart.com/us/pop-now/set/302",
+  "official_name": "Harry Potter and the Goblet of Fire Series Figures",
+  "series_name": "Goblet of Fire",
+  "folder": "Popmart_Collab/Harry_Potter/Goblet_of_Fire",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Harry Potter",
+    "character_group": "Harry Potter",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Harry Potter"
+  },
+  "rows": [
+    {
+      "character_name": "Harry Potter's Magical Duel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Harry_Potters_Magical_Duel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ron at the Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ron_at_the_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Harry Potter at Triwizard Tournament",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Harry_Potter_at_Triwizard_Tournament.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hungarian Horntail",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hungarian_Horntail.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dumbledore",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dumbledore.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cedric",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cedric.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hermione at the Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hermione_at_the_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fleur",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fleur.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Voldemort",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Voldemort.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Harry Potter at the Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Harry_Potter_at_the_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Malfoy at the Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Malfoy_at_the_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Krum at the Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Krum_at_the_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Goblet of Fire",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Goblet_of_Fire.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:39.802Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 271,
+  "spu_id": 2788,
+  "spu_ext_id": 271,
+  "product_url": "https://www.popmart.com/us/pop-now/set/271",
+  "official_name": "HACIPUPU-Rolling Time Machine Series-Card Holder Blind Box",
+  "series_name": "Rolling Time Machine Card Holder",
+  "folder": "Hacipupu/Rolling_Time_Machine_Card_Holder",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Toot-Toot Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toot_Toot_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wish_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Big Bear, Little Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Big_Bear_Little_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny Snow Cone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_Snow_Cone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hey and See you!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hey_and_See_you.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Haci's 24-HOUR",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hacis_24_HOUR.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:11.478Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 310,
+  "spu_id": 3319,
+  "spu_ext_id": 310,
+  "product_url": "https://www.popmart.com/us/pop-now/set/310",
+  "official_name": "DIMOO Crush on Coffee Series-Earphone Case Blind Box",
+  "series_name": "Crush on Coffee Earphone Case",
+  "folder": "Dimoo/Crush_on_Coffee_Earphone_Case",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Salt Confession",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Salt_Confession.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Slightly Bitter Black Coffee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Slightly_Bitter_Black_Coffee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rose Love Letter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rose_Love_Letter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peppermint Heartbeat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peppermint_Heartbeat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Whispering of the Soft Clouds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whispering_of_the_Soft_Clouds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caramel Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caramel_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Share Together",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Share_Together.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:51.188Z"
+}

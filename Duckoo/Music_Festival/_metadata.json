@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 282,
+  "spu_id": 2868,
+  "spu_ext_id": 282,
+  "product_url": "https://www.popmart.com/us/pop-now/set/282",
+  "official_name": "DUCKOO Music Festival Series",
+  "series_name": "Music Festival",
+  "folder": "Duckoo/Music_Festival",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Duckoo",
+    "character_group": "Duckoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Duckoo"
+  },
+  "rows": [
+    {
+      "character_name": "BEERHOLIC",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BEERHOLIC.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HIPPY GIRL",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HIPPY_GIRL.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FLAG",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FLAG.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "EDM",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "EDM.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K-POP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_POP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "POP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "POP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ROCK",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ROCK.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CLASSIC",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CLASSIC.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HIPHOP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HIPHOP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DRUMMER",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "DRUMMER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:19.736Z"
+}

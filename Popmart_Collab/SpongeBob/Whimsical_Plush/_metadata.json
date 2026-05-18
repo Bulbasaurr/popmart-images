@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 263,
+  "spu_id": 2774,
+  "spu_ext_id": 263,
+  "product_url": "https://www.popmart.com/us/pop-now/set/263",
+  "official_name": "Bikini Bottom Buddies - Whimsical Plush",
+  "series_name": "Whimsical Plush",
+  "folder": "Popmart_Collab/SpongeBob/Whimsical_Plush",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "SpongeBob",
+    "character_group": "SpongeBob",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "SpongeBob"
+  },
+  "rows": [
+    {
+      "character_name": "Flat Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flat_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Working Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Working_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cool Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cool_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dazed Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dazed_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Limp Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Limp_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dopey Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dopey_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sardine",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sardine.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:02.243Z"
+}

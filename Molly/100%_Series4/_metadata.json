@@ -1,0 +1,145 @@
+{
+  "popnow_set_id": 307,
+  "spu_id": 3281,
+  "spu_ext_id": 307,
+  "product_url": "https://www.popmart.com/us/pop-now/set/307",
+  "official_name": "MEGA SPACE MOLLY 100% Series4",
+  "series_name": "100% Series4",
+  "folder": "Molly/100%_Series4",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Jon Burgerman",
+      "rarity": "Basic",
+      "chance": "?",
+      "image": "Jon_Burgerman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Smitten Love",
+      "rarity": "Regular",
+      "chance": "?",
+      "image": "Smitten_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Christmas2024",
+      "rarity": "Regular",
+      "chance": "?",
+      "image": "Christmas2024.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Optimus Prime",
+      "rarity": "Basic",
+      "chance": "?",
+      "image": "Optimus_Prime.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orange Juice",
+      "rarity": "Regular",
+      "chance": "?",
+      "image": "Orange_Juice.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Palmer House",
+      "rarity": "Basic",
+      "chance": "?",
+      "image": "Palmer_House.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DurianMan",
+      "rarity": "Basic",
+      "chance": "?",
+      "image": "DurianMan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Trevor Andrew",
+      "rarity": "Basic",
+      "chance": "?",
+      "image": "Trevor_Andrew.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Funshine Bear",
+      "rarity": "Regular",
+      "chance": "?",
+      "image": "Funshine_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bedtime Bear",
+      "rarity": "Special",
+      "chance": "?",
+      "image": "Bedtime_Bear.png",
+      "_popnow_weight": 10,
+      "_popnow_type": 7
+    },
+    {
+      "character_name": "Smitten Love-White",
+      "rarity": "Special",
+      "chance": "?",
+      "image": "Smitten_Love_White.png",
+      "_popnow_weight": 10,
+      "_popnow_type": 7
+    },
+    {
+      "character_name": "Christmas2024-Green",
+      "rarity": "Special",
+      "chance": "?",
+      "image": "Christmas2024_Green.png",
+      "_popnow_weight": 10,
+      "_popnow_type": 7
+    },
+    {
+      "character_name": "Purple Sweet Potato",
+      "rarity": "Special",
+      "chance": "?",
+      "image": "Purple_Sweet_Potato.png",
+      "_popnow_weight": 10,
+      "_popnow_type": 7
+    },
+    {
+      "character_name": "Angel",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Angel.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Celebration",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Celebration.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:14:47.150Z"
+}

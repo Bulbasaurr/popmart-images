@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 317,
+  "spu_id": 3330,
+  "spu_ext_id": 317,
+  "product_url": "https://www.popmart.com/us/pop-now/set/317",
+  "official_name": "Romantic Ring Box Series 4 Scene Sets",
+  "series_name": "Romantic Ring Box 4 Scene Sets",
+  "folder": "Popmart_Mixed_IP/Romantic_Ring_Box_4_Scene_Sets",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Sweet Bean Locked-in",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Bean_Locked_in.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Just for You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_Just_for_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twinkle Twinkle Wish Harvest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twinkle_Twinkle_Wish_Harvest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Melody of Moonlight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Melody_of_Moonlight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Course of Destiny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Course_of_Destiny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUCKY A Date in Wonderland",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUCKY_A_Date_in_Wonderland.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Fluffy Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Fluffy_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Swan Blessings",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Swan_Blessings.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HACIPUPU Tomorrow Together",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HACIPUPU_Tomorrow_Together.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU The Magic of Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_The_Magic_of_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHAKA Lethal Attraction",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHAKA_Lethal_Attraction.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga Home Sweet Harbor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga_Home_Sweet_Harbor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Space-Time Coordinates",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MOLLY_Space_Time_Coordinates.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:15:07.994Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 318,
+  "spu_id": 3565,
+  "spu_ext_id": 318,
+  "product_url": "https://www.popmart.com/us/pop-now/set/318",
+  "official_name": "HIRONO Little Mischief Series",
+  "series_name": "Little Mischief",
+  "folder": "Hirono/Little_Mischief",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Float",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Float.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Boiling Frog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Boiling_Frog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Destroyer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Destroyer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ragpicker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ragpicker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Robot",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Robot.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Persona",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Persona.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Protector",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Protector.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Manacle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Manacle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pretender",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pretender.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Birdman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Birdman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Aviator",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Aviator.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Loose Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Loose_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unknown Journey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unknown_Journey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:15:11.035Z"
+}
