@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 374,
+  "spu_id": 4222,
+  "spu_ext_id": 374,
+  "product_url": "https://www.popmart.com/us/pop-now/set/374",
+  "official_name": "Celebrating the Moment Series-Cable Pendant Blind Box",
+  "series_name": "Celebrating the Moment Cable Pendant",
+  "folder": "Popmart_Mixed_IP/Celebrating_the_Moment_Cable_Pendant",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Countdown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Countdown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sparks in Bloom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sparks_in_Bloom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Call for Celebration",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Call_for_Celebration.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light Up this Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Light_Up_this_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Circles of Joy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Circles_of_Joy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Sweetie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Party_Sweetie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:56.974Z"
+}

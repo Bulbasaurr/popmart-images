@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 370,
+  "spu_id": 3950,
+  "spu_ext_id": 370,
+  "product_url": "https://www.popmart.com/us/pop-now/set/370",
+  "official_name": "Hirono Monsters' Carnival Series Figures",
+  "series_name": "Monsters Carnival",
+  "folder": "Hirono/Monsters_Carnival",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Grim Reaper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grim_Reaper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zombie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zombie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Doctor Beak",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doctor_Beak.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Creepy Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Creepy_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vampire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vampire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Killer Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Killer_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Disembodied",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Disembodied.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:46.218Z"
+}

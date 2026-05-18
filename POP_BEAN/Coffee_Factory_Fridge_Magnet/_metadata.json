@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 347,
+  "spu_id": 3781,
+  "spu_ext_id": 347,
+  "product_url": "https://www.popmart.com/us/pop-now/set/347",
+  "official_name": "POP BEAN Coffee Factory Series-Fridge Magnet",
+  "series_name": "Coffee Factory Fridge Magnet",
+  "folder": "POP_BEAN/Coffee_Factory_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "POP BEAN",
+    "character_group": "POP BEAN",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "POP BEAN"
+  },
+  "rows": [
+    {
+      "character_name": "CRYBABY Golden Sugar Seasoning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY_Golden_Sugar_Seasoning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Freshly Hand Ground",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Freshly_Hand_Ground.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Milk Coffee Lover",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Milk_Coffee_Lover.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Coffee Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Coffee_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga Special Blend",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga_Special_Blend.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHAKA Double-shot Espresso",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHAKA_Double_shot_Espresso.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Stir with Sugar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Stir_with_Sugar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU White Sugar Seasoning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_White_Sugar_Seasoning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Coffee Family Combo",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Coffee_Family_Combo.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:08.235Z"
+}

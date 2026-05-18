@@ -1,0 +1,73 @@
+{
+  "popnow_set_id": 364,
+  "spu_id": 3909,
+  "spu_ext_id": 364,
+  "product_url": "https://www.popmart.com/us/pop-now/set/364",
+  "official_name": "WHY SO SERIOUS Series - Magnetic Sealing Clip Storage Box Set",
+  "series_name": "WHY SO SERIOUS Magnetic Sealing Clip Storage Box Set",
+  "folder": "Popmart_Mixed_IP/WHY_SO_SERIOUS_Magnetic_Sealing_Clip_Storage_Box_Set",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Silver Mist Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silver_Mist_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flame Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flame_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Juggling Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Juggling_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "String Puppet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "String_Puppet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Acrobatic Sprite",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Acrobatic_Sprite.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow Jelly Bean",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Rainbow_Jelly_Bean.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:38.075Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 365,
+  "spu_id": 4076,
+  "spu_ext_id": 365,
+  "product_url": "https://www.popmart.com/us/pop-now/set/365",
+  "official_name": "League of Legends Classic Characters Series Figures",
+  "series_name": "Classic Characters",
+  "folder": "Popmart_Collab/League_of_Legends/Classic_Characters",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "League of Legends",
+    "character_group": "League of Legends",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "League of Legends"
+  },
+  "rows": [
+    {
+      "character_name": "Miss Fortune",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Miss_Fortune.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ezreal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ezreal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lee Sin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lee_Sin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yasuo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yasuo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jinx",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jinx.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ashe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ashe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lulu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lulu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seraphine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seraphine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ahri",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ahri.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zoe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zoe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Teemo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teemo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yuumi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yuumi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ahri-Special Edition",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ahri_Special_Edition.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:40.949Z"
+}

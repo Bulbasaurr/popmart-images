@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 338,
+  "spu_id": 3689,
+  "spu_ext_id": 338,
+  "product_url": "https://www.popmart.com/us/pop-now/set/338",
+  "official_name": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+  "series_name": "You Found Me Plush Doll Pendant",
+  "folder": "Skullpanda/You_Found_Me_Plush_Doll_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Chomp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chomp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pranky Peanut",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pranky_Peanut.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Darkness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Darkness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ghostie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ghostie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ratty Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ratty_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sandman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sandman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moldy Muffin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moldy_Muffin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cerberus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cerberus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sneaky Chestnut",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sneaky_Chestnut.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buddy Doggie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Buddy_Doggie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:55.454Z"
+}

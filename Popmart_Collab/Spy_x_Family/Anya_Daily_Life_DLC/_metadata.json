@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 362,
+  "spu_id": 3843,
+  "spu_ext_id": 362,
+  "product_url": "https://www.popmart.com/us/pop-now/set/362",
+  "official_name": "SPY × FAMILY Anya's Daily Life DLC Series Figures",
+  "series_name": "Anya Daily Life DLC",
+  "folder": "Popmart_Collab/Spy_x_Family/Anya_Daily_Life_DLC",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Spy x Family",
+    "character_group": "Spy x Family",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Spy x Family"
+  },
+  "rows": [
+    {
+      "character_name": "Damian Proud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Damian_Proud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Becky Happy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Becky_Happy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Rainy Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anya_Rainy_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Little Sailor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anya_Little_Sailor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya WakuWaku",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Anya_WakuWaku.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:34.108Z"
+}

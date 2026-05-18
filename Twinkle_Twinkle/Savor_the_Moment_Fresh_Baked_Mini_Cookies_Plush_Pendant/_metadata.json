@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 360,
+  "spu_id": 3816,
+  "spu_ext_id": 360,
+  "product_url": "https://www.popmart.com/us/pop-now/set/360",
+  "official_name": "Twinkle Twinkle Savor the Moment Series-Fresh-Baked Mini Cookies Plush Pendant Blind Box",
+  "series_name": "Savor the Moment Fresh Baked Mini Cookies Plush Pendant",
+  "folder": "Twinkle_Twinkle/Savor_the_Moment_Fresh_Baked_Mini_Cookies_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Coconut Crisp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coconut_Crisp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Salty Cookie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Salty_Cookie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vanilla Crunch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vanilla_Crunch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Cream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Cream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Matcha Crisp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Matcha_Crisp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bitter Coffee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bitter_Coffee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Bear Biscuit",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Little_Bear_Biscuit.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:31.339Z"
+}

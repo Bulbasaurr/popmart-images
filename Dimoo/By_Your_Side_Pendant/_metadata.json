@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 369,
+  "spu_id": 4114,
+  "spu_ext_id": 369,
+  "product_url": "https://www.popmart.com/us/pop-now/set/369",
+  "official_name": "DIMOO By Your Side Series-Pendant Blind Box",
+  "series_name": "By Your Side Pendant",
+  "folder": "Dimoo/By_Your_Side_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Meditation",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meditation.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candy for You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candy_for_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shielded",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shielded.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pleasure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pleasure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Embrace Emotions",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Embrace_Emotions.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Calm Down",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Calm_Down.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Imaginary Encounter",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Imaginary_Encounter.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:46.215Z"
+}

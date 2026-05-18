@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 349,
+  "spu_id": 3786,
+  "spu_ext_id": 349,
+  "product_url": "https://www.popmart.com/us/pop-now/set/349",
+  "official_name": "POP BEAN Coffee Factory Series-Decoration Charm",
+  "series_name": "Coffee Factory Decoration Charm",
+  "folder": "POP_BEAN/Coffee_Factory_Decoration_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "POP BEAN",
+    "character_group": "POP BEAN",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "POP BEAN"
+  },
+  "rows": [
+    {
+      "character_name": "LABUBU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHAKA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHAKA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CRYBABY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:12.515Z"
+}

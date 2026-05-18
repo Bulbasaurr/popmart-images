@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 333,
+  "spu_id": 3614,
+  "spu_ext_id": 333,
+  "product_url": "https://www.popmart.com/us/pop-now/set/333",
+  "official_name": "Baby Molly Fruity Aroma Series- Phone Charm Blind Box",
+  "series_name": "Fruity Aroma Phone Charm",
+  "folder": "Molly/Fruity_Aroma_Phone_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Melon Mega-Munch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Melon_Mega_Munch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry Cutie Pie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Cutie_Pie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pear Shake-n-Joy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pear_Shake_n_Joy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon Bubble Fizz",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lemon_Bubble_Fizz.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peach Hide-and-Seek",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peach_Hide_and_Seek.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Apple Guard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Apple_Guard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Best Banana Friend",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Best_Banana_Friend.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:42.602Z"
+}

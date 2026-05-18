@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 353,
+  "spu_id": 3803,
+  "spu_ext_id": 353,
+  "product_url": "https://www.popmart.com/us/pop-now/set/353",
+  "official_name": "Haikyu!! The Dumpster Battle Series Figures",
+  "series_name": "Dumpster Battle",
+  "folder": "Popmart_Collab/Haikyu/Dumpster_Battle",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Haikyu",
+    "character_group": "Haikyu",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Haikyu"
+  },
+  "rows": [
+    {
+      "character_name": "Kozume Kenma",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kozume_Kenma.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuroo Tetsuro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuroo_Tetsuro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nishinoya Yu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nishinoya_Yu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tsukishima Kei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tsukishima_Kei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hinata Shoyo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hinata_Shoyo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kageyama Tobio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kageyama_Tobio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Secret",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Secret.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:18.377Z"
+}

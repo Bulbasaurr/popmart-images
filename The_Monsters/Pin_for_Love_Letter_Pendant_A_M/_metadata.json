@@ -1,0 +1,145 @@
+{
+  "popnow_set_id": 327,
+  "spu_id": 3508,
+  "spu_ext_id": 327,
+  "product_url": "https://www.popmart.com/us/pop-now/set/327",
+  "official_name": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (A-M)",
+  "series_name": "Pin for Love Letter Pendant A M",
+  "folder": "The_Monsters/Pin_for_Love_Letter_Pendant_A_M",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "I",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "M",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "M.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "L",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "L.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "B",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "B.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "J",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "J.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "C",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "C.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "H",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "H.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "D",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "D.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "G",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "G.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "E",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "E.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "?",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": ".png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "F",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "F.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Heart.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:29.607Z"
+}

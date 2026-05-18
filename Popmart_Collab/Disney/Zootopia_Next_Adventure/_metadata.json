@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 345,
+  "spu_id": 3692,
+  "spu_ext_id": 345,
+  "product_url": "https://www.popmart.com/us/pop-now/set/345",
+  "official_name": "Disney Zootopia: Next Adventure Series Figures",
+  "series_name": "Zootopia Next Adventure",
+  "folder": "Popmart_Collab/Disney/Zootopia_Next_Adventure",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Bling Bling Judy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bling_Bling_Judy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Judy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Judy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gazelle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gazelle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gary",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gary.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fru Fru",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fru_Fru.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nibbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nibbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Officer Clawhauser",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Officer_Clawhauser.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flash",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flash.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Russ",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Russ.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Paw Flower Nick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paw_Flower_Nick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pawbert",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pawbert.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Finnick",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Finnick.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:04.396Z"
+}

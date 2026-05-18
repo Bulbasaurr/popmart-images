@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 363,
+  "spu_id": 3908,
+  "spu_ext_id": 363,
+  "product_url": "https://www.popmart.com/us/pop-now/set/363",
+  "official_name": "The Grand DUCKOO Hotel Series Figures",
+  "series_name": "Hotel",
+  "folder": "Duckoo/Hotel",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Duckoo",
+    "character_group": "Duckoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Duckoo"
+  },
+  "rows": [
+    {
+      "character_name": "RICH WOMAN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RICH_WOMAN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FOUNDER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FOUNDER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DOORMAN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DOORMAN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MAID",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MAID.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "RICH MAN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RICH_MAN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DO NOT DISTURB",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DO_NOT_DISTURB.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SUNBED",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SUNBED.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BELLBOY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BELLBOY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LOBBY BOY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LOBBY_BOY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TRAVELER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TRAVELER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SUITCASE KID",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SUITCASE_KID.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CONCIERGE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CONCIERGE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FOUNTAIN",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "FOUNTAIN.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:36.688Z"
+}

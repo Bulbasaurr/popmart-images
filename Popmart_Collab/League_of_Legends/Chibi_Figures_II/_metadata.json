@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 355,
+  "spu_id": 3805,
+  "spu_ext_id": 355,
+  "product_url": "https://www.popmart.com/us/pop-now/set/355",
+  "official_name": "Fight For the Golden Spatula Chibi Series Figures II",
+  "series_name": "Chibi Figures II",
+  "folder": "Popmart_Collab/League_of_Legends/Chibi_Figures_II",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "League of Legends",
+    "character_group": "League of Legends",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "League of Legends"
+  },
+  "rows": [
+    {
+      "character_name": "Chibi Heavenscale Leona",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Heavenscale_Leona.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Heavenscale Ezreal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Heavenscale_Ezreal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Spirit Blossom Aphelios",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Spirit_Blossom_Aphelios.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Perfume Gem Jinx",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Perfume_Gem_Jinx.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Perfume Gem Yuumi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Perfume_Gem_Yuumi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Arcade Caitlyn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Arcade_Caitlyn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Arcade Sona",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Arcade_Sona.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Heavenscale Miss Fortune",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Heavenscale_Miss_Fortune.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Sweetheart Rakan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Sweetheart_Rakan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Spirit Blossom Sett",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Spirit_Blossom_Sett.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Sweetheart Xayah",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Sweetheart_Xayah.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Soul Fighter Lux",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Soul_Fighter_Lux.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prestige Chibi Heavenscale Shyvana",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Prestige_Chibi_Heavenscale_Shyvana.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:24.326Z"
+}

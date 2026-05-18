@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 372,
+  "spu_id": 4117,
+  "spu_ext_id": 372,
+  "product_url": "https://www.popmart.com/us/pop-now/set/372",
+  "official_name": "The Powerpuff Girls Party Surprise Series Figures",
+  "series_name": "Party Surprise",
+  "folder": "Popmart_Collab/Powerpuff_Girls/Party_Surprise",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Powerpuff Girls",
+    "character_group": "Powerpuff Girls",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Powerpuff Girls"
+  },
+  "rows": [
+    {
+      "character_name": "Coconut Grove Buttercup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coconut_Grove_Buttercup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Beach Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Beach_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Diving Bubbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Diving_Bubbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Reindeer Buttercup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Reindeer_Buttercup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gift Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gift_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Elf Bubbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Elf_Bubbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Surprise Buttercup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Surprise_Buttercup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Surprise Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Surprise_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Surprise Bubbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Surprise_Bubbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Princess Morbucks",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Princess_Morbucks.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:51.859Z"
+}

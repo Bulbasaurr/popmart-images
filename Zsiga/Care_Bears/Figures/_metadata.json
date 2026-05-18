@@ -1,0 +1,130 @@
+{
+  "popnow_set_id": 354,
+  "spu_id": 3804,
+  "spu_ext_id": 354,
+  "product_url": "https://www.popmart.com/us/pop-now/set/354",
+  "official_name": "Zsiga × Care Bears Series Figures",
+  "series_name": "Figures",
+  "folder": "Zsiga/Care_Bears/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Zsiga",
+    "external_ip": "Care Bears"
+  },
+  "rows": [
+    {
+      "character_name": "True Heart Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "True_Heart_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Bright Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_Bright_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bedtime Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bedtime_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Funshine Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Funshine_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Always There Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Always_There_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tenderheart Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tenderheart_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Luck Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Luck_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheer Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheer_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grumpy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grumpy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Work of Heart Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Work_of_Heart_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love-a-Lot Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_a_Lot_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Share Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Share_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga and Grumpy Bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Zsiga_and_Grumpy_Bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:21.215Z"
+}

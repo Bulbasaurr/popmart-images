@@ -1,0 +1,49 @@
+{
+  "popnow_set_id": 366,
+  "spu_id": 3806,
+  "spu_ext_id": 366,
+  "product_url": "https://www.popmart.com/us/pop-now/set/366",
+  "official_name": "MEGA SPACE MOLLY 400% WE BARE BEARS",
+  "series_name": "400% WE BARE BEARS",
+  "folder": "Molly/400%_WE_BARE_BEARS",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "PANDA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PANDA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GRIZZ",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GRIZZ.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ICE BEAR",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ICE_BEAR.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:41.745Z"
+}

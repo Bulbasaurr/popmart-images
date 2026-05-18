@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 331,
+  "spu_id": 3612,
+  "spu_ext_id": 331,
+  "product_url": "https://www.popmart.com/us/pop-now/set/331",
+  "official_name": "Baby Molly Fruity Aroma Series- Sachet Pendant Blind Box",
+  "series_name": "Fruity Aroma Sachet Pendant",
+  "folder": "Molly/Fruity_Aroma_Sachet_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Berry Mist Sweet Verse",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Berry_Mist_Sweet_Verse.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon Summer Overture",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lemon_Summer_Overture.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Red Apple Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Apple_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Icy Watermelon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Icy_Watermelon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Crisp Peach",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Crisp_Peach.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snow Pear Whispers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snow_Pear_Whispers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vital Banana",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Vital_Banana.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:39.305Z"
+}

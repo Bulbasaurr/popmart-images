@@ -1,0 +1,169 @@
+{
+  "popnow_set_id": 334,
+  "spu_id": 3777,
+  "spu_ext_id": 334,
+  "product_url": "https://www.popmart.com/us/pop-now/set/334",
+  "official_name": "Detective Conan-Super Mini Figure",
+  "series_name": "Super Mini",
+  "folder": "Popmart_Collab/Detective_Conan/Super_Mini",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Detective Conan",
+    "character_group": "Detective Conan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Detective Conan"
+  },
+  "rows": [
+    {
+      "character_name": "Saguru Hakuba",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Saguru_Hakuba.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei Furuya",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rei_Furuya.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kid the Phantom Thief",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kid_the_Phantom_Thief.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rye",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rye.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heiji Hattori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heiji_Hattori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ai Haibara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ai_Haibara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hiromitsu Morofushi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hiromitsu_Morofushi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kenji Hagiwara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kenji_Hagiwara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wataru Date",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wataru_Date.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jinpei Matsuda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jinpei_Matsuda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Conan Edogawa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Conan_Edogawa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ran Mori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ran_Mori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kogoro Mori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kogoro_Mori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GIN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GIN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Culprit",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Culprit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Toru Amuro",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Toru_Amuro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Subaru Okiya",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Subaru_Okiya.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Shinichi Kudo",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Shinichi_Kudo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:46.776Z"
+}

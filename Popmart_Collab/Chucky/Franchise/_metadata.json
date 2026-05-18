@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 336,
+  "spu_id": 3615,
+  "spu_ext_id": 336,
+  "product_url": "https://www.popmart.com/us/pop-now/set/336",
+  "official_name": "Chucky Franchise Series Figures",
+  "series_name": "Franchise",
+  "folder": "Popmart_Collab/Chucky/Franchise",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Chucky",
+    "character_group": "Chucky",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Chucky"
+  },
+  "rows": [
+    {
+      "character_name": "Chucky and Andy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chucky_and_Andy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flame Chucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flame_Chucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Graveyard Chucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Graveyard_Chucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stroller Chucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stroller_Chucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Show Time Chucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Show_Time_Chucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Guy Doll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Guy_Doll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bride Tiffany",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bride_Tiffany.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Delivery Box Chucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Delivery_Box_Chucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seed of Chucky Glen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seed_of_Chucky_Glen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Friends Call Me Chucky",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "My_Friends_Call_Me_Chucky.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:51.759Z"
+}

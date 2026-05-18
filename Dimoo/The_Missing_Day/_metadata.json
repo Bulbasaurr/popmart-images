@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 344,
+  "spu_id": 3691,
+  "spu_ext_id": 344,
+  "product_url": "https://www.popmart.com/us/pop-now/set/344",
+  "official_name": "DIMOO The Missing Day Series Figures",
+  "series_name": "The Missing Day",
+  "folder": "Dimoo/The_Missing_Day",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "A Story Only I Can Tell",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Story_Only_I_Can_Tell.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Melt Into Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Melt_Into_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dancing on Clouds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dancing_on_Clouds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Call Between Worlds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Call_Between_Worlds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Pillow Beats",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Pillow_Beats.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unlocking Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unlocking_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppy Sock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppy_Sock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blooming Button",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blooming_Button.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Air My Soul in the Sun",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Air_My_Soul_in_the_Sun.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Quacky Stroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Quacky_Stroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soul Trails",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soul_Trails.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soaking in a Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soaking_in_a_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Where Days Don't Count",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Where_Days_Dont_Count.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:01.476Z"
+}

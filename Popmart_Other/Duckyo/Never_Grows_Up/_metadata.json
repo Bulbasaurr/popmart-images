@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 325,
+  "spu_id": 3511,
+  "spu_ext_id": 325,
+  "product_url": "https://www.popmart.com/us/pop-now/set/325",
+  "official_name": "Duckyo Never Grows Up Series Figures",
+  "series_name": "Never Grows Up",
+  "folder": "Popmart_Other/Duckyo/Never_Grows_Up",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "Duckyo",
+    "character_group": "Duckyo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Duckyo"
+  },
+  "rows": [
+    {
+      "character_name": "Hoodie Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hoodie_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hair Horror",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hair_Horror.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Trophy Triumph",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trophy_Triumph.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Upside Down",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Upside_Down.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snuggle Struggle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snuggle_Struggle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A or Zzz",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_or_Zzz.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Got Talent",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Got_Talent.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lesson Learned",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lesson_Learned.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Singing in the Rain",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Singing_in_the_Rain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meal for the Strays",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meal_for_the_Strays.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heartbroken Piggy Bank",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heartbroken_Piggy_Bank.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Next in Fashion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Next_in_Fashion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wiggle Squiggle",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wiggle_Squiggle.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:23.308Z"
+}

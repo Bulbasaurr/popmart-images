@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 350,
+  "spu_id": 3787,
+  "spu_ext_id": 350,
+  "product_url": "https://www.popmart.com/us/pop-now/set/350",
+  "official_name": "Teletubbies \"Say Hello\" Series Figures",
+  "series_name": "Say Hello",
+  "folder": "Popmart_Collab/Teletubbies/Say_Hello",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Teletubbies",
+    "character_group": "Teletubbies",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Teletubbies"
+  },
+  "rows": [
+    {
+      "character_name": "Po's Happy Flower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pos_Happy_Flower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dipsy's Coconut Toast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dipsys_Coconut_Toast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Laa-Laa's Cheese Toast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Laa_Laas_Cheese_Toast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dipsy's Naughty Flower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dipsys_Naughty_Flower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tinky Winky's Mochi Toast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tinky_Winkys_Mochi_Toast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Laa-Laa's Energetic Flower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Laa_Laas_Energetic_Flower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tinky Winky's Chill Flower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tinky_Winkys_Chill_Flower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Po's Caramel Toast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pos_Caramel_Toast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Po's Lucky Flower",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pos_Lucky_Flower.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:14.472Z"
+}

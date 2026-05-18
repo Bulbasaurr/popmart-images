@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 352,
+  "spu_id": 3802,
+  "spu_ext_id": 352,
+  "product_url": "https://www.popmart.com/us/pop-now/set/352",
+  "official_name": "POP BEAN Coffee Factory Series-Plush Pendant",
+  "series_name": "Coffee Factory Plush Pendant",
+  "folder": "POP_BEAN/Coffee_Factory_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "POP BEAN",
+    "character_group": "POP BEAN",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "POP BEAN"
+  },
+  "rows": [
+    {
+      "character_name": "LABUBU Coffee Bean Grinder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_Coffee_Bean_Grinder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CRYBABY Dessert Chef",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY_Dessert_Chef.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Taster",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Taster.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Specialty Barista",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Specialty_Barista.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY One-day Shop Manager",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MOLLY_One_day_Shop_Manager.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:16.738Z"
+}

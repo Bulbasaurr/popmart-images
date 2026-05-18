@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 322,
+  "spu_id": 3443,
+  "spu_ext_id": 322,
+  "product_url": "https://www.popmart.com/us/pop-now/set/322",
+  "official_name": "Twinkle Twinkle Light Up Series Scene Sets",
+  "series_name": "Light Up Scene Sets",
+  "folder": "Twinkle_Twinkle/Light_Up_Scene_Sets",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "A Clouded Hour",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Clouded_Hour.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Illuminate the World",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Illuminate_the_World.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Set Sail",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Set_Sail.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Falling Stars' Riddle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Falling_Stars_Riddle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Collecting Sunsets",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Collecting_Sunsets.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Messenger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Messenger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Night",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Night.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Once More After 98 Defeats",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Once_More_After_98_Defeats.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Starry Wishing Well",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Starry_Wishing_Well.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A New Journey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "A_New_Journey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:16.866Z"
+}

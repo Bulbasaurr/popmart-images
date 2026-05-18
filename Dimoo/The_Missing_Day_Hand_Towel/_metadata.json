@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 346,
+  "spu_id": 3780,
+  "spu_ext_id": 346,
+  "product_url": "https://www.popmart.com/us/pop-now/set/346",
+  "official_name": "DIMOO The Missing Day Series-Hand Towel Blind Box",
+  "series_name": "The Missing Day Hand Towel",
+  "folder": "Dimoo/The_Missing_Day_Hand_Towel",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Soul Trails",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soul_Trails.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unlocking Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unlocking_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blooming Button",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blooming_Button.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Air My Soul in the Sun",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Air_My_Soul_in_the_Sun.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Melt into Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Melt_into_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppy Sock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppy_Sock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Pillow Beats",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "My_Pillow_Beats.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:06.062Z"
+}

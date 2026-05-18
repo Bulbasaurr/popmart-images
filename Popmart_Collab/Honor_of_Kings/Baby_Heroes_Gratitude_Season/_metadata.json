@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 324,
+  "spu_id": 3510,
+  "spu_ext_id": 324,
+  "product_url": "https://www.popmart.com/us/pop-now/set/324",
+  "official_name": "Honor of Kings Baby Heroes-Gratitude Season Series Figures",
+  "series_name": "Baby Heroes Gratitude Season",
+  "folder": "Popmart_Collab/Honor_of_Kings/Baby_Heroes_Gratitude_Season",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Honor of Kings",
+    "character_group": "Honor of Kings",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Honor of Kings"
+  },
+  "rows": [
+    {
+      "character_name": "Sun Shangxiang",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sun_Shangxiang.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cai Wenji",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cai_Wenji.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sun Bin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sun_Bin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yi Xing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yi_Xing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Li Yuanfang",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Li_Yuanfang.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ai Lin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ai_Lin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dolia",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dolia.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wang Zhaojun",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wang_Zhaojun.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Da Ji",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Da_Ji.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lu Ban No.7",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lu_Ban_No7.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yao",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yao.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gongsun Li",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gongsun_Li.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dolia",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dolia.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:20.280Z"
+}

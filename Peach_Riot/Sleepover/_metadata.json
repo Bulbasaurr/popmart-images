@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 326,
+  "spu_id": 3512,
+  "spu_ext_id": 326,
+  "product_url": "https://www.popmart.com/us/pop-now/set/326",
+  "official_name": "Lil Peach Riot Sleepover Series Figures",
+  "series_name": "Sleepover",
+  "folder": "Peach_Riot/Sleepover",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Gigi-Brush Teeth",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Brush_Teeth.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Yawn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Yawn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Night Tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Night_Tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Prank Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Prank_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Face Mask",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Face_Mask.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Pillow Fight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Pillow_Fight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Cloud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Cloud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Moon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Alarm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Alarm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Breakfast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Breakfast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Morning Coffee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Morning_Coffee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Dream",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Poppy_Dream.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:25.997Z"
+}

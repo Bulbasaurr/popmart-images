@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 348,
+  "spu_id": 3782,
+  "spu_ext_id": 348,
+  "product_url": "https://www.popmart.com/us/pop-now/set/348",
+  "official_name": "Sweet Bean Celebrate Ordinary Days Series Scene Sets",
+  "series_name": "Celebrate Ordinary Days Scene Sets",
+  "folder": "Sweet_Bean/Celebrate_Ordinary_Days_Scene_Sets",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Sweet Bean",
+    "character_group": "Sweet Bean",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Sweet Bean"
+  },
+  "rows": [
+    {
+      "character_name": "You Are My Only One",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "You_Are_My_Only_One.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Every Day Is Worth Celebrating",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Every_Day_Is_Worth_Celebrating.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Journey to the Cloud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Journey_to_the_Cloud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubble Bath Summer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubble_Bath_Summer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Date with Autumn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Date_with_Autumn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bravery Challenge of the Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bravery_Challenge_of_the_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "You Are My Sweet Bean",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "You_Are_My_Sweet_Bean.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Guard the Secret Base",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Guard_the_Secret_Base.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Destined to Meet You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Destined_to_Meet_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Dreams to You",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sweet_Dreams_to_You.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:10.482Z"
+}

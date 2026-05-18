@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 368,
+  "spu_id": 3936,
+  "spu_ext_id": 368,
+  "product_url": "https://www.popmart.com/us/pop-now/set/368",
+  "official_name": "WHY SO SERIOUS SERIES-Pendant Chain Blind Box",
+  "series_name": "WHY SO SERIOUS Pendant Chain",
+  "folder": "Popmart_Mixed_IP/WHY_SO_SERIOUS_Pendant_Chain",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Lumino Feast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lumino_Feast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "String Puppet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "String_Puppet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crimson Dancer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crimson_Dancer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow Jelly Bean",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_Jelly_Bean.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flame Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flame_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Juggling Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Juggling_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shadow Joker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shadow_Joker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silver Mist Clown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silver_Mist_Clown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moonlit Mask",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Moonlit_Mask.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Bubblegum",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Bubblegum.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:45.196Z"
+}

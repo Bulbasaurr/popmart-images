@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 335,
+  "spu_id": 3334,
+  "spu_ext_id": 335,
+  "product_url": "https://www.popmart.com/us/pop-now/set/335",
+  "official_name": "Disney Chip 'N' Dale Fun-loving Brothers Series Figures",
+  "series_name": "Chip N Dale Fun loving Brothers",
+  "folder": "Popmart_Collab/Disney/Chip_N_Dale_Fun_loving_Brothers",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Joyful Harvest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Joyful_Harvest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mushroom Table",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mushroom_Table.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Full of Apples",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Full_of_Apples.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Forest Performance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Forest_Performance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Squeeze Ketchup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Squeeze_Ketchup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Customization",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Customization.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Delicious Corn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Delicious_Corn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Teacup Hide-and-Seek",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teacup_Hide_and_Seek.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Donut Bite",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Donut_Bite.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Get up Early",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Get_up_Early.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glove Sofa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glove_Sofa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pineapple Pool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pineapple_Pool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Exchange Gifts",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Exchange_Gifts.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:49.767Z"
+}

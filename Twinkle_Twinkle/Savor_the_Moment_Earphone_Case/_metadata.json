@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 361,
+  "spu_id": 3933,
+  "spu_ext_id": 361,
+  "product_url": "https://www.popmart.com/us/pop-now/set/361",
+  "official_name": "Twinkle Twinkle Savor the Moment Series-Earphone Case Blind Box",
+  "series_name": "Savor the Moment Earphone Case",
+  "folder": "Twinkle_Twinkle/Savor_the_Moment_Earphone_Case",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Cream rabbit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cream_rabbit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry rabbit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_rabbit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sea salt bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sea_salt_bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lemon_bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Coffee puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coffee_puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taro puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taro_puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pudding bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pudding_bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:32.890Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 356,
+  "spu_id": 3814,
+  "spu_ext_id": 356,
+  "product_url": "https://www.popmart.com/us/pop-now/set/356",
+  "official_name": "Twinkle Twinkle Savor the Moment Series Figures",
+  "series_name": "Savor the Moment",
+  "folder": "Twinkle_Twinkle/Savor_the_Moment",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Macaron Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Macaron_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Palmier",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Palmier.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chestnut Cream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chestnut_Cream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lazy Moments",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lazy_Moments.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Coffee Milk Bath",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Coffee_Milk_Bath.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Pudding",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lucky_Pudding.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Eternity of Pizza",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Eternity_of_Pizza.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orange Marmalade",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Orange_Marmalade.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strong Bread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strong_Bread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cookie House",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cookie_House.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Earl Teapot",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Earl_Teapot.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Matcha Cream Snow",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Matcha_Cream_Snow.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:27.283Z"
+}

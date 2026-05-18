@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 320,
+  "spu_id": 3452,
+  "spu_ext_id": 320,
+  "product_url": "https://www.popmart.com/us/pop-now/set/320",
+  "official_name": "Twinkle Twinkle Sweet Dreams Forecast Series-Plush Pendant Blind Box",
+  "series_name": "Sweet Dreams Forecast Plush Pendant",
+  "folder": "Twinkle_Twinkle/Sweet_Dreams_Forecast_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Mess in Wind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mess_in_Wind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rain on Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rain_on_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug from Snowman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_from_Snowman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Afterglow Marshmallow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Afterglow_Marshmallow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Keep Shining",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Keep_Shining.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flash Warning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flash_Warning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Strike",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Lucky_Strike.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:09.830Z"
+}

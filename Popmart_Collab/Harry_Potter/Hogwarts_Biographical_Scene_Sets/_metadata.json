@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 337,
+  "spu_id": 3688,
+  "spu_ext_id": 337,
+  "product_url": "https://www.popmart.com/us/pop-now/set/337",
+  "official_name": "Harry Potter:Hogwarts Biographical Series Scene Sets",
+  "series_name": "Hogwarts Biographical Scene Sets",
+  "folder": "Popmart_Collab/Harry_Potter/Hogwarts_Biographical_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Harry Potter",
+    "character_group": "Harry Potter",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Harry Potter"
+  },
+  "rows": [
+    {
+      "character_name": "Albus Dumbledore",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Albus_Dumbledore.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hermione Granger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hermione_Granger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Luna Lovegood",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luna_Lovegood.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ronald Weasley",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ronald_Weasley.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Draco Malfoy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Draco_Malfoy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minerva McGonagall",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Minerva_McGonagall.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Harry Potter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Harry_Potter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ginny Weasley",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ginny_Weasley.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Severus Snape",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Severus_Snape.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sirius Black",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sirius_Black.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Harry Potter Special Edition",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Harry_Potter_Special_Edition.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:16:54.378Z"
+}

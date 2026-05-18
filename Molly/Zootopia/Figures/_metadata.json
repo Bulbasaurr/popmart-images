@@ -1,0 +1,130 @@
+{
+  "popnow_set_id": 371,
+  "spu_id": 3951,
+  "spu_ext_id": 371,
+  "product_url": "https://www.popmart.com/us/pop-now/set/371",
+  "official_name": "MOLLY × Zootopia Co-branded Series Figures",
+  "series_name": "Figures",
+  "folder": "Molly/Zootopia/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Molly",
+    "external_ip": "Zootopia"
+  },
+  "rows": [
+    {
+      "character_name": "Judy in Uniform",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Judy_in_Uniform.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Polar Bear & Mr. Big",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Polar_Bear_and_Mr_Big.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Russ",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Russ.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nibbles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nibbles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bellwether",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bellwether.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gary",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gary.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Undercover Nick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Undercover_Nick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Undercover Judy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Undercover_Judy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flash",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flash.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nick in Uniform",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nick_in_Uniform.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gazelle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gazelle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clawhauser",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clawhauser.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Finnick in Stroller",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Finnick_in_Stroller.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:49.406Z"
+}

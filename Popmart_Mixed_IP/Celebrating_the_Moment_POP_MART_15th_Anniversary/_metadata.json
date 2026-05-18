@@ -1,0 +1,153 @@
+{
+  "popnow_set_id": 373,
+  "spu_id": 4133,
+  "spu_ext_id": 373,
+  "product_url": "https://www.popmart.com/us/pop-now/set/373",
+  "official_name": "Celebrating the Moment POP MART 15th Anniversary Series Figures",
+  "series_name": "Celebrating the Moment POP MART 15th Anniversary",
+  "folder": "Popmart_Mixed_IP/Celebrating_the_Moment_POP_MART_15th_Anniversary",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Echoes of Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Echoes_of_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gift of Wishes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gift_of_Wishes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Joyful Honks",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Joyful_Honks.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "3, 2, 1 Boom!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "3_2_1_Boom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fairy Godmother",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fairy_Godmother.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Circles of Joy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Circles_of_Joy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meet Me There!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meet_Me_There.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dazzling Debut",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dazzling_Debut.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Countdown",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Countdown.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Call for Celebration",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Call_for_Celebration.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glimmering Invitation",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glimmering_Invitation.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yours to Share",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yours_to_Share.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light Up This Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Light_Up_This_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sparks in Bloom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sparks_in_Bloom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Sweetie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Party_Sweetie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:17:55.111Z"
+}
