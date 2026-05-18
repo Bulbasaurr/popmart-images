@@ -1,0 +1,169 @@
+{
+  "popnow_set_id": 384,
+  "spu_id": 3937,
+  "spu_ext_id": 384,
+  "product_url": "https://www.popmart.com/us/pop-now/set/384",
+  "official_name": "Evangelion Super Mini Figure",
+  "series_name": "Super Mini",
+  "folder": "Popmart_Collab/Evangelion/Super_Mini",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Evangelion",
+    "character_group": "Evangelion",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Evangelion"
+  },
+  "rows": [
+    {
+      "character_name": "Lilith",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lilith.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "4th Angel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "4th_Angel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PENPEN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PENPEN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gendoh Ikari",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gendoh_Ikari.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Misato (Penguin Suit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Misato_Penguin_Suit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Misato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Misato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mari (plugsuit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mari_plugsuit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mari (School Uniform Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mari_School_Uniform_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Asuka (plugsuit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Asuka_plugsuit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Asuka (School Uniform Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Asuka_School_Uniform_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei (plugsuit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rei_plugsuit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei (School Uniform Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rei_School_Uniform_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kaworu (plugsuit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kaworu_plugsuit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kaworu (School Uniform Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kaworu_School_Uniform_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shinji (plugsuit Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinji_plugsuit_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shinji (School Uniform Ver.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinji_School_Uniform_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Asuka (Q Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Asuka_Q_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Rei (long hair Ver.)",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Rei_long_hair_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:00.633Z"
+}

@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 405,
+  "spu_id": 4522,
+  "spu_ext_id": 405,
+  "product_url": "https://www.popmart.com/us/pop-now/set/405",
+  "official_name": "POLAR-Monster Baby Collection Series Plush Pendant Ver.1",
+  "series_name": "Monster Baby Collection Plush Pendant Ver1",
+  "folder": "Polar/Monster_Baby_Collection_Plush_Pendant_Ver1",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Polar",
+    "character_group": "Polar",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Polar"
+  },
+  "rows": [
+    {
+      "character_name": "SNOKM",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SNOKM.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIPOOO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIPOOO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BUBOO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BUBOO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "POWA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "POWA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIPIFOO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIPIFOO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GOOLILI",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GOOLILI.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "POODA POODA",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "POODA_POODA.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "BUBOO (black)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "BUBOO_black.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:34.414Z"
+}

@@ -1,0 +1,66 @@
+{
+  "popnow_set_id": 377,
+  "spu_id": 4142,
+  "spu_ext_id": 377,
+  "product_url": "https://www.popmart.com/us/pop-now/set/377",
+  "official_name": "MOLLY ZOOTOPIA 2 Series 1/12 Action Figure",
+  "series_name": "2 1 12 Action",
+  "folder": "Molly/Zootopia/2_1_12_Action",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Molly",
+    "external_ip": "Zootopia"
+  },
+  "rows": [
+    {
+      "character_name": "Gary",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gary.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clawhauser",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clawhauser.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Judy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Judy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nibbles",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Nibbles.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:18:48.509Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 416,
+  "spu_id": 4716,
+  "spu_ext_id": 416,
+  "product_url": "https://www.popmart.com/us/pop-now/set/416",
+  "official_name": "PUCKY Fairies' Market Series Figures",
+  "series_name": "Fairies Market",
+  "folder": "Pucky/Fairies_Market",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Doll Maker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doll_Maker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Match Seller",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Match_Seller.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Beekeeper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Beekeeper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Portrait Painter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Portrait_Painter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Creamery Shopkeeper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Creamery_Shopkeeper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Florist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Florist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lumberjack",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lumberjack.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dairy Farmer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dairy_Farmer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Egg Farmer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Egg_Farmer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chocolatier",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chocolatier.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mushroom Farmer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mushroom_Farmer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tarot Reader",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Tarot_Reader.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:49.362Z"
+}

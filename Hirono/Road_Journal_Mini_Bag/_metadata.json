@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 422,
+  "spu_id": 5212,
+  "spu_ext_id": 422,
+  "product_url": "https://www.popmart.com/us/pop-now/set/422",
+  "official_name": "Hirono Road Journal Series-Mini Bag Blind Box",
+  "series_name": "Road Journal Mini Bag",
+  "folder": "Hirono/Road_Journal_Mini_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Woven Woods",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Woven_Woods.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Into Fogwild",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Into_Fogwild.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "City Dust Afloat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "City_Dust_Afloat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grey Gravel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grey_Gravel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frostfall Hour",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frostfall_Hour.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lost in the Night",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lost_in_the_Night.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Highway Imprint",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Highway_Imprint.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:20:00.372Z"
+}

@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 411,
+  "spu_id": 4711,
+  "spu_ext_id": 411,
+  "product_url": "https://www.popmart.com/us/pop-now/set/411",
+  "official_name": "Evangelion Pilot Series Figures",
+  "series_name": "Pilot",
+  "folder": "Popmart_Collab/Evangelion/Pilot",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Evangelion",
+    "character_group": "Evangelion",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Evangelion"
+  },
+  "rows": [
+    {
+      "character_name": "Asuka",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Asuka.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kaworu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kaworu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei (tentative name)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rei_tentative_name.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shinji",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinji.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mari",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mari.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rei (long hair Ver.)",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Rei_long_hair_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Asuka (Q Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Asuka_Q_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:43.527Z"
+}

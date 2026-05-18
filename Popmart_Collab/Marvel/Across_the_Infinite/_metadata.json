@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 418,
+  "spu_id": 5208,
+  "spu_ext_id": 418,
+  "product_url": "https://www.popmart.com/us/pop-now/set/418",
+  "official_name": "Marvel Across the Infinite Series Figures",
+  "series_name": "Across the Infinite",
+  "folder": "Popmart_Collab/Marvel/Across_the_Infinite",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Marvel",
+    "character_group": "Marvel",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Marvel"
+  },
+  "rows": [
+    {
+      "character_name": "Vision's Superhuman Power",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Visions_Superhuman_Power.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hulk Smash",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hulk_Smash.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spider-Man Defeating Sandman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spider_Man_Defeating_Sandman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Iron Man in Battle Mode",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Iron_Man_in_Battle_Mode.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Groot's Heroic Leap",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Groots_Heroic_Leap.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ant-Man Crossing the Quantum Tunnel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ant_Man_Crossing_the_Quantum_Tunnel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Loki's Interdimensional Portal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lokis_Interdimensional_Portal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Captain America Storming the Battlefield",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Captain_America_Storming_the_Battlefield.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thor Crossing the Rainbow Bridge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thor_Crossing_the_Rainbow_Bridge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Doctor Doom Wielding Magic",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doctor_Doom_Wielding_Magic.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scarlet Witch Altering Reality",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scarlet_Witch_Altering_Reality.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Doctor Strange's Magical Portal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doctor_Stranges_Magical_Portal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thanos' Space Stone",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Thanos_Space_Stone.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:55.186Z"
+}

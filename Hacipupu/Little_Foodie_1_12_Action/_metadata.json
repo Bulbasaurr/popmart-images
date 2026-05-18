@@ -1,0 +1,57 @@
+{
+  "popnow_set_id": 402,
+  "spu_id": 4519,
+  "spu_ext_id": 402,
+  "product_url": "https://www.popmart.com/us/pop-now/set/402",
+  "official_name": "HACIPUPU Little Foodie Series 1/12 Action Figure",
+  "series_name": "Little Foodie 1 12 Action",
+  "folder": "Hacipupu/Little_Foodie_1_12_Action",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Crispy Fried Shrimp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crispy_Fried_Shrimp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tomato French Fries",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tomato_French_Fries.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soft-serve Ice Cream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soft_serve_Ice_Cream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Daily Apple",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Daily_Apple.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:26.129Z"
+}

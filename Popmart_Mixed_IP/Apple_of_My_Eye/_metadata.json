@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 398,
+  "spu_id": 4468,
+  "spu_ext_id": 398,
+  "product_url": "https://www.popmart.com/us/pop-now/set/398",
+  "official_name": "Apple of My Eye Series Figures",
+  "series_name": "Apple of My Eye",
+  "folder": "Popmart_Mixed_IP/Apple_of_My_Eye",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Whisper a Wish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whisper_a_Wish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candlelight Fairytale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candlelight_Fairytale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wonderful Spin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wonderful_Spin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish List",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wish_List.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twinkling Wishes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twinkling_Wishes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Secret in the Snowball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Secret_in_the_Snowball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wishes Come True",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wishes_Come_True.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:24.346Z"
+}

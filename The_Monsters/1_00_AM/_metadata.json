@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 392,
+  "spu_id": 4367,
+  "spu_ext_id": 392,
+  "product_url": "https://www.popmart.com/us/pop-now/set/392",
+  "official_name": "THE MONSTERS 1:00 A.M. Series Figures",
+  "series_name": "1 00 AM",
+  "folder": "The_Monsters/1_00_AM",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Scary Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scary_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Adventure Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Adventure_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Reading Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Reading_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Dream Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Dream_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crawling Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crawling_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hugging Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hugging_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sleepless Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sleepless_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Music Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Music_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Phone Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Phone_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Relaxed Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Relaxed_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stop the Time",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Stop_the_Time.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:11.197Z"
+}

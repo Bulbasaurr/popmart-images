@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 426,
+  "spu_id": 5413,
+  "spu_ext_id": 426,
+  "product_url": "https://www.popmart.com/us/pop-now/set/426",
+  "official_name": "Molly Winter Fit Check Series-Mini Bag Blind Box",
+  "series_name": "Winter Fit Check Mini Bag",
+  "folder": "Molly/Winter_Fit_Check_Mini_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Red Velvet Cocoa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Velvet_Cocoa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Teddy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teddy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunny-soft Fuzz",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunny_soft_Fuzz.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wavering Pine Needles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wavering_Pine_Needles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Oat Cup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oat_Cup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Robin Redbreast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Robin_Redbreast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "In Winter's Light",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "In_Winters_Light.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:20:06.900Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 378,
+  "spu_id": 4140,
+  "spu_ext_id": 378,
+  "product_url": "https://www.popmart.com/us/pop-now/set/378",
+  "official_name": "SKULLPANDA The Feast Begins Series Multifunctional Pendant Set",
+  "series_name": "The Feast Begins Multifunctional Pendant Set",
+  "folder": "Skullpanda/The_Feast_Begins_Multifunctional_Pendant_Set",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Silver Fork",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Silver_Fork.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Silver Claret Jug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Silver_Claret_Jug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Grape Scissors",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Grape_Scissors.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sugar Tongs",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sugar_Tongs.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Aspic Server",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Aspic_Server.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Caddy Spoon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Caddy_Spoon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fine Dining",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Fine_Dining.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:18:49.821Z"
+}

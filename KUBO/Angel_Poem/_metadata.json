@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 415,
+  "spu_id": 4715,
+  "spu_ext_id": 415,
+  "product_url": "https://www.popmart.com/us/pop-now/set/415",
+  "official_name": "KUBO Angel's Poem Series Figures",
+  "series_name": "Angel Poem",
+  "folder": "KUBO/Angel_Poem",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "KUBO",
+    "character_group": "KUBO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "KUBO"
+  },
+  "rows": [
+    {
+      "character_name": "Blooming Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blooming_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Makes Me Afraid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Makes_Me_Afraid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Burning Rage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Burning_Rage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tangled Thoughts",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tangled_Thoughts.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let Time Speak",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Let_Time_Speak.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stabbing the Soft Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stabbing_the_Soft_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Indulge in Temptation",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Indulge_in_Temptation.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Woven Lies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Woven_Lies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prayer of Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Prayer_of_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Obsessive Domination",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Obsessive_Domination.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fading Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fading_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Makes Me Shine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Makes_Me_Shine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Myself & I",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Myself_and_I.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:49.359Z"
+}

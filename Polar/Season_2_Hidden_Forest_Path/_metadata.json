@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 393,
+  "spu_id": 4368,
+  "spu_ext_id": 393,
+  "product_url": "https://www.popmart.com/us/pop-now/set/393",
+  "official_name": "Polar-Season 2 <Hidden Forest Path> Series Figures",
+  "series_name": "Season 2 Hidden Forest Path",
+  "folder": "Polar/Season_2_Hidden_Forest_Path",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Polar",
+    "character_group": "Polar",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Polar"
+  },
+  "rows": [
+    {
+      "character_name": "\"Gotcha, Wobbling\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gotcha_Wobbling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Forgotten Lab",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Forgotten_Lab.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Hollow's Secret",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Hollows_Secret.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yap-Yap Glove",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yap_Yap_Glove.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Let's Go!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lets_Go.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bread, Kiloo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bread_Kiloo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Which Way, Polar?\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Which_Way_Polar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug Bugsy Gaga",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_Bugsy_Gaga.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Mark, Mark\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mark_Mark.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "\"Not Your Jar!\"",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Not_Your_Jar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Whizzy LioLio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whizzy_LioLio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Color Change 404",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Color_Change_404.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "House of Light",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "House_of_Light.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:14.743Z"
+}

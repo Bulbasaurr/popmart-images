@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 379,
+  "spu_id": 4139,
+  "spu_ext_id": 379,
+  "product_url": "https://www.popmart.com/us/pop-now/set/379",
+  "official_name": "SKULLPANDA The Feast Begins Series Figures",
+  "series_name": "The Feast Begins",
+  "folder": "Skullpanda/The_Feast_Begins",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Napkin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Napkin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sugar Tongs",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sugar_Tongs.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Silver Fork",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Silver_Fork.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Silver Claret Jug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Silver_Claret_Jug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Aspic Server",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Aspic_Server.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Egg Cup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Egg_Cup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Crumb Scoop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Crumb_Scoop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Caddy Spoon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Caddy_Spoon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Spoon Warmer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Spoon_Warmer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Grape Scissors",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Grape_Scissors.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Dinner Knife",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Dinner_Knife.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Knife Rest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Knife_Rest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fine Dining",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Fine_Dining.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:18:49.825Z"
+}

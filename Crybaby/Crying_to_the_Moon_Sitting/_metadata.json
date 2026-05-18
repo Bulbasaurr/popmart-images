@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 413,
+  "spu_id": 4713,
+  "spu_ext_id": 413,
+  "product_url": "https://www.popmart.com/us/pop-now/set/413",
+  "official_name": "CRYBABY CRYING TO THE MOON-SITTING SERIES FIGURES",
+  "series_name": "CRYING TO THE MOON SITTING",
+  "folder": "Crybaby/CRYING_TO_THE_MOON_SITTING",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Moon Traveler-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moon_Traveler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moon Lover-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moon_Lover.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Night Sky-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Night_Sky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Outsider-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Outsider.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Half Moon-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Half_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Dancing Star-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Dancing_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Full Moon-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Full_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Space Traveller-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Space_Traveller.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The First Boy on the Moon-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_First_Boy_on_the_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Rabbit on the Moon-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Rabbit_on_the_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sleepy Sunny-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sleepy_Sunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moon Catcher-Mini",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moon_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Wishing Star-Mini",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Wishing_Star.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:46.794Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 385,
+  "spu_id": 4448,
+  "spu_ext_id": 385,
+  "product_url": "https://www.popmart.com/us/pop-now/set/385",
+  "official_name": "DIMOO Journal of New Life Series-Decorative Charm Blind Box",
+  "series_name": "Journal of New Life Decorative Charm",
+  "folder": "Dimoo/Journal_of_New_Life_Decorative_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Protection",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Protection.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Attachment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Attachment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dependence",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dependence.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strangeness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strangeness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Curiosity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Curiosity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Innocence",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Innocence.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Security",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Security.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:01.932Z"
+}

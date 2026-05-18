@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 427,
+  "spu_id": 5599,
+  "spu_ext_id": 427,
+  "product_url": "https://www.popmart.com/us/pop-now/set/427",
+  "official_name": "DIMOO Memories We Hold Series-Glowing Hourglass Crystal Ball Blind Box",
+  "series_name": "Memories We Hold Glowing Hourglass Crystal Ball",
+  "folder": "Dimoo/Memories_We_Hold_Glowing_Hourglass_Crystal_Ball",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Rainbow After Storm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_After_Storm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "In Your Arms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "In_Your_Arms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "First Swim",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "First_Swim.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cosmic Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cosmic_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Path of Whispering Lilies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Path_of_Whispering_Lilies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Purring Thread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purring_Thread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Goodbye I Cannot Say",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Goodbye_I_Cannot_Say.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:20:08.236Z"
+}

@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 376,
+  "spu_id": 4134,
+  "spu_ext_id": 376,
+  "product_url": "https://www.popmart.com/us/pop-now/set/376",
+  "official_name": "Disney Mickey Remixed: Mickey Meets Pixar Series Figures",
+  "series_name": "Mickey Remixed Mickey Meets Pixar",
+  "folder": "Popmart_Collab/Disney/Mickey_Remixed_Mickey_Meets_Pixar",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Lotso Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lotso_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Slinky Dog Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Slinky_Dog_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buzz Lightyear Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Buzz_Lightyear_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Alien Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Alien_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hamm Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hamm_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Woody Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Woody_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chuckles Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chuckles_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rex Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rex_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bullseye Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bullseye_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Green Army Man Mickey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Green_Army_Man_Mickey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:18:46.894Z"
+}

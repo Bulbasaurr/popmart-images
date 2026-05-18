@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 388,
+  "spu_id": 4202,
+  "spu_ext_id": 388,
+  "product_url": "https://www.popmart.com/us/pop-now/set/388",
+  "official_name": "Lil Peach Riot Holiday Mixtape Series Figures",
+  "series_name": "Holiday Mixtape",
+  "folder": "Peach_Riot/Holiday_Mixtape",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Gigi-Rock the Night Away",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Rock_the_Night_Away.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Check Off My Holiday List",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Check_Off_My_Holiday_List.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-All is Calm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_All_is_Calm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-I Gave You My Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_I_Gave_You_My_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Angry Bells",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Angry_Bells.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-It's Snowing!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Its_Snowing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Make My Wish Come True",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Frankie_Make_My_Wish_Come_True.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:09.363Z"
+}

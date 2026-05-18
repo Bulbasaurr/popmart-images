@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 419,
+  "spu_id": 5412,
+  "spu_ext_id": 419,
+  "product_url": "https://www.popmart.com/us/pop-now/set/419",
+  "official_name": "Baby Molly Winter Fit Check Series-Vinyl Plush Pendant Blind Box",
+  "series_name": "Winter Fit Check Vinyl Plush Pendant",
+  "folder": "Molly/Winter_Fit_Check_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Cold Wind Blows",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cold_Wind_Blows.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Have a Hot Boba",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Have_a_Hot_Boba.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cute Rosy Cheek",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cute_Rosy_Cheek.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The First Snowflake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_First_Snowflake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crave a Blueberry Pie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crave_a_Blueberry_Pie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Freezing Magic",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Freezing_Magic.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'm The Cool Kid",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Im_The_Cool_Kid.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:57.117Z"
+}

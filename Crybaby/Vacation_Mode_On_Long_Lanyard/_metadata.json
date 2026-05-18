@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 380,
+  "spu_id": 4138,
+  "spu_ext_id": 380,
+  "product_url": "https://www.popmart.com/us/pop-now/set/380",
+  "official_name": "CRYBABY Vacation Mode On Series-Long Lanyard Blind Box",
+  "series_name": "Vacation Mode On Long Lanyard",
+  "folder": "Crybaby/Vacation_Mode_On_Long_Lanyard",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Sunbathing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunbathing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Full Sail",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Full_Sail.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Summer Vibe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Summer_Vibe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chilling on the Beach",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chilling_on_the_Beach.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glug-glug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glug_glug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let's Surf",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lets_Surf.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Merbaby Tears",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Merbaby_Tears.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:18:51.365Z"
+}

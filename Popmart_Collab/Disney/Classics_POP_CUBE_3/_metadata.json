@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 429,
+  "spu_id": 5238,
+  "spu_ext_id": 429,
+  "product_url": "https://www.popmart.com/us/pop-now/set/429",
+  "official_name": "Disney Classics POP CUBE-3 Series Figures",
+  "series_name": "Classics POP CUBE 3",
+  "folder": "Popmart_Collab/Disney/Classics_POP_CUBE_3",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Goofy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Goofy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bambi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bambi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baymax",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baymax.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Angel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Angel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scrooge",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scrooge.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Winnie the Pooh",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winnie_the_Pooh.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Cheshire Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Cheshire_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Simba",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Simba.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:20:13.755Z"
+}

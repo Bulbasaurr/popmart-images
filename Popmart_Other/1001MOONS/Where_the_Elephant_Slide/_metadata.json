@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 403,
+  "spu_id": 4520,
+  "spu_ext_id": 403,
+  "product_url": "https://www.popmart.com/us/pop-now/set/403",
+  "official_name": "1001MOONS Where’s the Elephant Slide Series Figures",
+  "series_name": "Where the Elephant Slide",
+  "folder": "Popmart_Other/1001MOONS/Where_the_Elephant_Slide",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "1001MOONS",
+    "character_group": "1001MOONS",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "1001MOONS"
+  },
+  "rows": [
+    {
+      "character_name": "Hidden in the Cream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hidden_in_the_Cream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Folded Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Folded_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ocean in My Ears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ocean_in_My_Ears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Turn to That Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Turn_to_That_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "To: Childhood",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "To_Childhood.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "1000+1=?",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "1000+1=.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Elephant Slide",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Elephant_Slide.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Signals to the Moon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Signals_to_the_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Midsummer Drift",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Midsummer_Drift.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubbles of Summer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubbles_of_Summer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ungiven Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ungiven_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring in a Bottle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_in_a_Bottle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Novel Gift",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Novel_Gift.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:29.050Z"
+}

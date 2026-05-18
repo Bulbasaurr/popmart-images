@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 428,
+  "spu_id": 5598,
+  "spu_ext_id": 428,
+  "product_url": "https://www.popmart.com/us/pop-now/set/428",
+  "official_name": "DIMOO Memories We Hold Series Figures",
+  "series_name": "Memories We Hold",
+  "folder": "Dimoo/Memories_We_Hold",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "First Swim",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "First_Swim.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blooms from the Mud",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blooms_from_the_Mud.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow After Storm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_After_Storm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bad Morning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bad_Morning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Summer on the Grass",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Summer_on_the_Grass.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cosmic Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cosmic_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Goodbye l Cannot Say",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Goodbye_l_Cannot_Say.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowfield Swing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowfield_Swing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Hourglass",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Hourglass.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiteland",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiteland.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Purring Thread",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purring_Thread.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Path of Whispering Lilies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Path_of_Whispering_Lilies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "In Your Arms",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "In_Your_Arms.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:20:11.290Z"
+}

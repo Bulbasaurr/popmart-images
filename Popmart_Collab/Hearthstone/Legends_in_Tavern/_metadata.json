@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 410,
+  "spu_id": 4527,
+  "spu_ext_id": 410,
+  "product_url": "https://www.popmart.com/us/pop-now/set/410",
+  "official_name": "Hearthstone Legends in Tavern Series Figures",
+  "series_name": "Legends in Tavern",
+  "folder": "Popmart_Collab/Hearthstone/Legends_in_Tavern",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Hearthstone",
+    "character_group": "Hearthstone",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Hearthstone"
+  },
+  "rows": [
+    {
+      "character_name": "Uther Lightbringer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Uther_Lightbringer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Valeera Sanguinar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Valeera_Sanguinar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anduin Wrynn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anduin_Wrynn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gul'dan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Guldan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Garrosh Hellscream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Garrosh_Hellscream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rexxar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rexxar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thrall",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thrall.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Malfurion Stormrage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Malfurion_Stormrage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jaina Proudmoore",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jaina_Proudmoore.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ragnaros the Firelord",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ragnaros_the_Firelord.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:42.139Z"
+}

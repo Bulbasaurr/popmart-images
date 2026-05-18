@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 395,
+  "spu_id": 4453,
+  "spu_ext_id": 395,
+  "product_url": "https://www.popmart.com/us/pop-now/set/395",
+  "official_name": "HACIPUPU Whispers of My World Series Figures",
+  "series_name": "Whispers of My World",
+  "folder": "Hacipupu/Whispers_of_My_World",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Grow Big Soon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grow_Big_Soon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fairy Tale Dreams",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fairy_Tale_Dreams.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stay By My Side",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stay_By_My_Side.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "So Chilly",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "So_Chilly.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mousey Hungry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mousey_Hungry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drowsy Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drowsy_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Huffy Puffy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Huffy_Puffy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Daydreamer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Daydreamer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peek-a-boo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peek_a_boo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cute Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cute_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zone Out",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zone_Out.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snuggle Snuggle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snuggle_Snuggle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Toasty Warm",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Toasty_Warm.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:21.114Z"
+}

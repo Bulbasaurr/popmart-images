@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 417,
+  "spu_id": 4717,
+  "spu_ext_id": 417,
+  "product_url": "https://www.popmart.com/us/pop-now/set/417",
+  "official_name": "Nyota We are All Stars Series Figures",
+  "series_name": "We are All Stars",
+  "folder": "Nyota/We_are_All_Stars",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Nyota",
+    "character_group": "Nyota",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Nyota"
+  },
+  "rows": [
+    {
+      "character_name": "Life-bearing Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Life_bearing_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wayfinder Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wayfinder_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Melody Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Melody_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Reminiscence Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Reminiscence_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mirrorlight Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mirrorlight_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nightlight Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nightlight_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Halo Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Halo_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meteor Shower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meteor_Shower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wishing Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wishing_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fable Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fable_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sanctuary Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sanctuary_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bounty Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bounty_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreamcatcher Star",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dreamcatcher_Star.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:52.185Z"
+}

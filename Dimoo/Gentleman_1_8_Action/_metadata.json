@@ -1,0 +1,41 @@
+{
+  "popnow_set_id": 400,
+  "spu_id": 4649,
+  "spu_ext_id": 400,
+  "product_url": "https://www.popmart.com/us/pop-now/set/400",
+  "official_name": "DIMOO Gentleman Series 1/8 Action Figure",
+  "series_name": "Gentleman 1 8 Action",
+  "folder": "Dimoo/Gentleman_1_8_Action",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Ballroom Gentleman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ballroom_Gentleman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Preppy Gentleman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Preppy_Gentleman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:24.867Z"
+}

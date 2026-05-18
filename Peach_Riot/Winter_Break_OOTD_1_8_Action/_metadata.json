@@ -1,0 +1,49 @@
+{
+  "popnow_set_id": 401,
+  "spu_id": 4370,
+  "spu_ext_id": 401,
+  "product_url": "https://www.popmart.com/us/pop-now/set/401",
+  "official_name": "Peach Riot Winter Break OOTD Series 1/8 Action Figure",
+  "series_name": "Winter Break OOTD 1 8 Action",
+  "folder": "Peach_Riot/Winter_Break_OOTD_1_8_Action",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "FRANKIE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FRANKIE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "POPPY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "POPPY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GIGI",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GIGI.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:25.383Z"
+}

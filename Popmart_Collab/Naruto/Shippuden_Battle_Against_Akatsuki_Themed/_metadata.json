@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 386,
+  "spu_id": 4255,
+  "spu_ext_id": 386,
+  "product_url": "https://www.popmart.com/us/pop-now/set/386",
+  "official_name": "Naruto: Shippuden Series Battle Against Akatsuki Themed Figure",
+  "series_name": "Shippuden Battle Against Akatsuki Themed",
+  "folder": "Popmart_Collab/Naruto/Shippuden_Battle_Against_Akatsuki_Themed",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Naruto",
+    "character_group": "Naruto",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Naruto"
+  },
+  "rows": [
+    {
+      "character_name": "Zetsu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zetsu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hidan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hidan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sasori",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sasori.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kakuzu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kakuzu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kisame Hoshigaki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kisame_Hoshigaki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pain",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Itachi Uchiha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Itachi_Uchiha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Konan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Konan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Deidara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Deidara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tobi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tobi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nagato",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Nagato.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Naruto",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Naruto.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:04.509Z"
+}

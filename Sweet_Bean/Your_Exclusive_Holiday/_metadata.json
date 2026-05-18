@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 387,
+  "spu_id": 4203,
+  "spu_ext_id": 387,
+  "product_url": "https://www.popmart.com/us/pop-now/set/387",
+  "official_name": "Sweet Bean Your Exclusive Holiday Series Figures",
+  "series_name": "Your Exclusive Holiday",
+  "folder": "Sweet_Bean/Your_Exclusive_Holiday",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Sweet Bean",
+    "character_group": "Sweet Bean",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Sweet Bean"
+  },
+  "rows": [
+    {
+      "character_name": "Star Wish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Wish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gingerbread Friends",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gingerbread_Friends.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Holiday Snowman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Holiday_Snowman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Collecting Wishes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Collecting_Wishes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowman Bell",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowman_Bell.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gift Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gift_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kitten and Yarn Ball",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kitten_and_Yarn_Ball.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Honey Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honey_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bear Bell",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bear_Bell.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Angel's Blessing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Angels_Blessing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ski Season",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ski_Season.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowflake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowflake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crystal Ball",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Crystal_Ball.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:07.860Z"
+}

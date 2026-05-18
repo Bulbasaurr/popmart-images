@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 404,
+  "spu_id": 4521,
+  "spu_ext_id": 404,
+  "product_url": "https://www.popmart.com/us/pop-now/set/404",
+  "official_name": "inosoul The Forgotten Land Series Figures",
+  "series_name": "The Forgotten Land",
+  "folder": "Popmart_Other/inosoul/The_Forgotten_Land",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "inosoul",
+    "character_group": "inosoul",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "inosoul"
+  },
+  "rows": [
+    {
+      "character_name": "The Dream Maker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Dream_Maker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Observer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Observer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart as Bait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_as_Bait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The True Self",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_True_Self.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Roses Whisper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Roses_Whisper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A New Journey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_New_Journey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Echoes of Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Echoes_of_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Third Door",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Third_Door.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Dream Wanderer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Dream_Wanderer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Curtain Falls",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Curtain_Falls.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The New Fulcrum",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_New_Fulcrum.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Walking In the Fog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Walking_In_the_Fog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The New World",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_New_World.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:32.495Z"
+}

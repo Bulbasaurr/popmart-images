@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 412,
+  "spu_id": 4712,
+  "spu_ext_id": 412,
+  "product_url": "https://www.popmart.com/us/pop-now/set/412",
+  "official_name": "CHAKA Luminous Reverie Series Figures",
+  "series_name": "Luminous Reverie",
+  "folder": "Chaka/Luminous_Reverie",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Chaka",
+    "character_group": "Chaka",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Chaka"
+  },
+  "rows": [
+    {
+      "character_name": "Feather",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Feather.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glide With Grace",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glide_With_Grace.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tea Break",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tea_Break.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grand Display",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grand_Display.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Guidance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Guidance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "In a Ginkgo Breeze",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "In_a_Ginkgo_Breeze.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brief Embrace",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brief_Embrace.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Honeyed Dawn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honeyed_Dawn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ripple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ripple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Echoes On The Vines",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Echoes_On_The_Vines.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Messenger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Messenger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spinning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spinning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "At First Sight",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "At_First_Sight.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:46.788Z"
+}

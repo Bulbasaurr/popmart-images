@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 394,
+  "spu_id": 4369,
+  "spu_ext_id": 394,
+  "product_url": "https://www.popmart.com/us/pop-now/set/394",
+  "official_name": "Zsiga The Winter of Gifts Series Figures",
+  "series_name": "The Winter of Gifts",
+  "folder": "Zsiga/The_Winter_of_Gifts",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Zsiga"
+  },
+  "rows": [
+    {
+      "character_name": "The Musician",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Musician.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Special Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Special_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hatful of Surprises",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hatful_of_Surprises.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dressed Up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dressed_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rolling Winter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rolling_Winter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Last Lap",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Last_Lap.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gingerbear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gingerbear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Midnight Chime",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Midnight_Chime.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tug Presents",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tug_Presents.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cozy Flame",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cozy_Flame.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ready to Ring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ready_to_Ring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snow Cedar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snow_Cedar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Hustling Guardians",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Hustling_Guardians.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:19:18.345Z"
+}
