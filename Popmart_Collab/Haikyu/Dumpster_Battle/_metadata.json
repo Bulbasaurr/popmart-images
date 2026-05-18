@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:18.377Z"
+  "_generated_at": "2026-05-18T05:17:18.377Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250919_164002_007402____1_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x1672.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_162551____2_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2658.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_431553____3_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2315.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_329011____4_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2226.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_848743____5_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2183.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_575707____6_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2322.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_165720____7_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2867.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_245772____8_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2142.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_707422____9_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2034.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_671703____10_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2022.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_343845____11_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2700.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_164002_311750____12_haikyu-the-dumpster-battle-series-figures_blind-boxes_details_pop-mart-us_____1200x2124.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3803"
 }

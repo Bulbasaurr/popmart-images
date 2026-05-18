@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:13.775Z"
+  "_generated_at": "2026-05-18T05:06:13.775Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240710_112606_493868____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-1_____1200x1598.jpg",
+    "https://prod-america-res.popmart.com/default/20240710_112606_989858____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-2_____1200x1343.jpg",
+    "https://prod-america-res.popmart.com/default/20240710_112604_333503____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-3_____1200x759.jpg",
+    "https://prod-america-res.popmart.com/default/20250715_174838_375330____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-4_____1200x1774.jpg",
+    "https://prod-america-res.popmart.com/default/20240710_112605_679030____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-5_____1200x1047.jpg",
+    "https://prod-america-res.popmart.com/default/20240710_112606_815245____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-6_____1200x1729.jpg",
+    "https://prod-america-res.popmart.com/default/20240710_112606_680391____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-7_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20250715_174838_533432____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-details-8_____1200x1308.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1419"
 }

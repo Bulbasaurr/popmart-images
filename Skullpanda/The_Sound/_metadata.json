@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:08.385Z"
+  "_generated_at": "2026-05-18T05:06:08.385Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240619_183053_627191____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-1_____1200x1518.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_972396____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-2_____1200x2103.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183052_517910____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-3_____1200x761.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_724365____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-4_____1200x1781.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183052_027512____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-5_____1200x882.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_102066____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-6_____1200x963.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_098207____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-7_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_776678____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-8_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_353322____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-9_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_662614____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-10_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_744630____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-11_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_898013____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-12_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_518238____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-13_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_211071____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-14_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_469391____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-15_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_655606____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-16_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_363090____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-17_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240619_183053_928481____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-details-18_____1200x2374.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1367"
 }

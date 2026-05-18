@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:42.041Z"
+  "_generated_at": "2026-05-18T05:21:42.041Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260113_171833_504257____1_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1516.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171833_100519____2_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x2131.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_620632____3_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1366.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_868982____4_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x2005.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_639156____5_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1036.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171833_425991____6_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_710711____7_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171833_614844____8_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_377463____9_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_618032____10_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_032779____11_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_103236____12_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_495343____13_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_298956____14_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_037875____15_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171834_154179____16_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171835_331249____17_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171835_097959____18_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20260113_171835_430286____19_minions-bello-world-series-figures_blind-boxes_pop-mart-us_____1200x761.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5689"
 }

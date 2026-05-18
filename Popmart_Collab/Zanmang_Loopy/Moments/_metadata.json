@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:42.763Z"
+  "_generated_at": "2026-05-18T05:10:42.763Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250106_165610_667855____1_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x1794.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_779688____2_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x2776.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_052418____3_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x1942.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_012105____4_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x2670.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_182976____5_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x3196.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_941913____6_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x3201.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_172071____7_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x3260.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_165610_735271____8_zanmang-loopy-s-moments-series-figures_blind-boxes_details_popmart-us_____1200x767.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1827"
 }

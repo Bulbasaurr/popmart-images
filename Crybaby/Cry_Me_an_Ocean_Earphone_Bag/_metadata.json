@@ -61,5 +61,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:22.467Z"
+  "_generated_at": "2026-05-18T05:24:22.467Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260508_181337_324293____1_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1765.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_730646____2_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_969638____3_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x767.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_230068____4_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x727.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_087063____5_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1085.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_921965____6_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1245.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_510049____7_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1774.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_460406____8_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_241333____9_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_241276____10_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_447097____11_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_012095____12_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x756.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181337_634289____13_crybaby-cry-me-an-ocean-series-earphone-bag_accessories_details_pop-mart-us_____1200x820.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6435"
 }

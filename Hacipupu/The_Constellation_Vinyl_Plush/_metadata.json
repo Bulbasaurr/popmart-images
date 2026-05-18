@@ -125,5 +125,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:07:05.433Z"
+  "_generated_at": "2026-05-18T05:07:05.433Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241223_101308_640190____01_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x2044.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_389662____02_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x3408.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_546616____03_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x676.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_818882____04_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x1016.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_314716____05_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x891.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_624167____06_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x2602.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_265149____07_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_447499____08_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x1610.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_269687____09_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x1634.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_294109____10_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x1712.jpg",
+    "https://prod-america-res.popmart.com/default/20241223_101308_968721____11_hacipupu-the-constellation-series-vinyl-plush-blind-box_plush-toys_popmart-us_____1200x810.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1617"
 }

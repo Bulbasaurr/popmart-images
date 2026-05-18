@@ -189,5 +189,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:54.298Z"
+  "_generated_at": "2026-05-18T05:12:54.298Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250423_184017_427283____1_01_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x2244.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_955099____1_02_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3308.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_671559____1_03_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x942.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_916507____1_04_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x721.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_715823____1_05_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x1010.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_619463____1_06_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x897.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_228093____1_07_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_638702____2_01_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3053.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_849042____2_02_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3035.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_160531____2_03_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3028.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_932460____2_04_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3048.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_865686____2_05_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3030.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_887263____3_01_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3044.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_650799____3_02_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3040.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_876616____3_03_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3041.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_302765____3_04_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x1514.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_686596____3_05_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x1515.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184018_786791____3_06_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x3046.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_184017_378224____3_07_mega-space-molly-100-emoji-series_mega_details_popmart-us_____1200x1217.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2292"
 }

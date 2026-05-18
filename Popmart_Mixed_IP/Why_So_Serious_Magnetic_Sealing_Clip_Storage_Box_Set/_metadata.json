@@ -69,5 +69,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:38.075Z"
+  "_generated_at": "2026-05-18T05:17:38.075Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_102352_922142____1_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1902.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_578039____2_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_409649____3_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x977.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_715892____4_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1779.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_384144____5_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1762.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_155525____6_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_982746____7_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1647.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_875467____8_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1647.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_527593____9_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1659.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_811296____10_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1749.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_102352_013380____11_why-so-serious-series-magnetic-sealing-clip-storage-box-set_accessories_details_pop-mart-us_____1200x1489.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3909"
 }

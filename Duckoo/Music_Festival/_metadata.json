@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:19.736Z"
+  "_generated_at": "2026-05-18T05:14:19.736Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250627_172510_836811____01_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x1655.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_987442____02_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x1480.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_938697____03_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x669.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172509_385946____04_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x705.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_459106____05_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x977.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_078915____06_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x897.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_966452____07_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x2593.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_309642____08_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x3234.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_042344____09_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x3236.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_398433____10_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x3250.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_461288____11_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x3248.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_117031____12_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x1685.jpg",
+    "https://prod-america-res.popmart.com/default/20250627_172510_236390____13_duckoo-music-festival-series_blind-boxes_details_popmart-us_____1200x831.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2868"
 }

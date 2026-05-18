@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:49.821Z"
+  "_generated_at": "2026-05-18T05:18:49.821Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251024_181236_284516____1_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1942.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181236_599255____2_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1282.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181237_236896____3_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1636.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181237_278461____4_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1799.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181237_255528____5_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1745.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181237_431776____6_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181236_426758____7_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1588.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181236_300556____8_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_181237_879487____9_skullpanda-the-feast-begins-series-multifunctional-pendant-set_accessories_details_pop-mart-us_____1200x1456.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4140"
 }

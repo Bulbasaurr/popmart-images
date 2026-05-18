@@ -77,5 +77,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:40.025Z"
+  "_generated_at": "2026-05-18T05:21:40.025Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251231_152900_961897____1_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1870.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152901_359076____2_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x2066.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152858_429504____3_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1472.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152859_754133____4_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x2192.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152859_133939____5_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152900_713188____6_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152908_744371____7_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1585.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152907_147311____8_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152910_151361____9_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1649.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152908_510666____10_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152909_388439____11_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152910_891009____12_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1654.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152914_108284____13_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152918_022729____14_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x1697.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_152917_291306____15_have-a-good-run-series-bracelet-blind-box_accessories_details_popmart-us_____1200x2047.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5687"
 }

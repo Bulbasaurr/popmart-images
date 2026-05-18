@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:39.802Z"
+  "_generated_at": "2026-05-18T05:14:39.802Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250714_100805_294804____1_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1957.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100804_521777____2_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x2106.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100804_254587____3_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1385.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_333118____4_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1886.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100804_502980____5_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1038.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_326479____6_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_679100____7_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_881504____8_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_611858____9_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_291553____10_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_034806____11_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_144294____12_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_863466____13_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_352638____14_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1632.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_835627____15_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100804_524330____16_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_703658____17_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100805_395417____18_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x1708.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100804_942646____19_harry-potter-and-the-goblet-of-fire-series-figures_blind-boxes_details_popmart-us_____1200x816.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3030"
 }

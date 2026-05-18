@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:18.942Z"
+  "_generated_at": "2026-05-18T05:14:18.942Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250613_171947_314322____1_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x2001.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_295951____2_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x2112.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_077953____3_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1387.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_735911____4_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1866.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_405143____5_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_165570____6_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_285039____7_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_791165____8_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_357493____9_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171947_896880____10_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_734590____11_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_606921____12_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_862368____13_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_710080____14_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_141995____15_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_630554____16_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_512854____17_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_003046____18_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x1741.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171948_402718____19_zsiga-take-it-slow-series-figures_blind-boxes_details_popmart-us_____1200x784.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2867"
 }

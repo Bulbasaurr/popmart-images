@@ -109,5 +109,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:23.191Z"
+  "_generated_at": "2026-05-18T05:21:23.191Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251219_174928_906054____1_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1915.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174928_540018____2_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x2212.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_978921____3_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1384.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_282549____4_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1829.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_660887____5_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1022.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174928_128686____6_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_412759____7_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_312833____8_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_058482____9_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_678453____10_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_016840____11_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_958993____12_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_194660____13_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_441061____14_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_274192____15_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1609.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174929_959123____16_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x1721.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174930_206719____17_overwatch-play-of-the-game-series-figures_blind-boxes_details_pop-mart-us_____1200x691.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5235"
 }

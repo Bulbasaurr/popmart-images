@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:47.771Z"
+  "_generated_at": "2026-05-18T05:14:47.771Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250714_095451_744871____1_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1642.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_973257____2_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1244.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_428877____3_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1330.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_233132____4_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1232.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_260017____5_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1153.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_397412____6_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1214.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_107168____7_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1223.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_842858____8_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1724.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_902536____9_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1978.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_118931____10_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x1555.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_095451_859293____11_dragon-ball-alloy-vehicles-series-figures_blind-boxes_details_popmart-us_____1200x2072.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3302"
 }

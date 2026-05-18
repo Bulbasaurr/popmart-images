@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:32.495Z"
+  "_generated_at": "2026-05-18T05:19:32.495Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251121_172603_118953____1_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1774.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172602_531342____2_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x2175.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172605_928412____3_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x2437.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172603_999851____4_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1951.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172603_215847____5_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172604_764308____6_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172603_098337____7_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172606_145837____8_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172606_311369____9_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172605_439572____10_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172604_001024____12_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172607_291172____13_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172607_230845____14_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172606_938273____15_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172608_333077____16_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172608_762089____17_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172607_730513____18_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x1684.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172610_262438____19_inosoul-the-forgotten-land-series-figures_blind-boxes_details_pop-mart-us_____1200x847.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4521"
 }

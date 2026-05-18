@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:31.246Z"
+  "_generated_at": "2026-05-18T05:14:31.246Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250606_171506_182294____1_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x2051.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171506_199802____2_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1713.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171504_744872____3_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1466.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171507_445402____4_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x2062.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171507_160885____5_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1744.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171506_616564____6_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171506_906079____7_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171507_759633____8_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1647.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171507_377602____9_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1674.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171507_027190____10_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1741.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_171506_743463____11_the-monsters-wacky-mart-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1617.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2995"
 }

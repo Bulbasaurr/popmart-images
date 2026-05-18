@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:09.718Z"
+  "_generated_at": "2026-05-18T05:14:09.718Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250107_154001_876700____1_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1868.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_739870____2_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x2228.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_834344____3_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1590.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_619718____4_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1795.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_552974____5_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x2546.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_235626____6_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_490449____7_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_740797____8_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_515700____9_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_266139____10_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x3139.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_529200____11_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_154001_570181____12_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x2313.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2784"
 }

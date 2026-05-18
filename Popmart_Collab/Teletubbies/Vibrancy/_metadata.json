@@ -93,5 +93,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:26.979Z"
+  "_generated_at": "2026-05-18T05:12:26.979Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250311_141901_924061____1_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x1903.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_224378____2_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x1897.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_881431____3_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x716.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_111347____4_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x731.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_511871____5_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x999.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_539744____6_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x895.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_841413____7_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x2352.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_872116____8_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x2873.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_912811____9_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x2879.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_854329____10_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x2880.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_714198____11_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x2966.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_141901_896466____12_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x729.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2138"
 }

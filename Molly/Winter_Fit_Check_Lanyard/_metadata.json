@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:58.589Z"
+  "_generated_at": "2026-05-18T05:19:58.589Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251212_172959_017378____1_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1724.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172959_751626____2_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x2467.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_836891____3_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1699.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_953769____4_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x2063.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_041773____5_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1780.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_801043____6_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_217851____7_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_602835____8_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_836402____9_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1713.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_173000_195814____10_baby-molly-winter-fit-check-series-lanyard-blind-box-_accessories_details_pop-mart-us_____1200x1888.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5411"
 }

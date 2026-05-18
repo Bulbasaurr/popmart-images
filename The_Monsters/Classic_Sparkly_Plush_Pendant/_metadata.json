@@ -77,5 +77,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:48.521Z"
+  "_generated_at": "2026-05-18T05:10:48.521Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241113_173427_830299____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_01_____1200x2092.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173427_578937____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_02_____1200x1288.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173426_011094____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_03_____1200x775.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173428_141905____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_04_____1200x2798.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173428_959316____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_05_____1200x3074.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173428_752054____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_06_____1200x3020.jpg",
+    "https://prod-america-res.popmart.com/default/20241113_173427_544506____the-monsters-classic-series-sparkly-plush-pendant-blind-box-accessories-pop-mart-us-detail_07_____1200x2229.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1842"
 }

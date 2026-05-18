@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:16.392Z"
+  "_generated_at": "2026-05-18T05:06:16.392Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240711_142232_686597____hirono-shelter-series-figures-blind-boxes-pop-mart-us-1_____1200x1772.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_545812____hirono-shelter-series-figures-blind-boxes-pop-mart-us-2_____1200x2240.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_165533_689532____hirono-shelter-series-figures-blind-boxes-pop-mart-us-3_____1200x761.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_806020____hirono-shelter-series-figures-blind-boxes-pop-mart-us-4_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142232_438894____hirono-shelter-series-figures-blind-boxes-pop-mart-us-5_____1200x885.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_532747____hirono-shelter-series-figures-blind-boxes-pop-mart-us-6_____1200x963.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_021598____hirono-shelter-series-figures-blind-boxes-pop-mart-us-7_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_028599____hirono-shelter-series-figures-blind-boxes-pop-mart-us-8_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142232_100787____hirono-shelter-series-figures-blind-boxes-pop-mart-us-9_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_189125____hirono-shelter-series-figures-blind-boxes-pop-mart-us-10_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_514903____hirono-shelter-series-figures-blind-boxes-pop-mart-us-11_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_494651____hirono-shelter-series-figures-blind-boxes-pop-mart-us-12_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_405514____hirono-shelter-series-figures-blind-boxes-pop-mart-us-13_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142232_601202____hirono-shelter-series-figures-blind-boxes-pop-mart-us-14_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_824173____hirono-shelter-series-figures-blind-boxes-pop-mart-us-15_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_079015____hirono-shelter-series-figures-blind-boxes-pop-mart-us-16_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_081047____hirono-shelter-series-figures-blind-boxes-pop-mart-us-17_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142233_852240____hirono-shelter-series-figures-blind-boxes-pop-mart-us-18_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20240711_142232_042153____hirono-shelter-series-figures-blind-boxes-pop-mart-us-19_____1200x691.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1438"
 }

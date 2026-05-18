@@ -86,5 +86,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:01.485Z"
+  "_generated_at": "2026-05-18T05:22:01.485Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260130_174956_003769____1_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1743.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174956_652030____2_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1582.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174956_624758____3_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1427.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_065018____4_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1697.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_077346____5_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1140.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174956_341411____6_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1247.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_928700____7_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_402294____8_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_996001____9_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_908969____10_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_006627____11_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_711598____12_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_930479____13_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174958_080696____14_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_174957_692127____15_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1425.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5828"
 }

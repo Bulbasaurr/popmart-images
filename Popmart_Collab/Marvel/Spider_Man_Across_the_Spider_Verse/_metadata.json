@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:13.061Z"
+  "_generated_at": "2026-05-18T05:12:13.061Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250206_154524_219967____1_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x1898.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_218458____2_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x1908.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_534449____3_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x702.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_457310____4_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x854.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_851053____5_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x980.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_621843____6_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x918.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_595222____7_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x2342.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_712317____8_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x2877.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_799485____9_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x2876.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_154560____10_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x2879.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_388699____11_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x2878.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_758258____12_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x1518.jpg",
+    "https://prod-america-res.popmart.com/default/20250206_154524_731417____13_marvel-spider-man-across-the-spider-verse-series-figures_blind-boxes_details_popmart-us_____1200x843.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2040"
 }

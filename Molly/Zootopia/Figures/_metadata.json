@@ -126,5 +126,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:49.406Z"
+  "_generated_at": "2026-05-18T05:17:49.406Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251013_102003_446367____1_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2036.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102004_597318____2_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2135.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102003_983208____3_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2356.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102005_510028____4_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x1935.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102004_353171____5_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2478.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102004_233995____6_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2460.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102004_916138____7_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2306.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102004_192864____8_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2476.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102005_057130____9_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2462.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102006_144498____10_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2411.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102007_895124____11_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2362.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102006_289704____12_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2507.jpg",
+    "https://prod-america-res.popmart.com/default/20251013_102006_017571____13_molly-zootopia-co-branded-series-figures_blind-boxes_details_pop-mart-us_____1200x2514.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3951"
 }

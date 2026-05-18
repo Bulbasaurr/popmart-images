@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:18.345Z"
+  "_generated_at": "2026-05-18T05:19:18.345Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251107_153756_748028____1_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1965.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153755_582407____2_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x2415.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153756_734816____3_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1336.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153756_765482____4_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1962.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153756_553693____5_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1782.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153756_728846____6_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153803_771251____7_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153757_715664____8_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153758_137100____9_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153758_328119____10_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153758_798560____11_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153758_370409____12_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153759_726393____13_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153759_399192____14_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153759_458472____15_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153759_847619____16_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153801_373123____17_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_153759_276603____18_zsiga-the-winter-of-gifts-series-figures_blind-boxes_details_pop-mart-us_____1200x2489.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4369"
 }

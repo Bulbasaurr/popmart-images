@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:07:03.341Z"
+  "_generated_at": "2026-05-18T05:07:03.341Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240924_114652_094441____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1639.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_614107____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2157.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114651_333891____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x784.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_499308____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2709.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_424421____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2531.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_844500____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_566443____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_827835____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_552826____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_330871____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_380948____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3248.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_114652_592130____disneypixar-spooky-night-series-figures-blind-boxes-pop-mart-us-detail_12_____1200x682.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1614"
 }

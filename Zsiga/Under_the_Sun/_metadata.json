@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:07.087Z"
+  "_generated_at": "2026-05-18T05:22:07.087Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260206_102804_552670____1_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1850.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_369500____2_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x2190.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_293340____3_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1260.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_020629____4_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1970.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_245201____5_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1037.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_945786____6_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_552509____7_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_701745____8_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_590414____9_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_139443____10_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102804_562739____11_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_203255____12_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_077964____13_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_323093____14_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_956219____15_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_545451____16_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_579116____17_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_399461____18_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1716.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_102805_246875____19_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x764.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5830"
 }

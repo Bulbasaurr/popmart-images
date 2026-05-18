@@ -101,5 +101,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:14.818Z"
+  "_generated_at": "2026-05-18T05:24:14.818Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260424_181935_956936____1_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1841.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_050515____2_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1739.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_818979____3_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1080.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_288260____4_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1780.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_423104____5_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x900.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_557859____6_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1040.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181935_917039____7_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_794201____8_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_020032____9_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_269328____10_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_293064____11_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_321199____12_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_860863____13_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_617078____14_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_937773____15_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_296167____16_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1710.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181936_651742____17_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x819.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6348"
 }

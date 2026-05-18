@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:45.221Z"
+  "_generated_at": "2026-05-18T05:21:45.221Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260130_185015_680250____1_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1600.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185015_060919____2_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1700.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185015_036696____3_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1380.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185015_504369____4_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1940.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185015_752890____5_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1043.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185015_453172____6_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_075354____7_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_712021____8_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_096156____9_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_970062____10_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_103274____11_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_236537____12_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_489904____13_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_451422____14_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_690564____15_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_185016_111548____16_spy-family-daily-life-series-figures_blind-boxes_details_pop-mart-us_____1200x821.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5748"
 }

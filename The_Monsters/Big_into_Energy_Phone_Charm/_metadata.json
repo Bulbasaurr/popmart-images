@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:43.697Z"
+  "_generated_at": "2026-05-18T05:12:43.697Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250423_185944_571280____1_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x2037.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_860377____2_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1735.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185943_624479____3_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1485.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_041827____4_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x2225.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_931778____5_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_433799____6_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_436237____7_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_950783____8_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_482792____9_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1746.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_185944_984338____10_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1645.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2213"
 }

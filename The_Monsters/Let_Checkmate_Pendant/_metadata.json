@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:12.140Z"
+  "_generated_at": "2026-05-18T05:12:12.140Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250205_142557_376667____1_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x2011.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142558_937567____2_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x2376.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142557_288973____3_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x718.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142557_471288____4_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x832.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142557_598478____5_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x915.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142557_474275____6_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x1099.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142558_103229____7_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x1825.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142558_061064____8_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x1647.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142558_213102____9_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x1730.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142557_392025____10_the-monsters-let-s-checkmate-series-pendant-blind-box_accessories_details_popmart-us_____1200x740.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2038"
 }

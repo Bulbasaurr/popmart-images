@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:03.331Z"
+  "_generated_at": "2026-05-18T05:20:03.331Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251223_145539_557288____1_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x2074.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_134690____2_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x2112.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_562292____3_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_989312____4_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x2352.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_638201____5_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_111643____6_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145539_558220____7_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145540_193075____8_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145540_634787____9_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145540_783230____10_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1695.jpg",
+    "https://prod-america-res.popmart.com/default/20251223_145540_439475____11_hirono-road-journal-series-phone-lanyard-blind-box-_phone-accessories_details_pop-mart-us_____1200x1849.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5210"
 }

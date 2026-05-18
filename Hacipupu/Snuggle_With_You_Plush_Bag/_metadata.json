@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:56.367Z"
+  "_generated_at": "2026-05-18T05:10:56.367Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241231_150547_975164____1_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x1846.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_923822____2_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x2754.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_175067____3_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x1831.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_577447____4_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x2887.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_944825____5_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x1506.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_562529____6_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x1533.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_078002____7_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x1535.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150547_874497____8_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x2335.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_150546_838917____9_hacipupu-snuggle-with-you-series-plush-bag-blind-box_accessories_details_popmart-us_____1200x801.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1922"
 }

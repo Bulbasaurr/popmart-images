@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:10.226Z"
+  "_generated_at": "2026-05-18T05:22:10.226Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260206_103325_125064____1_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1602.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103324_957759____2_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x2261.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103325_052537____3_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1393.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103325_665132____4_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1968.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103325_749861____5_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1045.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_779767____6_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103325_106536____7_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103325_544621____8_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_575771____9_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_158110____10_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_903107____11_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_478476____12_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_879975____13_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_269110____14_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_019109____15_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_801188____16_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_814916____17_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103326_170446____18_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1702.jpg",
+    "https://prod-america-res.popmart.com/default/20260206_103327_594500____19_zenless-zone-zero-bangboo-party-series-figures_blind-boxes_details_pop-mart-us_____1200x778.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5831"
 }

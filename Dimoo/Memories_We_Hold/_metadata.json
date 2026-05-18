@@ -125,5 +125,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:11.290Z"
+  "_generated_at": "2026-05-18T05:20:11.290Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251219_174533_387349____1_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1805.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_656773____2_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x2100.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_522219____3_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1403.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_775485____4_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1092.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_564906____5_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x878.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_055596____6_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1040.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174533_413451____7_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_866587____8_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_014579____9_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_474904____10_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_668503____11_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_085950____12_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_179818____13_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_958084____14_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_418618____15_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174534_699678____16_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_763489____17_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_424643____18_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_013129____19_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x1693.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174535_933737____20_dimoo-memories-we-hold-series-figures_blind-boxes_details_pop-mart-us_____1200x784.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5598"
 }

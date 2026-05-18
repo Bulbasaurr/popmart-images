@@ -93,5 +93,12 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:13:10.140Z"
+  "_generated_at": "2026-05-18T05:13:10.140Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/DIMOO_date_chain_detail_p9V89xeb98_1200x3428.jpg",
+    "https://prod-america-res.popmart.com/default/Ayan-Deng_T4vHIYZiHv_1201x1016.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2317"
 }

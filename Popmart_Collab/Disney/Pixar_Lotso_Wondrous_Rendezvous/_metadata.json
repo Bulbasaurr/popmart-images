@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:01.218Z"
+  "_generated_at": "2026-05-18T05:11:01.218Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250122_144431_015193____1_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x1982.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_328286____2_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x1715.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_354541____3_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x720.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_726469____4_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x843.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_669595____5_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x974.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_541966____6_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x951.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144431_416257____7_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x2316.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_226580____8_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x2877.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_623214____9_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x2880.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_989910____10_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x2876.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_543030____11_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x2883.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_012012____12_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x1540.jpg",
+    "https://prod-america-res.popmart.com/default/20250122_144432_655825____13_disneypixar-lotso-wondrous-rendezvous-series-figures_blind-boxes_details_popmart-us_____1200x837.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1938"
 }

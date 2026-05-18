@@ -93,5 +93,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:03.514Z"
+  "_generated_at": "2026-05-18T05:11:03.514Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250106_184149_727615____1_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x1856.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_139031____2_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x2398.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_088487____3_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x2484.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184148_561969____4_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x933.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_760865____5_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x2467.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_784016____6_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x3218.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_314431____7_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x3205.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_161409____8_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x3212.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184149_922292____9_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x3315.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_184148_543725____10_the-wonderful-time-with-sanrio-characters-series-scene-sets_blind-boxes_details_popmart-us_____1200x900.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1985"
 }

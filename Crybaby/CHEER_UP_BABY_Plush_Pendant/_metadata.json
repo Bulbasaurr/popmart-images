@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:36.019Z"
+  "_generated_at": "2026-05-18T05:10:36.019Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240528_111434_887314____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_01_____1200x2284.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111434_092791____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_02_____1200x1372.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111434_857409____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_03_____1200x755.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111435_093640____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_04_____1200x1754.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111434_348401____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_05_____1200x905.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111435_549099____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_06_____1200x1819.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111434_673114____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_07_____1200x1698.jpg",
+    "https://prod-america-res.popmart.com/default/20240528_111434_453328____crybaby-cheer-up-baby-series-plush-pendant-blind-box_details_08_____1200x826.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1806"
 }

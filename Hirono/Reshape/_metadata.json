@@ -101,5 +101,16 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:05:58.790Z"
+  "_generated_at": "2026-05-18T05:05:58.790Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20231222_142715_809365__1200x1923.jpg",
+    "https://prod-america-res.popmart.com/default/20231222_142715_780471__1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20231222_142715_666600__1200x3355.jpg",
+    "https://prod-america-res.popmart.com/default/20231222_142714_906541__1200x3038.jpg",
+    "https://prod-america-res.popmart.com/default/20231222_142720_306720__1200x2247.jpg",
+    "https://prod-america-res.popmart.com/default/20231222_142720_725577__1200x1627.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1247"
 }

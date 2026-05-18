@@ -157,5 +157,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:47.218Z"
+  "_generated_at": "2026-05-18T05:10:47.218Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240905_142738_762863____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_01_____1200x1779.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_227169____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_02_____1200x2902.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_151138____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_03_____1200x2700.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_043858____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_04_____1200x2543.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_156830____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_05_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_365092____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_06_____1200x3140.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_938245____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_07_____1200x3124.jpg",
+    "https://prod-america-res.popmart.com/default/20240905_142738_277946____pucky-roly-poly-kitty-series-figures_blind-boxes_details_popmart-us-_08_____1200x2337.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1838"
 }

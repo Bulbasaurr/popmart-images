@@ -134,5 +134,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:08:50.242Z"
+  "_generated_at": "2026-05-18T05:08:50.242Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241018_182104_897246____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_041234____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2198.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182104_512445____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x1498.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_364830____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2650.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_783520____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2536.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_215717____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x3130.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_384133____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_956152____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_149345____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_130347____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_750566____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20241018_182105_699030____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-detail_12_____1200x2365.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1620"
 }

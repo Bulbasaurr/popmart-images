@@ -125,5 +125,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:24.853Z"
+  "_generated_at": "2026-05-18T05:12:24.853Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250207_162123_846576____1_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x1905.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_981305____2_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2220.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_673372____3_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x727.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_019351____4_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x845.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_444964____5_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x1029.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_226793____6_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x897.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_147213____7_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2412.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_898797____8_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2830.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_473718____9_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2825.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_781506____10_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2826.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_004558____11_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2821.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_246660____12_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2947.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_996508____13_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x2896.jpg",
+    "https://prod-america-res.popmart.com/default/20250207_162123_434770____14_tinytiny-prologue-series-figures_blind-boxes_details_popmart-us_____1200x750.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2082"
 }

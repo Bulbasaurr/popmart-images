@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:15.919Z"
+  "_generated_at": "2026-05-18T05:17:15.919Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250912_145558_669699____1_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x2199.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_468957____2_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1414.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_354640____3_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_989752____4_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x2217.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_569887____5_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1747.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_279576____6_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_950011____7_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1649.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_600753____8_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1658.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_688583____9_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1730.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_145558_815389____10_dimoo-the-missing-day-series-phone-charm-blind-box_phone-accessories_details_popmart-us_____1200x1653.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3788"
 }

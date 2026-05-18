@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:54.875Z"
+  "_generated_at": "2026-05-18T05:18:54.875Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251024_172734_910678____1_cryb-1_____1200x2093.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172736_459760____2_cryb-1_____1200x2501.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172735_824278____3_cryb-1_____1200x2008.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172735_878728____4_cryb-1_____1200x1617.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172737_507974____5_cryb-1_____1200x1621.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172735_120817____6_cryb-1_____1200x1643.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172738_096232____7_cryb-1_____1200x1660.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172735_091148____8_cryb-1_____1200x1721.JPG",
+    "https://prod-america-res.popmart.com/default/20251024_172736_142414____9_cryb-1_____1200x1520.JPG"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4136"
 }

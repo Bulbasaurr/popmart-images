@@ -125,5 +125,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:23.968Z"
+  "_generated_at": "2026-05-18T05:22:23.968Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260313_174015_173621____1_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1787.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_606667____2_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x2256.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_650665____3_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1405.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_753311____4_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1062.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_641223____5_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x882.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_139380____6_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1046.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_732186____7_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_213645____8_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_612020____9_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_040565____10_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_961550____11_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_136739____12_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_365551____13_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_234060____14_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_636585____15_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_553739____16_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_229774____17_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_043692____18_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_954566____19_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174015_481603____20_dimoo-moments-in-bloom-series-figures_blind-boxes_details_pop-mart-us_____1200x761.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6040"
 }

@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:46.215Z"
+  "_generated_at": "2026-05-18T05:17:46.215Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251017_092719_623337____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-1_____1200x1867.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092717_259052____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-2_____1200x1344.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092717_052370____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-3_____1200x752.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092718_326479____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-4_____1200x1773.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092717_900816____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-5_____1200x894.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092717_866756____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-6_____1200x1515.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092718_518945____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-7_____1200x1481.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_092717_801854____dimoo-by-your-side-series-pendant-blind-box-blind-boxes-pop-mart-us-details-8_____1200x1161.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4114"
 }

@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:07.738Z"
+  "_generated_at": "2026-05-18T05:11:07.738Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250106_101544_931864____1_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1900.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101544_841252____2_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x2622.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101544_071636____3_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x2031.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_380404____4_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1745.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_133268____5_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1602.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_482083____6_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1610.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_067547____7_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1603.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_968820____8_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x1728.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_101545_251487____9_molly-daily-look-series-sachet-blind-box_accessories_details_popmart-us_____1200x703.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2031"
 }

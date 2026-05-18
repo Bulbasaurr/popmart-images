@@ -53,5 +53,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:26.129Z"
+  "_generated_at": "2026-05-18T05:19:26.129Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251203_110735_421648____1_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1945.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_749816____2_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1511.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_585577____3_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_167369____4_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x2381.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_070321____5_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x2297.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_713439____6_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1415.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_894713____7_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1025.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110736_921408____8_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1610.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_171795____9_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us-_09_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110735_109468____10_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1608.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110737_439139____11_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1700.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110736_433356____13_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x659.jpg",
+    "https://prod-america-res.popmart.com/default/20251203_110736_040883____14_hacipupu-little-foodie-series-1-12-action-figure_bjd_details_pop-mart-us_____1200x1283.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4519"
 }

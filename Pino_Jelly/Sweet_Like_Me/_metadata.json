@@ -133,5 +133,31 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:38.731Z"
+  "_generated_at": "2026-05-18T05:14:38.731Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250704_182854_629647____1_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1779.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_359309____2_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1645.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_787728____3_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1864.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_083637____4_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1689.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182851_370906____5_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x995.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_677762____6_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x913.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_690094____7_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_949712____8_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_112256____9_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_786818____10_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_362242____11_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_970146____12_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_894491____13_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_955525____14_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_055269____15_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_358975____16_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182854_491901____17_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_157174____18_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_602542____19_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_968836____20_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250704_182855_374210____21_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x834.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3086"
 }

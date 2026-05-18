@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:12.481Z"
+  "_generated_at": "2026-05-18T05:14:12.481Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250530_164834_968042____1_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1819.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164834_578716____2_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x2151.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164834_307664____3_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x686.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164834_782945____4_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x684.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_416937____5_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1000.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_833908____6_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1000.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_068051____7_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x2600.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_872726____8_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x3245.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_963865____9_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x3240.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_909829____10_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x3240.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_851845____11_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x3250.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_144005____12_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_164835_291323____13_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x892.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2790"
 }

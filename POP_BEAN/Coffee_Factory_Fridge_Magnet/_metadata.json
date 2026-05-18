@@ -93,5 +93,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:08.235Z"
+  "_generated_at": "2026-05-18T05:17:08.235Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250912_141459_891077____1_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x2148.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_261678____2_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1632.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_567865____3_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1503.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_406484____4_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1910.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_747687____5_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1742.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_451099____6_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_388681____7_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_172830____8_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1654.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_382767____9_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1739.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_141459_994568____10_pop-bean-coffee-factory-series-fridge-magnet_accessories-_details_popmart-us_____1200x1491.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3781"
 }

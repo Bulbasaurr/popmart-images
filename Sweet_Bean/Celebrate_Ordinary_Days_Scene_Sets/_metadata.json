@@ -109,5 +109,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:10.482Z"
+  "_generated_at": "2026-05-18T05:17:10.482Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250912_172935_569756____1_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1764.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_288388____2_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x2111.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_251744____3_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x2339.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_263762____4_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1923.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_486190____5_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1605.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_325542____6_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_669160____7_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1630.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_527157____8_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1596.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_899779____9_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_480901____10_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1638.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_908109____11_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1591.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_017099____12_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_148733____13_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_149496____14_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1608.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_774577____15_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_172935_937407____16_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x721.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3782"
 }

@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:34.115Z"
+  "_generated_at": "2026-05-18T05:12:34.115Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250403_155627_539787____1-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1816.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155627_414973____2-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x3187.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_300958____3-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1752.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155627_411407____4-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1108.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_554472____5-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1748.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_253285____6-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_143302____7-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1590.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_104807____8-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_339923____9-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x1724.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155628_766121____10-hirono-echo-series-mini-bag-blind-box_blind-boxes_details_popmart-us_____1200x846.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2171"
 }

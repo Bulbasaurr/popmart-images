@@ -93,5 +93,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:13.755Z"
+  "_generated_at": "2026-05-18T05:20:13.755Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251219_175417_897222____1_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x1720.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175416_853699____2_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x1994.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175417_118029____3_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x2081.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175417_741351____4_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x1668.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175417_965280____5_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175417_507148____6_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175418_703502____7_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x973.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_175418_958459____8_disney-classics-pop-cube-3-series-figures-_blind-boxes_details_pop-mart-us_____1200x851.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5238"
 }

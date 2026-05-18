@@ -141,5 +141,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:38.149Z"
+  "_generated_at": "2026-05-18T05:16:38.149Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250822_170623_246486____1_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1956.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_157205____2_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x3812.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_132367____3_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x3067.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170622_533949____4_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1524.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_138150____5_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2015.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_143400____6_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1782.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_121208____7_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mar-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_536391____8_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_539962____9_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_516770____10_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_272576____11_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_160102____12_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1630.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_673302____13_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_860902____14_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170622_471353____15_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_613789____16_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_170623_746298____17_the-monsters-pin-for-love-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1423.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3034"
 }

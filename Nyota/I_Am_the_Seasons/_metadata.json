@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:41.683Z"
+  "_generated_at": "2026-05-18T05:14:41.683Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250718_174458_089790____1_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1903.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_160767____2_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1867.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174457_373153____3_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1384.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_828117____4_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1894.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_360538____5_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1023.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_119231____6_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_544656____7_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174459_821107____8_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_377688____9_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_103628____10_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_482480____11_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_735975____12_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1630.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_513303____13_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_308711____14_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_516081____15_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_486576____16_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_333637____17_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174459_259076____18_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174458_055451____19_nyota-i-am-the-seasons-series-figures_blind-boxes_details_popmart-us_____1200x813.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3087"
 }

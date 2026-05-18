@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:56.754Z"
+  "_generated_at": "2026-05-18T05:23:56.754Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260410_180809_163941____1_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1796.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_573341____2_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1816.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_067435____3_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_281179____4_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1006.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_100876____5_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1773.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_650549____6_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_020382____7_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_104774____8_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1700.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180809_860719____9_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1670.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6231"
 }

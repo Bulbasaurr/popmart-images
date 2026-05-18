@@ -61,5 +61,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:54.820Z"
+  "_generated_at": "2026-05-18T05:23:54.820Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260410_180615_765857____1_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1720.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_807191____2_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_969959____3_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1396.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_647805____4_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1795.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_006320____5_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1047.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_272146____6_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1994.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180615_962714____7_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180616_085067____8_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180616_286736____9_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180616_504832____10_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180616_793981____11_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1107.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180616_864297____12_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x847.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6230"
 }

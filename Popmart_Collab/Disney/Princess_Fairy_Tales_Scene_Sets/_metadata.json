@@ -93,5 +93,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:27.765Z"
+  "_generated_at": "2026-05-18T05:12:27.765Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250324_171955_988106____1_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x2008.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_800298____2_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x1990.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171954_762665____3_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x712.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171954_112098____4_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x726.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171954_183017____5_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x1076.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171954_168366____6_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x920.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_311203____7_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x2574.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_659166____8_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x3082.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_787843____9_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x3080.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_027875____10_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x3082.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_762508____11_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x3076.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_425510____12_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x1596.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_171955_001350____13_disney-princess-s-fairy-tales-series-scene-sets_blind-boxes_details_popmart-us_____1200x902.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2140"
 }

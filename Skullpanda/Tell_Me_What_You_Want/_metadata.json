@@ -109,5 +109,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:04.197Z"
+  "_generated_at": "2026-05-18T05:10:04.197Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241031_180926_608367____01_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1883.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180926_699220____02_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180926_783906____03_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1495.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180926_662226____04_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x720.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180926_055916____05_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1080.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180926_921273____06_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x885.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_724752____07_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x2549.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_391563____08_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_717262____09_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_224509____10_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_539812____11_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_920385____12_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1576.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_303729____13_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_648552____14_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_676578____15_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_724166____16_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_258593____17_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20241031_180927_289081____18_skullpanda-tell-me-what-you-want-series-figures_blind-boxes_details_popmart-us_____1200x1572.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1714"
 }

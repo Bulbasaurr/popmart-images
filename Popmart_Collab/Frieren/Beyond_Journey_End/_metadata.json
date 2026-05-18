@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:53.046Z"
+  "_generated_at": "2026-05-18T05:21:53.046Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260119_164934_108342_____frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1594.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_643185____2_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1952.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_843550____3_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x2446.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_454341____4_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x2052.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_729543____5_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1948.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_080832____6_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x2000.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_774299____7_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1996.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_998461____8_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1912.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_364073____9_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1429.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164936_326216____10_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x972.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164935_026366____11_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1691.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164936_323354____12_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1364.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164936_468501____13_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x979.jpg",
+    "https://prod-america-res.popmart.com/default/20260119_164936_834595____14_frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1789.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5761"
 }

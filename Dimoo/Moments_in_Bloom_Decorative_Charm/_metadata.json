@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:24.520Z"
+  "_generated_at": "2026-05-18T05:22:24.520Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260313_174142_527016____1_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1773.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174142_760163____2_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1429.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174142_257924____3_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1423.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174142_116417____4_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x2129.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174142_003966____5_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1785.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174143_793776____6_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174142_178822____7_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174143_449592____8_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174143_932772____9_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_174143_994440____10_dimoo-moments-in-bloom-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1559.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6041"
 }

@@ -109,5 +109,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:11.197Z"
+  "_generated_at": "2026-05-18T05:19:11.197Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251110_114509_612617____1_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1892.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114505_754944____2_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1418.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114505_834876____3_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1380.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114505_034212____4_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1971.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114507_299085____5_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1053.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114505_370761____6_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114506_591155____7_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114508_781073____8_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114507_985213____9_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114507_730636____10_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114506_059112____11_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114508_058169____12_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114509_098036____13_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114508_260739____14_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114508_117206____15_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114509_569248____16_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x1724.jpg",
+    "https://prod-america-res.popmart.com/default/20251110_114508_429719____17_the-monsters-100-a-m-series-figures_blind-boxes_details_pop-mart-us_____1200x684.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4367"
 }

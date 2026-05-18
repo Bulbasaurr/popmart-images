@@ -125,5 +125,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:50.961Z"
+  "_generated_at": "2026-05-18T05:06:50.961Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250813_130510_366202____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_01_____1200x1928.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_682918____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_02_____1200x2241.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_928455____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_03_____1200x1467.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_360145____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_04_____1200x1012.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_215824____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_05_____1200x959.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_101535____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_06_____1200x875.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_722068____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_07_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_673963____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_08_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_825121____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_09_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_362404____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_10_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_149670____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_11_____1200x3123.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_835652____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_12_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_655716____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_13_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20250813_130510_619146____zsiga-we-all-are-kids-series-figures_blind-boxes_details_popmart-us-_14_____1200x2234.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1558"
 }

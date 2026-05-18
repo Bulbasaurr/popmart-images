@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:46.692Z"
+  "_generated_at": "2026-05-18T05:12:46.692Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250403_154930_417174____1_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1839.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_876532____2_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1639.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_109305____3_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1512.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_268788____4_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1886.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_874852____5_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x979.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_054256____6_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1839.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_110980____7_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_972350____8_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1541.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_576841____9_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x1686.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_154930_709646____10_-hirono-echo-series-2-in-1-cable-blind-box_blind-boxes_details_popmart-us_____1200x2523.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2240"
 }

@@ -117,5 +117,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:27.003Z"
+  "_generated_at": "2026-05-18T05:06:27.003Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240730_104224_348930____mega-space-molly-100-series-3-mega-pop-mart-us-details-1_____1200x2203.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_042933____mega-space-molly-100-series-3-mega-pop-mart-us-details-2_____1200x1865.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_026905____mega-space-molly-100-series-3-mega-pop-mart-us-details-3_____1200x2198.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_715756____mega-space-molly-100-series-3-mega-pop-mart-us-details-4_____1200x1765.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_480891____mega-space-molly-100-series-3-mega-pop-mart-us-details-5_____1200x898.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_532427____mega-space-molly-100-series-3-mega-pop-mart-us-details-6_____1200x1740.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_838469____mega-space-molly-100-series-3-mega-pop-mart-us-details-7_____1200x3612.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_869076____mega-space-molly-100-series-3-mega-pop-mart-us-details-8_____1200x3598.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_554652____mega-space-molly-100-series-3-mega-pop-mart-us-details-9_____1200x3599.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_109057____mega-space-molly-100-series-3-mega-pop-mart-us-details-10_____1200x3593.jpg",
+    "https://prod-america-res.popmart.com/default/20240730_104224_464206____mega-space-molly-100-series-3-mega-pop-mart-us-details-11_____1200x2850.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1463"
 }

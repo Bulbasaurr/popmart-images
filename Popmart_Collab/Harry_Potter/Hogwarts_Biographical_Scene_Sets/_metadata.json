@@ -109,5 +109,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:54.378Z"
+  "_generated_at": "2026-05-18T05:16:54.378Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_173258_736079____1_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1734.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_544000____2_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x2587.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_028358____3_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1398.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_667594____4_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1757.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_958464____5_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_422706____6_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_848808____7_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_886350____8_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_373221____9_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_365210____10_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_391915____11_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_889857____12_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_512032____13_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_753253____14_harry-potter-hogwarts-biographical-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_254186_____15_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_653965_____16_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173258_194043_____17_____1200x791.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3688"
 }

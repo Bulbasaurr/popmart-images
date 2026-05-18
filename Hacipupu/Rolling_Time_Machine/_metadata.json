@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:10.855Z"
+  "_generated_at": "2026-05-18T05:14:10.855Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250523_180428_104841____1_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1728.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_244685____2_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1899.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_757519____3_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1365.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_761271____4_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1890.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_536553____5_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x981.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_879576____6_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_241323____7_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1630.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_683593____8_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_209060____9_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_556523____10_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_546693____11_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_549669____12_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_709837____13_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1631.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_455577____14_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_898494____15_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_849630____16_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1632.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_222895____17_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_168901____18_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x1712.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_180428_479449____19_hacipupu-rolling-time-machine-series-figures_blind-boxes_details_popmart-us_____1200x799.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2786"
 }

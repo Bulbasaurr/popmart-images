@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:49.359Z"
+  "_generated_at": "2026-05-18T05:19:49.359Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251128_184227_957927____1_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1708.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184220_994670____2_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x2141.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184219_456007____3_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1356.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184227_024133____4_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1953.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184228_969089____5_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1062.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184224_248324____6_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184243_936690____7_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184246_792006____8_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184241_366140____9_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184253_858759____10_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184251_420505____11_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184255_441411____12_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184300_020798____13_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184258_668132____14_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184319_820314____15_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184307_979551____16_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184315_993435____17_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184319_106015____18_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x1685.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184313_042121____19_kubo-angel-s-poem-series-figures_blind-boxes_details_pop-mart-us_____1200x772.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4715"
 }

@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:38.733Z"
+  "_generated_at": "2026-05-18T05:14:38.733Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250707_183231_969653____1_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x2102.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_427961____2_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x2122.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183230_257178____3_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1378.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_323493____4_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1877.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183230_322963____5_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1039.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_283580____6_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_665261____7_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_391516____8_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183230_991819____9_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_635201____10_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_179305____11_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_533632____12_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_586269____13_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_394143____14_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_787643____15_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_971030____16_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_157213____17_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183231_844024____18_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x1696.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_183230_231606____19_dimoo-shapes-in-nature-series-figures_blind-boxes_details_popmart-us_____1200x769.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3029"
 }

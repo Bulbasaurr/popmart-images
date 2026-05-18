@@ -125,5 +125,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:13:08.223Z"
+  "_generated_at": "2026-05-18T05:13:08.223Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250515_163351_871983____1_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1934.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_218134____2_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x2129.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163348_563318____3_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1479.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_706071____4_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1915.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_352088____5_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x980.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_719383____6_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_354553____7_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_971775____8_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_472271____9_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1786.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_692968____10_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_965190____11_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_394424____12_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_388852____13_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_625906____14_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_039598____15_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1805.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_701315____16_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_200294____17_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163351_814745____18_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x1907.jpg",
+    "https://prod-america-res.popmart.com/default/20250515_163348_218827____19_chaka-candle-whisper-series-figures_blind-boxes_details_popmart-us_____1200x734.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images"
 }

@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:25.626Z"
+  "_generated_at": "2026-05-18T05:21:25.626Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260109_173047_163574____1_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1591.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_555649____2_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1580.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_823501____3_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1460.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_892287____4_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x2213.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_971539____5_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1824.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173047_173792____6_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_923116____7_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173048_994333____8_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1725.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_173047_873770____9_pucky-tap-tap-babies-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1310.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5703"
 }

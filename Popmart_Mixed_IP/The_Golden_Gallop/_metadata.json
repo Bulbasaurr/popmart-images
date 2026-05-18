@@ -229,5 +229,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:37.586Z"
+  "_generated_at": "2026-05-18T05:21:37.586Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260104_143620_254692____1_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x2583.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_550964____2_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x2237.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_232944____3_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1374.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_342767____4_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1828.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_958736____5_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1773.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_510551____6_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1862.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_085503____7_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_453158____8_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_867241____9_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_178143____10_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_957933____11_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143620_577847____12_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_400477____13_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_461546____14_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_884626____15_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_909755____16_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_134153____17_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_549361____18_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_595138____19_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x1702.jpg",
+    "https://prod-america-res.popmart.com/default/20260104_143621_046936____20_the-golden-gallop-series-figures_blind-boxes_details_pop-mart-us_____1200x806.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5686"
 }

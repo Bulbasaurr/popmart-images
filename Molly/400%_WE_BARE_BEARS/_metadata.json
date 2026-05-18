@@ -45,5 +45,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:41.745Z"
+  "_generated_at": "2026-05-18T05:17:41.745Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250926_115320_102647____1_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x2364.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_361122____2_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_533339____3_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x1607.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_482297____4_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x1030.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_526337____5_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x2031.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_341903____6_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x2672.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_868283____7_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x1876.jpg",
+    "https://prod-america-res.popmart.com/default/20250926_115320_756086____8_mega-space-molly-400-we-bare-bears_mega_details_pop-mart-us_____1200x1574.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3806"
 }

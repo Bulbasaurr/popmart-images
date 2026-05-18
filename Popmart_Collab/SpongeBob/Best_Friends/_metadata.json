@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:33.141Z"
+  "_generated_at": "2026-05-18T05:12:33.141Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250403_160846_699261____1_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1530.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160846_725947____2_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x2118.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160846_103636____3_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1487.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_223385____4_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1921.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_407348____5_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x988.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_454206____6_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_748233____7_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_854570____8_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_926676____9_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1794.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_973497____10_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_348959____11_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_804212____12_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1813.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_794219____13_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_837697____14_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_544180____15_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_024370____16_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_182304____17_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_160847_720028____18_-spongebob-best-friends-series-figures_blind-boxes_details_popmart-us_____1200x2640.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2168"
 }

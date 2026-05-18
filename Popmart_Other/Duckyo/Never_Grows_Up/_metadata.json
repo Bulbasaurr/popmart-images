@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:23.308Z"
+  "_generated_at": "2026-05-18T05:16:23.308Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250822_171247_074154____1_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_035879____2_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x2071.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_059188____3_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1368.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_910572____4_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1870.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_751697____5_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_448662____6_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_635019____7_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_879688____8_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_274914____9_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_611598____10_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_861027____11_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_360371____12_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_763260____13_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_512106____14_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1633.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_406661____15_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_389282____16_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_640461____17_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_703481____18_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x1702.jpg",
+    "https://prod-america-res.popmart.com/default/20250822_171247_532630____19_duckyo-never-grows-up-series-figures_accessories_details_pop-mart-us_____1200x819.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3511"
 }

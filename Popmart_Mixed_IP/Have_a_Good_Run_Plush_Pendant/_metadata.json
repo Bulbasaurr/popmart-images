@@ -85,5 +85,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:38.563Z"
+  "_generated_at": "2026-05-18T05:21:38.563Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251231_150238_579728____1_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_492433____2_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2428.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_713239____3_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1825.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_804541____4_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1968.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_309016____5_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2060.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_348932____6_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150238_954862____7_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_935316____8_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_373515____9_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150240_831006____10_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_669674____11_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150239_294377____12_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150240_706380____13_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1721.jpg",
+    "https://prod-america-res.popmart.com/default/20251231_150240_388776____14_have-a-good-run-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5685"
 }

@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:49.825Z"
+  "_generated_at": "2026-05-18T05:18:49.825Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251024_184757_249052____1_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1885.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_168191____2_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x2169.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_233334____3_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1380.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_915972____4_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1980.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_348299____5_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1040.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_330387____6_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184758_913463____7_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_532007____8_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_533575____9_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_179864____10_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_693397____11_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_779846____12_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_380499____13_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_801718____14_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_555066____15_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184800_606381____16_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184800_205590____17_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184800_130353____18_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x1709.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_184759_891176____19_skullpanda-the-feast-begins-series-figures_blind-boxes_details_pop-mart-us_____1200x815.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4139"
 }

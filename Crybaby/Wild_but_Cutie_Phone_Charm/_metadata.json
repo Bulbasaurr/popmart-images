@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:04.261Z"
+  "_generated_at": "2026-05-18T05:14:04.261Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250512_144335_600282____1_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x2144.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_470421____2_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1738.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_652496____3_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1532.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_671342____4_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1980.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_743190____5_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1774.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_816502____6_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_149504____7_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_122286____8_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_806362____9_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1732.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_144335_614459____10_crybaby-wild-but-cutie-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x935.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2776"
 }

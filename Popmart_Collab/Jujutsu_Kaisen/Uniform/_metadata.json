@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:54.080Z"
+  "_generated_at": "2026-05-18T05:06:54.080Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241114_111752_458363____01_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1868.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_484014____02_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x2249.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_287155____03_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x743.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111751_576954____04_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x809.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_118287____05_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1028.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111751_796100____06_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x890.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_365783____07_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x2519.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_668274____08_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_802047____09_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_354494____10_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111751_253609____11_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1557.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_037381____12_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_219517____13_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1562.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_809444____14_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_987055____15_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_025277____16_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_608607____17_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_182604____18_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x1687.jpg",
+    "https://prod-america-res.popmart.com/default/20241114_111752_841926____19_jujutsu-kaisen-uniform-series-figures_blind-boxes_details_popmart-us_____1200x744.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1574"
 }

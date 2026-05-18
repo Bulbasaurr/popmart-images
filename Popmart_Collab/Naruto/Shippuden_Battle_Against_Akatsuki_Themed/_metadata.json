@@ -117,5 +117,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:04.509Z"
+  "_generated_at": "2026-05-18T05:19:04.509Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251031_174429_058269____1_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2744.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174431_153818____2_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2456.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174432_320071____3_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2323.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174432_840620____4_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2260.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174433_085552____5_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2147.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174433_866755____6_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2175.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174430_679290____7_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2011.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174431_332457____8_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2461.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174432_754338____9_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2260.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174434_259121____10_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2365.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174433_905471____11_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2477.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174434_052861____12_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x2284.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174434_482252____13_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x1887.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174435_662344____14_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x1729.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174434_226944____15_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x1854.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174435_639028____16_naruto-shippuden-series-battle-against-akatsuki-themed-figure_blind-boxes_details_pop-mart-us_____1200x870.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4255"
 }

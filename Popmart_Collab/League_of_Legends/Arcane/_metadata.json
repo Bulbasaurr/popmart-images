@@ -109,5 +109,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:46.185Z"
+  "_generated_at": "2026-05-18T05:12:46.185Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250423_190706_957033____1_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1903.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190706_581521____2_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1759.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_571935____3_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1494.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_279710____4_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1764.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190706_916698____5_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x907.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_625793____6_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x961.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_131482____7_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_846524____8_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_468508____9_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_153102____10_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_235264____11_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_133755____12_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_920400____13_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_580550____14_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_952547____15_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_830350____16_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_094698____17_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x1673.jpg",
+    "https://prod-america-res.popmart.com/default/20250423_190707_324667____18_league-of-legends-arcane-series-figures_blind-boxes_details_popmart-us_____1200x825.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2218"
 }

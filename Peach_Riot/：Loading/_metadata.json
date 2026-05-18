@@ -125,5 +125,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:01.908Z"
+  "_generated_at": "2026-05-18T05:10:01.908Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241030_112814_115243____1_01_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x1742.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_435848____1_02_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x2212.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112813_916236____1_03_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x739.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112813_920755____1_04_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x808.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112814_234427____1_05_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x1021.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112813_785398____1_06_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x912.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_725893____1_07_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x2524.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112814_043172____1_08_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x3128.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_887776____1_09_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x2386.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_947398____1_10_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x3124.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_943162____2_01_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x2388.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_352398____2_02_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_456073____2_03_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x2393.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_681458____2_04_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x3130.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112815_280145____2_05_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x1657.jpg",
+    "https://prod-america-res.popmart.com/default/20241030_112814_413049____2_06_details_lil-peach-riot-loading-series-figures_blind-boxes_popmart-us_____1200x728.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1711"
 }

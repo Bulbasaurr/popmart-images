@@ -85,5 +85,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:50.986Z"
+  "_generated_at": "2026-05-18T05:21:50.986Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260116_174848_483720____1_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1756.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174848_933666____2_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1258.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_129928____3_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1492.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_200877____4_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1694.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174848_887635____5_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x956.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_301189____6_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1745.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_391363____7_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_579735____8_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_042637____9_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_929006____10_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_950600____11_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_775823____12_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174850_915134____13_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_428463____14_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1796.jpg",
+    "https://prod-america-res.popmart.com/default/20260116_174849_142270____15_twinkle-twinkle-crush-on-you-series-photo-frame-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1988.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5760"
 }

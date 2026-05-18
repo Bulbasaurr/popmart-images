@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:51.759Z"
+  "_generated_at": "2026-05-18T05:16:51.759Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_172927_170654____1_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1985.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_417297____2_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1688.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_652026____3_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1384.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_803134____4_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1866.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_084752____5_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_119961____6_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_686051____7_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_988778____8_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_432682____9_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_373917____10_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_163327____11_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_645262____12_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172926_122518____13_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_028527____14_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_770117____15_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172927_531756____16_chucky-franchise-series-figures_blind-boxes_details_pop-mart-us_____1200x910.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3615"
 }

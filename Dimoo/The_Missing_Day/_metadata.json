@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:01.476Z"
+  "_generated_at": "2026-05-18T05:17:01.476Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251205_115010_324719____1_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1987.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115010_194299____2_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x2114.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115010_050795____3_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1400.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115010_775883____4_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1871.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115010_463215____5_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1044.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115012_521169____6_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_914717____7_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_361419____8_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_882815____9_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_310028____10_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_662231____11_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_520189____12_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_175370____13_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_442439____14_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_095592____15_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_123950____16_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115012_568971____17_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115011_522054____18_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_115012_760998____19_dimoo-the-missing-day-series_blind-boxes_details_pop-mart-us_____1200x813.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3691"
 }

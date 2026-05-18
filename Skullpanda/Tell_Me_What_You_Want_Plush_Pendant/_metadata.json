@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:05.886Z"
+  "_generated_at": "2026-05-18T05:10:05.886Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241104_182438_664041____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_01_____1200x2092.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_451972____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_02_____1200x1176.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_171403____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_03_____1200x791.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_853534____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_04_____1200x2770.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_096248____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_05_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_769423____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_06_____1200x1460.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_210987____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_07_____1200x1606.jpg",
+    "https://prod-america-res.popmart.com/default/20241104_182438_663648____skullpanda-tell-me-what-you-want-series-plush-pendant-accessories-pop-mart-us-detail_08_____1200x1421.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1717"
 }

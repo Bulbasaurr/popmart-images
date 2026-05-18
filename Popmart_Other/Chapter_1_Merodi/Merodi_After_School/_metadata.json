@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:17.393Z"
+  "_generated_at": "2026-05-18T05:22:17.393Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260220_173101_098448____1_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1794.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_595338____2_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x2202.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173101_549854____3_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1345.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_787114____4_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1935.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173100_609307____5_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1483.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_078230____6_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173101_519043____7_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_330212____8_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_628411____9_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_184000____10_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_938211____11_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173102_708310____12_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173103_408844____13_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173103_347460____14_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173103_871822____15_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173104_096916____16_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173103_243431____17_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173104_068658____18_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20260220_173103_870454____19_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x755.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5835"
 }

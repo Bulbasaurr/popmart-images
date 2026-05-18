@@ -109,5 +109,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:22.871Z"
+  "_generated_at": "2026-05-18T05:06:22.871Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240718_104940_499853____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-1_____1200x1746.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_735902____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-2_____1200x2363.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_001325____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-3_____1200x748.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_717836____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-4_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_311174____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-5_____1200x885.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_182899____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-6_____1200x2472.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104941_315549____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-7_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104941_355631____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-8_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_716279____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-9_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104941_872554____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-10_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_553611____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-11_____1200x3222.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_104940_150372____romantic-ring-box-series-3-scene-sets-blind-boxes-pop-mart-us-details-12_____1200x646.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1450"
 }

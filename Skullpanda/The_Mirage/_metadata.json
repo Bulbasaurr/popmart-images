@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:27.768Z"
+  "_generated_at": "2026-05-18T05:12:27.768Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250428_154817_489700____1_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x1904.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_453225____2_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x1833.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_734484____3_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x714.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_431070____4_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x707.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_178068____5_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x1040.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_080360____6_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x930.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_994546____7_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x3060.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_202469____8_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x2872.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_476354____9_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x2905.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_952741____10_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x2881.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_183042____11_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x2868.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_579172____12_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x1510.jpg",
+    "https://prod-america-res.popmart.com/default/20250428_154817_882773____13_skullpanda-the-mirage-series-figures_blind-boxes_details_popmart-us_____1200x860.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2142"
 }

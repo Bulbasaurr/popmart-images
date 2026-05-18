@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:40.657Z"
+  "_generated_at": "2026-05-18T05:21:40.657Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260109_172304_066052____1_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1645.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172305_515201____2_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1315.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172305_984572____3_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1392.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_728022____4_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1987.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_856369____5_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1188.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_915724____6_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172305_525724____7_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172305_104423____8_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_745180____9_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_516127____10_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_005976____11_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_810830____12_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_739415____13_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1713.jpg",
+    "https://prod-america-res.popmart.com/default/20260109_172306_609968____14_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1883.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5688"
 }

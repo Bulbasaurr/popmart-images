@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:01.932Z"
+  "_generated_at": "2026-05-18T05:19:01.932Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251031_170444_912334____1_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x2009.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170443_666572____2_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1390.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170443_379113____3_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1511.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170444_513160____4_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x2065.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170443_738696____5_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1815.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170444_271680____6_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170443_249051____7_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170445_522111____8_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170446_974202____9_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170444_363004____10_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1742.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170444_347653____11_dimoo-journal-of-new-life-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x800.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4448"
 }

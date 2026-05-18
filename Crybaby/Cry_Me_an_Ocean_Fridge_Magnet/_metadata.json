@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:21.664Z"
+  "_generated_at": "2026-05-18T05:24:21.664Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260508_181037_383729____1_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_854099____2_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x2090.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_248738____3_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1250.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_040154____4_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1030.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_566022____5_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_557213____6_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_198407____7_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1709.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_181037_297360____8_crybaby-cry-me-an-ocean-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1376.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6434"
 }

@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:24.554Z"
+  "_generated_at": "2026-05-18T05:06:24.554Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240718_170017_193645____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-1_____1200x2076.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170018_922544____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-2_____1200x2078.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170017_543020____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-3_____1200x758.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170018_826079____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-4_____1200x1793.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170018_209835____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-5_____1200x976.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170018_875527____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-6_____1200x2906.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170017_793013____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-7_____1200x2853.jpg",
+    "https://prod-america-res.popmart.com/default/20240718_170017_479795____the-monsters-party-series-reversible-plush-toy-blind-box-blind-boxes-pop-mart-us-details-8_____1200x696.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1461"
 }

@@ -61,5 +61,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:34.108Z"
+  "_generated_at": "2026-05-18T05:17:34.108Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_104750_453004____1_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2017.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_809870____2_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2514.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_791362____3_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2549.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_293191____4_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2509.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_908757____5_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2630.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_045365____6_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2690.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_965717____7_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2471.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_289115____8_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2275.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104750_478170____9_spy-family-anya-s-daily-life-dlc-series-figures_blind-boxes_details_pop-mart-us_____1200x2318.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3843"
 }

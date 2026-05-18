@@ -101,5 +101,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:13.410Z"
+  "_generated_at": "2026-05-18T05:14:13.410Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250530_115400_073311____1_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x1873.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_293638____2_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x1831.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115359_754245____3_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x829.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115359_933760____4_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x712.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_657567____5_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x1003.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115359_249746____6_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x898.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_358047____7_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x2578.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_040665____8_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x3240.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_029099____9_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x3241.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_855135____10_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x3239.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_447705____11_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x3241.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_859848____12_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20250530_115400_801987____13_care-bears-colorful-hugs-series-figures_blind-boxes_details_popmart-us_____1200x686.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2791"
 }

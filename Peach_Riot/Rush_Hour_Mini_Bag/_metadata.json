@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:17.361Z"
+  "_generated_at": "2026-05-18T05:12:17.361Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250213_120802_626122____1_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1965.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_164098____2_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x2191.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_464475____3_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x721.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_911676____4_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1036.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_619124____5_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x929.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_732599____6_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x972.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_684959____7_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1831.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_964967____8_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_774302____9_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_351653____10_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_047905____11_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_461175____12_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1714.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_531063____13_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x517.jpg",
+    "https://prod-america-res.popmart.com/default/20250213_120802_978538____14_peach-riot-rush-hour-series-mini-bag-blind-box_accessories_details_popmart-us_____1200x1233.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2044"
 }

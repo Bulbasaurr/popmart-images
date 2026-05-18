@@ -78,5 +78,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:25.668Z"
+  "_generated_at": "2026-05-18T05:12:25.668Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250317_160517_347386____1_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x2006.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160517_573136____2_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1099.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160516_170422____3_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x714.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160516_728400____4_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x722.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160517_572197____5_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1000.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160516_774449____6_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x908.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160517_997895____7_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x3365.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160517_987228____8_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x3364.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160517_129904____9_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x597.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_160516_803331____10_dimoo-world-disney-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x693.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2133"
 }

@@ -109,5 +109,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:38.769Z"
+  "_generated_at": "2026-05-18T05:22:38.769Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260327_172913_932799____1_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_927993____2_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x2174.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_554114____3_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1370.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_301382____4_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_844655____5_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x890.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_917812____6_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1034.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_180026____7_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_969483____8_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_584740____9_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_584628____10_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_410106____11_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_161467____12_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_486183____13_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_153682____14_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_732503____15_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_196241____16_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_902287____17_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1695.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_172913_336827____18_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x865.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6118"
 }

@@ -125,5 +125,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:31.505Z"
+  "_generated_at": "2026-05-18T05:12:31.505Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250205_094644_306202____1_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x1843.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_245817____2_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2273.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094644_544886____3_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x743.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094644_818289____4_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x839.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094644_879724____5_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x1009.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094644_596364____6_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x923.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_617409____7_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2404.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_579245____8_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2833.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_146087____9_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2819.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_443747____10_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_268577____11_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_036451____12_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2944.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094645_716561____13_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x2903.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_094644_416811____14_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x741.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2154"
 }

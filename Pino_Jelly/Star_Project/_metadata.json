@@ -133,5 +133,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:38.791Z"
+  "_generated_at": "2026-05-18T05:06:38.791Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240829_104923_228252____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_01_____1200x2077.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104923_887151____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_02_____1200x2364.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_118110____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_03_____1200x2190.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_499839____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_04_____1200x1904.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_344745____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_05_____1200x961.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_395477____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_06_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_556999____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_07_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_334942____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_08_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_039245____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_09_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_496462____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_10_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_598931____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_11_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_265775____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_12_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_558430____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_13_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_227801____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_14_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_008381____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_15_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_116173____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_16_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_183689____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_17_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104924_762608____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_18_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240829_104925_215340____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-_details_19_____1200x2340.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1525"
 }

@@ -117,5 +117,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:36.556Z"
+  "_generated_at": "2026-05-18T05:14:36.556Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250623_104347_484297____1_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1895.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_322413____2_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1635.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_902374____3_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1968.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_482451____4_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x2072.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_985565____5_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1191.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_441673____6_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1578.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_403376____7_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_832291____8_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250623_104347_000131____9_twinkle-twinkle-create-your-taste-series-figures_-blind-boxes_details_popmart-us_____1200x899.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3026"
 }

@@ -77,5 +77,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:19.735Z"
+  "_generated_at": "2026-05-18T05:24:19.735Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260508_180833_441814____1_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1790.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_021805____2_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1480.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_755844____3_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x811.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_049929____4_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x826.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_208636____5_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1030.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_257748____6_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x883.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_480141____7_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_423685____8_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_837724____9_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_274815____10_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_378636____11_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_160486____12_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_398836____13_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_402467____14_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_318708____15_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x874.jpg",
+    "https://prod-america-res.popmart.com/default/20260508_180833_602615____16_crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box-_accessories_details_pop-mart-us_____1200x736.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6433"
 }

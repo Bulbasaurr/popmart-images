@@ -109,5 +109,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:28.663Z"
+  "_generated_at": "2026-05-18T05:06:28.663Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240801_185159_390781____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-1_____1200x1696.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_242597____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-2_____1200x2288.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185158_725156____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-3_____1200x757.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185158_911811____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-4_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185158_035551____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-5_____1200x885.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_412661____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-6_____1200x2798.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185158_608584____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-7_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_212420____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-8_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_784684____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-9_____1200x3130.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_269830____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-10_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185159_344400____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-11_____1200x3250.jpg",
+    "https://prod-america-res.popmart.com/default/20240801_185158_627680____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-details-12_____1200x650.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1470"
 }

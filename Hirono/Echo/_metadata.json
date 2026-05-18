@@ -125,5 +125,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:32.114Z"
+  "_generated_at": "2026-05-18T05:12:32.114Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250403_162604_807893____1_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1900.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_659359____2_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x2120.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_273193____3_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1477.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_817622____4_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1928.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_356007____5_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x986.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_195410____6_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_034744____7_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_056028____8_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_512150____9_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1781.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_971168____10_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_666773____11_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_681326____12_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_106500____13_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1813.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_364779____14_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_967616____15_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_629254____16_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_767406____17_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_099337____18_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1920.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162605_608545____19_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x1894.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_162604_412072____20_-hirono-echo-series-figures_blind-boxes_details_popmart-us_____1200x738.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2166"
 }

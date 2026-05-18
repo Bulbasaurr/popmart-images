@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:49.767Z"
+  "_generated_at": "2026-05-18T05:16:49.767Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_172645_197044____1_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_702832____2_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1907.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_161989____3_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1379.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_171257____4_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1951.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_021682____5_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1654.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_946823____6_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_931430____7_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_087733____8_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_402678____9_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_199438____10_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_829352____11_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_289486____12_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_950018____13_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_730816____14_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_609359____16_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_819646____17_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_286960____18_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_172645_619619____19_disney-chip-n-dale-fun-loving-brothers-series-figures_blind-boxes_details_popmart-us_____1200x849.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3334"
 }

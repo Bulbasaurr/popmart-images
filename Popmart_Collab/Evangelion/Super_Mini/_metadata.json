@@ -165,5 +165,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:00.633Z"
+  "_generated_at": "2026-05-18T05:19:00.633Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251024_173147_692868____1_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1969.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173147_562813____3_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173148_679661____4_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1917.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173150_395407____6_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1345.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173149_325006____7_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x2030.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173150_951429____8_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1590.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173148_447852____9_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x2024.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173148_478828____10_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1917.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173150_270813____11_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x2058.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173150_464586____12_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x2010.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173150_483633____13_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1970.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173152_932081____14_evangelion-super-mini-figure_blind-boxes_details_pop-mart-us_____1200x1001.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3937"
 }

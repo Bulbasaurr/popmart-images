@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:52.980Z"
+  "_generated_at": "2026-05-18T05:14:52.980Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250801_155629_360711____1_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1878.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_347791____2_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1505.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_974343____3_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1596.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_779612____4_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x2181.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_224349____5_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1750.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_928637____6_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_260790____7_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_062882____8_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_640376____9_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_100714____10_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1728.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_155629_452202____11_dimoo-crush-on-coffee-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1788.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3326"
 }

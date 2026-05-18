@@ -93,5 +93,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:18.160Z"
+  "_generated_at": "2026-05-18T05:10:18.160Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241127_092143_224295____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_01_____1200x1638.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_564829____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_02_____1200x2173.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_033539____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_03_____1200x1602.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_370950____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_04_____1200x1029.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_393770____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_05_____1200x921.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_974329____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_06_____1200x2160.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_785664____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_07_____1200x2547.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_823277____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_08_____1200x2551.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_487085____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_09_____1200x2544.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_580972____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_10_____1200x2618.jpg",
+    "https://prod-america-res.popmart.com/default/20241127_092143_494375____zootopia-highlight-moment-series-scene-sets_blind-boxes_details_popmart-us-_11_____1200x855.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1750"
 }

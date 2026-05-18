@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:58.287Z"
+  "_generated_at": "2026-05-18T05:12:58.287Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250425_181052_305543____1_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_019435____2_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x2348.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_153333____3_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1519.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_490396____4_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1927.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_871929____5_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1962.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_249592____6_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_023650____7_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_975655____8_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1788.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_392922____9_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_420157____10_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_743776____11_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_391194____12_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_478819____13_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_638297____14_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_207296____15_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_724906____16_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_392568____17_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x1879.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_181052_905966____18_gift-for-you-greeting-card-series-scene-sets_blind-boxes_details_popmart-us_____1200x761.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2294"
 }

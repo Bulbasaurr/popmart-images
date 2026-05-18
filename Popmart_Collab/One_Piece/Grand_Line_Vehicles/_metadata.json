@@ -125,5 +125,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:15:13.412Z"
+  "_generated_at": "2026-05-18T05:15:13.412Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250815_143327_232796____1_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x2111.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_010389____2_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x2237.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143326_226728____3_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1380.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_905841____4_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1873.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_210802____5_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_869591____6_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x880.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_014191____7_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_516594____8_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_351578____9_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_927822____10_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_661656____11_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_269462____12_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_528930____13_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_903204____14_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_616206____15_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_362443____16_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_772457____17_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_617166____18_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143327_474207____19_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x1721.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_143326_531780____20_one-piece-the-grand-line-series-vehicles_blind-boxes_details_pop-mart-us_____1200x806.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3442"
 }

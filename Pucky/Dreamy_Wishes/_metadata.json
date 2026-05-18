@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:04.622Z"
+  "_generated_at": "2026-05-18T05:24:04.622Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260423_141427_843888____1_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_048319____2_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x2753.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_427679____3_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1400.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_084873____4_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1974.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_001150____5_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1188.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_756999____6_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141428_456215____7_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_522159____8_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_607810____9_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_242344____10_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_692849____11_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_882601____12_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_635361____13_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_796156____14_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_388367____15_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141428_836981____16_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141428_831911____17_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_564851____18_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20260423_141427_787182____19_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x778.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6306"
 }

@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:24.815Z"
+  "_generated_at": "2026-05-18T05:21:24.815Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251219_190500_285304____1_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1973.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190500_155483____2_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_998071____3_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1394.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_844939____4_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1968.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_185507____5_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1020.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_567308____6_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190500_359503____7_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_725906____8_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_277499____9_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_969105____10_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_286928____11_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_190501_112047____12_nezha-2-dress-up-party-series-vinyl-plush-doll-pendant_plush-toys_pop-mart-us_____1200x2450.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5234"
 }

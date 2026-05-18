@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:05:57.864Z"
+  "_generated_at": "2026-05-18T05:05:57.864Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250722_143106_502710____1_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_986916____2_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x2397.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_866329____3_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1384.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_332316____4_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1890.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_103986____5_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1028.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_985138____6_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_911939____7_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_661083____8_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_519423____9_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_717215____10_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_835415____11_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_170142____12_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_620096____13_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_871265____14_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_041987____15_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_355325____16_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_471783____17_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_911044____18_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x1738.jpg",
+    "https://prod-america-res.popmart.com/default/20250722_143106_882156____19_hirono-mime-series-figures_blind-boxes_details_pop-mart-us_____1200x787.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1246"
 }

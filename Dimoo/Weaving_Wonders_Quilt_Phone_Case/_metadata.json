@@ -77,5 +77,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:02.946Z"
+  "_generated_at": "2026-05-18T05:10:02.946Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241022_182305_083446____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_01_____1200x1947.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_800957____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_02_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_024786____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_03_____1200x782.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_204668____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_04_____1200x3011.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_902425____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_05_____1200x3276.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_940627____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_06_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20241022_182305_852068____dimoo-weaving-wonders-series-quilt-phone-case-blind-box-accessories-pop-mart-us-detail_07_____1200x2972.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1712"
 }

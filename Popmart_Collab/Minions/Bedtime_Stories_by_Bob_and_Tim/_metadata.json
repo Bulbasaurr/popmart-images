@@ -125,5 +125,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:17.822Z"
+  "_generated_at": "2026-05-18T05:14:17.822Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250613_171834_232438____1_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x630.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_544893____2_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x1124.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_489265____3_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_670315____4_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x637.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_055546____5_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x711.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_072033____6_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x1000.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_486902____7_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x880.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_060220____8_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x2592.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_015746____9_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3241.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_943089____10_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3240.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_202281____11_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3243.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_482550____12_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3247.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_218539____13_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3245.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_288945____14_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x3332.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_591764____15_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x580.jpg",
+    "https://prod-america-res.popmart.com/default/20250613_171834_186391____16_minions-bedtime-stories-by-bob-and-tim-series-figures_blind-boxes_details_popmart-us_____1200x235.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2866"
 }

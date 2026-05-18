@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:30.071Z"
+  "_generated_at": "2026-05-18T05:17:30.071Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250923_161839_228423____1_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x2001.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_870684____2_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1715.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_770369____3_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x767.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_224299____4_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1768.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_727058____5_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x892.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_453711____6_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1740.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_933093____7_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1768.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_077988____8_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1587.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_633015____9_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1676.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_109631____10_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1992.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_161839_048900____11_twinkle-twinkle-savor-the-moment-series-night-light-pendant-blind-box_accessories_details_pop-mart-us_____1200x1497.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3815"
 }

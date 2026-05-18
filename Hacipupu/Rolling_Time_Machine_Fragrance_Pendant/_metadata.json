@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:14.139Z"
+  "_generated_at": "2026-05-18T05:14:14.139Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250523_170422_819455____1_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x2195.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_261133____2_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x2459.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_603644____3_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1459.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_730389____4_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x2003.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_444134____5_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1755.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_014332____6_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_017290____7_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_800889____8_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_768374____9_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_964917____10_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1725.jpg",
+    "https://prod-america-res.popmart.com/default/20250523_170422_504097____11_hacipupu-rolling-time-machine-series-fragrance-pendant-blind-box_accessories_details_popmart-us_____1200x1443.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2787"
 }

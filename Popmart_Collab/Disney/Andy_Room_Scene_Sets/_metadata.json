@@ -93,5 +93,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:07.497Z"
+  "_generated_at": "2026-05-18T05:06:07.497Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240626_100740_212181____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-1_____1200x1596.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_787150____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-2_____1200x2103.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_734222____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-3_____1200x757.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_052548____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-4_____1200x1828.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_837603____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-5_____1200x887.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_566911____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-6_____1200x1781.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_046071____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-7_____1200x1634.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_682632____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-8_____1200x1637.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_907204____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-9_____1200x1634.jpg",
+    "https://prod-america-res.popmart.com/default/20240626_100740_548261____toy-story-andy-s-room-series-scene-sets-blind-boxes-pop-mart-us-details-10_____1200x1767.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1364"
 }

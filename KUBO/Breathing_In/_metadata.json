@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:20.191Z"
+  "_generated_at": "2026-05-18T05:06:20.191Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240715_182728_084609____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-1_____1200x1495.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_542595____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-2_____1200x2240.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_724258____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-3_____1200x761.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_300145____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-4_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_411592____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-5_____1200x885.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_403408____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-6_____1200x2531.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_926319____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-7_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_381340____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-8_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_567811____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-9_____1200x3129.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_516572____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-10_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_505591____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-11_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20240715_182729_407627____kubo-breathing-in-series-figures-blind-boxes-pop-mart-us-details-12_____1200x2364.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1439"
 }

@@ -125,5 +125,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:09:55.563Z"
+  "_generated_at": "2026-05-18T05:09:55.563Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240924_111253_576545____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1797.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111252_491242____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2164.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111252_791363____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x774.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111252_453617____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2652.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111252_427271____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2284.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_159472____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x2821.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_307863____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_902657____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_406524____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_902771____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_111253_948888____duckyo-s-leisure-life-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3686.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1568"
 }

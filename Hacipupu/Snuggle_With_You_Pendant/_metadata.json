@@ -77,5 +77,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:58.053Z"
+  "_generated_at": "2026-05-18T05:10:58.053Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241231_141356_368545____1_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1850.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_779468____2_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x2661.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_225070____3_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x2739.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_740759____4_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_749384____5_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x3024.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_457699____6_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x2277.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_141356_803646____7_hacipupu-snuggle-with-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x809.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1925"
 }

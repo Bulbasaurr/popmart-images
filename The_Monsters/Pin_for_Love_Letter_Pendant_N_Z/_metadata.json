@@ -141,5 +141,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:32.725Z"
+  "_generated_at": "2026-05-18T05:16:32.725Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250822_170041_465849____1_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1943.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_101825_972278____20250828-101808_____1200x2761.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_516469____3_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x2126.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_983513____4_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x2010.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_325642____5_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x2235.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102217_245508____6_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1004.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_612809____7_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1655.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_733026____8_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_457105____9_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_610121____10_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_701171____11_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_990823____12_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_660354____13_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_054726____14_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_907581____15_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_102218_432696____16_the-monsters-pin-for-love-series-letter-pendant-blind-box_accessories_popmart-us_____1200x1828.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3509"
 }

@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:29.198Z"
+  "_generated_at": "2026-05-18T05:10:29.198Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260122_113742_351811____1_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x2135.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113741_614431____2_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x2116.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_126756____3_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x2286.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_980474____4_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_121889____5_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1112.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_695617____6_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x950.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_584726____7_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113741_274915____8_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_034556____9_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_161776____10_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_559489____11_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_056290____12_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_443094____13_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113742_931391____14_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_815904____15_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1369.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_449805____16_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_543074____17_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1640.jpg",
+    "https://prod-america-res.popmart.com/default/20260122_113743_066130____18_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x1289.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1786"
 }

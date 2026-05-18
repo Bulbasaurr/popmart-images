@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:06.831Z"
+  "_generated_at": "2026-05-18T05:24:06.831Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260417_180035_194819____1_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_439050____2_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1541.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_501824____3_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1415.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_346020____4_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x2022.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_861380____5_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1777.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_269444____6_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_196109____7_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_337237____8_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_252909____9_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1715.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_180035_786201____10_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1238.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6307"
 }

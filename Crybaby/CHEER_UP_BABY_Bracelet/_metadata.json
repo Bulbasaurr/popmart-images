@@ -77,5 +77,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:05.298Z"
+  "_generated_at": "2026-05-18T05:11:05.298Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240511_150827_895888____crybaby-cheer-up-baby-series-bracelet-blind-box_details_01_____1200x2343.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150827_989774____crybaby-cheer-up-baby-series-bracelet-blind-box_details_02_____1200x2093.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150826_904847____crybaby-cheer-up-baby-series-bracelet-blind-box_details_03_____1200x2650.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150827_602381____crybaby-cheer-up-baby-series-bracelet-blind-box_details_04_____1200x1840.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150827_009829____crybaby-cheer-up-baby-series-bracelet-blind-box_details_05_____1200x1701.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150826_497568____crybaby-cheer-up-baby-series-bracelet-blind-box_details_06_____1200x1672.jpg",
+    "https://prod-america-res.popmart.com/default/20240511_150826_830555____crybaby-cheer-up-baby-series-bracelet-blind-box_details_07_____1200x4125.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1994"
 }

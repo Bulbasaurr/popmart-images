@@ -126,5 +126,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:21.215Z"
+  "_generated_at": "2026-05-18T05:17:21.215Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250919_182005_282633____1_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x2000.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_215174____2_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x2185.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_629076____3_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x2388.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_964543____4_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1927.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_737651____5_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1607.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_736356____6_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_117109____7_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1637.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_075255____8_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1594.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_639931____9_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_622805____10_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1594.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_017329____11_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1633.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_731247____12_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1602.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_579170____13_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1633.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_269153____14_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_810578____15_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_571625____16_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_820717____17_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x1656.jpg",
+    "https://prod-america-res.popmart.com/default/20250919_182005_215534____18_zsiga-care-bears-series-figures_blind-boxes_details_pop-mart-us_____1200x805.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3804"
 }

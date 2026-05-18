@@ -125,5 +125,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:08.141Z"
+  "_generated_at": "2026-05-18T05:10:08.141Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241115_154556_446604____01_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x1903.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154556_251119____02_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x2103.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154554_347524____03_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x768.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154554_097457____04_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x692.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154555_008416____05_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x1097.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154556_535541____06_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x879.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_858679____07_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x2557.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_216950____08_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3122.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_330936____09_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3143.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_466835____10_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_968994____11_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3142.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_114690____12_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3136.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154557_900373____13_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x3217.jpg",
+    "https://prod-america-res.popmart.com/default/20241115_154555_608368____14_marvel-deadpool-series-figures_blind-boxes_details_popmart-us_____1200x808.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1725"
 }

@@ -125,5 +125,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:39.932Z"
+  "_generated_at": "2026-05-18T05:12:39.932Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250416_164205_233588____1_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x2097.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_101959____2_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x2573.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164205_382244____3_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1477.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164205_947011____4_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x2207.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164205_907320____5_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1821.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_990855____6_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1642.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_264635____7_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1655.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_352646____8_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_119727____9_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1741.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_164206_027271____10_pop-bean-pajama-party-series-mobile-phone-chain_blind-boxes_details_popmart-us_____1200x1706.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2206"
 }

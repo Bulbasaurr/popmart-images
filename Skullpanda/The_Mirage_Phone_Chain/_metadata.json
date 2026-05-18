@@ -61,5 +61,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:37.117Z"
+  "_generated_at": "2026-05-18T05:12:37.117Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250328_170559_177446____1_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x2015.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_603513____2_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1080.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_735190____3_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x840.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_851387____4_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x701.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_100945____5_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1037.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_242285____6_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1189.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_594900____7_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1825.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_214020____8_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1645.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_120520____9_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_654369____10_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x1747.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_170559_586094____11_skullpanda-the-mirage-series-phone-chain_details_popmart-us_____1200x784.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2195"
 }

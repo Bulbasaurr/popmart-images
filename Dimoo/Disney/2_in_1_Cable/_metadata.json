@@ -78,5 +78,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:26.190Z"
+  "_generated_at": "2026-05-18T05:12:26.190Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250317_151209_176203____1_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x1800.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_977709____2_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x2455.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151208_256924____3_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x726.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_373150____4_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x763.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_933851____5_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x996.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_375521____6_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x1862.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_474441____7_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x1853.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_723100____8_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x1762.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_118137____9_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x3082.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_405410____10_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x3078.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_824862____11_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x1683.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_315804____12_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x621.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_151209_426505____13_dimoo-world-disney-series-2-in-1-cable-blind-box_accessories_details_popmart-us_____1200x2054.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2134"
 }

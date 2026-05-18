@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:28.509Z"
+  "_generated_at": "2026-05-18T05:06:28.509Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240731_171933_959463____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-1_____1200x1710.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_581297____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-2_____1200x1753.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_389189____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-3_____1200x773.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_879916____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-4_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_781393____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-5_____1200x898.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_627884____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-6_____1200x2277.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_058936____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-7_____1200x2531.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_247845____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-8_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_586119____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-9_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240731_171933_278546____fantastic-beasts-series-figures-blind-boxes-pop-mart-us-details-10_____1200x2362.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1468"
 }

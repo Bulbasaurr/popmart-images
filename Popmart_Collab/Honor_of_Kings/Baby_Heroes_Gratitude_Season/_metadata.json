@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:20.280Z"
+  "_generated_at": "2026-05-18T05:16:20.280Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250826_130903_091780____1_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1685.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_635104____2_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x2090.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130902_316463____3_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1382.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_272898____4_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1894.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_015707____5_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1028.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_616356____6_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_021834____7_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_052995____8_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_621761____9_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_287831____10_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_066010____11_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_557241____12_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_802132____13_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_072943____14_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_862075____15_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_083005____16_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_749525____17_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130903_853481____18_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x1699.jpg",
+    "https://prod-america-res.popmart.com/default/20250826_130902_963447____19_honor-of-kings-baby-heroes-gratitude-season-series-figures_blind-boxes-_details_pop-mart-us_____1200x826.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3510"
 }

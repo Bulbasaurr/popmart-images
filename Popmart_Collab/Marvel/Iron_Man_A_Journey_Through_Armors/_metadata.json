@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:52.399Z"
+  "_generated_at": "2026-05-18T05:23:52.399Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260403_173341_390389____1_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1923.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_273879____2_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x2527.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_107231____3_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1390.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_474547____4_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1960.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_375631____5_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1040.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_899992____6_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_032451____7_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_378611____8_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_216513____9_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_729905____10_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_491467____11_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_079053____12_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_142840____13_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_296635____14_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_855756____15_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_348336____16_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_450050____17_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_412323____18_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1712.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_173341_809578____19_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x764.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6215"
 }

@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:21.378Z"
+  "_generated_at": "2026-05-18T05:22:21.378Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260327_102720_863747____1_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1599.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_335184____2_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x2106.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_228518____3_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1244.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_964178____4_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1983.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_187033____5_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1038.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_898947____6_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_127526____7_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_838841____8_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_150845____9_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_829580____10_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_263283____11_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_126206____12_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_807126____13_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_592917____14_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_612372____15_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_797032____16_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_443029____17_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_671029____18_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_102720_954451____19_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x785.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6017"
 }

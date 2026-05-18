@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:37.683Z"
+  "_generated_at": "2026-05-18T05:19:37.683Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251121_175438_615687____1_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1910.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175440_564615____2_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1826.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175440_671408____3_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1522.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175441_305956____4_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1901.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175440_710594____5_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1742.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175444_358868____6_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175440_411121____7_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175441_030267____8_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175441_624480____9_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175441_702523____10_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1735.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_175441_735561____11_pop-bean-fluffy-cozy-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1251.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4524"
 }

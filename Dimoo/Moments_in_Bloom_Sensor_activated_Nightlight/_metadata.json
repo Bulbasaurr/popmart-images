@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:22.848Z"
+  "_generated_at": "2026-05-18T05:22:22.848Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260313_173901_727504____1_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1832.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_289392____2_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_760562____3_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1320.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_738011____4_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1908.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_373987____5_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1456.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_675663____6_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_140435____7_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_234199____8_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_933636____9_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_009163____10_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_503865____11_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_050852____12_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x1709.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173901_495378____13_dimoo-moments-in-bloom-series-sensor-activated-nightlight-blind-box_accessories_details_pop-mart-us_____1200x2297.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6039"
 }

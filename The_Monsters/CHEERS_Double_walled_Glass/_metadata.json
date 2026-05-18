@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:31.532Z"
+  "_generated_at": "2026-05-18T05:10:31.532Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240522_114301_263645____the-monsters-cheers-series-double-walled-glass-blind-box_details_01_____1200x1903.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_623959____the-monsters-cheers-series-double-walled-glass-blind-box_details_02_____1200x1125.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_113068____the-monsters-cheers-series-double-walled-glass-blind-box_details_03_____1200x734.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_024369____the-monsters-cheers-series-double-walled-glass-blind-box_details_04_____1200x1889.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_147940____the-monsters-cheers-series-double-walled-glass-blind-box_details_05_____1200x927.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_953862____the-monsters-cheers-series-double-walled-glass-blind-box_details_06_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_242964____the-monsters-cheers-series-double-walled-glass-blind-box_details_07_____1200x1426.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_272496____the-monsters-cheers-series-double-walled-glass-blind-box_details_08_____1200x1326.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_280738____the-monsters-cheers-series-double-walled-glass-blind-box_details_09_____1200x1449.jpg",
+    "https://prod-america-res.popmart.com/default/20240522_114301_177392____the-monsters-cheers-series-double-walled-glass-blind-box_details_10_____1200x1988.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1802"
 }

@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:48.305Z"
+  "_generated_at": "2026-05-18T05:12:48.305Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250430_115300_228403____1_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1905.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115300_414855____2_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1956.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115300_795026____3_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115300_097592____4_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1984.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115300_409945____5_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1765.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_339024____6_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_469867____7_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_619419____8_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_009834____9_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_707349____10_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x1714.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_115301_926360____11_instinctoy-hug-you-series-pendant-blind-box_accessories_details_popmart-us_____1200x751.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2243"
 }

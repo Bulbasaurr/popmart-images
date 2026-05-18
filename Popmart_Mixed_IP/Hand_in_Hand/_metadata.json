@@ -141,5 +141,32 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:46.187Z"
+  "_generated_at": "2026-05-18T05:12:46.187Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250512_160037_316947____1_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x2098.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_238085____2_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x2505.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160036_939978____3_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1826.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_232416____4_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1764.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160036_880818____5_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x896.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_848190____6_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x961.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_183508____7_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1573.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_147775____8_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_989352____9_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_305540____10_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1561.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_556328____11_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1574.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_704677____12_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_048389____13_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_978491____14_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1567.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_304473____15_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_407974____16_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_358573____17_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_865972____18_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_946620____19_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_632519____20_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160037_756543____21_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x1654.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_160036_820718____22_hand-in-hand-series-figures_blind-boxes_details_popmart-us_____1200x745.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2222"
 }

@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:04.875Z"
+  "_generated_at": "2026-05-18T05:06:04.875Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240614_142801_862745____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-1_____1200x1867.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_531247____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-2_____1200x2136.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142801_329189____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-3_____1200x763.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_085509____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-4_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142801_609059____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-5_____1200x898.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_879761____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-6_____1200x1781.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_585418____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-7_____1200x1632.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_633621____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-8_____1200x1635.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_978667____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-9_____1200x1637.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_328108____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-10_____1200x1635.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_477283____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-11_____1200x1636.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_142802_105423____universal-despicable-me-4-series-figures-blind-boxes-pop-mart-us-details-12_____1200x1560.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1351"
 }

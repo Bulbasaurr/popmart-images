@@ -78,5 +78,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:23.262Z"
+  "_generated_at": "2026-05-18T05:12:23.262Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250317_161723_941685____1_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x2000.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_390798____2_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x2459.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161722_787696____3_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x715.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161722_661230____4_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x809.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161722_416819____5_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x995.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161722_683824____6_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x1125.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_400639____7_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x3519.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_313457____8_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x1584.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_163650____9_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_159624____10_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x3235.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_374996____11_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_855340____12_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x1720.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_286301____13_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x663.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161723_308965____14_dimoo-world-disney-series-storage-bag-blind-box_accessories_details_popmart-us_____1200x875.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2073"
 }

@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:39.240Z"
+  "_generated_at": "2026-05-18T05:19:39.240Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251121_171754_721957____1_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1825.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171756_143311____2_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1668.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171753_643064____3_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1390.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171755_948627____4_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1883.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171753_593630____5_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1733.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171755_898722____6_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1573.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171754_116129____7_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171756_082326____8_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1573.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171755_625514____9_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171754_660904____10_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171755_886300____11_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1573.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171756_304277____12_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1642.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_171758_364106____13_pop-bean-fluffy-cozy-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x744.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4525"
 }

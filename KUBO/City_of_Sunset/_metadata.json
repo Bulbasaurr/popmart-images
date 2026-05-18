@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:57.528Z"
+  "_generated_at": "2026-05-18T05:14:57.528Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250801_174952_362421____1_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x2006.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_941937____2_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x2221.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_501758____3_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1397.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_973666____4_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1870.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_325024____5_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1038.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_239290____6_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_329299____7_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_728354____8_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_111111____9_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_342881____10_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_851014____11_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_696619____12_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_328693____13_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174953_250925____14_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174953_492450____15_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174953_687800____16_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174953_000824____17_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_436750____18_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x1732.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_174952_134778____19_kubo-city-of-sunset-series-figures_blind-boxes_details_pop-mart-us_____1200x794.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3329"
 }

@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:05.113Z"
+  "_generated_at": "2026-05-18T05:20:05.113Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251212_172758_516509____1_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2006.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172758_698559____2_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1645.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_222889____3_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1431.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_424742____4_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1950.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172758_640080____5_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1759.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172758_877403____6_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_615556____7_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172801_981345____8_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_818747____9_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_158576____10_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_255559____11_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1719.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172759_373921____12_hirono-road-journal-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1685.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5209"
 }

@@ -85,5 +85,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:03.778Z"
+  "_generated_at": "2026-05-18T05:10:03.778Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250718_101414_313202____01_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x1868.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_847249____02_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x1211.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_954335____03_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x1522.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_882919____04_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x839.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_977237____05_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x971.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_314733____06_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x988.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_404906____07_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x2976.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_300813____08_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x1410.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_950406____09_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x2821.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_101414_671765____10_crybaby-crying-again-series-vinyl-face-plush-blind-box_plush_blind-boxes_popmart-us_____1200x920.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1713"
 }

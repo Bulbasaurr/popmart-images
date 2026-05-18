@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:46.218Z"
+  "_generated_at": "2026-05-18T05:17:46.218Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251020_152053_136865____1_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1989.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152053_814747____2_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1922.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152053_855513____3_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x2061.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152052_647678____4_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1905.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152052_552041____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1043.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152053_632332____6_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152056_956042____7_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152054_671504____8_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152054_314895____9_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152054_241106____10_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152056_557374____12_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152054_369546____13_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1723.jpg",
+    "https://prod-america-res.popmart.com/default/20251020_152055_893459____14_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1332.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3950"
 }

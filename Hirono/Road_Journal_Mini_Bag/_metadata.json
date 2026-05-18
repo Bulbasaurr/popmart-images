@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:00.372Z"
+  "_generated_at": "2026-05-18T05:20:00.372Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251212_172440_533448____1_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x2182.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172441_260011____2_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1830.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_911824____3_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_588368____4_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x2216.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172441_704787____5_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1747.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_034794____6_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172441_155125____7_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_883535____8_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_095986____9_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_041706____10_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1691.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_172442_847407____11_hirono-road-journal-series-mini-bag-blind-box-_accessories_details_pop-mart-us_____1200x1462.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5212"
 }

@@ -93,5 +93,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:43.964Z"
+  "_generated_at": "2026-05-18T05:10:43.964Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241211_115933_008247____1_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2058.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_913286____2_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2028.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_652795____3_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_034817____4_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x938.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_639535____5_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x941.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_579868____6_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2323.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_849224____7_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2876.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_578403____8_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2876.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_431417____9_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2896.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_324203____10_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x2938.jpg",
+    "https://prod-america-res.popmart.com/default/20241211_115933_842069____11_crayon-shinchan-life-theatre-series-scene-sets_blind-boxes_details_popmart-us_____1200x739.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1824"
 }

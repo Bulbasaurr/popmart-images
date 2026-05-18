@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:11.478Z"
+  "_generated_at": "2026-05-18T05:14:11.478Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250526_163621_725474____1_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1980.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_346829____2_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1417.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_396107____3_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x914.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_513085____4_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x726.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_122343____5_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x999.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_580218____6_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x867.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163621_474267____7_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1768.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163621_247541____8_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163621_336129____9_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_970940____10_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163621_606873____11_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163621_491815____12_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x1713.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163620_583257____13_hacipupu-rolling-time-machine-series-card-holder-blind-box_accessories_details_popmart-us_____1200x734.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2788"
 }

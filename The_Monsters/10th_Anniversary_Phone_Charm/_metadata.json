@@ -101,5 +101,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:55.010Z"
+  "_generated_at": "2026-05-18T05:21:55.010Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260128_102305_667246____1_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_475284____2_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1849.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_287998____3_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1274.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_874116____4_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x2114.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_186942____5_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1775.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_216979____6_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_853419____7_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102305_231189____8_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102304_611322____9_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102305_945868____10_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102305_561852____11_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1665.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5776"
 }

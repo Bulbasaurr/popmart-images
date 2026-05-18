@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:10.842Z"
+  "_generated_at": "2026-05-18T05:11:10.842Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250205_142220_840887____1_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x2014.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_567366____2_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1211.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_869288____3_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x728.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_459119____4_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x838.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_056166____5_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x914.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_605831____6_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x932.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_123907____7_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1783.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_002960____8_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1655.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_233222____9_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1656.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_166568____10_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1481.jpg",
+    "https://prod-america-res.popmart.com/default/20250205_142220_606462____11_the-monsters-let-s-checkmate-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x734.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2033"
 }

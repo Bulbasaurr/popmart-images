@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:58.076Z"
+  "_generated_at": "2026-05-18T05:23:58.076Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260410_180947_303729____1_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1849.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_148310____2_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1556.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_511491____3_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1635.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_191254____4_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x2303.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_627895____5_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1779.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_790711____6_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_308248____7_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_535536____8_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_268100____9_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1714.jpg",
+    "https://prod-america-res.popmart.com/default/20260410_180947_392704____10_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1594.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6233"
 }

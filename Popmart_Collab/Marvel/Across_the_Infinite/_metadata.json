@@ -125,5 +125,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:55.186Z"
+  "_generated_at": "2026-05-18T05:19:55.186Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251205_173206_068943____1_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1730.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_975657____2_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x2186.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_400786____3_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1511.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_772889____4_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1957.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_920064____5_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x927.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_840452____6_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_900995____7_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_487585____8_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_434185____9_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_801643____10_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_034543____11_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173207_220225____12_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1609.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_321148____13_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_085423____14_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_952799____15_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_492725____16_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_603943____17_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_154090____18_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_893218____19_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x1687.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173208_726017____20_marvel-across-the-infinite-series-figures_blind-boxes_details_pop-mart-us_____1200x800.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5208"
 }

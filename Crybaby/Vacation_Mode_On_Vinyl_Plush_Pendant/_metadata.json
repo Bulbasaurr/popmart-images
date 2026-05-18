@@ -77,5 +77,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:56.280Z"
+  "_generated_at": "2026-05-18T05:18:56.280Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/b1982d1033e3b63b3b54b0c0450d2fdc_____1200x1851.JPG",
+    "https://prod-america-res.popmart.com/default/fcc94412abb371cdabedec98d6dcd8a4_____1200x1313.JPG",
+    "https://prod-america-res.popmart.com/default/fc142c2bb71d802baf71f844acd5f82a_____1200x682.JPG",
+    "https://prod-america-res.popmart.com/default/4b0a9ffb34d9771de111fe1eca871831_____1200x684.JPG",
+    "https://prod-america-res.popmart.com/default/cb693abca30c9d3e1b1e6f60c3a1a465_____1200x1005.JPG",
+    "https://prod-america-res.popmart.com/default/9a519da7177fb388f90aae63a143d879_____1200x1097.JPG",
+    "https://prod-america-res.popmart.com/default/aba73f3fc732d7271b730b935d82df0e_____1200x1267.JPG",
+    "https://prod-america-res.popmart.com/default/26a01ade376c193454420809810e89f2_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/cbe686b4f43deba32681a44de92c4404_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/bcc96c2e6d18ebc7662525cfcb068427_____1200x1624.JPG",
+    "https://prod-america-res.popmart.com/default/449ab38df09dec40141cf80b60043c9b_____1200x1617.JPG",
+    "https://prod-america-res.popmart.com/default/9164612ef9826645cb386a92626b5d89_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/a9a93081fe989bcce28b29e8388507cb_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/cdbf5318073537bdeffc684f2c1855b6_____1200x1693.JPG",
+    "https://prod-america-res.popmart.com/default/fc30259e0ce19dea1e942c843f51dc87_____1200x770.JPG"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4135"
 }

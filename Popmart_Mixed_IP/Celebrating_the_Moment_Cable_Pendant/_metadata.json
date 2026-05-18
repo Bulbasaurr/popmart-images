@@ -77,5 +77,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:56.974Z"
+  "_generated_at": "2026-05-18T05:17:56.974Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251017_165737_737735____1_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x2211.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165736_690139____2_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x2316.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165737_299395____3_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x2677.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165737_398211____4_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x3328.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165737_814168____5_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x3306.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165739_796705____6_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x2386.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165737_439033____7_celebrating-the-moment-series-cable-pendant-blind-box_-accessories_details_pop-mart-us_____1200x2503.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4222"
 }

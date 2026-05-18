@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:11.195Z"
+  "_generated_at": "2026-05-18T05:19:11.195Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251031_174111_693941____1_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1912.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174112_030108____2_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1676.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174112_517786____3_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1580.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174112_537581____4_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2028.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174114_434510____5_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1044.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174112_458278____6_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174112_704245____7_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174114_140062____8_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174113_422702____9_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174113_599353____10_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174113_222350____11_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174113_735636____12_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1719.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_174113_844387____13_dimoo-journal-of-new-life-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x807.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4201"
 }

@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:13.604Z"
+  "_generated_at": "2026-05-18T05:22:13.604Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260213_103535_924888____1_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_413934____2_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1348.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_627179____3_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1309.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_740627____4_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2115.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_277263____5_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1784.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_436031____6_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_041808____7_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103535_348555____8_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_113897____9_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_266898____10_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_021335____11_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_928017____12_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_095708____13_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1708.jpg",
+    "https://prod-america-res.popmart.com/default/20260213_103536_689048____14_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1937.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5833"
 }

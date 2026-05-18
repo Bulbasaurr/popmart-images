@@ -61,5 +61,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:36.980Z"
+  "_generated_at": "2026-05-18T05:14:36.980Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250620_173710_228377____1_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1984.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173709_566960____2_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1404.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173709_794673____3_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1458.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_410035____4_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x2021.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_693843____5_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_779934____6_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_186055____7_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_121410____8_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_877652____9_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_173710_361805____10_skullpanda-the-paradox-series-fridge-magnet_accessories_details_popmart-us_____1200x1314.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2947"
 }

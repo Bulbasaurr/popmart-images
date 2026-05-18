@@ -101,5 +101,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:02.742Z"
+  "_generated_at": "2026-05-18T05:11:02.742Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250106_183540_886659____1_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x1851.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183540_048711____2_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2901.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183540_713721____3_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x1917.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_850300____4_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2148.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_034945____5_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2542.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_975402____6_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2548.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_077853____7_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2595.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_285925____8_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x2542.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_842890____9_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x1368.jpg",
+    "https://prod-america-res.popmart.com/default/20250106_183541_249334____10_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x777.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1984"
 }

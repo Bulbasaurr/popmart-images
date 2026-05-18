@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:49.774Z"
+  "_generated_at": "2026-05-18T05:14:49.774Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250801_164325_829017____1_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x2033.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_367433____2_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1076.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_454127____3_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1471.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_846781____4_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1879.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_933925____5_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1752.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_312840____6_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_450848____7_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_770856____8_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_255526____9_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_269167____10_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_003415____11_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_841293____12_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_256960____13_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1652.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164325_556562____14_dimoo-crush-on-coffee-series-acrylic-fridge-clip-blind-box-_blind-boxes_details_popmart-us_____1200x1799.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3305"
 }

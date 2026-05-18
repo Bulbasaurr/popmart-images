@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:42.919Z"
+  "_generated_at": "2026-05-18T05:17:42.919Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_103441_445345____1_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1900.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103440_848037____2_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1768.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_765631____3_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2247.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_663498____4_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x2073.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_884119____5_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x999.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_659446____6_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_603599____7_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1577.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_352152____8_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_664358____9_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1574.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_030694____10_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1574.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_569035____11_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_871212____12_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1572.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_235574____13_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1572.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_994103____14_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103441_539916____15_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1668.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_103440_701803____16_why-so-serious-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x704.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3910"
 }

@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:58.871Z"
+  "_generated_at": "2026-05-18T05:10:58.871Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250102_163218_676818____1_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1921.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163218_760822____2_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x2287.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163218_252304____3_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1813.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163218_665465____4_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1036.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163219_587043____5_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1787.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163219_616691____6_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1610.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163219_493865____7_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1601.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163219_499710____8_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1691.jpg",
+    "https://prod-america-res.popmart.com/default/20250102_163219_645732____9_molly-daily-look-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x770.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1931"
 }

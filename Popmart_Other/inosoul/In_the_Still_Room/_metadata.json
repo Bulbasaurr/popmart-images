@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:15.470Z"
+  "_generated_at": "2026-05-18T05:14:15.470Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250606_184125_490506____1_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1728.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_176265____2_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x2080.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_196636____3_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1364.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_893731____4_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1880.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_644158____5_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x979.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_905470____6_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_877497____7_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_766499____8_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_074351____9_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_268044____10_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_531657____11_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_241306____12_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_227536____13_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_212039____14_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_525338____15_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_308645____16_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_420279____17_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_573480____18_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x1731.jpg",
+    "https://prod-america-res.popmart.com/default/20250606_184125_659409____19_inosoul-in-the-still-room-series-figures_blind-boxes_details_popmart-us_____1200x782.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2793"
 }

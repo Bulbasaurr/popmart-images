@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:22.325Z"
+  "_generated_at": "2026-05-18T05:14:22.325Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250620_172701_771450____1_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1979.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_107554____2_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x2114.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_985641____3_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1390.jpg",
+    "https://prod-america-res.popmart.com/default/20250702_094605_763278____4_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1862.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_356561____5_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1047.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_733862____6_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_988777____7_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_749706____8_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_400584____9_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_411620____10_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_648221____11_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_091369____12_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_635915____13_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_994580____14_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172701_133290____15_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_211734____16_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_107012____17_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250620_172702_031130____18_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20250702_094716_657482____19_skullpanda-the-paradox-series-figures_blind-boxes_details_popmart-us_____1200x804.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2945"
 }

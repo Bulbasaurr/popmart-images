@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:13.029Z"
+  "_generated_at": "2026-05-18T05:06:13.029Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240614_144835_014829____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-1_____1200x1867.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_926115____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-2_____1200x1344.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_513050____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-3_____1200x752.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_613109____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-4_____1200x1773.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_877456____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-5_____1200x1007.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_985574____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-6_____1200x1525.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_305097____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-7_____1200x1376.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_687611____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-8_____1200x1377.jpg",
+    "https://prod-america-res.popmart.com/default/20240614_144835_764817____crybaby-sunset-concert-series-plush-pendant-blind-box-blind-boxes-pop-mart-us-9_____1200x2094.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1418"
 }

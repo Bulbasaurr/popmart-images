@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:48.848Z"
+  "_generated_at": "2026-05-18T05:12:48.848Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250512_110214_321984____1_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x2092.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_321616____2_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1315.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_758850____3_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1485.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_126141____4_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1996.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_312636____5_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_847769____6_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_129833____7_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_967921____8_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_855078____9_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_731771____10_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_968632____11_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_991204____12_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1721.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_110214_296703____13_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x775.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2244"
 }

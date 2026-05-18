@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:58.863Z"
+  "_generated_at": "2026-05-18T05:12:58.863Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250430_113707_530925____1_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x2091.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113706_286071____2_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113705_392000____3_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1476.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113707_465200____4_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1880.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113707_884226____5_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1755.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113708_907925____6_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113708_058004____7_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113707_630171____8_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113708_081756____9_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113708_368042____10_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1710.jpg",
+    "https://prod-america-res.popmart.com/default/20250430_113705_983393____11_instinctoy-hug-you-series-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x662.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2295"
 }

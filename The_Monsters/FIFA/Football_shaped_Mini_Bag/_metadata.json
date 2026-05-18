@@ -78,5 +78,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:46.018Z"
+  "_generated_at": "2026-05-18T05:23:46.018Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260327_181524_390919____1_them-1_____1200x2328.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_711012____2_them-1_____1200x1596.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_292351____3_them-1_____1200x1592.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_603210____4_them-1_____1200x2072.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_646324____5_them-1_____1200x1917.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_019391____6_them-1_____1200x1686.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181524_741815____7_them-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181525_227262____8_them-1_____1200x1621.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181525_710967____9_them-1_____1200x1771.JPG",
+    "https://prod-america-res.popmart.com/default/20260327_181525_814746____10_the-1_____1200x2005.JPG"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6126"
 }

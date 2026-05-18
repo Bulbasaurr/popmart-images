@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:34.755Z"
+  "_generated_at": "2026-05-18T05:12:34.755Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250403_155305_691250____1_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x2053.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_316794____2_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1159.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_508458____3_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1489.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_865373____4_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x2210.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_035273____5_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_710774____6_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1649.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_125261____7_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_315310____8_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1646.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_123873____9_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1749.jpg",
+    "https://prod-america-res.popmart.com/default/20250403_155305_121002____10_-hirono-echo-series-pendant-chain-blind-box_blind-boxes_details_popmart-us_____1200x1294.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2172"
 }

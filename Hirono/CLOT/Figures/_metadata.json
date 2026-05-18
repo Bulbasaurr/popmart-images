@@ -78,5 +78,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:19.064Z"
+  "_generated_at": "2026-05-18T05:10:19.064Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241205_102915_465479_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_01_____1200x1849.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_535412_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_02_____1200x1192.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_039544_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_03_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_166580_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_04_____1200x1884.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_798492_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_05_____1200x2576.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_953808_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_06_____1200x3198.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_102916_981113_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_07_____1200x3194.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_112859_946621_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_08_____1200x3260.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_112904_352205_____hirono-clot-series-figures_blind-boxes_details_popmart-us-_09_____1200x750.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1751"
 }

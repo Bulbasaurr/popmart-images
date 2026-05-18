@@ -93,5 +93,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:00.405Z"
+  "_generated_at": "2026-05-18T05:24:00.405Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260417_173649_126045____1_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1726.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_692306____2_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x2189.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_050993____3_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1404.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_780863____4_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1928.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_650134____5_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1264.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_543960____6_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_024395____7_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_801274____8_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_268144____9_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_420764____10_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_875845____11_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_367108____12_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_271817____13_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_753436____14_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1716.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173649_218512____15_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x732.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images"
 }

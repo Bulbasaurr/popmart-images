@@ -133,5 +133,30 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:28.169Z"
+  "_generated_at": "2026-05-18T05:22:28.169Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260320_172713_150080____1_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1815.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172713_226800____2_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x2425.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172713_647960____3_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1380.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172713_785745____4_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172713_453340____5_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1935.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_187474____6_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_860169____7_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_384692____8_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_319930____9_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_281891____10_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_642340____11_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_469519____12_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_780638____13_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_794861____14_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_102758____15_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_811054____16_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_344236____17_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_261307____18_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_521845____19_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20260320_172714_533000____20_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x767.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5836"
 }

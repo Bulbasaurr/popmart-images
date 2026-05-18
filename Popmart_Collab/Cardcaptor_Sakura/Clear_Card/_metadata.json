@@ -101,5 +101,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:22.323Z"
+  "_generated_at": "2026-05-18T05:14:22.323Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250625_180130_253526____01_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2039.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_934904____02_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x1837.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_393951____03_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_432261____04_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_140345____05_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2329.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_831842____06_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2500.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_834470____07_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2496.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_458010____08_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2495.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_445575____09_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x2526.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_156599____10_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x1485.jpg",
+    "https://prod-america-res.popmart.com/default/20250625_180130_160047____11_cardcaptor-sakura-clear-card-series-figures_blind-boxes_details_popmart-us_____1200x1030.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2944"
 }

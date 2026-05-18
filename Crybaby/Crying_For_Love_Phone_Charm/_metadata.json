@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:06.678Z"
+  "_generated_at": "2026-05-18T05:11:06.678Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250116_092837_713546____1_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x2136.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_991945____2_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x2024.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_018143____3_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x2549.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_629189____4_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x895.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_200590____5_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1754.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_114682____6_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1607.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_595279____7_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20250116_092837_215957____8_crybaby-crying-for-love-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x749.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2001"
 }

@@ -110,5 +110,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:06.805Z"
+  "_generated_at": "2026-05-18T05:10:06.805Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241112_154842_850900____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_01_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154841_330577____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_02_____1200x2200.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154842_485055____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_03_____1200x1602.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154842_419673____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_04_____1200x937.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154842_214761____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_05_____1200x900.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_197516____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_06_____1200x2272.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_568462____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_07_____1200x2549.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_581870____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_08_____1200x2548.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_382748____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_09_____1200x2545.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_378697____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_10_____1200x2545.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_391850____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_11_____1200x2653.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_154843_219353____the-monsters-coca-cola-series-figures_blind-boxes_details_popmart-us-_12_____1200x697.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1724"
 }

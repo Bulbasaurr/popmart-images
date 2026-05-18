@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:13.918Z"
+  "_generated_at": "2026-05-18T05:16:13.918Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250815_144006_848838____1_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x2040.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_642473____2_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1665.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144005_398605____3_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_947345____4_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x2006.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_313885____5_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1766.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_475378____6_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_626789____7_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_938022____8_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_816304____9_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_492004____10_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1733.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144006_589280____11_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1460.jpg",
+    "https://prod-america-res.popmart.com/default/20250815_144005_722791____12_crybaby-shiny-shiny-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x812.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3451"
 }

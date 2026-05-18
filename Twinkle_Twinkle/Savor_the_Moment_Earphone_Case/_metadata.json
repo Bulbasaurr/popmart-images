@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:32.890Z"
+  "_generated_at": "2026-05-18T05:17:32.890Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250923_160253_080784____1_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2005.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_023440____2_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2037.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_591474____3_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2596.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_696394____4_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2345.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_324217____5_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2552.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_969807____6_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2477.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_643327____7_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2398.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_160253_354242____8_twinkle-twinkle-savor-the-moment-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1555.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3933"
 }

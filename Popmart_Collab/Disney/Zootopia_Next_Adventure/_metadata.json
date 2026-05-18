@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:04.396Z"
+  "_generated_at": "2026-05-18T05:17:04.396Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250912_170709_678237____1_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x2015.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_892200____2_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x2248.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_133399____3_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1387.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_821443____4_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1866.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_617460____5_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_280772____6_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_568955____7_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_340356____8_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_439585____9_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_643122____10_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_064128____11_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_289027____12_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_533298____13_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_548019____14_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_431531____15_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_918968____16_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_427458____17_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_298336____18_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x1741.jpg",
+    "https://prod-america-res.popmart.com/default/20250912_170709_485606____19_disney-zootopia-next-adventure-series-figures_blind-boxes_details_pop-mart-us_____1200x784.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3692"
 }

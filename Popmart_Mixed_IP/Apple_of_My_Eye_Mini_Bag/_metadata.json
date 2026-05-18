@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:22.492Z"
+  "_generated_at": "2026-05-18T05:19:22.492Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251117_174639_882539____1_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1758.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174640_497173____2_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1671.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174640_890548____3_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1873.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174640_035151____4_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1027.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174640_600755____5_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1633.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174642_619919____6_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174641_626917____7_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174641_027323____8_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174641_601353____9_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174642_025907____10_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174642_035602____11_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174641_363880____12_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1682.jpg",
+    "https://prod-america-res.popmart.com/default/20251117_174642_280936____13_apple-of-my-eye-series-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1464.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4466"
 }

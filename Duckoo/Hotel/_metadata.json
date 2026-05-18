@@ -125,5 +125,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:36.688Z"
+  "_generated_at": "2026-05-18T05:17:36.688Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_171741_820995____1__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x1801.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_417710____2__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2115.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_956355____3__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2370.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_833530____4__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x1911.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_498280____5__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2439.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_801394____6__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2426.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_072536____7__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2419.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_116172____8__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2452.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_684295____9__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2371.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_296197____10__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2501.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_574924____11__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2386.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_615216____12__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2460.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_171741_854119____13__the-grand-duckoo-hotel-series-figures_blind-boxes_details_pop-mart-us_____1200x2541.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3908"
 }

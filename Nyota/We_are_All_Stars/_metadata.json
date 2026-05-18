@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:52.185Z"
+  "_generated_at": "2026-05-18T05:19:52.185Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251205_173355_231613____1_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1774.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173354_590219____2_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x2263.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_391663____3_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1804.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_546013____4_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1961.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173355_864567____5_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x929.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173354_826282____6_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173355_293817____7_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_378479____8_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_277016____9_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_773224____10_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_252432____11_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_760684____12_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173357_099035____13_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173357_306157____14_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_745398____15_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1631.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173356_047875____16_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173357_537204____17_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173357_291564____18_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x1691.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_173357_943136____19_nyota-we-are-all-stars-series-figures_blind-boxes_details_pop-mart-us_____1200x841.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4717"
 }

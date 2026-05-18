@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:15:00.644Z"
+  "_generated_at": "2026-05-18T05:15:00.644Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250801_164530_689579____1_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x2016.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_457513____2_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x2216.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_938026____3_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1388.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_257509____4_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1868.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_929889____5_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1044.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_923930____6_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_705025____7_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_646770____8_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_398000____9_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_257872____10_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_789691____11_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_282928____12_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_457516____13_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_871960____14_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_590847____15_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_429581____16_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_811668____17_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_356408____18_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x1689.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164530_615862____19_disney-princess-create-your-world-series-figures_blind-boxes_details_pop-mart-us_____1200x832.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3332"
 }

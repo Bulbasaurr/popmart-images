@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:28.584Z"
+  "_generated_at": "2026-05-18T05:17:28.584Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_174330_076916____1_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x1882.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_470990____2_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x1411.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_271664____3_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x1437.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_703946____4_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x2187.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_206513____5_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x2512.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_957029____6_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x2410.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_743831____7_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_174330_504620____8_twinkle-twinkle-savor-the-moment-series-phone-charm-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3935"
 }

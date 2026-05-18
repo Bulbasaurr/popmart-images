@@ -126,5 +126,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:22.321Z"
+  "_generated_at": "2026-05-18T05:12:22.321Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250311_143113_139863____1_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x1880.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_022527____2_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x2186.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143112_506952____3_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x702.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_498526____4_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x737.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_170603____5_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x1038.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_501724____6_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x893.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_128133____7_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x2790.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_218816____8_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x3607.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_411875____9_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x1801.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_292811____10_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x3616.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_539822____11_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x3618.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_345672____12_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x3624.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_304167____13_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x3618.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_467933____14_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x1897.jpg",
+    "https://prod-america-res.popmart.com/default/20250311_143113_556191____15_dimoo-world-disney-series-figures_blind-boxes_details_popmart-us_____1200x743.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2068"
 }

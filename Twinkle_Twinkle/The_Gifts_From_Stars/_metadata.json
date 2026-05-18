@@ -101,5 +101,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:16.271Z"
+  "_generated_at": "2026-05-18T05:10:16.271Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241205_190043_412726____1_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x1848.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_019500____2_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_155100____3_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x1590.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_574091____4_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x984.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_720328____5_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x905.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_097697____6_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x2346.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_306191____7_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x2880.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_277155____8_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x2877.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_448451____9_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x2872.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_924944____10_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x2876.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_364043____11_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x1512.jpg",
+    "https://prod-america-res.popmart.com/default/20241205_190043_280151____12_twinkle-twinkle-the-gifts-from-stars-series-figures_blind-boxes_details_popmart-us_____1200x872.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1746"
 }

@@ -125,5 +125,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:16.448Z"
+  "_generated_at": "2026-05-18T05:12:16.448Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250214_105512_606729____1_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_297562____2_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x3032.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_388467____3_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1446.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_224469____4_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1883.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_471983____5_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x2539.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_490578____6_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_744855____7_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x2384.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_114983____8_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_054492____9_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x2385.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_283299____10_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_370564____11_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x2382.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_917184____12_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_156470____13_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_241112____14_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x578.jpg",
+    "https://prod-america-res.popmart.com/default/20250214_105512_890282____15_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x987.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2041"
 }

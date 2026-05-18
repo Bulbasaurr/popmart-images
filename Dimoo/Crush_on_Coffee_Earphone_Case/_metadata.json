@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:51.188Z"
+  "_generated_at": "2026-05-18T05:14:51.188Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250801_164021_790353____1_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1765.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_088597____2_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1231.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_345022____3_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1468.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_375584____4_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1873.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_820567____5_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1775.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_145669____6_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_467783____7_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_896052____8_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_262455____9_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_437483____10_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250801_164021_683529____11_dimoo-crush-on-coffee-series-earphone-case-blind-box_accessories_details_popmart-us_____1200x771.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3319"
 }

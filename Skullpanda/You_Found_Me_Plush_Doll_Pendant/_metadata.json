@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:55.454Z"
+  "_generated_at": "2026-05-18T05:16:55.454Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_173700_508101____1_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1755.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_014445____2_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1883.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_165484____3_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1383.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_704593____4_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1970.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_322814____5_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1047.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_238904____6_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_751768____7_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_672414____8_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_228325____9_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_579459____10_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_176413____11_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_570824____12_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_250970____13_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1632.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_262076____14_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173701_348876____15_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1726.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173700_813674____16_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x868.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3689"
 }

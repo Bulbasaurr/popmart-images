@@ -126,5 +126,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:34.088Z"
+  "_generated_at": "2026-05-18T05:14:34.088Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250707_112841_433964____1_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x2008.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_962671____2_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1977.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112840_343556____3_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1368.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_711859____4_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1885.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_937657____5_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1033.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_404663____6_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_439161____7_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_649037____8_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_128226____9_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_854020____10_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_577219____11_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_533758____12_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_759827____13_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_470724____14_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_247691____15_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_245657____16_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_443300____17_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_212293____18_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x1717.jpg",
+    "https://prod-america-res.popmart.com/default/20250707_112841_413057____19_dimoo-jurassic-world-series_blind-boxes_details_popmart-us_____1200x808.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3051"
 }

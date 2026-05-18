@@ -78,5 +78,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:45.357Z"
+  "_generated_at": "2026-05-18T05:22:45.357Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260327_181047_598700____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x2180.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_113403____2_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x2004.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_888415____3_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1932.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_632581____4_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x914.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_902680____5_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1776.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_984537____6_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_210919____7_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_119111____8_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_138343____9_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_974603____10_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_181047_923881____11_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1805.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6122"
 }

@@ -133,5 +133,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:40.557Z"
+  "_generated_at": "2026-05-18T05:10:40.557Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241226_151742_112473____1_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x1852.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_423674____2_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x2175.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_552077____3_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x2287.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_312524____4_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x2849.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_484309____5_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3225.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_468142____6_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3188.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_489357____7_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3189.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_706379____8_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3227.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_170734____9_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3185.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_691287____10_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3187.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_068508____11_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x3248.jpg",
+    "https://prod-america-res.popmart.com/default/20241226_151742_694946____12_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x763.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1773"
 }

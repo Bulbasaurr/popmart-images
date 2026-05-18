@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:09.883Z"
+  "_generated_at": "2026-05-18T05:06:09.883Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251010_142616_405225____1_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1882.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142616_826112____2_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1480.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142616_919630____3_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142616_499804____4_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x2116.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142616_899828____5_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1767.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142617_648282____6_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142617_663927____7_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142617_075726____8_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_142617_967227____9_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x638.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1398"
 }

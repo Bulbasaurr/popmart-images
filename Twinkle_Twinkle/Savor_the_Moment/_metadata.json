@@ -125,5 +125,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:27.283Z"
+  "_generated_at": "2026-05-18T05:17:27.283Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250925_102845_519770____1_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x1914.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_767010____2_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2091.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_721641____3_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2373.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_635245____4_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x1930.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_612281____5_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2453.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_094326____6_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2415.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_478648____7_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2423.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_242752____8_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2436.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_702778____9_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2316.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_648148____10_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2548.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_969605____11_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2373.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_627481____12_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2512.jpg",
+    "https://prod-america-res.popmart.com/default/20250925_102845_163785____13_twinkle-twinkle-savor-the-moment-series-figures_blind-boxes_details_pop-mart-us_____1200x2514.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3814"
 }

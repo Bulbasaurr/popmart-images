@@ -101,5 +101,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:51.859Z"
+  "_generated_at": "2026-05-18T05:17:51.859Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251010_102553_217397____1_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x2012.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_496348____2_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x2141.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_067945____3_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1437.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_981755____4_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1882.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_697855____5_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1026.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_052183____6_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102553_307128____7_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_759009____8_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_684401____9_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_209615____10_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_582140____11_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_302874____12_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_192998____13_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_245283____14_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251010_102554_956109____15_the-powerpuff-girls-party-surprise-series-figures_blind-boxes_details_pop-mart-us_____1200x2542.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4117"
 }

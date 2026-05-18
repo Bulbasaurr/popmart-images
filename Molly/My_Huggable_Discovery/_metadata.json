@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:58.055Z"
+  "_generated_at": "2026-05-18T05:10:58.055Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250110_173926_838399____1_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x1970.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_836484____2_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2217.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_808509____3_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2566.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173925_197492____4_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x903.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_900456____5_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2505.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_487974____6_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2819.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_580484____7_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2827.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_279925____8_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2826.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_980205____9_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_242353____10_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2943.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173932_680595____11_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x2928.jpg",
+    "https://prod-america-res.popmart.com/default/20250110_173926_512881____12_baby-molly-my-huggable-discovery-series-figures_blind-boxes_details_popmart-us_____1200x722.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1930"
 }

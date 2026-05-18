@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:42.688Z"
+  "_generated_at": "2026-05-18T05:14:42.688Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250718_174622_435508____1_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1959.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_816528____2_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1734.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_688014____3_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1837.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_040045____4_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1826.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_768371____5_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1069.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_214377____6_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_281665____7_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_362559____8_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_386823____9_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_002683____10_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_024873____11_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1600.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_258300____12_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1649.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_723834____13_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1598.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_874348____14_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_727703____15_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_156383____16_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_256849____17_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174622_318065____18_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20250718_174621_082963____19_star-wars-bobblehead-series-figures_blind-boxes-_details_popmart-us_____1200x902.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3088"
 }

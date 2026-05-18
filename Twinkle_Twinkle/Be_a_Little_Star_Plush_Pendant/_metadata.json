@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:35.339Z"
+  "_generated_at": "2026-05-18T05:12:35.339Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250416_153553_989354____1_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1920.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_090134____2_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1754.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_520606____3_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1588.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_425721____4_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1993.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_179581____5_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x960.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_384934____6_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_104293____7_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_297591____8_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_490380____9_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_173124____10_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_153553_498752____11_twinkle-twinkle-be-a-little-star-series-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x673.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2176"
 }

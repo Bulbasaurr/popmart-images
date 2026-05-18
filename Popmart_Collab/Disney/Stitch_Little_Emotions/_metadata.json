@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:57.310Z"
+  "_generated_at": "2026-05-18T05:12:57.310Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250425_180151_126354____1_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1928.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_107290____2_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x2092.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_243176____3_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1499.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_486261____4_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1912.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_100273____5_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x983.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_941079____6_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_644285____7_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_754364____8_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_543678____9_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1791.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_581147____10_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_316780____11_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1813.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_407225____12_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_829202____13_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_233256____14_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_480858____15_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1809.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_102103____16_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_854464____17_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250630_151721_280627____18_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x1901.jpg",
+    "https://prod-america-res.popmart.com/default/20250425_180151_087871____19_disney-stitch-little-emotions-series-figures_blind-boxes_details_popmart-us_____1200x740.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2293"
 }

@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:56.719Z"
+  "_generated_at": "2026-05-18T05:16:56.719Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_173836_539978____1_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1930.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_346904____2_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1319.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_681896____3_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1428.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_620337____4_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1887.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_996359____5_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1769.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_307372____6_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_297469____7_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_485644____8_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_148930____9_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_173836_347492____10_skullpanda-you-found-me-series-phone-lanyard_phone-accessories_details_pop-mart-us_____1200x1448.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3690"
 }

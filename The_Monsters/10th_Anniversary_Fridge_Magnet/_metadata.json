@@ -101,5 +101,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:59.147Z"
+  "_generated_at": "2026-05-18T05:21:59.147Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260128_101418_635445____1_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101418_268049____2_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1600.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101417_469179____3_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1257.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_408529____4_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1946.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_862225____5_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1787.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101418_618811____6_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_872649____7_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_283269____8_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101418_127992____9_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_675095____10_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1697.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_101419_126007____11_the-monsters-10th-anniversary-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1587.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5777"
 }

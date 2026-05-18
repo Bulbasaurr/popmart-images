@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:58.608Z"
+  "_generated_at": "2026-05-18T05:16:58.608Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_174109_549049____1_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1958.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_384856____2_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1795.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_875126____3_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1495.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_224330____4_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x2207.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_252728____5_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1906.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_994813____6_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1588.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_688810____7_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_479362____8_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_515645____9_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_990688____10_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_307672____11_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1591.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174109_054399____12_skullpanda-you-found-me-series-plush-mini-bag_accessories_details_pop-mart-us_____1200x1660.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3674"
 }

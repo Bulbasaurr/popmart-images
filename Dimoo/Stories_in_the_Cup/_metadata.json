@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:21.528Z"
+  "_generated_at": "2026-05-18T05:10:21.528Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241216_121701_251692____1_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x1934.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121700_653162____2_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2208.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121700_578666____3_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x1584.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_190214____4_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x1887.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_011763____5_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2336.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_093208____6_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2832.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_267747____7_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2823.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_398192____8_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2824.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_359073____9_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2823.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121700_428674____10_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2928.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121701_044164____11_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x2904.jpg",
+    "https://prod-america-res.popmart.com/default/20241216_121700_137548____12_dimoo-stories-in-the-cup-series-figures_blind-boxes_details_popmart-us_____1200x753.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1767"
 }

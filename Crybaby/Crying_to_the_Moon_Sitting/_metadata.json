@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:46.794Z"
+  "_generated_at": "2026-05-18T05:19:46.794Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251128_182732_267838____1_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1701.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182733_558229____2_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x2368.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182731_903226____3_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1325.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182735_165620____4_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1985.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182733_441100____5_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1053.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182737_545248____6_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182751_077426____7_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182745_621886____8_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182756_530628____9_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182754_002931____10_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182754_834832____11_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182757_515961____12_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182808_167447____13_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182800_220861____14_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182813_003068____15_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182818_727012____16_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182815_755898____17_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182819_704629____18_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x1692.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_182809_047895____19_crybaby-crying-to-the-moon-sitting-seiries-figures_blind-boxes_details_pop-mart-us_____1200x841.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4713"
 }

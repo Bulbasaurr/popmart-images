@@ -125,5 +125,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:20.625Z"
+  "_generated_at": "2026-05-18T05:12:20.625Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250227_172900_157026____1_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x1908.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_768856____2_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2226.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_155897____3_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x715.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_859890____4_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x724.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_270847____5_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x1012.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_192435____6_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x902.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_655189____7_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2418.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_524074____8_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2826.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_661844____9_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_136030____10_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2822.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_520951____11_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2829.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_127042____12_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2947.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172900_446138____13_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x2900.jpg",
+    "https://prod-america-res.popmart.com/default/20250227_172859_172273____14_zsiga-borderline-drifter-series-figures_blind-boxes_details_popmart-us_____1200x737.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2055"
 }

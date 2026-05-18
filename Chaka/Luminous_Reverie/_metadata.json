@@ -125,5 +125,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:46.788Z"
+  "_generated_at": "2026-05-18T05:19:46.788Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251212_171754_954110____1_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1770.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_366211____2_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x2239.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_015703____3_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1370.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_529786____4_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1981.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_219704____5_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1032.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_321239____6_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_905738____7_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_333360____8_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171755_722254____9_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_176641____10_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_903989____11_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_724573____12_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_004901____13_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_169080____14_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_641266____15_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_951738____16_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_175595____17_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_608144____18_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x1708.jpg",
+    "https://prod-america-res.popmart.com/default/20251212_171756_737768____19_chaka-luminous-reverie-series-figures_blind-boxes_details_pop-mart-us_____1200x822.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images"
 }

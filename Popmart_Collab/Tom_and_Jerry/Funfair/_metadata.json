@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:04.129Z"
+  "_generated_at": "2026-05-18T05:22:04.129Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260130_175318_212794____1_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1727.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_959788____2_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1593.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_297355____3_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1297.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_807640____4_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1970.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_989633____5_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175318_470124____6_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_273111____7_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_681900____8_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_989407____9_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_790954____10_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_844199____11_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_060407____12_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175320_829226____13_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175319_736448____14_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175320_651117____15_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x1707.jpg",
+    "https://prod-america-res.popmart.com/default/20260130_175320_478256____16_tom-and-jerry-funfair-series-figures_blind-boxes_details_pop-mart-us_____1200x804.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5829"
 }

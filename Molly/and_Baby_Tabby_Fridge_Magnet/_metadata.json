@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:05.167Z"
+  "_generated_at": "2026-05-18T05:14:05.167Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250516_103930_857158____1_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1924.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_132904____2_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1159.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_337106____3_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1440.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_588474____4_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1868.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_089723____5_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1775.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_820439____6_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_784380____7_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_407540____8_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103930_791145____9_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x1747.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103929_409462____10_baby-molly-baby-tabby-series-fridge-magnet-blind-box_accessories_details_popmart-us_____1200x839.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2777"
 }

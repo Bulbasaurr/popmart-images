@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:13:01.829Z"
+  "_generated_at": "2026-05-18T05:13:01.829Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250516_103323_424526____1_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1920.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_012211____2_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x2132.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_958744____3_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1495.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_257524____4_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1904.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_001847____5_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1000.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_352830____6_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_388948____7_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1811.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_718239____8_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_535999____9_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1794.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_844409____10_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1800.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_825967____11_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_401838____12_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_414116____13_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_656487____14_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_914442____15_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_225853____16_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_310922____17_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1808.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_085295____18_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x1887.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_103323_077612____19_baby-molly-baby-tabby-series-figures_blind-boxes_details_popmart-us_____1200x755.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2300"
 }

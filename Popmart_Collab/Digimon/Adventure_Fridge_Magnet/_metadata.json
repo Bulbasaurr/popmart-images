@@ -117,5 +117,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:24.043Z"
+  "_generated_at": "2026-05-18T05:10:24.043Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250512_151313_318829____1_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1920.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_590100____2_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1644.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_121588____3_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1479.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_340604____4_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_324842____5_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1884.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_217679____6_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151313_534510____7_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1572.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_918229____8_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1572.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_075175____9_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_369805____10_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1569.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_006575____11_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_319088____12_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_924434____13_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_559811____14_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_013128____15_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1570.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_550320____16_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_557668____17_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x1680.jpg",
+    "https://prod-america-res.popmart.com/default/20250512_151314_847734____18_digimon-adventure-fridge-magnet_blind-boxes_details_popmart-us_____1200x690.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1770"
 }

@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:46.484Z"
+  "_generated_at": "2026-05-18T05:06:46.484Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240912_111023_577183____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_01_____1200x1678.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111023_030557____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_02_____1200x1601.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111023_335707____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_03_____1200x1507.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111023_823049____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_04_____1200x1981.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111023_419376____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_05_____1200x2540.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111024_369783____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_06_____1200x3115.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111024_944968____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_07_____1200x3151.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111024_579796____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_08_____1200x3111.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111023_306162____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_09_____1200x1239.jpg",
+    "https://prod-america-res.popmart.com/default/20240912_111024_126477____the-monsters-playing-games-series-scene-sets_blind-boxes_details_popmart-us-_10_____1200x1772.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1556"
 }

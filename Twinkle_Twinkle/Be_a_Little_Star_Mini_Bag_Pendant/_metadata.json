@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:47.757Z"
+  "_generated_at": "2026-05-18T05:12:47.757Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250416_162012_171116____1_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1826.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_536579____2_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1685.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_210890____3_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1329.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_033802____4_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1957.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_609556____5_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1763.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_679597____6_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_982138____7_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_295449____8_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1725.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162012_437980____9_twinkle-twinkle-be-a-little-star-series-mini-bag-pendant-blind-box_blind-boxes_details_popmart-us_____1200x693.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2241"
 }

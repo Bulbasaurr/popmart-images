@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:13:05.469Z"
+  "_generated_at": "2026-05-18T05:13:05.469Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250526_163906_256560____1_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1648.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163906_299115____2_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1444.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163906_601676____3_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1392.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_545193____4_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1884.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163906_797491____5_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x960.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_286734____6_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_242599____7_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_110165____8_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_939863____9_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_556593____10_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_656342____11_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_200766____12_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_945441____13_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_399334____14_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_897232____15_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20250526_163907_083659____16_chibi-maruko-chan-s-the-time-with-you-series-figures_blind-boxes_details_popmart-us_____1200x816.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2303"
 }

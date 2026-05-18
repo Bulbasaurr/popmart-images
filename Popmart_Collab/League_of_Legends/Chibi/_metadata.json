@@ -125,5 +125,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:10.146Z"
+  "_generated_at": "2026-05-18T05:10:10.146Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241202_105258_181600____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1797.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105258_506060____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2192.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105258_576542____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x781.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105258_882156____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2651.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_757626____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2286.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_897094____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_502357____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x2819.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_287025____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x2821.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_333912____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_706050____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x2817.jpg",
+    "https://prod-america-res.popmart.com/default/20241202_105259_393278____fight-for-the-golden-spatula-chibi-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3694.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1727"
 }

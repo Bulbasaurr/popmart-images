@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:41.166Z"
+  "_generated_at": "2026-05-18T05:16:41.166Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250829_152947_685148____1_baby-1_____1200x2258.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_966762____2_baby-1_____1200x1143.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_142468____3_baby-1_____1200x1468.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_944725____4_baby-1_____1200x1959.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_336196____5_baby-1_____1200x1776.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_484353____6_baby-1_____1200x1623.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_758704____7_baby-1_____1200x1614.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_950385____8_baby-1_____1200x1627.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_678375____9_baby-1_____1200x1712.JPG",
+    "https://prod-america-res.popmart.com/default/20250829_152947_266988____10_bab-1_____1200x1319.JPG"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3613"
 }

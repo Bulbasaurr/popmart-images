@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:46.801Z"
+  "_generated_at": "2026-05-18T05:19:46.801Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251128_183907_790232____1_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1696.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183853_169357____2_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1987.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183847_401715____3_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1378.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183853_122997____4_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1986.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183904_788837____5_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1029.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183914_430561____6_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183921_189634____7_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183935_810853____8_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183913_040230____9_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183953_411295____10_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183916_694826____11_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183902_160175____12_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183935_511542____13_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183939_641628____14_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183933_201363____15_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183958_030521____16_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183934_803056____17_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183950_057837____18_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x1694.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_183947_476798____19_crybaby-crying-to-the-moon-series-figures_blind-boxes-_details_pop-mart-us_____1200x801.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4714"
 }

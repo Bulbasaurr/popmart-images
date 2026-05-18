@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:42.602Z"
+  "_generated_at": "2026-05-18T05:16:42.602Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250829_152602_988621____1_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1992.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_153288____2_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1733.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_304925____3_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1556.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_450024____4_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1980.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_906441____5_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1784.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_133358____6_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_007717____7_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_876988____8_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_487742____9_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_481395____10_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1717.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_152602_930860____11_baby-molly-fruity-aroma-series-phone-charm-blind-box_phone-accessories_details_pop-mart-us_____1200x1607.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3614"
 }

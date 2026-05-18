@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:31.339Z"
+  "_generated_at": "2026-05-18T05:17:31.339Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250923_164012_282563____1_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1904.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_592464____2_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1508.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_566234____3_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1607.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_327161____4_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1963.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_712083____5_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1761.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_162300____6_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_476788____7_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_420425____8_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_029263____9_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1723.jpg",
+    "https://prod-america-res.popmart.com/default/20250923_164012_355060____10_twinkle-twinkle-savor-the-moment-series-fresh-baked-mini-cookies-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x784.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3816"
 }

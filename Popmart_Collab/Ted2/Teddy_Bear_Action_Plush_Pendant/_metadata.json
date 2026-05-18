@@ -77,5 +77,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:25.648Z"
+  "_generated_at": "2026-05-18T05:14:25.648Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250529_181051_907158____1_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1663.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_360864____2_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x2105.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_172603____3_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1974.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_556148____4_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1938.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_861522____5_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1897.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_152838____6_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1980.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_819778____7_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1963.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181051_364486____8_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1734.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181051_396713____9_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x2166.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_735665____10_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1985.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181051_160112____11_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x2535.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_778771____12_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x2233.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_647908____13_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x2037.jpg",
+    "https://prod-america-res.popmart.com/default/20250529_181050_241458____14_ted2-teddy-bear-action-plush-pendant_plush_details_popmart-us_____1200x1694.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2981"
 }

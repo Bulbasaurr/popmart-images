@@ -46,5 +46,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:11.539Z"
+  "_generated_at": "2026-05-18T05:12:11.539Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250305_144022_940933____1_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144021_000086____2_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1043.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144021_327060____3_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x706.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144021_841578____4_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x755.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_716526____5_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x973.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144021_263178____6_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x889.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_133639____7_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1054.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_171958____8_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1636.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_719514____9_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1598.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_236217____10_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1594.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_882895____11_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x1661.jpg",
+    "https://prod-america-res.popmart.com/default/20250305_144022_905660____12_the-monsters-coca-cola-series-vinyl-face-blind-box_plush_details_popmart-us_____1200x839.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1982"
 }

@@ -141,5 +141,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:45.510Z"
+  "_generated_at": "2026-05-18T05:06:45.510Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240924_115011_118746____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_020737____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2198.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115011_150475____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x2220.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_266678____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2649.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_947123____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2534.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_857741____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_878901____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_142200____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_506745____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x3133.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_348765____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115011_768791____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3135.jpg",
+    "https://prod-america-res.popmart.com/default/20240924_115012_394787____crybaby-crying-again-series-figures-blind-boxes-pop-mart-us-detail_12_____1200x3954.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1549"
 }

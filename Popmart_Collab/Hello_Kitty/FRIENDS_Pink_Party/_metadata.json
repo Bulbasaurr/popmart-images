@@ -117,5 +117,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:25.204Z"
+  "_generated_at": "2026-05-18T05:22:25.204Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260319_114159_177228____1_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_816959____2_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x2540.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_139114____3_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1743.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_618050____4_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1931.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_637432____5_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_254883____6_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_740498____7_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_687899____8_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_451457____9_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_877759____10_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_433713____11_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_741280____12_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_178565____13_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_245269____14_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_753344____15_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_722711____16_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1712.jpg",
+    "https://prod-america-res.popmart.com/default/20260319_114159_634993____17_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x780.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6042"
 }

@@ -101,5 +101,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:46.894Z"
+  "_generated_at": "2026-05-18T05:18:46.894Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251017_173852_510537____1_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x1983.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173854_029924____2_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x2382.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173853_800810____3_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x2627.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173853_832326____4_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x2663.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173853_974913____5_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x3235.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173854_770077____6_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x3243.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173854_580407____7_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x3245.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173858_472613____8_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x3243.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_173854_775452____9_disney-mickey-remixed-mickey-meets-pixar-series-figures_blind-boxes_details_pop-mart-us_____1200x2531.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4134"
 }

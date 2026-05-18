@@ -125,5 +125,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:14.175Z"
+  "_generated_at": "2026-05-18T05:10:14.175Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241128_180647_575835____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1797.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_127481____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2164.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180646_678863____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x774.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_890474____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2652.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_366754____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x2284.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_675246____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x2821.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_108876____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_209924____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_387772____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_711857____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20241128_180647_471727____nyota-growing-up-by-your-way-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3686.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1731"
 }

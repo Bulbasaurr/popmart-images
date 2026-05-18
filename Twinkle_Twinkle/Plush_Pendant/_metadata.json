@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:52.492Z"
+  "_generated_at": "2026-05-18T05:06:52.492Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240913_145108_028427____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_01_____1200x1904.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_051604____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_02_____1200x1822.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_347620____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_03_____1200x1540.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_296105____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_04_____1200x1015.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_075634____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_05_____1200x1007.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_619598____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_06_____1200x1751.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_305390____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_07_____1200x1628.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_540050____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_08_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_695598____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_09_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_784688____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_10_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145108_929029____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_11_____1200x1698.jpg",
+    "https://prod-america-res.popmart.com/default/20240913_145107_737341____we-are-twinkle-twinkle-series-plush-pendant-blind-box_blind-boxes_details_popmart-us-_12_____1200x643.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1559"
 }

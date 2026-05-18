@@ -126,5 +126,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:19.561Z"
+  "_generated_at": "2026-05-18T05:12:19.561Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250324_105024_878629____1_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105023_827394____2_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2221.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105020_828570____3_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x718.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105021_891099____4_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x713.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105023_860220____5_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x999.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105021_654320____6_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x914.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_319623____7_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2429.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_246306____8_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2818.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_367955____9_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2830.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_347944____10_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2820.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_259025____11_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2817.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_339439____12_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x2825.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105024_208023____13_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x3025.jpg",
+    "https://prod-america-res.popmart.com/default/20250324_105023_065440____14_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x757.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2053"
 }

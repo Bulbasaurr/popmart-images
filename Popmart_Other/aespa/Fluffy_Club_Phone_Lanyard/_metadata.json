@@ -85,5 +85,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:12.474Z"
+  "_generated_at": "2026-05-18T05:24:12.474Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260424_181831_896654____1_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1819.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_994664____2_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1725.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_316601____3_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1888.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_527302____4_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1846.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_236523____5_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1119.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_296000____6_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1783.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_185157____7_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_269278____8_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_528406____9_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_531902____10_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_824952____11_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1715.jpg",
+    "https://prod-america-res.popmart.com/default/20260424_181831_287812____12_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1657.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6347"
 }

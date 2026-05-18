@@ -133,5 +133,27 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:08:50.226Z"
+  "_generated_at": "2026-05-18T05:08:50.226Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240606_175440_228540____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_01_____1200x1517.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_281588____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_02_____1200x2180.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_489692____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_03_____1200x1401.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_866220____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_04_____1200x835.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_665606____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_05_____1200x1842.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_255272____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_06_____1200x2490.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_922649____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_07_____1200x1511.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_144555____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_08_____1200x1517.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_901405____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_09_____1200x1528.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_061124____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_10_____1200x1531.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_836616____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_11_____1200x1502.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_376175____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_12_____1200x1533.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_084656____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_13_____1200x1505.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_223872____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_14_____1200x1543.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_512867____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_15_____1200x1512.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_477933____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_16_____1200x1524.jpg",
+    "https://prod-america-res.popmart.com/default/20240606_175440_023958____dimoo-by-your-side-series-figures_blind-boxes_details_pop-mart-us-_17_____1200x2254.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1346"
 }

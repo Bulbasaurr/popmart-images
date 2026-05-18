@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:15:02.224Z"
+  "_generated_at": "2026-05-18T05:15:02.224Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250811_101328_479677____1_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2089.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_369170____2_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2025.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_860358____3_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2119.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_546251____4_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2019.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_048631____5_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2041.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_279242____6_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2079.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_745648____8_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x1908.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_060927____9_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2825.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_746806____10_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2776.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_143123____11_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x2004.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_302635____12_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x1750.jpg",
+    "https://prod-america-res.popmart.com/default/20250811_101328_618771____13_spy-family-character-series-plush-blind-box_plush-toys_details_popmart-us_____1200x1303.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3333"
 }

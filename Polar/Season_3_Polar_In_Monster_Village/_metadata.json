@@ -133,5 +133,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:18.300Z"
+  "_generated_at": "2026-05-18T05:24:18.300Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260506_181907_484298____1_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_104034____2_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x2347.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_819370____3_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1392.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_050018____4_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x2425.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_837082____5_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1943.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_879621____6_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_007977____7_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_665822____8_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_536952____9_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_962344____10_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_955555____11_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_012408____12_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_832116____13_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_253116____14_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_866627____15_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_781486____16_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_063283____17_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260506_181907_484049____18_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x2486.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6391"
 }

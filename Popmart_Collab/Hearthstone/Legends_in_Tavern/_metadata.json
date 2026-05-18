@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:42.139Z"
+  "_generated_at": "2026-05-18T05:19:42.139Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251205_172340_774044____1_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_888330____2_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1554.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_014588____3_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1387.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_411989____4_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1905.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_147244____5_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1041.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_813739____6_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_770494____7_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_450268____8_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_985001____9_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172341_965719____10_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_040996____11_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_800275____12_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_105810____13_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_861628____14_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_915129____15_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x1695.jpg",
+    "https://prod-america-res.popmart.com/default/20251205_172342_906450____16_hearthstone-legends-in-tavern-series-figures_blind-boxes_details_pop-mart-us_____1200x793.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4527"
 }

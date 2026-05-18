@@ -149,5 +149,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:44.877Z"
+  "_generated_at": "2026-05-18T05:18:44.877Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251017_165834_178852____1_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2151.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165835_483537____2_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2347.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165835_495035____3_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2475.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165839_401077____4_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2641.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165835_641524____5_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2454.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165840_089499____6_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2476.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165836_892063____7_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2472.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165836_291893____8_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x2463.jpg",
+    "https://prod-america-res.popmart.com/default/20251017_165837_924754____9_celebrating-the-moment-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1435.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4199"
 }

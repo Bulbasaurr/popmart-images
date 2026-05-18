@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:35.081Z"
+  "_generated_at": "2026-05-18T05:06:35.081Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240822_103145_208771____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_01_____1200x2210.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103145_388937____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_02_____1200x2464.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103145_985636____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_03_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_663529____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_04_____1200x1916.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_345660____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_05_____1200x964.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_729699____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_06_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_846318____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_07_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_201873____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_08_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103146_357908____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_09_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_814539____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_10_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_960030____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_11_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_917073____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_12_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_864429____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_13_____1200x1565.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_453257____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_14_____1200x1571.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_811076____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_15_____1200x1563.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_390817____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_16_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_623541____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_17_____1200x1653.jpg",
+    "https://prod-america-res.popmart.com/default/20240822_103147_055384____genshin-impact-dress-up-dreams-themed-chibi-series-figures_blind-boxes_popmart-us-_details_18_____1200x771.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1519"
 }

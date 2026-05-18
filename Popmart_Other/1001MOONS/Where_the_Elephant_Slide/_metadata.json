@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:29.050Z"
+  "_generated_at": "2026-05-18T05:19:29.050Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251121_172721_636389____1_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1764.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172723_127533____2_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x2318.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172723_293860____3_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1427.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172723_039873____4_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1893.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172723_897307____5_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1045.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172723_794609____6_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172722_716391____7_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172724_468330____8_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172725_863364____9_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172725_741000____10_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172725_967934____11_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172725_595804____12_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172726_937556____13_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172725_235118____14_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172726_427205____15_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172727_240741____16_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172726_858209____17_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172727_127689____18_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x1687.jpg",
+    "https://prod-america-res.popmart.com/default/20251121_172727_264698____19_1001moons-where-s-the-elephant-slide-series-figures_blind-boxes_details_pop-mart-us_____1200x815.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4520"
 }

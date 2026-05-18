@@ -101,5 +101,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:45.196Z"
+  "_generated_at": "2026-05-18T05:17:45.196Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250929_104227_292194____1_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x2042.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_508977____2_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1692.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_902976____3_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1479.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_786332____4_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1784.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_862189____5_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1293.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_284280____6_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1733.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_201359____7_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1564.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_318120____8_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1577.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_209065____9_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1566.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_645076____10_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1568.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_290072____11_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1663.jpg",
+    "https://prod-america-res.popmart.com/default/20250929_104227_383290____12_why-so-serious-series-pendant-chain-blind-box_accessories_details_pop-mart-us_____1200x1560.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3936"
 }

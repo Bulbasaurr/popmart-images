@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:13:02.979Z"
+  "_generated_at": "2026-05-18T05:13:02.979Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250714_100053_429256____1_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x2042.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100053_561238____2_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1427.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100053_863907____3_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1379.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100053_871053____4_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1854.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_785535____5_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1002.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_904628____6_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_387390____7_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_566097____8_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_690565____9_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_173317____10_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_917812____11_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_974490____12_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_527158____13_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_298388____14_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_094695____15_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20250714_100054_268152____16_tom-jerry-forbidden-compass-series-figures_blind-boxes_details_popmart-us_____1200x805.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2301"
 }

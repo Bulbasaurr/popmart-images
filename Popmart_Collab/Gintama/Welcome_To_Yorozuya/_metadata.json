@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:01.483Z"
+  "_generated_at": "2026-05-18T05:22:01.483Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260123_183435_705023____1_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1718.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183435_089239____2_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x2277.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183435_473957____3_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1402.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183435_872909____4_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1944.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_971854____5_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1033.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_862532____6_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183435_490888____7_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_602066____8_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_569043____9_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_155857____10_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_730466____11_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_579551____12_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_426886____13_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_290689____14_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_521534____15_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_641011____16_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183436_564337____17_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183437_383037____18_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x1713.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_183437_505968____19_gintama-welcome-to-yorozuya-series-figures_blind-boxes_details_pop-mart-us_____1200x858.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5780"
 }

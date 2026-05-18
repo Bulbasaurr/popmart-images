@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:49.362Z"
+  "_generated_at": "2026-05-18T05:19:49.362Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251128_184532_389725____1_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1914.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184532_097276____2_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x2053.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184540_201232____3_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x2459.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184542_587044____4_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1946.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184611_186241____5_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184615_087364____6_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184551_749847____7_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184641_003991____8_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184552_586634____9_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184617_729266____10_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184608_422866____11_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184630_580391____12_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184613_585346____13_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184608_001189____14_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184637_966991____15_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184622_938471____16_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184704_415834____17_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x1693.jpg",
+    "https://prod-america-res.popmart.com/default/20251128_184708_479608____18_pucky-fairies-market-series-figures_blind-boxes_details_pop-mart-us_____1200x843.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4716"
 }

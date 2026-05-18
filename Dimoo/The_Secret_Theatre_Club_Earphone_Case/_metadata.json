@@ -77,5 +77,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:47.784Z"
+  "_generated_at": "2026-05-18T05:23:47.784Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260403_172630_716724____1_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2013.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_058602____2_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x2067.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_117033____3_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1856.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_360417____4_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x926.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_494563____5_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1388.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_495025____6_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_357630____7_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_431035____8_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_101063____9_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1706.jpg",
+    "https://prod-america-res.popmart.com/default/20260403_172630_230283____10_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1404.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6213"
 }

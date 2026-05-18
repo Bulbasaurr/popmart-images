@@ -133,5 +133,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:07:00.542Z"
+  "_generated_at": "2026-05-18T05:07:00.542Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20240927_163253_744624____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_01_____1200x1909.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_759530____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_02_____1200x2164.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163252_903995____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_03_____1200x1505.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_675022____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_04_____1200x2654.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_561427____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_05_____1200x1788.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_915153____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_06_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_628075____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_07_____1200x3131.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163254_198450____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_08_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163254_585917____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_09_____1200x3132.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163253_758923____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_10_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163254_970748____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_11_____1200x3134.jpg",
+    "https://prod-america-res.popmart.com/default/20240927_163254_037848____dimoo-weaving-wonders-series-figures-blind-boxes-pop-mart-us-detail_12_____1200x3955.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1613"
 }

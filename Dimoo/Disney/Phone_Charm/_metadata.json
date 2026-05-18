@@ -78,5 +78,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:23.799Z"
+  "_generated_at": "2026-05-18T05:12:23.799Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250317_161102_295732____1_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1997.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_042089____2_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1797.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161101_394024____3_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x724.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_771756____4_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x719.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_625802____5_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1014.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_496381____6_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1200.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_987119____7_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1806.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_267074____8_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1659.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_055346____9_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_079621____10_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_946768____11_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x683.jpg",
+    "https://prod-america-res.popmart.com/default/20250317_161102_577356____12_dimoo-world-x-disney-series-phone-charm-blind-box_accessories_details_popmart-us_____1200x1084.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2077"
 }

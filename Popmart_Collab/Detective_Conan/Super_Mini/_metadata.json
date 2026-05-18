@@ -165,5 +165,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:46.776Z"
+  "_generated_at": "2026-05-18T05:16:46.776Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250905_174303_277590____1_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1872.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174303_402808____2_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1982.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174303_580872____3_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x2276.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_485717____4_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x2107.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_570680____5_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1991.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_422214____6_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1943.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_020003____7_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x2636.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_448456____8_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1689.jpg",
+    "https://prod-america-res.popmart.com/default/20250905_174304_476064____9_detective-conan-super-mini-figure_blind-boxes_details_popmart-us_____1200x1957.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3777"
 }

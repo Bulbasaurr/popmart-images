@@ -77,5 +77,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:24.343Z"
+  "_generated_at": "2026-05-18T05:19:24.343Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251114_161242_788627____1_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1751.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161243_922486____2_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1689.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161243_407662____3_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1562.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161244_728189____4_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x2090.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161244_529594____5_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1650.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161243_818857____6_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161243_457497____7_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161243_091375____8_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161244_966882____9_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161246_547430____10_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x1690.jpg",
+    "https://prod-america-res.popmart.com/default/20251114_161245_153994____11_apple-of-my-eye-series-luminous-pendant-blind-box_accessories_details_pop-mart-us_____1200x2033.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4467"
 }

@@ -61,5 +61,20 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:37.644Z"
+  "_generated_at": "2026-05-18T05:12:37.644Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250328_171451_665566____1_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x2008.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_903871____2_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x1656.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_099287____3_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x789.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_111362____4_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x730.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_644612____5_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x1074.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_684567____6_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x893.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_608980____7_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x1821.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_069910____8_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x1659.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_127172____9_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x1734.jpg",
+    "https://prod-america-res.popmart.com/default/20250328_171451_540075____10_skullpanda-the-mirage-series-breastpin_accessories_details_popmart-us_____1200x824.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2196"
 }

@@ -77,5 +77,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:05.722Z"
+  "_generated_at": "2026-05-18T05:14:05.722Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250516_104748_521009____1_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1917.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_003586____2_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1791.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_714722____3_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1573.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_614875____4_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x2133.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_330063____5_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1754.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_675475____6_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_539749____7_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_697953____8_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_291982____9_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_366886____10_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1626.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_635272____11_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x1714.jpg",
+    "https://prod-america-res.popmart.com/default/20250516_104748_043409____12_baby-molly-baby-tabby-series-squishy-charm-blind-box_accessories_details_popmart-us_____1200x736.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2782"
 }

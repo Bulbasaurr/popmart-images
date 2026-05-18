@@ -133,5 +133,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:58.874Z"
+  "_generated_at": "2026-05-18T05:10:58.874Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250115_140548_296236____1_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1831.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_480350____2_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1941.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_947030____3_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2327.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_735600____4_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1853.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_852904____5_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2324.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_467902____6_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2822.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_975776____7_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2824.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_763777____8_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2831.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_968195____9_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2825.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_135751____10_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2941.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_438202____11_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x2827.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_462355____12_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1510.jpg",
+    "https://prod-america-res.popmart.com/default/20250115_140548_770507____13_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x703.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1932"
 }

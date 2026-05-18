@@ -101,5 +101,17 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:57.344Z"
+  "_generated_at": "2026-05-18T05:21:57.344Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260128_102844_782831____1_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1599.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102844_151904____2_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1741.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102844_174422____3_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1522.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102845_740111____4_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1985.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102845_648996____5_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1760.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102845_807560____6_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1709.jpg",
+    "https://prod-america-res.popmart.com/default/20260128_102846_182531____7_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1924.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5778"
 }

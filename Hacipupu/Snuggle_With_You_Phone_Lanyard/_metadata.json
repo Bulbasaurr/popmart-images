@@ -77,5 +77,16 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:55.045Z"
+  "_generated_at": "2026-05-18T05:10:55.045Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241231_120447_538676____1_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x2058.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_120447_724083____2_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x3204.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_120446_106541____3_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x2047.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_120447_367948____4_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x3215.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_120447_537304____5_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x2197.jpg",
+    "https://prod-america-res.popmart.com/default/20241231_120447_550496____6_hacipupu-snuggle-with-you-series-phone-lanyard-blind-box_accessories_details_popmart-us_____1200x795.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1920"
 }

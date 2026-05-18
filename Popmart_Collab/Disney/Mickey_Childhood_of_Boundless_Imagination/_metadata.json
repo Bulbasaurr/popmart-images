@@ -125,5 +125,22 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:51.321Z"
+  "_generated_at": "2026-05-18T05:10:51.321Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241224_183200_201941____1_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x1844.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_709848____2_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2208.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_002650____3_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x1584.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_036090____4_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x1887.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_638582____5_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2336.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_649753____6_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2832.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183200_300962____7_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2823.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183203_472421____8_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2824.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183210_135754____9_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2823.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183210_337654____10_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2928.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183210_625871____11_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x2904.jpg",
+    "https://prod-america-res.popmart.com/default/20241224_183210_972359____12_disney-mickey-childhood-of-boundless-imagination-series-figures_blind-boxes_details_popmart-us_____1200x753.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1910"
 }

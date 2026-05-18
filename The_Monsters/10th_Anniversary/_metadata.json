@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:53.050Z"
+  "_generated_at": "2026-05-18T05:21:53.050Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260123_182515_365710____1_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x2048.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_112413____2_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x2157.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_535652____3_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1397.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_836727____4_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1986.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_060410____5_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1245.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_182873____6_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_997583____7_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_465692____8_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_437702____9_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_723082____10_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182515_922015____11_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_738618____12_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_045791____13_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_523746____14_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_506614____15_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1703.jpg",
+    "https://prod-america-res.popmart.com/default/20260123_182516_805684____16_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1290.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5775"
 }

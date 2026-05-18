@@ -93,5 +93,21 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:10:32.513Z"
+  "_generated_at": "2026-05-18T05:10:32.513Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20241112_181226_876989____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_01_____1200x1733.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_974070____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_02_____1200x2200.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181225_849043____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_03_____1200x1647.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181225_003816____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_04_____1200x1025.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181225_014931____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_05_____1200x902.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_875526____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_06_____1200x2180.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_980140____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_07_____1200x2503.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_033187____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_08_____1200x2565.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_892318____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_09_____1200x2549.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181226_066692____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_10_____1200x2621.jpg",
+    "https://prod-america-res.popmart.com/default/20241112_181225_237507____disney-classic-fairy-tales-series-figures_blind-boxes_details_popmart-us-_01_11_____1200x870.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1804"
 }

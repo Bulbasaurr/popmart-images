@@ -77,5 +77,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:18:53.370Z"
+  "_generated_at": "2026-05-18T05:18:53.370Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251024_173543_759861____1_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1723.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_522388____2_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x2396.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_571047____3_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x2812.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_635738____4_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1637.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_461830____5_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_354655____6_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1651.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173544_488855____7_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1654.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173547_113755____8_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1750.jpg",
+    "https://prod-america-res.popmart.com/default/20251024_173545_423691____9_crybaby-vacation-mode-on-series-pendant-blind-box_accessories_details_pop-mart-us_____1200x1495.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4137"
 }

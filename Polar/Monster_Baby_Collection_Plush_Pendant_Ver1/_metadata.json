@@ -85,5 +85,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:34.414Z"
+  "_generated_at": "2026-05-18T05:19:34.414Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251121_183127_236809____1_pola-1_____1200x1791.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183128_118595____2_pola-1_____1200x2523.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183131_554270____3_pola-1_____1200x1786.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183129_211618____4_pola-1_____1200x1162.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183128_216063____5_pola-1_____1200x1790.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183127_487083____6_pola-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183128_200428____7_pola-1_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183131_865323____8_pola-1_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183130_537334____9_pola-1_____1200x1617.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183129_077566____10_pol-1_____1200x1621.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183131_391152____11_pol-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183129_943906____12_pol-1_____1200x1619.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183131_989401____13_pol-1_____1200x1686.JPG",
+    "https://prod-america-res.popmart.com/default/20251121_183130_240065____14_pol-1_____1200x907.JPG"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4522"
 }

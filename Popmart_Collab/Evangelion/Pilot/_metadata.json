@@ -85,5 +85,24 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:43.527Z"
+  "_generated_at": "2026-05-18T05:19:43.527Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251222_171832_572204____1_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1876.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_100761____2_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1992.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_498596____3_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2135.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_382873____4_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2111.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_815419____5_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2383.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171831_217224____6_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1969.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171831_527099____7_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2198.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_404111____8_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2186.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_390153____9_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2275.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_010127____10_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1901.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_515752____11_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1710.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_493613____12_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1340.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_116331____13_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x2158.jpg",
+    "https://prod-america-res.popmart.com/default/20251222_171832_730944____14_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x745.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4711"
 }

@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:14.743Z"
+  "_generated_at": "2026-05-18T05:19:14.743Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251107_182049_616842____1_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1913.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182043_353189____2_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x2150.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182042_793526____3_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1377.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182043_616412____4_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1950.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182043_670732____5_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1046.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182046_245237____6_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182046_247238____7_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182044_769807____8_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182050_086188____9_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1616.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182045_322242____10_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182046_365960____11_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182046_169466____12_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1623.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182056_893402____13_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182049_774095____14_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182048_661376____15_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182057_451542____16_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182052_387164____17_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182050_530203____18_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x1722.jpg",
+    "https://prod-america-res.popmart.com/default/20251107_182052_093657____19_polar-season-2-hidden-forest-path-series-figures_blind-boxes_details_pop-mart-us_____1200x835.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4368"
 }

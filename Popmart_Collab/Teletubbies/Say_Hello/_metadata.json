@@ -93,5 +93,11 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:17:14.472Z"
+  "_generated_at": "2026-05-18T05:17:14.472Z",
+  "disclosure_image_urls": [],
+  "disclosure_source": "unavailable_delisted",
+  "disclosure_unavailable": true,
+  "disclosure_unavailable_reason": "Set is delisted from popmart.com (both /us/pop-now/set/{id} and /us/products/{spu_id} return 404). No live disclosure image accessible. DO NOT auto-fill chance values - they must be sourced manually (e.g., from a previously archived disclosure card or owner documentation).",
+  "disclosure_instructions": "Chance numbers are NOT auto-derivable for this set. The POP MART page has been delisted. When adding to the sheet, source chances manually and never compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3787 (currently returns 404)"
 }

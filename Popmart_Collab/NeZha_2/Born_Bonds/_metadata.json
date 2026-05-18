@@ -93,5 +93,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:15:04.882Z"
+  "_generated_at": "2026-05-18T05:15:04.882Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250828_105847_789052____1_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1848.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_148271____2_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x2161.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_598394____3_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x2138.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_416590____4_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1503.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_668050____5_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x988.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_989847____6_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1244.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_929006____7_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1235.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_335768____8_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1246.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_075330____9_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1237.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_995244____10_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1243.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_267125____11_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1244.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_259141____12_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1237.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_873621____13_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1263.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_366315____14_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1347.jpg",
+    "https://prod-america-res.popmart.com/default/20250828_105847_651729____15_nezha-2-born-bonds-series-figures_blind-boxes_details_popmart-us_____1200x1033.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3454"
 }

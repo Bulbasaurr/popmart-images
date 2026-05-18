@@ -93,5 +93,19 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:32.046Z"
+  "_generated_at": "2026-05-18T05:22:32.046Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260327_180142_587961____1_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180142_563380____2_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1332.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_583526____3_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1778.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180142_830482____4_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x881.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_654934____5_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1049.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_844511____6_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_822036____7_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_874622____8_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1711.jpg",
+    "https://prod-america-res.popmart.com/default/20260327_180143_669549____9_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1415.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6113"
 }

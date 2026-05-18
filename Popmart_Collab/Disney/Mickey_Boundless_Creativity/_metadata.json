@@ -125,5 +125,28 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:31.484Z"
+  "_generated_at": "2026-05-18T05:21:31.484Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251226_175220_108669____1_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1502.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_260582____2_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x2188.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_446330____3_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1360.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_155792____4_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1986.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_695222____5_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1044.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_624626____6_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_358346____7_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175220_037297____8_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_457306____9_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_575955____10_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_990795____11_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_912715____12_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_445365____13_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_276711____14_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_474511____15_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_884623____16_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_197959____17_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_175221_916803____18_disney-mickey-boundless-creativity-series-figures_blind-boxes_details_pop-mart-us_____1200x2485.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5613"
 }

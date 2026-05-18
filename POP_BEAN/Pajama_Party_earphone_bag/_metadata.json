@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:38.630Z"
+  "_generated_at": "2026-05-18T05:12:38.630Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250416_162926_847919____1_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x2054.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_114306____2_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1361.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_906194____3_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1556.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_538722____4_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x2004.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_022904____5_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1767.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_996789____6_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1764.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_245069____7_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1677.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_162926_746717____8_pop-bean-pajama-party-series-earphone-bag_blind-boxes_details_popmart-us_____1200x1381.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2205"
 }

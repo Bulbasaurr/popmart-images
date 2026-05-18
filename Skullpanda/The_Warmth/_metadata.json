@@ -125,5 +125,12 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:06:00.250Z"
+  "_generated_at": "2026-05-18T05:06:00.250Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/温度详情页_wV4iAj1lhS_1200x3271.jpg",
+    "https://prod-america-res.popmart.com/default/XiongMIao_TVsBLi5sJX_1200x955.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1291"
 }

@@ -125,5 +125,31 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:12:43.107Z"
+  "_generated_at": "2026-05-18T05:12:43.107Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250901_143544_059804____1_01_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1905.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_423268____1_02_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x2125.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143543_712823____1_03_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x761.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143543_524205____1_04_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x742.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_721209____1_05_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1004.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143543_127977____1_06_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x913.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_239603____1_07_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x955.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_738451____1_08_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1812.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_601551____1_09_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_758898____1_10_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1805.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_068233____1_11_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1794.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_287600____1_12_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1810.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_983908____2_01_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1803.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_384137____2_02_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1815.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_234452____2_03_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1803.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_453843____2_04_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1814.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_273703____2_05_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1805.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_004275____2_06_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1807.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_769838____2_07_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1804.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143544_476275____2_08_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x1911.jpg",
+    "https://prod-america-res.popmart.com/default/20250901_143543_399108____2_09_twinkle-twinkle-be-a-little-star-series-figures_blind-boxes_details_popmart-us_____1200x742.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2210"
 }

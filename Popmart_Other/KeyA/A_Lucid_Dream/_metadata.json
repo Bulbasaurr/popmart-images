@@ -101,5 +101,26 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:22:22.389Z"
+  "_generated_at": "2026-05-18T05:22:22.389Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260313_173731_339661____1_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1704.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_657999____2_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1917.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_865139____3_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1350.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_865555____4_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1967.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_045395____5_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1033.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_245881____6_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_064512____7_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_995749____8_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_415435____9_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_529536____10_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_315228____11_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_405070____12_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_087935____13_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_719223____14_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_074789____15_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x1723.jpg",
+    "https://prod-america-res.popmart.com/default/20260313_173731_136514____16_keya-a-lucid-dream-series-figures_blind-boxes_details_pop-mart-us_____1200x778.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6038"
 }

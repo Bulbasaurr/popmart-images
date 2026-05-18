@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:16:39.305Z"
+  "_generated_at": "2026-05-18T05:16:39.305Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250829_145539_078165____1_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x2133.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_200102____2_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x2472.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_845000____3_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x2750.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_916719____4_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x1754.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_826821____5_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x1629.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_845193____6_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145539_290095____7_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x1703.jpg",
+    "https://prod-america-res.popmart.com/default/20250829_145538_149618____8_baby-molly-fruity-aroma-series-sachet-pendant-blind-box_accessories_details_popmart-us_____1200x655.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/3612"
 }

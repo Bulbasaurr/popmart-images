@@ -93,5 +93,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:42.576Z"
+  "_generated_at": "2026-05-18T05:21:42.576Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260109_174025_655617____1_hell-1_____1200x1700.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_319431____2_hell-1_____1200x2000.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_574696____3_hell-1_____1200x1420.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_088760____4_hell-1_____1200x1000.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_979900____5_hell-1_____1200x960.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_613885____6_hell-1_____1200x1040.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_721006____7_hell-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174025_342381____8_hell-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_624259____9_hell-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_121923____10_hel-1_____1200x1615.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_185746____11_hel-1_____1200x1622.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174027_055986____12_hel-1_____1200x1618.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174027_450974____13_hel-1_____1200x1620.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174027_464774____14_hel-1_____1200x1615.JPG",
+    "https://prod-america-res.popmart.com/default/20260109_174026_084479____15_hel-1_____1200x2397.JPG"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5690"
 }

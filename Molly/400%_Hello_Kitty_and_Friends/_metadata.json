@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:11:09.638Z"
+  "_generated_at": "2026-05-18T05:11:09.638Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250107_101035_694969____1_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2115.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_166047____2_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2860.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_564941____3_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2011.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_117832____4_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x3276.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_211087____5_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2990.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_563829____6_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2990.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_863657____7_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x3122.jpg",
+    "https://prod-america-res.popmart.com/default/20250107_101035_213787____8_mega-space-molly-400-sanrio-characters-series_mega_details_popmart-us_____1200x2131.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/1986"
 }

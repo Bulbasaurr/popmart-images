@@ -77,5 +77,18 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:16.082Z"
+  "_generated_at": "2026-05-18T05:14:16.082Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250609_112007_455244____1_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x2028.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_851200____2_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1646.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_927628____3_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1576.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_125069____4_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x2110.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_470968____5_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1759.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_699108____6_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1762.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_076629____7_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1721.jpg",
+    "https://prod-america-res.popmart.com/default/20250609_112007_563580____8_the-monsters-wacky-mart-series-tumbler-blind-box_accessories_details_popmart-us_____1200x1474.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2794"
 }

@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:19:07.860Z"
+  "_generated_at": "2026-05-18T05:19:07.860Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251031_170111_777626____1_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1937.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170111_482266____2_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x2110.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170108_784979____3_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1388.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170109_068160____4_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1945.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170106_152660____5_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1045.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170106_322942____6_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170106_765170____7_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170109_027520____8_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170109_364987____9_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170110_308473____10_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170109_954371____11_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170112_168596____12_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1627.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170111_359141____13_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170108_256892____14_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170108_239645____15_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170109_251569____16_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170108_978915____17_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170108_514271____18_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1723.jpg",
+    "https://prod-america-res.popmart.com/default/20251031_170111_964309____19_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x764.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/4203"
 }

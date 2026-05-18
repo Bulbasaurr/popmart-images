@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:20:08.236Z"
+  "_generated_at": "2026-05-18T05:20:08.236Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251219_174720_679481____1_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1828.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_978781____2_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1672.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_160488____3_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1500.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_494335____4_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1990.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_663471____5_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1748.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_943550____6_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1587.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174720_540791____7_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_907404____8_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_215928____9_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1618.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_304067____10_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174721_279797____11_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1695.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174722_590986____12_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x1370.jpg",
+    "https://prod-america-res.popmart.com/default/20251219_174722_156248____13_dimoo-memories-we-hold-series-glowing-hourglass-crystal-ball-blind-box_accessories_details_pop-mart-us_____1200x945.jpg"
+  ],
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5599"
 }

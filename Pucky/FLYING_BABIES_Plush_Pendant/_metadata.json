@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:24:01.720Z"
+  "_generated_at": "2026-05-18T05:24:01.720Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260417_173950_895981____1_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1957.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_035167____2_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1424.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_482439____3_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1448.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_560073____4_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1950.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_901799____5_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1309.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_258204____6_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1614.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173950_123608____7_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_531261____8_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_128926____9_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_075887____10_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_381973____11_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_188637____12_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1693.jpg",
+    "https://prod-america-res.popmart.com/default/20260417_173951_278569____13_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1536.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6298"
 }

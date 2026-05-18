@@ -77,5 +77,23 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:14:00.956Z"
+  "_generated_at": "2026-05-18T05:14:00.956Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20250416_095445_403350____1_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1932.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_892679____2_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1329.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095444_084773____3_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1531.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_019660____4_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1976.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095444_007942____5_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x968.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_989949____6_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_814847____7_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1613.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095444_801955____8_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_669629____9_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_036371____10_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_285984____11_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1617.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095445_868029____12_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x1714.jpg",
+    "https://prod-america-res.popmart.com/default/20250416_095444_748460____13_pucky-forest-party-series-vinyl-plush-pendant-blind-box_blind-boxes_details_popmart-us_____1200x700.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/2343"
 }

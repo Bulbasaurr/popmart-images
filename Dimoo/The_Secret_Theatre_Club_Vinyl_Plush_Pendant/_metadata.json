@@ -77,5 +77,25 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:23:49.442Z"
+  "_generated_at": "2026-05-18T05:23:49.442Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20260408_095137_546063____1_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1900.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_411618____2_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1860.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_383877____3_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1460.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_460078____4_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1100.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_680791____5_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1180.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_116752____6_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1065.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_972315____7_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_024742____8_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_083287____9_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_476950____10_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_373121____11_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_342767____12_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_774821____13_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1705.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_626645____14_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1053.jpg",
+    "https://prod-america-res.popmart.com/default/20260408_095137_700135____15_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x765.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/6214"
 }

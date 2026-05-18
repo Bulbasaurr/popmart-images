@@ -125,5 +125,29 @@
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
-  "_generated_at": "2026-05-18T05:21:28.406Z"
+  "_generated_at": "2026-05-18T05:21:28.406Z",
+  "disclosure_image_urls": [
+    "https://prod-america-res.popmart.com/default/20251226_173848_128246____1_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1889.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173848_212289____2_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x2151.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173850_938966____3_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1376.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173848_534870____4_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1964.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173848_994172____5_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1051.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173848_413003____6_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_722100____7_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173848_088495____8_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_830273____9_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_907313____10_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1615.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_700246____11_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1625.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_986633____12_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_304591____13_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1620.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_630947____14_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1619.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_146044____15_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1621.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173849_566243____16_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1624.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173850_408708____17_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1622.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173850_651563____18_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x1691.jpg",
+    "https://prod-america-res.popmart.com/default/20251226_173850_607279____19_supertutu-happy-ing-series-figures_blind-boxes_pop-mart-us_____1200x764.jpg"
+  ],
+  "disclosure_source": "popmart_pop_now_desc_images",
+  "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
+  "popmart_product_url": "https://www.popmart.com/us/products/5612"
 }
