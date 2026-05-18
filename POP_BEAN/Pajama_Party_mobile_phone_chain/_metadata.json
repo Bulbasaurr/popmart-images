@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 206,
+  "spu_id": 2206,
+  "spu_ext_id": 206,
+  "product_url": "https://www.popmart.com/us/pop-now/set/206",
+  "official_name": "POP BEAN Pajama Party mobile phone chain",
+  "series_name": "Pajama Party mobile phone chain",
+  "folder": "POP_BEAN/Pajama_Party_mobile_phone_chain",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "POP BEAN",
+    "character_group": "POP BEAN",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "POP BEAN"
+  },
+  "rows": [
+    {
+      "character_name": "KUBO Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KUBO_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Gummy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Gummy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUCKY Crocodile",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUCKY_Crocodile.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CRYBABY Pink Rabbit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY_Pink_Rabbit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HACIPUPU Purring Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HACIPUPU_Purring_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nyota Lazy Kitten",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nyota_Lazy_Kitten.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Bean Koala",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Bean_Koala.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twinkle Twinkle Piggy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twinkle_Twinkle_Piggy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Mini Monsters",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_Mini_Monsters.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Cute Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Cute_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Doberman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Doberman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Goodnight Rabbit",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "SKULLPANDA_Goodnight_Rabbit.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:39.932Z"
+}

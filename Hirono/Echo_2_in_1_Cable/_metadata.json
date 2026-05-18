@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 212,
+  "spu_id": 2240,
+  "spu_ext_id": 212,
+  "product_url": "https://www.popmart.com/us/pop-now/set/212",
+  "official_name": "Hirono Echo Series-2 in 1 Cable Blind Box",
+  "series_name": "Echo 2 in 1 Cable",
+  "folder": "Hirono/Echo_2_in_1_Cable",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Knight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Knight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pieces of Memory",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pieces_of_Memory.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hiding Behind You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hiding_Behind_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soul Connection",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soul_Connection.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Eaten",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eaten.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Get Lucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Get_Lucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Never Growing Up",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Never_Growing_Up.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:46.692Z"
+}

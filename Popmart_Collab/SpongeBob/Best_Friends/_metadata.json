@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 197,
+  "spu_id": 2168,
+  "spu_ext_id": 197,
+  "product_url": "https://www.popmart.com/us/pop-now/set/197",
+  "official_name": "SpongeBob Best Friends Series Figures",
+  "series_name": "Best Friends",
+  "folder": "Popmart_Collab/SpongeBob/Best_Friends",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "SpongeBob",
+    "character_group": "SpongeBob",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "SpongeBob"
+  },
+  "rows": [
+    {
+      "character_name": "The Farmer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Farmer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Gardener",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Gardener.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ice Cream Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ice_Cream_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cake Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cake_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Teeth Cleaning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teeth_Cleaning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Toothpaste Tasting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toothpaste_Tasting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'm Patrick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Im_Patrick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'm SpongeBob",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Im_SpongeBob.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Patty Wagon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Patty_Wagon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Express",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Express.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lasso Player",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lasso_Player.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ranch Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ranch_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Born Together",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Born_Together.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:33.141Z"
+}

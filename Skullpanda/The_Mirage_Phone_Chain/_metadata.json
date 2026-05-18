@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 202,
+  "spu_id": 2195,
+  "spu_ext_id": 202,
+  "product_url": "https://www.popmart.com/us/pop-now/set/202",
+  "official_name": "SKULLPANDA The Mirage Series Phone Chain",
+  "series_name": "The Mirage Phone Chain",
+  "folder": "Skullpanda/The_Mirage_Phone_Chain",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Carousel Lantern",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Carousel_Lantern.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Frame",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Frame.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Puppetry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Puppetry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Hill Censer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Hill_Censer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Butterfly Dream",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Butterfly_Dream.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:37.117Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 172,
+  "spu_id": 2038,
+  "spu_ext_id": 172,
+  "product_url": "https://www.popmart.com/us/pop-now/set/172",
+  "official_name": "THE MONSTERS Let's Checkmate Series-Pendant Blind Box",
+  "series_name": "Let Checkmate Pendant",
+  "folder": "The_Monsters/Let_Checkmate_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "KING",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KING.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "QUEEN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "QUEEN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ROOK",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ROOK.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BISHOP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BISHOP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "KNIGHT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KNIGHT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PAWN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PAWN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BOND",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "BOND.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:12.140Z"
+}

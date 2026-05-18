@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 175,
+  "spu_id": 2044,
+  "spu_ext_id": 175,
+  "product_url": "https://www.popmart.com/us/pop-now/set/175",
+  "official_name": "Peach Riot Rush Hour Series -Mini Bag Blind Box",
+  "series_name": "Rush Hour Mini Bag",
+  "folder": "Peach_Riot/Rush_Hour_Mini_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Frankie - Tutor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Tutor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi - Mail Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Mail_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy - Receptionist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Receptionist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie - Barista",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Barista.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi - Diner",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Diner.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy - Ice Cream Parlor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Ice_Cream_Parlor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie - Streamer",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Frankie_Streamer.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:17.361Z"
+}

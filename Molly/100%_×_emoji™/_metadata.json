@@ -1,0 +1,193 @@
+{
+  "popnow_set_id": 217,
+  "spu_id": 2292,
+  "spu_ext_id": 217,
+  "product_url": "https://www.popmart.com/us/pop-now/set/217",
+  "official_name": "MEGA SPACE MOLLY 100% × emoji™ Series",
+  "series_name": "100% × emoji™",
+  "folder": "Molly/100%_×_emoji™",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "LMAO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LMAO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BAD WORDS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BAD_WORDS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CAUTION, THE GHOST IS HERE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CAUTION_THE_GHOST_IS_HERE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HAPPY PUPPY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HAPPY_PUPPY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WHY SO SERIOUS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WHY_SO_SERIOUS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PISSED OFF",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PISSED_OFF.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WORN OUT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WORN_OUT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ALL IN GREEN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ALL_IN_GREEN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "COW ON ME",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "COW_ON_ME.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A TRYING SITUATION",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_TRYING_SITUATION.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MONKEY BUSINESS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MONKEY_BUSINESS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CONFESSION",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CONFESSION.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SO WHAT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SO_WHAT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LIL DEVIL",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LIL_DEVIL.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "55555",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "55555.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FROZEN SMILE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FROZEN_SMILE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ADMIRATION",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ADMIRATION.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "886",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "886.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "UNICORN",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "UNICORN.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "MS. BILLIONAIRE",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MS_BILLIONAIRE.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "OPEN MINDED",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "OPEN_MINDED.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:54.298Z"
+}

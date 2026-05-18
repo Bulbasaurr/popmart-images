@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 205,
+  "spu_id": 2205,
+  "spu_ext_id": 205,
+  "product_url": "https://www.popmart.com/us/pop-now/set/205",
+  "official_name": "POP BEAN Pajama Party earphone bag",
+  "series_name": "Pajama Party earphone bag",
+  "folder": "POP_BEAN/Pajama_Party_earphone_bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "POP BEAN",
+    "character_group": "POP BEAN",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "POP BEAN"
+  },
+  "rows": [
+    {
+      "character_name": "Zsiga Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Gummy Bear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Gummy_Bear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Panda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Panda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Cute Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Cute_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Fox",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Fox.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CRYBABY Pink Rabbit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY_Pink_Rabbit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Squirrel",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MOLLY_Squirrel.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:38.630Z"
+}

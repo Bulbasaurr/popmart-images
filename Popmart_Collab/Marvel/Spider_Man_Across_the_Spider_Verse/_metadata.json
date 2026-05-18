@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 173,
+  "spu_id": 2040,
+  "spu_ext_id": 173,
+  "product_url": "https://www.popmart.com/us/pop-now/set/173",
+  "official_name": "Marvel Spider-Man Across the Spider-Verse Series Figures",
+  "series_name": "Spider Man Across the Spider Verse",
+  "folder": "Popmart_Collab/Marvel/Spider_Man_Across_the_Spider_Verse",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Marvel",
+    "character_group": "Marvel",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Marvel"
+  },
+  "rows": [
+    {
+      "character_name": "Miles Morales",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Miles_Morales.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Holding a Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Holding_a_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gwen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gwen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spider-Man India",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spider_Man_India.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spider-Punk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spider_Punk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peter·B·Parker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peter·B·Parker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jessica Drew",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jessica_Drew.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spider-Man 2099",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spider_Man_2099.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Miles G Morales",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Miles_G_Morales.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spot",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Spot.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:13.061Z"
+}

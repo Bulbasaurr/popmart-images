@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 225,
+  "spu_id": 2300,
+  "spu_ext_id": 225,
+  "product_url": "https://www.popmart.com/us/pop-now/set/225",
+  "official_name": "Baby Molly & Baby Tabby Series Figures",
+  "series_name": "and Baby Tabby",
+  "folder": "Molly/and_Baby_Tabby",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Sneak a Bite",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sneak_a_Bite.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wait for Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wait_for_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Face the Storm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Face_the_Storm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Am Your Barber",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Am_Your_Barber.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marks of Friendship",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marks_of_Friendship.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Furry Brush",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Furry_Brush.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milk Lover",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Milk_Lover.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Best Partner",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Best_Partner.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Together to the Kindergarten",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Together_to_the_Kindergarten.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Paper Bag Obsession",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paper_Bag_Obsession.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Other Shoe Is for You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Other_Shoe_Is_for_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Come Under the Umbrella",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Come_Under_the_Umbrella.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The New King",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_New_King.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:01.829Z"
+}

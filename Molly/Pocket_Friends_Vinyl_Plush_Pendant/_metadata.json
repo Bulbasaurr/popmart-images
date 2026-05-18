@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 224,
+  "spu_id": 2299,
+  "spu_ext_id": 224,
+  "product_url": "https://www.popmart.com/us/pop-now/set/224",
+  "official_name": "Baby Molly Pocket Friends Series-Vinyl Plush Pendant Blind Box",
+  "series_name": "Pocket Friends Vinyl Plush Pendant",
+  "folder": "Molly/Pocket_Friends_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Who's the Good Girl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whos_the_Good_Girl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "It's Snack Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Its_Snack_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leave Me Alone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leave_Me_Alone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Feeling Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Feeling_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pet My Head",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pet_My_Head.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Enjoy the Sunshine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Enjoy_the_Sunshine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Don't Mess With Me!",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dont_Mess_With_Me.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:00.868Z"
+}

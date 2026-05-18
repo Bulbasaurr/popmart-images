@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 183,
+  "spu_id": 2077,
+  "spu_ext_id": 183,
+  "product_url": "https://www.popmart.com/us/pop-now/set/183",
+  "official_name": "DIMOO WORLD × DISNEY Series-Phone Charm Blind Box",
+  "series_name": "Phone Charm",
+  "folder": "Dimoo/Disney/Phone_Charm",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Dimoo",
+    "external_ip": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Classic Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Classic_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chip and Dale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chip_and_Dale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Daisy's Gift",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Daisys_Gift.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donald Duck's Singing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donald_Ducks_Singing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minnie's Balloon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Minnies_Balloon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Goofy's Prank",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Goofys_Prank.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Captain of Steamboat Willie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Captain_of_Steamboat_Willie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:23.799Z"
+}

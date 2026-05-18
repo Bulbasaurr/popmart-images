@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 201,
+  "spu_id": 2187,
+  "spu_ext_id": 201,
+  "product_url": "https://www.popmart.com/us/pop-now/set/201",
+  "official_name": "Mickey Family Cute Together Keychain Series Figures",
+  "series_name": "Cute Together Keychain",
+  "folder": "Popmart_Collab/Disney/Cute_Together_Keychain",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minnie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Minnie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donald",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donald.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Goofy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Goofy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chip",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chip.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pluto",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pluto.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Daisy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Daisy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Huey, Dewey, and Louie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Huey_Dewey_and_Louie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:36.665Z"
+}

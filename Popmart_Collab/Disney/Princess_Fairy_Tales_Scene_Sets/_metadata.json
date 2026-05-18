@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 190,
+  "spu_id": 2140,
+  "spu_ext_id": 190,
+  "product_url": "https://www.popmart.com/us/pop-now/set/190",
+  "official_name": "Disney Princess's Fairy Tales Series Scene Sets",
+  "series_name": "Princess Fairy Tales Scene Sets",
+  "folder": "Popmart_Collab/Disney/Princess_Fairy_Tales_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Snow White",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snow_White.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinderella",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinderella.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jasmine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jasmine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ariel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ariel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Belle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Belle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Aurora",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Aurora.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rapunzel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rapunzel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mulan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mulan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snow White And The Seven Dwarfs",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Snow_White_And_The_Seven_Dwarfs.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:27.765Z"
+}

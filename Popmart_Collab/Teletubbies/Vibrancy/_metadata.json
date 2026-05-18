@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 189,
+  "spu_id": 2138,
+  "spu_ext_id": 189,
+  "product_url": "https://www.popmart.com/us/pop-now/set/189",
+  "official_name": "Teletubbies Vibrancy Series Figures",
+  "series_name": "Vibrancy",
+  "folder": "Popmart_Collab/Teletubbies/Vibrancy",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Teletubbies",
+    "character_group": "Teletubbies",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Teletubbies"
+  },
+  "rows": [
+    {
+      "character_name": "Po",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Po.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Peach Po",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Peach_Po.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Laa-Laa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Laa_Laa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Butter Laa-Laa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Butter_Laa_Laa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tinky Winky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tinky_Winky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Midnight Tinky Winky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Midnight_Tinky_Winky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dipsy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dipsy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mint Dipsy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mint_Dipsy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Po",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dream_Po.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:26.979Z"
+}

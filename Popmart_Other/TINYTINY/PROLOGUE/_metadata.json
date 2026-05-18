@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 184,
+  "spu_id": 2082,
+  "spu_ext_id": 184,
+  "product_url": "https://www.popmart.com/us/pop-now/set/184",
+  "official_name": "TINYTINY-PROLOGUE SERIES FIGURES",
+  "series_name": "PROLOGUE",
+  "folder": "Popmart_Other/TINYTINY/PROLOGUE",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "TINYTINY",
+    "character_group": "TINYTINY",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "TINYTINY"
+  },
+  "rows": [
+    {
+      "character_name": "Fight back",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fight_back.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Waiting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Waiting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Choice",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Choice.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chess Game",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chess_Game.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Confine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Confine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Balance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Balance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Riddle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Riddle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Escape",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Escape.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glass House",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glass_House.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Born",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Born.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Perfect Gift",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Perfect_Gift.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:24.853Z"
+}

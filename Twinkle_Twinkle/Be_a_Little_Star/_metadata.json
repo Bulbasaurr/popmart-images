@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 207,
+  "spu_id": 2210,
+  "spu_ext_id": 207,
+  "product_url": "https://www.popmart.com/us/pop-now/set/207",
+  "official_name": "Twinkle Twinkle Be a Little Star Series Figures",
+  "series_name": "Be a Little Star",
+  "folder": "Twinkle_Twinkle/Be_a_Little_Star",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Little King",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_King.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wake up! Sleepyhead!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wake_up_Sleepyhead.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lose a Tooth",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lose_a_Tooth.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blowing Bubblegum",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blowing_Bubblegum.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Globetrotting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Globetrotting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Teeter-totter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Teeter_totter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Haircut",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Haircut.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bad Temper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bad_Temper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Magical Chef",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Magical_Chef.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Balloon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Balloon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Banana Split",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Banana_Split.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baby Ice Pop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baby_Ice_Pop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Reach for the Stars",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Reach_for_the_Stars.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:43.107Z"
+}

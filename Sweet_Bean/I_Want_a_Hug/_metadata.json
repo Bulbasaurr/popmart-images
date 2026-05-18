@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 194,
+  "spu_id": 2154,
+  "spu_ext_id": 194,
+  "product_url": "https://www.popmart.com/us/pop-now/set/194",
+  "official_name": "Sweet Bean I Want a Hug Series Figures",
+  "series_name": "I Want a Hug",
+  "folder": "Sweet_Bean/I_Want_a_Hug",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Sweet Bean",
+    "character_group": "Sweet Bean",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Sweet Bean"
+  },
+  "rows": [
+    {
+      "character_name": "When I'm in Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_in_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm Sleeping",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_Sleeping.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm Sad",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_Sad.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I Don't Want to Get up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_I_Dont_Want_to_Get_up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I Get Something",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_I_Get_Something.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm a Little Devil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_a_Little_Devil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm Ambitious",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_Ambitious.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Before I Became Numb",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Before_I_Became_Numb.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I Try to Be Good",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_I_Try_to_Be_Good.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I Feel Peaceful",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_I_Feel_Peaceful.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm Sick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_Sick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I'm Angry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_Im_Angry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When I Want a Hug",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "When_I_Want_a_Hug.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:31.505Z"
+}

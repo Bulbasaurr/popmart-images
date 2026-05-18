@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 229,
+  "spu_id": 2322,
+  "spu_ext_id": 229,
+  "product_url": "https://www.popmart.com/us/pop-now/set/229",
+  "official_name": "CHAKA Candle Whisper Series Figures",
+  "series_name": "Candle Whisper",
+  "folder": "Chaka/Candle_Whisper",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Chaka",
+    "character_group": "Chaka",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Chaka"
+  },
+  "rows": [
+    {
+      "character_name": "Render Guidance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Render_Guidance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dispel Confusion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dispel_Confusion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brimming with Hope",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brimming_with_Hope.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Restrain Your Desire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Restrain_Your_Desire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Order",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Order.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Revelry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Revelry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wither",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wither.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bloom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bloom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Soft Embrace",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Soft_Embrace.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stiff Resistance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stiff_Resistance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Float",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Float.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unity",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unity.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:08.223Z"
+}

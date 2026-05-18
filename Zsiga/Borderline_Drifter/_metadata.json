@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 177,
+  "spu_id": 2055,
+  "spu_ext_id": 177,
+  "product_url": "https://www.popmart.com/us/pop-now/set/177",
+  "official_name": "Zsiga Borderline Drifter Series Figures",
+  "series_name": "Borderline Drifter",
+  "folder": "Zsiga/Borderline_Drifter",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Zsiga"
+  },
+  "rows": [
+    {
+      "character_name": "Clutching Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clutching_Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bird Above the Rooftop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bird_Above_the_Rooftop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Archer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Archer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Falling Apple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Falling_Apple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The City Head",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_City_Head.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Forest Hat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Forest_Hat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Felled Tree",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Felled_Tree.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leverage for Growth",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leverage_for_Growth.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Traveler's Parcel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Travelers_Parcel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Resting Boots",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Resting_Boots.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pocketful of Wind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pocketful_of_Wind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silent Park",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silent_Park.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Diary",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Diary.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:20.625Z"
+}

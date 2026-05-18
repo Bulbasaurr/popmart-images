@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 214,
+  "spu_id": 2243,
+  "spu_ext_id": 214,
+  "product_url": "https://www.popmart.com/us/pop-now/set/214",
+  "official_name": "INSTINCTOY HUG YOU SERIES-Pendant Blind Box",
+  "series_name": "HUG YOU Pendant",
+  "folder": "Instinctoy/HUG_YOU_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Instinctoy",
+    "character_group": "Instinctoy",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Instinctoy"
+  },
+  "rows": [
+    {
+      "character_name": "Art",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Art.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Freedom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Freedom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nature",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nature.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hope",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hope.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strength",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strength.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Passion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Passion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unity",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unity.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:48.305Z"
+}

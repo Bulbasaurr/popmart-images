@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 209,
+  "spu_id": 2218,
+  "spu_ext_id": 209,
+  "product_url": "https://www.popmart.com/us/pop-now/set/209",
+  "official_name": "League of Legends: Arcane Series Figures",
+  "series_name": "Arcane",
+  "folder": "Popmart_Collab/League_of_Legends/Arcane",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "League of Legends",
+    "character_group": "League of Legends",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "League of Legends"
+  },
+  "rows": [
+    {
+      "character_name": "Mel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Warwick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Warwick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Viktor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Viktor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jayce",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jayce.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caitlyn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caitlyn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heimerdinger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heimerdinger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ekko",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ekko.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jinx",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jinx.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jinx （Special Ver.）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Jinx_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Powder",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Powder.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:46.185Z"
+}

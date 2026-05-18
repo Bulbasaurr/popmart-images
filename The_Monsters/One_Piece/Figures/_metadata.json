@@ -1,0 +1,130 @@
+{
+  "popnow_set_id": 176,
+  "spu_id": 2053,
+  "spu_ext_id": 176,
+  "product_url": "https://www.popmart.com/us/pop-now/set/176",
+  "official_name": "THE MONSTERS × One Piece Series Figures",
+  "series_name": "Figures",
+  "folder": "The_Monsters/One_Piece/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "One Piece"
+  },
+  "rows": [
+    {
+      "character_name": "Monkey.D.Luffy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MonkeyDLuffy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Roronoa Zoro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Roronoa_Zoro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sanji",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sanji.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nami",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nami.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tony Tony Chopper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tony_Tony_Chopper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brook",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brook.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nico Robin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nico_Robin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Usopp",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Usopp.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sabo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sabo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Trafalgar Law",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trafalgar_Law.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jinbe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jinbe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Franky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Franky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Monkey.D.Luffy(GEAR5)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MonkeyDLuffyGEAR5.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:19.561Z"
+}

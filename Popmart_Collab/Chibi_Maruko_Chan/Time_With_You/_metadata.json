@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 228,
+  "spu_id": 2303,
+  "spu_ext_id": 228,
+  "product_url": "https://www.popmart.com/us/pop-now/set/228",
+  "official_name": "Chibi Maruko Chan's The Time With You Series Figures",
+  "series_name": "Time With You",
+  "folder": "Popmart_Collab/Chibi_Maruko_Chan/Time_With_You",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Chibi Maruko Chan",
+    "character_group": "Chibi Maruko Chan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Chibi Maruko Chan"
+  },
+  "rows": [
+    {
+      "character_name": "Tea Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tea_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Angling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Angling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Take a Shower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Take_a_Shower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sugar Cookies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sugar_Cookies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart to Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_to_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grab Turf",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grab_Turf.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pick Flowers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pick_Flowers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Relay",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Relay.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strife",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strife.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hold My Hand",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hold_My_Hand.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:05.469Z"
+}

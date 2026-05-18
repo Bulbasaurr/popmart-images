@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 226,
+  "spu_id": 2301,
+  "spu_ext_id": 226,
+  "product_url": "https://www.popmart.com/us/pop-now/set/226",
+  "official_name": "Tom & Jerry: Forbidden Compass Series Figures",
+  "series_name": "Forbidden Compass",
+  "folder": "Popmart_Collab/Tom_and_Jerry/Forbidden_Compass",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Tom and Jerry",
+    "character_group": "Tom and Jerry",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Tom and Jerry"
+  },
+  "rows": [
+    {
+      "character_name": "Compass Mystery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Compass_Mystery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fire Extinguisher Assault",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fire_Extinguisher_Assault.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chinese Opera Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chinese_Opera_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tom in Lantern",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tom_in_Lantern.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Painting Adventure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Painting_Adventure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "No Entry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "No_Entry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Emotional Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Emotional_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chinese Drum Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chinese_Drum_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Firecracker Duel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Firecracker_Duel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Under the Mask",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Under_the_Mask.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:02.979Z"
+}

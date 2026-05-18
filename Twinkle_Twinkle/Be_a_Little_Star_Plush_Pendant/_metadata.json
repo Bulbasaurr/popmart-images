@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 200,
+  "spu_id": 2176,
+  "spu_ext_id": 200,
+  "product_url": "https://www.popmart.com/us/pop-now/set/200",
+  "official_name": "Twinkle Twinkle Be a Little Star Series - Plush Pendant Blind Box",
+  "series_name": "Be a Little Star Plush Pendant",
+  "folder": "Twinkle_Twinkle/Be_a_Little_Star_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Wake up! Sleepyhead!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wake_up_Sleepyhead.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lose a Tooth",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lose_a_Tooth.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baby Ice Pop",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baby_Ice_Pop.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Haircut",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Haircut.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Magical Chef",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Magical_Chef.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bad Temper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bad_Temper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Balloon",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Little_Balloon.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:35.339Z"
+}

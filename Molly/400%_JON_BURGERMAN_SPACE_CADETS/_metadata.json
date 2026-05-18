@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 227,
+  "spu_id": 2302,
+  "spu_ext_id": 227,
+  "product_url": "https://www.popmart.com/us/pop-now/set/227",
+  "official_name": "MEGA SPACE MOLLY 400% JON BURGERMAN SPACE CADETS Series",
+  "series_name": "400% JON BURGERMAN SPACE CADETS",
+  "folder": "Molly/400%_JON_BURGERMAN_SPACE_CADETS",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "DUMPS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DUMPS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUPU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUPU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FLOSS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FLOSS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUFF",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUFF.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHICK CHICK",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHICK_CHICK.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "EGGY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "EGGY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CASH",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "CASH.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:04.622Z"
+}

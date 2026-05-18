@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 219,
+  "spu_id": 2294,
+  "spu_ext_id": 219,
+  "product_url": "https://www.popmart.com/us/pop-now/set/219",
+  "official_name": "Gift For You Greeting Card Series Scene Sets",
+  "series_name": "Gift For You Greeting Card Scene Sets",
+  "folder": "Popmart_Mixed_IP/Gift_For_You_Greeting_Card_Scene_Sets",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "KUBO Magnolia",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KUBO_Magnolia.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twinkle Twinkle Little Strawberry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twinkle_Twinkle_Little_Strawberry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Zsiga Cactus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Zsiga_Cactus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "HACIPUPU Peach Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HACIPUPU_Peach_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SWEET BEAN Violet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SWEET_BEAN_Violet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUCKY Lily Of The Valley",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUCKY_Lily_Of_The_Valley.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PINO JELLY Sunflower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PINO_JELLY_Sunflower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CRYBABY Cherry Blossom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CRYBABY_Cherry_Blossom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Dandelion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU_Dandelion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SKULLPANDA Red Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SKULLPANDA_Red_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOLLY Daisy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOLLY_Daisy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Tulip",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIMOO_Tulip.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIMOO Lotus",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "DIMOO_Lotus.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:58.287Z"
+}

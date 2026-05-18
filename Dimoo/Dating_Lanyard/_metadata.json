@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 230,
+  "spu_id": 2317,
+  "spu_ext_id": 230,
+  "product_url": "https://www.popmart.com/us/pop-now/set/230",
+  "official_name": "DIMOO Dating Series-Lanyard Blind Box",
+  "series_name": "Dating Lanyard",
+  "folder": "Dimoo/Dating_Lanyard",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Romantic Balloons",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Romantic_Balloons.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Fountain",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Fountain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Small Handcart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Small_Handcart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rowboat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rowboat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marshmallow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marshmallow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Record Anniversary",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Record_Anniversary.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Theatre",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Theatre.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Joyriding Bumper Car",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Joyriding_Bumper_Car.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:13:10.140Z"
+}

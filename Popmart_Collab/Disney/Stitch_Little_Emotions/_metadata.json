@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 218,
+  "spu_id": 2293,
+  "spu_ext_id": 218,
+  "product_url": "https://www.popmart.com/us/pop-now/set/218",
+  "official_name": "Disney Stitch Little Emotions Series Figures",
+  "series_name": "Stitch Little Emotions",
+  "folder": "Popmart_Collab/Disney/Stitch_Little_Emotions",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Cry the Heart out",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cry_the_Heart_out.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fall Flat on the Face",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fall_Flat_on_the_Face.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grin from Ear to Ear",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grin_from_Ear_to_Ear.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "All Smiles",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "All_Smiles.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Case of the Mondays",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Case_of_the_Mondays.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Head's Spinning",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heads_Spinning.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Doing a Handstand",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Doing_a_Handstand.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grumpy and Unsociable",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grumpy_and_Unsociable.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Howl at the Moon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Howl_at_the_Moon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Act Spoiled",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Act_Spoiled.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Being a Couch Potato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Being_a_Couch_Potato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dance the Hula",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dance_the_Hula.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Turn on the Charm",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Turn_on_the_Charm.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:57.310Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 199,
+  "spu_id": 2172,
+  "spu_ext_id": 199,
+  "product_url": "https://www.popmart.com/us/pop-now/set/199",
+  "official_name": "Hirono Echo Series - Pendant Chain Blind Box",
+  "series_name": "Echo Pendant Chain",
+  "folder": "Hirono/Echo_Pendant_Chain",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Staying Up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Staying_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Get Lucky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Get_Lucky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Knight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Knight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caught You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caught_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pieces of Memory",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pieces_of_Memory.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Back Off",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Back_Off.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Never Growing Up",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Never_Growing_Up.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:34.755Z"
+}

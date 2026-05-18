@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 208,
+  "spu_id": 2213,
+  "spu_ext_id": 208,
+  "product_url": "https://www.popmart.com/us/pop-now/set/208",
+  "official_name": "THE MONSTERS Big into Energy Series-Phone Charm Blind Box",
+  "series_name": "Big into Energy Phone Charm",
+  "folder": "The_Monsters/Big_into_Energy_Phone_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Happiness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happiness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Luck",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luck.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Serenity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Serenity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Loyalty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Loyalty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hope",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hope.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Id",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Id.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:43.697Z"
+}

@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 191,
+  "spu_id": 2142,
+  "spu_ext_id": 191,
+  "product_url": "https://www.popmart.com/us/pop-now/set/191",
+  "official_name": "SKULLPANDA The Mirage Series Figures",
+  "series_name": "The Mirage",
+  "folder": "Skullpanda/The_Mirage",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Hill Censer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Hill_Censer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Puppetry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Puppetry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Frame",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Frame.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Pricket",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pricket.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Skeleton Fantasy Show",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Skeleton_Fantasy_Show.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Konghou",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Konghou.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Carousel Lantern",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Carousel_Lantern.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Ghanta",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ghanta.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Pan Flute",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pan_Flute.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Butterfly Dream",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Butterfly_Dream.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:27.768Z"
+}

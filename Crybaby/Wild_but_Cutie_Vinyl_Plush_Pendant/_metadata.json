@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 215,
+  "spu_id": 2244,
+  "spu_ext_id": 215,
+  "product_url": "https://www.popmart.com/us/pop-now/set/215",
+  "official_name": "CRYBABY Wild but Cutie Series - Vinyl Plush Pendant Blind Box",
+  "series_name": "Wild but Cutie Vinyl Plush Pendant",
+  "folder": "Crybaby/Wild_but_Cutie_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Pink Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vanilla Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vanilla_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Neon Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Neon_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Denim Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Denim_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Camo Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Camo_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vintage Cutie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vintage_Cutie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wild Cutie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wild_Cutie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:12:48.848Z"
+}
