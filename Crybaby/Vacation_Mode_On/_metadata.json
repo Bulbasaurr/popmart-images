@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Vacation Mode On",
+  "series_name": "Vacation Mode On",
+  "folder": "Crybaby/Vacation_Mode_On",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Merbaby Tears",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Merbaby_Tears.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "Chilling on the Beach",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Chilling_on_the_Beach.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "Full Sail",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Full_Sail.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "Glug-glug",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Glug_glug.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "Let's Surf",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Lets_Surf.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "My Summer Vibe",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "My_Summer_Vibe.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "Sunbathing",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Sunbathing.png",
+      "sheet_row": 281,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.749Z"
+}

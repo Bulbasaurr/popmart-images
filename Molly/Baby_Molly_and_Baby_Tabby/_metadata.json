@@ -1,0 +1,142 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Baby Molly & Baby Tabby",
+  "series_name": "Baby Molly & Baby Tabby",
+  "folder": "Molly/Baby_Molly_and_Baby_Tabby",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Baby Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "The New King",
+      "rarity": "Secret",
+      "chance": "1/144",
+      "image": "The_New_King.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Best Partner",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Best_Partner.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Come Under the Umbrella",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Come_Under_the_Umbrella.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Face the Storm",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Face_the_Storm.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Furry Brush",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Furry_Brush.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "I Am Your Barber",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "I_Am_Your_Barber.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Marks of Friendship",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Marks_of_Friendship.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Milk Lover",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Milk_Lover.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Paper Bag Obsession",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Paper_Bag_Obsession.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Sneak a Bite",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Sneak_a_Bite.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "The Other Shoe Is for You",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "The_Other_Shoe_Is_for_You.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Together to the Kindergarten",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Together_to_the_Kindergarten.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    },
+    {
+      "character_name": "Wait for Me",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Wait_for_Me.png",
+      "sheet_row": 919,
+      "_ip": "Molly",
+      "_character_group": "Baby Molly"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.752Z"
+}

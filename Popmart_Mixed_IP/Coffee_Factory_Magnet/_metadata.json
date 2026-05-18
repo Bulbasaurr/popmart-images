@@ -1,0 +1,106 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Coffee Factory Magnet",
+  "series_name": "Coffee Factory Magnet",
+  "folder": "Popmart_Mixed_IP/Coffee_Factory_Magnet",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "POP MART",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Coffee Family Combo",
+      "rarity": "Secret",
+      "chance": "1/96",
+      "image": "Coffee_Family_Combo.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "POP MART"
+    },
+    {
+      "character_name": "CHAKA Double-shot Espresso",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "CHAKA_Double_shot_Espresso.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Chaka"
+    },
+    {
+      "character_name": "CRYBABY Golden Sugar Seasoning",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "CRYBABY_Golden_Sugar_Seasoning.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "DIMOO Freshly Hand Ground",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "DIMOO_Freshly_Hand_Ground.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Dimoo"
+    },
+    {
+      "character_name": "LABUBU White Sugar Seasoning",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "LABUBU_White_Sugar_Seasoning.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "MOLLY Stir with Sugar",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "MOLLY_Stir_with_Sugar.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "PINO JELLY Milk Coffee Lover",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "PINO_JELLY_Milk_Coffee_Lover.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Pino Jelly"
+    },
+    {
+      "character_name": "SKULLPANDA Coffee Moment",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "SKULLPANDA_Coffee_Moment.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Zsiga Special Blend",
+      "rarity": "Normal",
+      "chance": "1/8",
+      "image": "Zsiga_Special_Blend.png",
+      "sheet_row": 871,
+      "_ip": "POP MART",
+      "_character_group": "Zsiga"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.771Z"
+}

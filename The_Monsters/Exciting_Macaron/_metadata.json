@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Exciting Macaron",
+  "series_name": "Exciting Macaron",
+  "folder": "The_Monsters/Exciting_Macaron",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "Labubu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Chestnut Cocoa",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Chestnut_Cocoa.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Green Grape",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Green_Grape.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Lychee Berry",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Lychee_Berry.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Sea Salt Coconut",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Sea_Salt_Coconut.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Sesame Bean",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Sesame_Bean.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Soymilk",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Soymilk.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Toffee",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Toffee.png",
+      "sheet_row": 2,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.783Z"
+}

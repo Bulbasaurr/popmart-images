@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Cry Me an Ocean Plush Pendant",
+  "series_name": "Cry Me an Ocean Plush Pendant",
+  "folder": "Crybaby/Cry_Me_an_Ocean_Plush_Pendant",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Sea Otter",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "The_Sea_Otter.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Anglerfish",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Anglerfish.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Manta Ray",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Manta_Ray.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Pufferfish",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Pufferfish.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Sea Bunny",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Sea_Bunny.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Sea Turtle",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Sea_Turtle.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    },
+    {
+      "character_name": "The Shark",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "The_Shark.png",
+      "sheet_row": 833,
+      "_ip": "Crybaby",
+      "_character_group": "Crybaby"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.738Z"
+}

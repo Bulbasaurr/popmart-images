@@ -1,0 +1,142 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Zootopia 2",
+  "series_name": "Zootopia 2",
+  "folder": "Molly/Zootopia_2",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Finnick in Stroller",
+      "rarity": "Secret",
+      "chance": "1/144",
+      "image": "Finnick_in_Stroller.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Bellwether",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Bellwether.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Clawhauser",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Clawhauser.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Flash",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Flash.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Gary",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Gary.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Gazelle",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Gazelle.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Judy in Uniform",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Judy_in_Uniform.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Nick in Uniform",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Nick_in_Uniform.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Nibbles",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Nibbles.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Polar Bear & Mr. Big",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Polar_Bear_and_Mr_Big.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Russ",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Russ.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Undercover Judy",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Undercover_Judy.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    },
+    {
+      "character_name": "Undercover Nick",
+      "rarity": "Normal",
+      "chance": "1/12",
+      "image": "Undercover_Nick.png",
+      "sheet_row": 625,
+      "_ip": "Molly",
+      "_character_group": "Molly"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.763Z"
+}

@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Forest Party",
+  "series_name": "Forest Party",
+  "folder": "Pucky/Forest_Party",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Unicorn Baby",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Unicorn_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Birdie Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Birdie_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Butterfly Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Butterfly_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Flower Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Flower_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Leaf Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Leaf_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Mushroom Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Mushroom_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    },
+    {
+      "character_name": "Tree Baby",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Tree_Baby.png",
+      "sheet_row": 322,
+      "_ip": "Pucky",
+      "_character_group": "Pucky"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.776Z"
+}

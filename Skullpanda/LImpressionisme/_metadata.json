@@ -1,0 +1,115 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "L'Impressionnisme",
+  "series_name": "L'Impressionnisme",
+  "folder": "Skullpanda/LImpressionisme",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "In the Garden",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "In_the_Garden.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Amber",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Amber.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Blossom",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Blossom.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Dawn",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Dawn.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Dew",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Dew.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Lightning",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Lightning.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Mist",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Mist.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Pond",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Pond.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Teakwood",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Teakwood.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Windflower",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Windflower.png",
+      "sheet_row": 780,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.778Z"
+}

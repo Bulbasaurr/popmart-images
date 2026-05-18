@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Gummy Bear Plush Pendant",
+  "series_name": "Gummy Bear Plush Pendant",
+  "folder": "Hacipupu/Gummy_Bear_Plush_Pendant",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "HACIPUPU",
+    "character_group": "HACIPUPU",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "HACIPUPU"
+  },
+  "rows": [
+    {
+      "character_name": "Latte Flavor",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Latte_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Blueberry Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Blueberry_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Cherry Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Cherry_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Grape Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Grape_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Green Apple Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Green_Apple_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Peach Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Peach_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    },
+    {
+      "character_name": "Pineapple Flavor",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Pineapple_Flavor.png",
+      "sheet_row": 864,
+      "_ip": "HACIPUPU",
+      "_character_group": "HACIPUPU"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.751Z"
+}

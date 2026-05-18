@@ -1,0 +1,115 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "You Found Me!",
+  "series_name": "You Found Me!",
+  "folder": "Skullpanda/You_Found_Me",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Buddy Doggie",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Buddy_Doggie.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Cerberus",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Cerberus.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Chomp",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Chomp.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Darkness",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Darkness.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Ghostie",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Ghostie.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Moldy Muffin",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Moldy_Muffin.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Pranky Peanut",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Pranky_Peanut.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Ratty Bear",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Ratty_Bear.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Sandman",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Sandman.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    },
+    {
+      "character_name": "Sneaky Chestnut",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Sneaky_Chestnut.png",
+      "sheet_row": 790,
+      "_ip": "Skullpanda",
+      "_character_group": "Skullpanda"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.780Z"
+}

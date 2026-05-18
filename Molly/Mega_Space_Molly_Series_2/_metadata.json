@@ -1,0 +1,151 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Mega Space Molly Series 2",
+  "series_name": "Mega Space Molly Series 2",
+  "folder": "Molly/Mega_Space_Molly_Series_2",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Mega Space Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Birthday Bear",
+      "rarity": "Secret",
+      "chance": "1/36",
+      "image": "Birthday_Bear.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Cheer Bear",
+      "rarity": "Secret",
+      "chance": "1/36",
+      "image": "Cheer_Bear.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Melting",
+      "rarity": "Secret",
+      "chance": "1/108",
+      "image": "Melting.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Meta",
+      "rarity": "Secret",
+      "chance": "1/54",
+      "image": "Meta.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Wish Bear",
+      "rarity": "Secret",
+      "chance": "1/36",
+      "image": "Wish_Bear.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Banana2017",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Banana2017.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Coca-Cola Classic",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Coca_Cola_Classic.jpg",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Glacier",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Glacier.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Heartbeat",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Heartbeat.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Jean-Michel Basquiat",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Jean_Michel_Basquiat.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Meilin Panda",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Meilin_Panda.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Mint Chocolate",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Mint_Chocolate.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Patrick Star",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Patrick_Star.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Pink Panther",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Pink_Panther.png",
+      "sheet_row": 537,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.755Z"
+}

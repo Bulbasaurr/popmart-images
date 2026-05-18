@@ -1,0 +1,295 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Pin for Love (A-M)",
+  "series_name": "Pin for Love (A-M)",
+  "folder": "The_Monsters/Pin_for_Love",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "Labubu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Heart",
+      "rarity": "Secret",
+      "chance": "1/168",
+      "image": "Heart.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "!",
+      "rarity": "Secret",
+      "chance": "1/168",
+      "image": "Exclamation.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "&",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "Ampersand.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "?",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "Question_Mark.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "A",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "A.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "B",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "B.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "C",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "C.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "D",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "D.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "E",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "E.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "F",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "F.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "G",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "G.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "H",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "H.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "I",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "I.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "J",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "J.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "K",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "K.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "L",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "L.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "M",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "M.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "N",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "N.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "O",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "O.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "P",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "P.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Q",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "Q.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "R",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "R.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "S",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "S.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "T",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "T.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "U",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "U.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "V",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "V.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "W",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "W.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "X",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "X.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Y",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "Y.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Z",
+      "rarity": "Normal",
+      "chance": "1/14",
+      "image": "Z.png",
+      "sheet_row": 33,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.786Z"
+}

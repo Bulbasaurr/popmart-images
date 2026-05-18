@@ -1,0 +1,133 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Mega Space Molly Series 3",
+  "series_name": "Mega Space Molly Series 3",
+  "folder": "Molly/Mega_Space_Molly_Series_3",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Mega Space Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Louis De Guzman",
+      "rarity": "Secret",
+      "chance": "1/54",
+      "image": "Louis_De_Guzman.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Starry",
+      "rarity": "Secret",
+      "chance": "1/108",
+      "image": "Starry.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Team Coca-Cola",
+      "rarity": "Secret",
+      "chance": "1/36",
+      "image": "Team_Coca_Cola.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Garfield",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Garfield.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Gary Baseman",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Gary_Baseman.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Good Luck Bear",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Good_Luck_Bear.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Graffiti",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Graffiti.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Heartfelt Words",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Heartfelt_Words.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Peach 2016",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Peach_2016.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Ted 2",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Ted_2.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Tenderheart Bear",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Tenderheart_Bear.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    },
+    {
+      "character_name": "Tetris",
+      "rarity": "Normal",
+      "chance": "1/9",
+      "image": "Tetris.png",
+      "sheet_row": 551,
+      "_ip": "Molly",
+      "_character_group": "Mega Space Molly"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.757Z"
+}

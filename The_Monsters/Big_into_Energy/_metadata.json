@@ -1,0 +1,88 @@
+{
+  "popnow_set_id": null,
+  "spu_id": null,
+  "spu_ext_id": null,
+  "product_url": null,
+  "official_name": "Big into Energy",
+  "series_name": "Big into Energy",
+  "folder": "The_Monsters/Big_into_Energy",
+  "classification": "legacy_sheet_derived",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "Labubu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "Id",
+      "rarity": "Secret",
+      "chance": "1/72",
+      "image": "Id.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Happiness",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Happiness.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Hope",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Hope.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Love",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Love.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Loyalty",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Loyalty.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Luck",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Luck.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    },
+    {
+      "character_name": "Serenity",
+      "rarity": "Normal",
+      "chance": "1/6",
+      "image": "Serenity.png",
+      "sheet_row": 16,
+      "_ip": "The Monsters",
+      "_character_group": "Labubu"
+    }
+  ],
+  "odds_verified": true,
+  "odds_source": "derived from Popmart Raw Data sheet (audited)",
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "Backfilled from existing Google Sheet rows; no popnow scrape data available for this set.",
+  "_generated_at": "2026-05-18T05:31:05.781Z"
+}
