@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 111,
+  "spu_id": 1713,
+  "spu_ext_id": 111,
+  "product_url": "https://www.popmart.com/us/pop-now/set/111",
+  "official_name": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
+  "series_name": "Crying Again Vinyl Face Plush",
+  "folder": "Crybaby/Crying_Again_Vinyl_Face_Plush",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "I'll Give You All My Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ill_Give_You_All_My_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Makes Us Cry",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Makes_Us_Cry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Duck You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Duck_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'll Bring You A Flower",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ill_Bring_You_A_Flower.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "What A Frog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "What_A_Frog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "She's Alice",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shes_Alice.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baby Brown",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Baby_Brown.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Baby Blonde",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Baby_Blonde.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:03.778Z"
+}

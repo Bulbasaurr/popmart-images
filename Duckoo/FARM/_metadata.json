@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 139,
+  "spu_id": 1805,
+  "spu_ext_id": 139,
+  "product_url": "https://www.popmart.com/us/pop-now/set/139",
+  "official_name": "DUCKOO FARM Series Figures",
+  "series_name": "FARM",
+  "folder": "Duckoo/FARM",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Duckoo",
+    "character_group": "Duckoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Duckoo"
+  },
+  "rows": [
+    {
+      "character_name": "FARMER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FARMER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GARDENER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GARDENER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SPRAYER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SPRAYER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DIGGER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DIGGER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SCARECROW",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SCARECROW.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "RICE SACK",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RICE_SACK.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIG",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIG.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LOP-EARED RABBIT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LOP_EARED_RABBIT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BEETROOT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BEETROOT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "POTATO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "POTATO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PEACH",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PEACH.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ORANGE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ORANGE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WHEELBARROW",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "WHEELBARROW.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:35.190Z"
+}

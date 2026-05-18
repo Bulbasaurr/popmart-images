@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 131,
+  "spu_id": 1787,
+  "spu_ext_id": 131,
+  "product_url": "https://www.popmart.com/us/pop-now/set/131",
+  "official_name": "CRYBABY Crying Again Series-Card Holder Blind Box",
+  "series_name": "Crying Again Card Holder",
+  "folder": "Crybaby/Crying_Again_Card_Holder",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "I'LL GIVE YOU ALL MY LOVE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ILL_GIVE_YOU_ALL_MY_LOVE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LOVE MAKES US CRY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LOVE_MAKES_US_CRY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DUCK YOU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DUCK_YOU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'LL BRING YOU A FLOWER",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ILL_BRING_YOU_A_FLOWER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WHAT A FROG",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WHAT_A_FROG.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SHE'S ALICE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SHES_ALICE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "THE QUEEN OF BROKEN HEART",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "THE_QUEEN_OF_BROKEN_HEART.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:27.208Z"
+}

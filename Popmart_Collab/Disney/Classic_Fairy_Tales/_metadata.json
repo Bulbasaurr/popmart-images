@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 138,
+  "spu_id": 1804,
+  "spu_ext_id": 138,
+  "product_url": "https://www.popmart.com/us/pop-now/set/138",
+  "official_name": "Disney Classic Fairy Tales Series",
+  "series_name": "Classic Fairy Tales",
+  "folder": "Popmart_Collab/Disney/Classic_Fairy_Tales",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Patch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Patch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pinocchio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pinocchio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donald Duck",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donald_Duck.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tinker Bell",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tinker_Bell.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dumbo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dumbo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bambi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bambi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mickey Mouse",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Mickey_Mouse.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:32.513Z"
+}

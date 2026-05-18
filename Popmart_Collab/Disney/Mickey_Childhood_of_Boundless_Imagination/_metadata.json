@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 152,
+  "spu_id": 1910,
+  "spu_ext_id": 152,
+  "product_url": "https://www.popmart.com/us/pop-now/set/152",
+  "official_name": "Disney Mickey Childhood of Boundless Imagination Series Figures",
+  "series_name": "Mickey Childhood of Boundless Imagination",
+  "folder": "Popmart_Collab/Disney/Mickey_Childhood_of_Boundless_Imagination",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Ice Cream Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ice_Cream_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Volcano Cake Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Volcano_Cake_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow Hard Candy Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_Hard_Candy_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donut Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donut_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cake Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cake_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lollipop Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lollipop_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marshmallow Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marshmallow_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vending Machine Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vending_Machine_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Beverage Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Beverage_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "White Chocolate Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "White_Chocolate_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snack Bucket Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snack_Bucket_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Honey Bread Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honey_Bread_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candy Machine Mickey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Candy_Machine_Mickey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:51.321Z"
+}

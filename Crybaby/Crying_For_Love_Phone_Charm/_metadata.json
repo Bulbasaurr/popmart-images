@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 166,
+  "spu_id": 2001,
+  "spu_ext_id": 166,
+  "product_url": "https://www.popmart.com/us/pop-now/set/166",
+  "official_name": "CRYBABY Crying For Love Series-Phone Charm Blind Box",
+  "series_name": "Crying For Love Phone Charm",
+  "folder": "Crybaby/Crying_For_Love_Phone_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Unlock Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unlock_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stupid Cupid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stupid_Cupid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiss Kiss-Devil Vers.",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiss_Kiss_Devil_Vers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiss Kiss-Angel Vers.",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiss_Kiss_Angel_Vers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppy Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppy_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "You're Purr-Fect",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Youre_Purr_Fect.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Be Mine",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Be_Mine.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:06.678Z"
+}

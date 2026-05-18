@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 106,
+  "spu_id": 1568,
+  "spu_ext_id": 106,
+  "product_url": "https://www.popmart.com/us/pop-now/set/106",
+  "official_name": "Duckyo's Leisure Life Series Figures",
+  "series_name": "Leisure Life",
+  "folder": "Popmart_Other/Duckyo/Leisure_Life",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "Duckyo",
+    "character_group": "Duckyo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Duckyo"
+  },
+  "rows": [
+    {
+      "character_name": "Love You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Come out to Play",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Come_out_to_Play.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Space Out",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Space_Out.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sentimental Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sentimental_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Why Am I so Pretty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Why_Am_I_so_Pretty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shaking off My Fat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shaking_off_My_Fat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snack Shopping Spree",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snack_Shopping_Spree.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moved to Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moved_to_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Binging",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Binging.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Love Bathing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Love_Bathing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "What's the Gossip?",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Whats_the_Gossip.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Didn't Do it",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Didnt_Do_it.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gotta Lose Weight",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Gotta_Lose_Weight.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:09:55.563Z"
+}

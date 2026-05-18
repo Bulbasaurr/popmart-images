@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 110,
+  "spu_id": 1712,
+  "spu_ext_id": 110,
+  "product_url": "https://www.popmart.com/us/pop-now/set/110",
+  "official_name": "DIMOO Weaving Wonders Series-Quilt Phone Case Blind Box",
+  "series_name": "Weaving Wonders Quilt Phone Case",
+  "folder": "Dimoo/Weaving_Wonders_Quilt_Phone_Case",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Floating Gardener",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Floating_Gardener.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moonlight Explorer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moonlight_Explorer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bear Guardian",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bear_Guardian.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sleepy Fortune Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sleepy_Fortune_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drawing Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drawing_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Alert Fortune Cat",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Alert_Fortune_Cat.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:02.946Z"
+}

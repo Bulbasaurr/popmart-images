@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 145,
+  "spu_id": 1773,
+  "spu_ext_id": 145,
+  "product_url": "https://www.popmart.com/us/pop-now/set/145",
+  "official_name": "PINO JELLY Hard & Shiny Series Figures",
+  "series_name": "Hard and Shiny",
+  "folder": "Pino_Jelly/Hard_and_Shiny",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pino Jelly",
+    "character_group": "Pino Jelly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pino Jelly"
+  },
+  "rows": [
+    {
+      "character_name": "January：Knight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "January：Knight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "February：Mamba",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "February：Mamba.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "March：Swan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "March：Swan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "April：Bridegroom",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "April：Bridegroom.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "May：King",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "May：King.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "June：Mermaid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "June：Mermaid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "July：Queen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "July：Queen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "August：Elf",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "August：Elf.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "September：Nightingale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "September：Nightingale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "October：Pegasus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "October：Pegasus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "November：Actor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "November：Actor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "December：Clock",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "December：Clock.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Model",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Model.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Joker",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Joker.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:40.557Z"
+}

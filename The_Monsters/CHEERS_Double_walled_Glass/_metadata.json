@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 133,
+  "spu_id": 1802,
+  "spu_ext_id": 133,
+  "product_url": "https://www.popmart.com/us/pop-now/set/133",
+  "official_name": "THE MONSTERS-CHEERS ! SERIES-Double-walled Glass Blind Box",
+  "series_name": "CHEERS Double walled Glass",
+  "folder": "The_Monsters/CHEERS_Double_walled_Glass",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "RELAX",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RELAX.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WARM HEART",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WARM_HEART.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "INNOCENCE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "INNOCENCE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SINCERITY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SINCERITY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PERSONALITY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PERSONALITY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ROMANCE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ROMANCE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FUN",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "FUN.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:31.532Z"
+}

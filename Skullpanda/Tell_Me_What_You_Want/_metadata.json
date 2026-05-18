@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 112,
+  "spu_id": 1714,
+  "spu_ext_id": 112,
+  "product_url": "https://www.popmart.com/us/pop-now/set/112",
+  "official_name": "SKULLPANDA Tell Me What You Want Series Figures",
+  "series_name": "Tell Me What You Want",
+  "folder": "Skullpanda/Tell_Me_What_You_Want",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Still on the Job",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Still_on_the_Job.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fun Ride",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fun_Ride.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baking Best Wishes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baking_Best_Wishes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Getting Dressed",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Getting_Dressed.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweetest Rebel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweetest_Rebel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let it Snow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Let_it_Snow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jingle All the Way(Green)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jingle_All_the_WayGreen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "On Schedule",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "On_Schedule.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Home Alone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Home_Alone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jingle All the Way(Red)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Jingle_All_the_WayRed.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "As I Wish",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "As_I_Wish.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:04.197Z"
+}

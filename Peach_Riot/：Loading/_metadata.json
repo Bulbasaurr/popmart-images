@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 109,
+  "spu_id": 1711,
+  "spu_ext_id": 109,
+  "product_url": "https://www.popmart.com/us/pop-now/set/109",
+  "official_name": "Lil Peach Riot：Loading! Series Figures",
+  "series_name": "：Loading",
+  "folder": "Peach_Riot/：Loading",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Peach Riot",
+    "character_group": "Peach Riot",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Peach Riot"
+  },
+  "rows": [
+    {
+      "character_name": "Frankie-Dancer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Dancer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Valkyrie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Valkyrie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Scout",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Scout.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Darkness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Darkness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Princess",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Princess.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Knight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Knight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Thief",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Thief.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Saint",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Saint.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frankie-Mage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frankie_Mage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Cheerleader",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gigi_Cheerleader.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poppy-Starlight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poppy_Starlight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gigi-Stylist",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Gigi_Stylist.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:01.908Z"
+}

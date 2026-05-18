@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 129,
+  "spu_id": 1770,
+  "spu_ext_id": 129,
+  "product_url": "https://www.popmart.com/us/pop-now/set/129",
+  "official_name": "Digimon Adventure Fridge Magnet Series Figures",
+  "series_name": "Adventure Fridge Magnet",
+  "folder": "Popmart_Collab/Digimon/Adventure_Fridge_Magnet",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Digimon",
+    "character_group": "Digimon",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Digimon"
+  },
+  "rows": [
+    {
+      "character_name": "Greymon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Greymon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Garurumon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Garurumon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Birdramon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Birdramon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kabuterimon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kabuterimon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Togemon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Togemon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ikkakumon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ikkakumon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Angemon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Angemon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WarGreymon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WarGreymon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MetalGarurumon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MetalGarurumon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gatomon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gatomon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ultimate Level-WarGreymon",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ultimate_Level_WarGreymon.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Ultimate Level-MetalGarurumon",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ultimate_Level_MetalGarurumon.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:24.043Z"
+}

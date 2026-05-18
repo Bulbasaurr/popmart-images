@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 127,
+  "spu_id": 1752,
+  "spu_ext_id": 127,
+  "product_url": "https://www.popmart.com/us/pop-now/set/127",
+  "official_name": "Disney Winnie the Pooh Gift Giving Series Figures",
+  "series_name": "Winnie the Pooh Gift Giving",
+  "folder": "Popmart_Collab/Disney/Winnie_the_Pooh_Gift_Giving",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Giant Candy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Giant_Candy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bow Garland",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bow_Garland.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tigger Christmas Tree",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tigger_Christmas_Tree.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pal in the Snow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pal_in_the_Snow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jingle All the Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jingle_All_the_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Jar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Jar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wishing Star in the Snow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wishing_Star_in_the_Snow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Honey Bee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Honey_Bee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Winnie the Gifter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winnie_the_Gifter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gingerbread House",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Gingerbread_House.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:21.525Z"
+}

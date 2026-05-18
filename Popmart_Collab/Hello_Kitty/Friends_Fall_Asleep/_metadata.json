@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 163,
+  "spu_id": 1984,
+  "spu_ext_id": 163,
+  "product_url": "https://www.popmart.com/us/pop-now/set/163",
+  "official_name": "Hello Kitty and Friends Fall Asleep Series Figures",
+  "series_name": "Friends Fall Asleep",
+  "folder": "Popmart_Collab/Hello_Kitty/Friends_Fall_Asleep",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Hello Kitty",
+    "character_group": "Hello Kitty",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Hello Kitty"
+  },
+  "rows": [
+    {
+      "character_name": "Cinnamoroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LittleTwinStars Lala",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LittleTwinStars_Lala.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LittleTwinStars Kiki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LittleTwinStars_Kiki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuromi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuromi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Badtz-Maru",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Badtz_Maru.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hello Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hello_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pekkle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pekkle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pompompurin.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:02.742Z"
+}

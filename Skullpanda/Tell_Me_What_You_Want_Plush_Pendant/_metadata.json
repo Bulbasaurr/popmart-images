@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 114,
+  "spu_id": 1717,
+  "spu_ext_id": 114,
+  "product_url": "https://www.popmart.com/us/pop-now/set/114",
+  "official_name": "SKULLPANDA Tell Me What You Want Series Plush Pendant",
+  "series_name": "Tell Me What You Want Plush Pendant",
+  "folder": "Skullpanda/Tell_Me_What_You_Want_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Jingle All the Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jingle_All_the_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Getting Dressed（Pink）",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Getting_DressedPink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baking Best Wishes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baking_Best_Wishes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let It Snow（Snowflake）",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Let_It_SnowSnowflake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "On Schedule",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "On_Schedule.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Getting Dressed（Green）",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Getting_DressedGreen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let It Snow（Ice Cube）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Let_It_SnowIce_Cube.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:05.886Z"
+}

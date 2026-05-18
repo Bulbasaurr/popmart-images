@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 126,
+  "spu_id": 1751,
+  "spu_ext_id": 126,
+  "product_url": "https://www.popmart.com/us/pop-now/set/126",
+  "official_name": "Hirono × CLOT Series Figures",
+  "series_name": "Figures",
+  "folder": "Hirono/CLOT/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Hirono",
+    "external_ip": "CLOT"
+  },
+  "rows": [
+    {
+      "character_name": "Terracotta Army",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Terracotta_Army.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Alienegra",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Alienegra.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chinese",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chinese.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kung Fu",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kung_Fu.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silk Royale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silk_Royale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yin-yang",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yin_yang.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ning Ning",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ning_Ning.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:19.064Z"
+}

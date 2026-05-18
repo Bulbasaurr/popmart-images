@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 117,
+  "spu_id": 1725,
+  "spu_ext_id": 117,
+  "product_url": "https://www.popmart.com/us/pop-now/set/117",
+  "official_name": "Marvel Deadpool Series Figures",
+  "series_name": "Deadpool",
+  "folder": "Popmart_Collab/Marvel/Deadpool",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Marvel",
+    "character_group": "Marvel",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Marvel"
+  },
+  "rows": [
+    {
+      "character_name": "King Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "King_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Archer Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Archer_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pirate Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pirate_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taco Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taco_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cupid Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cupid_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "T-Rex Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "T_Rex_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Maid Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Maid_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Horseman Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Horseman_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wallbreaking Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wallbreaking_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Music Star Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Music_Star_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vacation Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vacation_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baby Deadpool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baby_Deadpool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Astronaut Deadpool",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Astronaut_Deadpool.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:08.141Z"
+}

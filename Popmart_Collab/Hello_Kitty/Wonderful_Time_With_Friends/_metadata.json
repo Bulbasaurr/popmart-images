@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 164,
+  "spu_id": 1985,
+  "spu_ext_id": 164,
+  "product_url": "https://www.popmart.com/us/pop-now/set/164",
+  "official_name": "The Wonderful Time With Hello Kitty and Friends",
+  "series_name": "Wonderful Time With Friends",
+  "folder": "Popmart_Collab/Hello_Kitty/Wonderful_Time_With_Friends",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Hello Kitty",
+    "character_group": "Hello Kitty",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Hello Kitty"
+  },
+  "rows": [
+    {
+      "character_name": "Keroppi Dancing Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Keroppi_Dancing_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Twin Stars Kiki Sleep Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Twin_Stars_Kiki_Sleep_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Twin Stars Lala Nap Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Twin_Stars_Lala_Nap_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco Walking Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco_Walking_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin Dessert Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pompompurin_Dessert_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody Make-up Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody_Make_up_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuromi Chill Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuromi_Chill_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinnamoroll Tea Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll_Tea_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hello Kitty Wonderful Time",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hello_Kitty_Wonderful_Time.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:03.514Z"
+}

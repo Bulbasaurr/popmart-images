@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 123,
+  "spu_id": 1746,
+  "spu_ext_id": 123,
+  "product_url": "https://www.popmart.com/us/pop-now/set/123",
+  "official_name": "Twinkle Twinkle The Gifts From Stars Series Figures",
+  "series_name": "The Gifts From Stars",
+  "folder": "Twinkle_Twinkle/The_Gifts_From_Stars",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Make a Wish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Make_a_Wish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Apple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Apple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Jar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Jar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Trumpeter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Trumpeter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lovely Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lovely_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Big Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Big_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fortune Cookies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fortune_Cookies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowman Friend",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowman_Friend.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Handwritten Gift",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Handwritten_Gift.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Best Gift",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Best_Gift.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:16.271Z"
+}

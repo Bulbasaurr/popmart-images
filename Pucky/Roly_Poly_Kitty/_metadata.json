@@ -1,0 +1,161 @@
+{
+  "popnow_set_id": 148,
+  "spu_id": 1838,
+  "spu_ext_id": 148,
+  "product_url": "https://www.popmart.com/us/pop-now/set/148",
+  "official_name": "PUCKY Roly-Poly Kitty Series Figures",
+  "series_name": "Roly Poly Kitty",
+  "folder": "Pucky/Roly_Poly_Kitty",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Siberian",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Siberian.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Black Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Black_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bengal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bengal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Devil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Devil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Noble Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Noble_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Red Tabby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Tabby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Circus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Circus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yarn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yarn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Calico",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Calico.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Cat King",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Cat_King.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sphynx",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sphynx.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ceramic",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ceramic.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Windup",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Windup.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Siamese",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Siamese.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Panda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Panda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scottish Fold",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scottish_Fold.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Cat",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Lucky_Cat.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:47.218Z"
+}

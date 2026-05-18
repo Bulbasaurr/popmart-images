@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 168,
+  "spu_id": 2031,
+  "spu_ext_id": 168,
+  "product_url": "https://www.popmart.com/us/pop-now/set/168",
+  "official_name": "MOLLY Daily Look Series-Sachet Blind Box",
+  "series_name": "Daily Look Sachet",
+  "folder": "Molly/Daily_Look_Sachet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Tender Sea Breeze",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tender_Sea_Breeze.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pleasant Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pleasant_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Energetic Girl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Energetic_Girl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mix-and-Match Maverick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mix_and_Match_Maverick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fashion Rising Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fashion_Rising_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Elegant Moment",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Elegant_Moment.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:07.738Z"
+}

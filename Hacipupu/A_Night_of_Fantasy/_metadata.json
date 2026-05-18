@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 107,
+  "spu_id": 1701,
+  "spu_ext_id": 107,
+  "product_url": "https://www.popmart.com/us/pop-now/set/107",
+  "official_name": "HACIPUPU A Night of Fantasy Series Figures",
+  "series_name": "A Night of Fantasy",
+  "folder": "Hacipupu/A_Night_of_Fantasy",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Jokers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jokers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart Stealer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_Stealer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Monologue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Monologue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lonely Puppet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lonely_Puppet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Time Messenger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Time_Messenger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Count Cat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Count_Cat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bad Apple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bad_Apple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream Shaper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream_Shaper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Magical Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Magical_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Wizard",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Wizard.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blazing Flames",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blazing_Flames.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Midnight Carnival",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Midnight_Carnival.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Imagination",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Imagination.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:09:58.696Z"
+}

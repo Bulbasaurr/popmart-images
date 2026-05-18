@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 140,
+  "spu_id": 1806,
+  "spu_ext_id": 140,
+  "product_url": "https://www.popmart.com/us/pop-now/set/140",
+  "official_name": "CRYBABY CHEER UP, BABY! SERIES-Plush Pendant Blind Box",
+  "series_name": "CHEER UP BABY Plush Pendant",
+  "folder": "Crybaby/CHEER_UP_BABY_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Red",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orange",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Orange.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yellow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yellow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Green",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Green.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Purple",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purple.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Original",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Original.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:36.019Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 122,
+  "spu_id": 1731,
+  "spu_ext_id": 122,
+  "product_url": "https://www.popmart.com/us/pop-now/set/122",
+  "official_name": "Nyota Growing up by Your Way Series Figures",
+  "series_name": "Growing up by Your Way",
+  "folder": "Nyota/Growing_up_by_Your_Way",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Nyota",
+    "character_group": "Nyota",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Nyota"
+  },
+  "rows": [
+    {
+      "character_name": "Hidden Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hidden_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Growing up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Growing_up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Road",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Road.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Into My Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Into_My_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poem",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poem.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Feeling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Feeling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thinking",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thinking.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Friends",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Friends.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Childhood",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Childhood.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fly to Your Own Mountain",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Fly_to_Your_Own_Mountain.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:14.175Z"
+}

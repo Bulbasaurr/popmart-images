@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 128,
+  "spu_id": 1767,
+  "spu_ext_id": 128,
+  "product_url": "https://www.popmart.com/us/pop-now/set/128",
+  "official_name": "DIMOO Stories in the Cup Series Figures",
+  "series_name": "Stories in the Cup",
+  "folder": "Dimoo/Stories_in_the_Cup",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Spring Brings Springtime",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Brings_Springtime.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sachet Lotus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sachet_Lotus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rooftop Guardian Creatures",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rooftop_Guardian_Creatures.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snow and Wintersweet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snow_and_Wintersweet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Propitious Jades",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Propitious_Jades.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Black and White Game",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Black_and_White_Game.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Auspicious Animal Seal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Auspicious_Animal_Seal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "River Scroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "River_Scroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sandalwood Incense Burner",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sandalwood_Incense_Burner.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Exhale Like an Orchid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Exhale_Like_an_Orchid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ink Bamboo Painting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ink_Bamboo_Painting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Porcelain Blossoms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Porcelain_Blossoms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drunkenness",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Drunkenness.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:21.528Z"
+}

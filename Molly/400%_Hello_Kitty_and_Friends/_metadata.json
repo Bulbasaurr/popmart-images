@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 169,
+  "spu_id": 1986,
+  "spu_ext_id": 169,
+  "product_url": "https://www.popmart.com/us/pop-now/set/169",
+  "official_name": "MEGA SPACE MOLLY 400% Hello Kitty and Friends Series",
+  "series_name": "400% Hello Kitty and Friends",
+  "folder": "Molly/400%_Hello_Kitty_and_Friends",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Cinnamoroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pompompurin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "KUROMI",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KUROMI.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hello Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hello_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hangyodon",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hangyodon.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:09.638Z"
+}

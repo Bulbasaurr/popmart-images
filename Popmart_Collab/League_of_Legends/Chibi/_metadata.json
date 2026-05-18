@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 119,
+  "spu_id": 1727,
+  "spu_ext_id": 119,
+  "product_url": "https://www.popmart.com/us/pop-now/set/119",
+  "official_name": "Fight For the Golden Spatula Chibi Series Figures",
+  "series_name": "Chibi",
+  "folder": "Popmart_Collab/League_of_Legends/Chibi",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "League of Legends",
+    "character_group": "League of Legends",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "League of Legends"
+  },
+  "rows": [
+    {
+      "character_name": "Chibi Star Guardian Ahri",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Star_Guardian_Ahri.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Star Guardian Akali",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Star_Guardian_Akali.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Immortal Journey Irelia",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Immortal_Journey_Irelia.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Perfume Maid Orianna",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Perfume_Maid_Orianna.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Perfume Maid Janna",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Perfume_Maid_Janna.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Star Guardian Lux",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Star_Guardian_Lux.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Perfume Maid Riven",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Perfume_Maid_Riven.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Immortal Journey Talon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Immortal_Journey_Talon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Spirit Blossom Teemo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Spirit_Blossom_Teemo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Spirit Blossom Vayne",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Spirit_Blossom_Vayne.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Truth Dragon Yasuo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Truth_Dragon_Yasuo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chibi Spirit Blossom Yone",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chibi_Spirit_Blossom_Yone.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prestige Chibi Papercut Gwen",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Prestige_Chibi_Papercut_Gwen.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:10.146Z"
+}

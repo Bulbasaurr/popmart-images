@@ -1,0 +1,114 @@
+{
+  "popnow_set_id": 116,
+  "spu_id": 1724,
+  "spu_ext_id": 116,
+  "product_url": "https://www.popmart.com/us/pop-now/set/116",
+  "official_name": "THE MONSTERS COCA-COLA Series Figures",
+  "series_name": "Figures",
+  "folder": "The_Monsters/Coca_Cola/Figures",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "Coca Cola"
+  },
+  "rows": [
+    {
+      "character_name": "Look What I Found",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Look_What_I_Found.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Super Surprise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Super_Surprise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snowy Mountain",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snowy_Mountain.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Surf with Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Surf_with_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gift Delivery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gift_Delivery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crazy Ride",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crazy_Ride.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Special Sofa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Special_Sofa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Time to Cool Down",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Time_to_Cool_Down.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Snowman",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Snowman.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vacation Fit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vacation_Fit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU Express",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "LABUBU_Express.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:06.805Z"
+}

@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 150,
+  "spu_id": 1857,
+  "spu_ext_id": 150,
+  "product_url": "https://www.popmart.com/us/pop-now/set/150",
+  "official_name": "Finding MOKOKO Series Figures",
+  "series_name": "Finding MOKOKO",
+  "folder": "Popmart_Mixed_IP/Finding_MOKOKO",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Seen Her",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seen_Her.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Follow the Light",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Follow_the_Light.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Painter's Help",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Painters_Help.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Over There!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Over_There.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "See You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "See_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Great Discovery",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Great_Discovery.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wind's Guidance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winds_Guidance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Move Bravely",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Move_Bravely.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Careless Hunter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Careless_Hunter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Found It！",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Found_It！.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart Maze",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Heart_Maze.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:48.886Z"
+}

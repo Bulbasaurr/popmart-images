@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 155,
+  "spu_id": 1920,
+  "spu_ext_id": 155,
+  "product_url": "https://www.popmart.com/us/pop-now/set/155",
+  "official_name": "HACIPUPU Snuggle With You Series-Phone Lanyard Blind Box",
+  "series_name": "Snuggle With You Phone Lanyard",
+  "folder": "Hacipupu/Snuggle_With_You_Phone_Lanyard",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Baa Baa Sheep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baa_Baa_Sheep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lovely Piggy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lovely_Piggy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Comfy Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Comfy_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lucky_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ding Dong Reindeer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ding_Dong_Reindeer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cute Tiger Cub",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cute_Tiger_Cub.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweetie Pie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sweetie_Pie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:55.045Z"
+}

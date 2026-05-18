@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 143,
+  "spu_id": 1810,
+  "spu_ext_id": 143,
+  "product_url": "https://www.popmart.com/us/pop-now/set/143",
+  "official_name": "SKULLPANDA Winter Symphony Series Plush",
+  "series_name": "Winter Symphony Plush",
+  "folder": "Skullpanda/Winter_Symphony_Plush",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "Rock On",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rock_On.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rhapsody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rhapsody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Partita",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Partita.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wanderer's Tune",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wanderers_Tune.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ode to Cocoa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ode_to_Cocoa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Song of Snow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Song_of_Snow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Symphony of Wishes",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Symphony_of_Wishes.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:38.868Z"
+}

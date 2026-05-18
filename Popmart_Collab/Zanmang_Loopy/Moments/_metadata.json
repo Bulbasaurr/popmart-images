@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 146,
+  "spu_id": 1827,
+  "spu_ext_id": 146,
+  "product_url": "https://www.popmart.com/us/pop-now/set/146",
+  "official_name": "ZANMANG LOOPY’s Moments Series Figures",
+  "series_name": "Moments",
+  "folder": "Popmart_Collab/Zanmang_Loopy/Moments",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Zanmang Loopy",
+    "character_group": "Zanmang Loopy",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Zanmang Loopy"
+  },
+  "rows": [
+    {
+      "character_name": "Too Crowded",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Too_Crowded.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Get Rich",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Get_Rich.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Celebrity Assistant",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Celebrity_Assistant.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "No Thoughts",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "No_Thoughts.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Elegant Starlet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Elegant_Starlet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Lead Singer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Lead_Singer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love is on the Way",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Love_is_on_the_Way.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:42.763Z"
+}

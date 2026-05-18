@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 170,
+  "spu_id": 2033,
+  "spu_ext_id": 170,
+  "product_url": "https://www.popmart.com/us/pop-now/set/170",
+  "official_name": "THE MONSTERS Let's Checkmate Series-Fridge Magnet Blind Box",
+  "series_name": "Let Checkmate Fridge Magnet",
+  "folder": "The_Monsters/Let_Checkmate_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "KING",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KING.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "QUEEN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "QUEEN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ROOK",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ROOK.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BISHOP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BISHOP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "KNIGHT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "KNIGHT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PAWN",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PAWN.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "BOND",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "BOND.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:10.842Z"
+}

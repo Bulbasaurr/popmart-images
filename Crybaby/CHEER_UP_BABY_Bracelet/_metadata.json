@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 165,
+  "spu_id": 1994,
+  "spu_ext_id": 165,
+  "product_url": "https://www.popmart.com/us/pop-now/set/165",
+  "official_name": "CRYBABY CHEER UP, BABY! SERIES-Bracelet Blind Box",
+  "series_name": "CHEER UP BABY Bracelet",
+  "folder": "Crybaby/CHEER_UP_BABY_Bracelet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Trumpeter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Trumpeter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Conductor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Conductor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Drummer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Drummer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bugler",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bugler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cymbalist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cymbalist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flutist",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flutist.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheerleader",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Cheerleader.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:05.298Z"
+}

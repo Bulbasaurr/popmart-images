@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 141,
+  "spu_id": 1807,
+  "spu_ext_id": 141,
+  "product_url": "https://www.popmart.com/us/pop-now/set/141",
+  "official_name": "HIRONO The Other One Series",
+  "series_name": "The Other One",
+  "folder": "Hirono/The_Other_One",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "The Ghost",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Ghost.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nowhere Safe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nowhere_Safe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Raving",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Raving.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marionette",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marionette.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Staring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Staring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Amnesia",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Amnesia.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Crow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Crow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vagrancy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vagrancy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Being Alive",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Being_Alive.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cuckoo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cuckoo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Monster",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Monster.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Fox",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Fox.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dreaming",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dreaming.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:37.895Z"
+}

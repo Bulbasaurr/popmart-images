@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 160,
+  "spu_id": 1932,
+  "spu_ext_id": 160,
+  "product_url": "https://www.popmart.com/us/pop-now/set/160",
+  "official_name": "CRYBABY Crying For Love Series Figures",
+  "series_name": "Crying For Love",
+  "folder": "Crybaby/Crying_For_Love",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Classic Rose",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Classic_Rose.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unlock Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unlock_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart Broken",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_Broken.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stolen Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stolen_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love You Cherry Much",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_You_Cherry_Much.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "You're Purr-Fect",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Youre_Purr_Fect.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppy Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppy_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stupid Cupid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stupid_Cupid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jar of Hearts",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jar_of_Hearts.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiss Kiss-Devil Vers.",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiss_Kiss_Devil_Vers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiss Kiss-Angel Vers.",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiss_Kiss_Angel_Vers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sparkling Love",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sparkling_Love.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Be Mine",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Be_Mine.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:58.874Z"
+}

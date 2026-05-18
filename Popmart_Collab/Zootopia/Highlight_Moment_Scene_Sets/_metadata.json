@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 125,
+  "spu_id": 1750,
+  "spu_ext_id": 125,
+  "product_url": "https://www.popmart.com/us/pop-now/set/125",
+  "official_name": "Zootopia Highlight Moment Series Scene Sets",
+  "series_name": "Highlight Moment Scene Sets",
+  "folder": "Popmart_Collab/Zootopia/Highlight_Moment_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Zootopia",
+    "character_group": "Zootopia",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Zootopia"
+  },
+  "rows": [
+    {
+      "character_name": "Conferring Honors",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Conferring_Honors.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hot-selling Pawpsicle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hot_selling_Pawpsicle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Successful Performance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Successful_Performance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fierce Boxing Match",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fierce_Boxing_Match.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "High Quality Service",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "High_Quality_Service.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shining Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shining_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fulfilling Day",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fulfilling_Day.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Master Of Disguise",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Master_Of_Disguise.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Best Partner",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Best_Partner.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:18.160Z"
+}

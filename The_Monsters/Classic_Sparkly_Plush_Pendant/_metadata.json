@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 149,
+  "spu_id": 1842,
+  "spu_ext_id": 149,
+  "product_url": "https://www.popmart.com/us/pop-now/set/149",
+  "official_name": "THE MONSTERS Classic Series-Sparkly Plush Pendant Blind Box",
+  "series_name": "Classic Sparkly Plush Pendant",
+  "folder": "The_Monsters/Classic_Sparkly_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "LABUBU",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBU.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TYCOCO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TYCOCO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIPPO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIPPO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PATO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PATO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SPOOKY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SPOOKY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "YAYA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "YAYA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "LABUBU.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:48.521Z"
+}

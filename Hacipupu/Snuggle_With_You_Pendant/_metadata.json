@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 157,
+  "spu_id": 1925,
+  "spu_ext_id": 157,
+  "product_url": "https://www.popmart.com/us/pop-now/set/157",
+  "official_name": "HACIPUPU Snuggle With You Series-Pendant Blind Box",
+  "series_name": "Snuggle With You Pendant",
+  "folder": "Hacipupu/Snuggle_With_You_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hacipupu",
+    "character_group": "Hacipupu",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hacipupu"
+  },
+  "rows": [
+    {
+      "character_name": "Grumpy Crocodile",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grumpy_Crocodile.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucky Puppy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lucky_Puppy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baa Baa Sheep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baa_Baa_Sheep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Comfy Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Comfy_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lovely Piggy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lovely_Piggy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Quirky Penguin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Quirky_Penguin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweetie Pie",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sweetie_Pie.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:58.053Z"
+}

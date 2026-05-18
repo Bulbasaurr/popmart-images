@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 161,
+  "spu_id": 1938,
+  "spu_ext_id": 161,
+  "product_url": "https://www.popmart.com/us/pop-now/set/161",
+  "official_name": "Disney/Pixar Lotso Wondrous Rendezvous Series Figures",
+  "series_name": "Pixar Lotso Wondrous Rendezvous",
+  "folder": "Popmart_Collab/Disney/Pixar_Lotso_Wondrous_Rendezvous",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Roses from the Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Roses_from_the_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Secret Admirer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Secret_Admirer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bottled Lotso",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bottled_Lotso.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gift of Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gift_of_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Piece of My Heart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Piece_of_My_Heart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Romantic Ride",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Romantic_Ride.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Best Road Trip",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Best_Road_Trip.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Baking with Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Baking_with_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moonlight Sonata",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Moonlight_Sonata.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:11:01.218Z"
+}

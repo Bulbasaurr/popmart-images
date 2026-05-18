@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 120,
+  "spu_id": 1728,
+  "spu_ext_id": 120,
+  "product_url": "https://www.popmart.com/us/pop-now/set/120",
+  "official_name": "The Wonderful Dreams of Mickey and His Friends Series Scene Sets",
+  "series_name": "His Friends Scene Sets",
+  "folder": "Popmart_Collab/Disney/His_Friends_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Gold Coins Pool",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gold_Coins_Pool.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brave Navigator",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brave_Navigator.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nice Holiday",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nice_Holiday.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Surprise Gift",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Surprise_Gift.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "World Tour",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "World_Tour.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Party Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Party_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Romantic Swing",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Romantic_Swing.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Playing Seesaw",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Playing_Seesaw.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dancing With You",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Dancing_With_You.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:11.760Z"
+}

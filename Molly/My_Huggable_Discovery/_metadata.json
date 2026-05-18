@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 158,
+  "spu_id": 1930,
+  "spu_ext_id": 158,
+  "product_url": "https://www.popmart.com/us/pop-now/set/158",
+  "official_name": "Baby Molly My Huggable Discovery Series Figures",
+  "series_name": "My Huggable Discovery",
+  "folder": "Molly/My_Huggable_Discovery",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Hug the Nature",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_the_Nature.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug the Universe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_the_Universe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug the Sky",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_the_Sky.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug the Ocean",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_the_Ocean.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug the Hedgehog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_the_Hedgehog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Just One Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Just_One_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug Stubbornness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_Stubbornness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Free Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Free_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Little Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Little_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Forced Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Forced_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug My Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hug_My_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Bear Hug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Bear_Hug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hug Rescue Plan",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hug_Rescue_Plan.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:58.055Z"
+}

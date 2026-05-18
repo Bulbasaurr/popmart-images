@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 132,
+  "spu_id": 1786,
+  "spu_ext_id": 132,
+  "product_url": "https://www.popmart.com/us/pop-now/set/132",
+  "official_name": "MEGA SPACE MOLLY 100% Series 2-B",
+  "series_name": "100% 2 B",
+  "folder": "Molly/100%_2_B",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "HEARTBEAT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HEARTBEAT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Meilin Panda",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Meilin_Panda.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "JEAN-MICHEL BASQUIAT",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "JEAN_MICHEL_BASQUIAT.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mint Chocolate",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mint_Chocolate.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pink Panther",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pink_Panther.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Banana2017",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Banana2017.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glacier",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glacier.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Patrick Star",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Patrick_Star.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "META (Super Secret A)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "META_Super_Secret_A.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Melting (Super Secret B)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Melting_Super_Secret_B.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Birthday Bear (Secret B)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Birthday_Bear_Secret_B.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Cheer Bear (Secret A)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Cheer_Bear_Secret_A.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Wish Bear (Secret C)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wish_Bear_Secret_C.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:29.198Z"
+}

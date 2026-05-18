@@ -1,0 +1,73 @@
+{
+  "popnow_set_id": 108,
+  "spu_id": 1621,
+  "spu_ext_id": 108,
+  "product_url": "https://www.popmart.com/us/pop-now/set/108",
+  "official_name": "League of Legends K/DA ALL OUT Series Figures",
+  "series_name": "K DA ALL OUT",
+  "folder": "Popmart_Collab/League_of_Legends/K_DA_ALL_OUT",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "League of Legends",
+    "character_group": "League of Legends",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "League of Legends"
+  },
+  "rows": [
+    {
+      "character_name": "K/DA ALL OUT Akali",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_DA_ALL_OUT_Akali.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K/DA ALL OUT Ahri",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_DA_ALL_OUT_Ahri.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K/DA ALL OUT Evelynn",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_DA_ALL_OUT_Evelynn.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K/DA ALL OUT Seraphine",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_DA_ALL_OUT_Seraphine.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "K/DA ALL OUT Kai'sa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "K_DA_ALL_OUT_Kaisa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prestige K/DA ALL OUT Kai'sa",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Prestige_K_DA_ALL_OUT_Kaisa.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:09:59.494Z"
+}

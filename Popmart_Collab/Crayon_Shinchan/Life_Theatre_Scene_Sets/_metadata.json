@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 147,
+  "spu_id": 1824,
+  "spu_ext_id": 147,
+  "product_url": "https://www.popmart.com/us/pop-now/set/147",
+  "official_name": "Crayon Shinchan Life Theatre Series Scene Sets",
+  "series_name": "Life Theatre Scene Sets",
+  "folder": "Popmart_Collab/Crayon_Shinchan/Life_Theatre_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Crayon Shinchan",
+    "character_group": "Crayon Shinchan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Crayon Shinchan"
+  },
+  "rows": [
+    {
+      "character_name": "Action Kamen Channel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Action_Kamen_Channel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Letter To Ai-chan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Letter_To_Ai_chan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scenery Along the Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scenery_Along_the_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shinchan's Painting",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinchans_Painting.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stay in Bed",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stay_in_Bed.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hand Puppet Game",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hand_Puppet_Game.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Waniyamasan Cosplay",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Waniyamasan_Cosplay.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Make A Snowman With Shiro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Make_A_Snowman_With_Shiro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Futaba School Bus",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Futaba_School_Bus.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:10:43.964Z"
+}
