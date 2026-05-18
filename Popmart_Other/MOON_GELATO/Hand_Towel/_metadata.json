@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 494,
+  "spu_id": 6231,
+  "spu_ext_id": 494,
+  "product_url": "https://www.popmart.com/us/pop-now/set/494",
+  "official_name": "MOON GELATO Series-Hand Towel Blind Box",
+  "series_name": "Hand Towel",
+  "folder": "Popmart_Other/MOON_GELATO/Hand_Towel",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "MOON GELATO",
+    "character_group": "MOON GELATO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "MOON GELATO"
+  },
+  "rows": [
+    {
+      "character_name": "Gingerbread Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gingerbread_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry Jam",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Jam.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Butter Jar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Butter_Jar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cookies",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cookies.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Little Bear Biscuits",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Little_Bear_Biscuits.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Honey Jar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honey_Jar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milk Biscuits",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Milk_Biscuits.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:56.754Z"
+}

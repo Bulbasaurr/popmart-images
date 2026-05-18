@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 497,
+  "spu_id": 6298,
+  "spu_ext_id": 497,
+  "product_url": "https://www.popmart.com/us/pop-now/set/497",
+  "official_name": "PUCKY FLYING BABIES SERIES - Plush Pendant Blind Box",
+  "series_name": "FLYING BABIES Plush Pendant",
+  "folder": "Pucky/FLYING_BABIES_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Devil Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Devil_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cupid Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cupid_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dragon Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dragon_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Butterfly Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Butterfly_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unicorn Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Unicorn_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bee Baby",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bee_Baby.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Knight Baby",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Knight_Baby.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:01.720Z"
+}

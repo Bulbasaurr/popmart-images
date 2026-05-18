@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 498,
+  "spu_id": 6306,
+  "spu_ext_id": 498,
+  "product_url": "https://www.popmart.com/us/pop-now/set/498",
+  "official_name": "PUCKY Dreamy Wishes Series Figures",
+  "series_name": "Dreamy Wishes",
+  "folder": "Pucky/Dreamy_Wishes",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Freedom of Feathers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Freedom_of_Feathers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rebirth of the Lotus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rebirth_of_the_Lotus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wisdom of the Owl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wisdom_of_the_Owl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marine Friendship",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marine_Friendship.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strength of the Lion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strength_of_the_Lion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Luck of the Ladybug",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luck_of_the_Ladybug.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vitality of the Rabbit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vitality_of_the_Rabbit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Guardian Gargoyle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Guardian_Gargoyle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Arrow of Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Arrow_of_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wings of Beauty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wings_of_Beauty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Innocence of Snowflake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Innocence_of_Snowflake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish of Fortune",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wish_of_Fortune.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wish Upon a Star",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wish_Upon_a_Star.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:04.622Z"
+}

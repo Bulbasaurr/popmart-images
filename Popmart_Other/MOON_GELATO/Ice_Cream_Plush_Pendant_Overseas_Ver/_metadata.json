@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 493,
+  "spu_id": 6230,
+  "spu_ext_id": 493,
+  "product_url": "https://www.popmart.com/us/pop-now/set/493",
+  "official_name": "MOON GELATO Series-Ice Cream Plush Pendant Blind Box (Overseas Ver.)",
+  "series_name": "Ice Cream Plush Pendant Overseas Ver",
+  "folder": "Popmart_Other/MOON_GELATO/Ice_Cream_Plush_Pendant_Overseas_Ver",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "MOON GELATO",
+    "character_group": "MOON GELATO",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "MOON GELATO"
+  },
+  "rows": [
+    {
+      "character_name": "Cinnamon Whisky Gelato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamon_Whisky_Gelato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mint Ice Lemon Gelato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mint_Ice_Lemon_Gelato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Purple Potato Gelato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purple_Potato_Gelato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry Guava Gelato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Guava_Gelato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unicorn Gelato",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unicorn_Gelato.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:54.820Z"
+}

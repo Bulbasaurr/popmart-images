@@ -1,0 +1,65 @@
+{
+  "popnow_set_id": 508,
+  "spu_id": 6435,
+  "spu_ext_id": 508,
+  "product_url": "https://www.popmart.com/us/pop-now/set/508",
+  "official_name": "CRYBABY Cry Me an Ocean Series Earphone Bag",
+  "series_name": "Cry Me an Ocean Earphone Bag",
+  "folder": "Crybaby/Cry_Me_an_Ocean_Earphone_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Sea Turtle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sea_Turtle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Octopus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Octopus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Manta Ray",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Manta_Ray.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Pufferfish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pufferfish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Otter",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Sea_Otter.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:22.467Z"
+}

@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 495,
+  "spu_id": 6233,
+  "spu_ext_id": 495,
+  "product_url": "https://www.popmart.com/us/pop-now/set/495",
+  "official_name": "Twinkle Twinkle Create Your Taste Series-Tumbler Blind Box",
+  "series_name": "Create Your Taste Tumbler",
+  "folder": "Twinkle_Twinkle/Create_Your_Taste_Tumbler",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Honey Bear Drink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Honey_Bear_Drink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Taro Milkshake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Taro_Milkshake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bubble Tea",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bubble_Tea.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chocolate Milk",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chocolate_Milk.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Strawberry Milkshake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Strawberry_Milkshake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lemon Mint Drink",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lemon_Mint_Drink.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Starry Soda",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Starry_Soda.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:58.076Z"
+}

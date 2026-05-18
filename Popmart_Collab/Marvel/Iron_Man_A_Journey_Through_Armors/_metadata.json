@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 491,
+  "spu_id": 6215,
+  "spu_ext_id": 491,
+  "product_url": "https://www.popmart.com/us/pop-now/set/491",
+  "official_name": "Marvel Iron Man: A Journey Through Armors Series Figures",
+  "series_name": "Iron Man A Journey Through Armors",
+  "folder": "Popmart_Collab/Marvel/Iron_Man_A_Journey_Through_Armors",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Marvel",
+    "character_group": "Marvel",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Marvel"
+  },
+  "rows": [
+    {
+      "character_name": "Venomized Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Venomized_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Iron God",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Iron_God.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Model Prime Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Model_Prime_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Modular Armor Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Modular_Armor_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Superior Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Superior_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Iron Destroyer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Iron_Destroyer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vegas Armor Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vegas_Armor_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hulkbuster Armor Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hulkbuster_Armor_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silver Centurion Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silver_Centurion_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Golden Armor Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Golden_Armor_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Retro Armor Iron Man",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Retro_Armor_Iron_Man.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mysterium Armor Iron Man",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Mysterium_Armor_Iron_Man.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:52.399Z"
+}

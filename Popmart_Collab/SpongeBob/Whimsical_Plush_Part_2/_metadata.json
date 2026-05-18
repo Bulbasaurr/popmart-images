@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 492,
+  "spu_id": 6229,
+  "spu_ext_id": 492,
+  "product_url": "https://www.popmart.com/us/pop-now/set/492",
+  "official_name": "Residents of Bikini Bottom-Whimsical Plush Part 2",
+  "series_name": "Whimsical Plush Part 2",
+  "folder": "Popmart_Collab/SpongeBob/Whimsical_Plush_Part_2",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "SpongeBob",
+    "character_group": "SpongeBob",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "SpongeBob"
+  },
+  "rows": [
+    {
+      "character_name": "Mail Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mail_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scientist Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scientist_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bully Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bully_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Explorer Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Explorer_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crutch Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crutch_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mascot Fish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mascot_Fish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clown",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Clown.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:54.068Z"
+}

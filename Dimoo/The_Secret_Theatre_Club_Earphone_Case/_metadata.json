@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 489,
+  "spu_id": 6213,
+  "spu_ext_id": 489,
+  "product_url": "https://www.popmart.com/us/pop-now/set/489",
+  "official_name": "DIMOO The Secret Theatre Club Series - Earphone Case Blind Box",
+  "series_name": "The Secret Theatre Club Earphone Case",
+  "folder": "Dimoo/The_Secret_Theatre_Club_Earphone_Case",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Granny Wolf",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Granny_Wolf.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Maze Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Maze_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chubby Penguin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chubby_Penguin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Softie Sheep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Softie_Sheep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cherry Hoglet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cherry_Hoglet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Timid Lion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Timid_Lion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ballet Bear",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ballet_Bear.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:47.784Z"
+}

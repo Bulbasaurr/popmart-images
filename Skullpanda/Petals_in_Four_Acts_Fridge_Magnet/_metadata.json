@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 499,
+  "spu_id": 6307,
+  "spu_ext_id": 499,
+  "product_url": "https://www.popmart.com/us/pop-now/set/499",
+  "official_name": "SKULLPANDA Petals in Four Acts Series Fridge Magnet",
+  "series_name": "Petals in Four Acts Fridge Magnet",
+  "folder": "Skullpanda/Petals_in_Four_Acts_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Skullpanda"
+  },
+  "rows": [
+    {
+      "character_name": "The Elegiac Witness",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Elegiac_Witness.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Withered Innocence",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Withered_Innocence.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Fairy's Trick",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Fairys_Trick.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Budding Fable",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Budding_Fable.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Vow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Vow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Threefold Requiem",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Threefold_Requiem.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Decay Awaited",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Decay_Awaited.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:06.831Z"
+}

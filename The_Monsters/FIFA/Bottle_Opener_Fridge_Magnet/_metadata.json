@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 486,
+  "spu_id": 6124,
+  "spu_ext_id": 486,
+  "product_url": "https://www.popmart.com/us/pop-now/set/486",
+  "official_name": "THE MONSTERS × FIFA SERIES - Bottle Opener Fridge Magnet Blind Box",
+  "series_name": "Bottle Opener Fridge Magnet",
+  "folder": "The_Monsters/FIFA/Bottle_Opener_Fridge_Magnet",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "FIFA"
+  },
+  "rows": [
+    {
+      "character_name": "Final Whistle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Final_Whistle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Deciding Goal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Deciding_Goal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pain Fades Away",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pain_Fades_Away.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moment of Celebration",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moment_of_Celebration.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Seal the Victory",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Seal_the_Victory.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Center of Attention",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Center_of_Attention.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crowning Moment",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Crowning_Moment.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:23:41.107Z"
+}

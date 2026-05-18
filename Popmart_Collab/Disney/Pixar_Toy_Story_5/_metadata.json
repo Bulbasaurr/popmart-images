@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 504,
+  "spu_id": 6348,
+  "spu_ext_id": 504,
+  "product_url": "https://www.popmart.com/us/pop-now/set/504",
+  "official_name": "Disney/Pixar Toy Story 5 Series Figures",
+  "series_name": "Pixar Toy Story 5",
+  "folder": "Popmart_Collab/Disney/Pixar_Toy_Story_5",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "HTE Buzz to the Rescue",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "HTE_Buzz_to_the_Rescue.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buzz on the Move",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Buzz_on_the_Move.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jessie on Tire Swing Hill",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jessie_on_Tire_Swing_Hill.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Poncho Woody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Poncho_Woody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Karen and Forky's Wedding",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Karen_and_Forkys_Wedding.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Double AA Team",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Double_AA_Team.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Bullseye",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Bullseye.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hey, Lilypad",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hey_Lilypad.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Combat Carl's Tea Party",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Combat_Carls_Tea_Party.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Welcome Back, Woody",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Welcome_Back_Woody.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:14.818Z"
+}

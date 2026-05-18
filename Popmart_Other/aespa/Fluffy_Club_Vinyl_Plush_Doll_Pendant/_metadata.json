@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 502,
+  "spu_id": 6346,
+  "spu_ext_id": 502,
+  "product_url": "https://www.popmart.com/us/pop-now/set/502",
+  "official_name": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
+  "series_name": "Fluffy Club Vinyl Plush Doll Pendant",
+  "folder": "Popmart_Other/aespa/Fluffy_Club_Vinyl_Plush_Doll_Pendant",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "aespa",
+    "character_group": "aespa",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "aespa"
+  },
+  "rows": [
+    {
+      "character_name": "FIuffy KARANGI(KARINA VER.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FIuffy_KARANGIKARINA_VER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FIuffy GELBULNYANGI(GISELLE VER.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FIuffy_GELBULNYANGIGISELLE_VER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FIuffy MUNGTAENGI(WINTER VER.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FIuffy_MUNGTAENGIWINTER_VER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "FIuffy RWE(NINGNING VER.)",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FIuffy_RWENINGNING_VER.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "JeIIy KARANGI(KARINA VER.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "JeIIy_KARANGIKARINA_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "JeIIy GELBULNYANGI(GISELLE VER.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "JeIIy_GELBULNYANGIGISELLE_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "JeIIy MUNGTAENGI(WINTER VER.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "JeIIy_MUNGTAENGIWINTER_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "JeIIy RWE(NINGNING VER.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "JeIIy_RWENINGNING_VER.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:10.647Z"
+}

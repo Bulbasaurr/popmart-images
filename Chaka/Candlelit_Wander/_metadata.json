@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 496,
+  "spu_id": 6297,
+  "spu_ext_id": 496,
+  "product_url": "https://www.popmart.com/us/pop-now/set/496",
+  "official_name": "CHAKA Candlelit Wander Series Figures",
+  "series_name": "Candlelit Wander",
+  "folder": "Chaka/Candlelit_Wander",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Chaka",
+    "character_group": "Chaka",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Chaka"
+  },
+  "rows": [
+    {
+      "character_name": "Blessings from Auditorium",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blessings_from_Auditorium.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candlelit Dinner",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candlelit_Dinner.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Starry Conductor",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Starry_Conductor.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Milky Way Weaver",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Milky_Way_Weaver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Runaway Princess",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Runaway_Princess.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Voyage Through Pages",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Voyage_Through_Pages.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Moonlight Serenade",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Moonlight_Serenade.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fortune's Elixir",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fortunes_Elixir.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rise and Shine",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Rise_and_Shine.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:00.405Z"
+}

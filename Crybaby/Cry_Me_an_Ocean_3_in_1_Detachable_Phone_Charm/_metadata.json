@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 509,
+  "spu_id": 6436,
+  "spu_ext_id": 509,
+  "product_url": "https://www.popmart.com/us/pop-now/set/509",
+  "official_name": "CRYBABY Cry Me an Ocean Series 3-in-1 Detachable Phone Charm",
+  "series_name": "Cry Me an Ocean 3 in 1 Detachable Phone Charm",
+  "folder": "Crybaby/Cry_Me_an_Ocean_3_in_1_Detachable_Phone_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Octopus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Octopus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Jellyfish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Jellyfish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Pufferfish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pufferfish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sea_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Shark",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Shark.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Manta Ray",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Manta_Ray.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Otter",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Sea_Otter.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:24.288Z"
+}

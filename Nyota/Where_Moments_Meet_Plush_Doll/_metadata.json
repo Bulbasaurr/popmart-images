@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 501,
+  "spu_id": 6345,
+  "spu_ext_id": 501,
+  "product_url": "https://www.popmart.com/us/pop-now/set/501",
+  "official_name": "Nyota Where Moments Meet Series Plush Doll",
+  "series_name": "Where Moments Meet Plush Doll",
+  "folder": "Nyota/Where_Moments_Meet_Plush_Doll",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Nyota",
+    "character_group": "Nyota",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Nyota"
+  },
+  "rows": [
+    {
+      "character_name": "Sunny Nap",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sunny_Nap.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Star Catcher",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Star_Catcher.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Goodnight Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Goodnight_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hi Lumi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hi_Lumi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hopscotch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hopscotch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Harvest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Harvest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "3PM",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "3PM.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let's Draw",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lets_Draw.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Outing",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Spring_Outing.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:08.508Z"
+}

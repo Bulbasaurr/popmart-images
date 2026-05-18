@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 505,
+  "spu_id": 6391,
+  "spu_ext_id": 505,
+  "product_url": "https://www.popmart.com/us/pop-now/set/505",
+  "official_name": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
+  "series_name": "Season 3 Polar In Monster Village",
+  "folder": "Polar/Season_3_Polar_In_Monster_Village",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Polar",
+    "character_group": "Polar",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Polar"
+  },
+  "rows": [
+    {
+      "character_name": "Hob & Pip",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hob_and_Pip.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Villio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Villio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Erios",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Erios.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leeboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leeboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leybo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leybo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gambit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gambit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dingo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dingo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cooper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cooper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nmenber",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nmenber.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snuggo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snuggo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Qeyes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Qeyes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mingoo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mingoo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hob & Pip (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Hob_and_Pip_Special_Ver.png",
+      "_popnow_weight": 10,
+      "_popnow_type": 7
+    },
+    {
+      "character_name": "Trickkey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Trickkey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:18.300Z"
+}

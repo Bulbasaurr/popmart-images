@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 506,
+  "spu_id": 6433,
+  "spu_ext_id": 506,
+  "product_url": "https://www.popmart.com/us/pop-now/set/506",
+  "official_name": "CRYBABY Cry Me An Ocean Series - Vinyl Plush Pendant Blind Box",
+  "series_name": "Cry Me An Ocean Vinyl Plush Pendant",
+  "folder": "Crybaby/Cry_Me_An_Ocean_Vinyl_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "The Pufferfish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Pufferfish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sea_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Anglerfish",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Anglerfish.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Manta Ray",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Manta_Ray.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Turtle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Sea_Turtle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Shark",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Shark.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Sea Otter",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Sea_Otter.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:24:19.735Z"
+}
