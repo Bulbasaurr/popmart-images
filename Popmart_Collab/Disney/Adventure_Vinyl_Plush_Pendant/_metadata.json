@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 462,
+  "spu_id": 5832,
+  "spu_ext_id": 462,
+  "product_url": "https://www.popmart.com/us/pop-now/set/462",
+  "official_name": "Stitch Adventure Series Vinyl Plush Pendant",
+  "series_name": "Adventure Vinyl Plush Pendant",
+  "folder": "Popmart_Collab/Disney/Adventure_Vinyl_Plush_Pendant",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Mickey Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mickey_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Beast Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Beast_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Winnie the Pooh Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Winnie_the_Pooh_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dumbo Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dumbo_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Simba Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Simba_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dalmatian Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dalmatian_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tigger Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tigger_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheshire Cat Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheshire_Cat_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pinocchio Stitch",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pinocchio_Stitch.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minnie Angel",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Minnie_Angel.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:11.784Z"
+}

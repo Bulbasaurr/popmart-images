@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 476,
+  "spu_id": 6113,
+  "spu_ext_id": 476,
+  "product_url": "https://www.popmart.com/us/pop-now/set/476",
+  "official_name": "Crayon Shinchan POP CUBE-2 Series Figures",
+  "series_name": "POP CUBE 2",
+  "folder": "Popmart_Collab/Crayon_Shinchan/POP_CUBE_2",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Crayon Shinchan",
+    "character_group": "Crayon Shinchan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Crayon Shinchan"
+  },
+  "rows": [
+    {
+      "character_name": "Pajama Shinchan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pajama_Shinchan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hiroshi Nohara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hiroshi_Nohara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Misae Nohara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Misae_Nohara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheeky Shinchan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheeky_Shinchan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Himawari Nohara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Himawari_Nohara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Shiro",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shiro.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Waniyamasan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Waniyamasan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Saitama Crimson Scorpions",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Saitama_Crimson_Scorpions.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nanako Ohara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nanako_Ohara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:32.046Z"
+}

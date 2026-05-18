@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 441,
+  "spu_id": 5687,
+  "spu_ext_id": 441,
+  "product_url": "https://www.popmart.com/us/pop-now/set/441",
+  "official_name": "Have a Good Run Series-Bracelet Blind Box",
+  "series_name": "Have a Good Run Bracelet",
+  "folder": "Popmart_Mixed_IP/Have_a_Good_Run_Bracelet",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Best Dream",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Best_Dream.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Great Wealth",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Great_Wealth.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bright Future",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bright_Future.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sweet_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Health",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Health.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happy Family",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happy_Family.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rising Star",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Rising_Star.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:40.025Z"
+}

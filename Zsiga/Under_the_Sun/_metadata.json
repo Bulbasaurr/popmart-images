@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 460,
+  "spu_id": 5830,
+  "spu_ext_id": 460,
+  "product_url": "https://www.popmart.com/us/pop-now/set/460",
+  "official_name": "Zsiga Under the Sun Series Figures",
+  "series_name": "Under the Sun",
+  "folder": "Zsiga/Under_the_Sun",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Zsiga",
+    "character_group": "Zsiga",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Zsiga"
+  },
+  "rows": [
+    {
+      "character_name": "The Answer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Answer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hurry!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hurry.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brain Fight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brain_Fight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wobbling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wobbling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Wait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Wait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Solitude",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Solitude.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Bait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Bait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Trickster",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Trickster.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Decision",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Decision.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Knockout",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Knockout.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Long Hair",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Long_Hair.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Companion",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Companion.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Headlines",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_Headlines.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:07.087Z"
+}

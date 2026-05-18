@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 453,
+  "spu_id": 5776,
+  "spu_ext_id": 453,
+  "product_url": "https://www.popmart.com/us/pop-now/set/453",
+  "official_name": "THE MONSTERS 10th Anniversary Series-Phone Charm",
+  "series_name": "10th Anniversary Phone Charm",
+  "folder": "The_Monsters/10th_Anniversary_Phone_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "PATO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PATO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "COWAWA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "COWAWA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SPOOKY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SPOOKY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PUCA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PUCA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "ZIMOMO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "ZIMOMO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "YAYA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "YAYA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOKOKO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOKOKO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "TYCOCO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "TYCOCO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PIPPO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PIPPO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "LABUBU.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:55.010Z"
+}

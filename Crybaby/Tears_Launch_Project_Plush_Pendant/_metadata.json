@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 463,
+  "spu_id": 5833,
+  "spu_ext_id": 463,
+  "product_url": "https://www.popmart.com/us/pop-now/set/463",
+  "official_name": "CRYBABY Tears Launch Project Series-Plush Pendant Blind Box",
+  "series_name": "Tears Launch Project Plush Pendant",
+  "folder": "Crybaby/Tears_Launch_Project_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Crybaby",
+    "character_group": "Crybaby",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Crybaby"
+  },
+  "rows": [
+    {
+      "character_name": "Onion Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Onion_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Diamond Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Diamond_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Crocodile Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Crocodile_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sand Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sand_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Confession Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Confession_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Oath Tears",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oath_Tears.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tear Jerker",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Tear_Jerker.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:13.604Z"
+}

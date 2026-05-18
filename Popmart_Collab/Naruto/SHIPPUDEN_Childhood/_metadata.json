@@ -1,0 +1,137 @@
+{
+  "popnow_set_id": 474,
+  "spu_id": 5836,
+  "spu_ext_id": 474,
+  "product_url": "https://www.popmart.com/us/pop-now/set/474",
+  "official_name": "NARUTO SHIPPUDEN Childhood Series Figures",
+  "series_name": "SHIPPUDEN Childhood",
+  "folder": "Popmart_Collab/Naruto/SHIPPUDEN_Childhood",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Naruto",
+    "character_group": "Naruto",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Naruto"
+  },
+  "rows": [
+    {
+      "character_name": "Naruto Uzumaki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Naruto_Uzumaki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Orochimaru",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Orochimaru.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tsunade",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tsunade.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jiraiya",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jiraiya.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kushina Uzumaki",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kushina_Uzumaki.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minato Namikaze",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Minato_Namikaze.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kakashi Hatake",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kakashi_Hatake.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Might Guy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Might_Guy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gaara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gaara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura Haruno",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Haruno.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Itachi Uchiha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Itachi_Uchiha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sasuke Uchiha",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sasuke_Uchiha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Unison Sign-Sasuke Uchiha（Secret A）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unison_Sign_Sasuke_UchihaSecret_A.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Unison Sign-Naruto Uzumaki（Secret B）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Unison_Sign_Naruto_UzumakiSecret_B.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:28.169Z"
+}

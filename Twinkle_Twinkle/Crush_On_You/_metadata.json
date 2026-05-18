@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 447,
+  "spu_id": 5759,
+  "spu_ext_id": 447,
+  "product_url": "https://www.popmart.com/us/pop-now/set/447",
+  "official_name": "Twinkle Twinkle Crush On You Series Figures",
+  "series_name": "Crush On You",
+  "folder": "Twinkle_Twinkle/Crush_On_You",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Till We're Old",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Till_Were_Old.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Grow Grey Together",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Grow_Grey_Together.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hold Myself with Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hold_Myself_with_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flower Bearer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flower_Bearer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Albatross's Vow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Albatrosss_Vow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light Up",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Light_Up.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heart Unlocked",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_Unlocked.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candy Words",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candy_Words.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blushing Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blushing_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Hear You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Hear_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When You Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_You_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nerdy Cupid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nerdy_Cupid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sweet Memories",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sweet_Memories.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:49.410Z"
+}

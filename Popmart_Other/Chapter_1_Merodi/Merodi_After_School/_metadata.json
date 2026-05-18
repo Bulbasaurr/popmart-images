@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 465,
+  "spu_id": 5835,
+  "spu_ext_id": 465,
+  "product_url": "https://www.popmart.com/us/pop-now/set/465",
+  "official_name": "Chapter 1 – Merodi After School Series Figures",
+  "series_name": "Merodi After School",
+  "folder": "Popmart_Other/Chapter_1_Merodi/Merodi_After_School",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "Chapter 1 Merodi",
+    "character_group": "Chapter 1 Merodi",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Chapter 1 Merodi"
+  },
+  "rows": [
+    {
+      "character_name": "Don't Notice Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dont_Notice_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Living Room Adventure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Living_Room_Adventure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Homework Can Wait",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Homework_Can_Wait.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sorry Little Plant!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sorry_Little_Plant.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snack Thief",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snack_Thief.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Prince of the Pond",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Prince_of_the_Pond.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Let's Dance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lets_Dance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Snap! Say Cheese!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Snap_Say_Cheese.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gotcha!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gotcha.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Food Adventure",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Food_Adventure.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wait For Me",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wait_For_Me.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Five More Minutes",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Five_More_Minutes.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I'm Fierce",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Im_Fierce.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:17.393Z"
+}

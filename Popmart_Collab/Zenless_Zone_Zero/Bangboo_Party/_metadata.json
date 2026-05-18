@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 461,
+  "spu_id": 5831,
+  "spu_ext_id": 461,
+  "product_url": "https://www.popmart.com/us/pop-now/set/461",
+  "official_name": "Zenless Zone Zero Bangboo Party Series Figures",
+  "series_name": "Bangboo Party",
+  "folder": "Popmart_Collab/Zenless_Zone_Zero/Bangboo_Party",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Zenless Zone Zero",
+    "character_group": "Zenless Zone Zero",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Zenless Zone Zero"
+  },
+  "rows": [
+    {
+      "character_name": "Paperboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Paperboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bagboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bagboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Luckyboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luckyboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Eous",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eous.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Exploreboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Exploreboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sharkboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sharkboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Penguinboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Penguinboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cryboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cryboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Boollseye",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Boollseye.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Devilboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Devilboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rocketboo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rocketboo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Butler",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Butler.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Safety",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Safety.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:10.226Z"
+}

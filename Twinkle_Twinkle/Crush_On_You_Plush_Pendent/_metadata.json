@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 446,
+  "spu_id": 5758,
+  "spu_ext_id": 446,
+  "product_url": "https://www.popmart.com/us/pop-now/set/446",
+  "official_name": "Twinkle Twinkle Crush On You Series-Plush Pendent Blind Box",
+  "series_name": "Crush On You Plush Pendent",
+  "folder": "Twinkle_Twinkle/Crush_On_You_Plush_Pendent",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Nerdy Cupid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nerdy_Cupid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Albatross's Vow",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Albatrosss_Vow.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Skip a Beat",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Skip_a_Beat.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cat Lover",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cat_Lover.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Puppy's Love",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Puppys_Love.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Till We're Old",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Till_Were_Old.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Grow Grey Together",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Grow_Grey_Together.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:46.768Z"
+}

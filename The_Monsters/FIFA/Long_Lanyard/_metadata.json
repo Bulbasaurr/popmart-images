@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 485,
+  "spu_id": 6123,
+  "spu_ext_id": 485,
+  "product_url": "https://www.popmart.com/us/pop-now/set/485",
+  "official_name": "THE MONSTERS × FIFA SERIES-Long Lanyard Blind Box",
+  "series_name": "Long Lanyard",
+  "folder": "The_Monsters/FIFA/Long_Lanyard",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "FIFA"
+  },
+  "rows": [
+    {
+      "character_name": "FINAL WHISTLE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "FINAL_WHISTLE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "DECIDING GOAL",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DECIDING_GOAL.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "SEAL THE VICTORY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "SEAL_THE_VICTORY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CENTER OF ATTENTION",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CENTER_OF_ATTENTION.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "PAIN FADES AWAY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "PAIN_FADES_AWAY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MOMENT OF CELEBRATION",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "MOMENT_OF_CELEBRATION.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CROWNING MOMENT",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "CROWNING_MOMENT.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:46.970Z"
+}

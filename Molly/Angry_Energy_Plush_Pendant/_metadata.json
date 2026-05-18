@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 464,
+  "spu_id": 5834,
+  "spu_ext_id": 464,
+  "product_url": "https://www.popmart.com/us/pop-now/set/464",
+  "official_name": "Angry Molly - Angry Energy Series Plush Pendant",
+  "series_name": "Angry Energy Plush Pendant",
+  "folder": "Molly/Angry_Energy_Plush_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Red Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lake Blue Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lake_Blue_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Green Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Green_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Purple Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Purple_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Brown Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Brown_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Love Fire",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Love_Fire.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yellow Fire（Secret A）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Yellow_FireSecret_A.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Blue Fire",
+      "rarity": "Super Secret",
+      "chance": "?",
+      "image": "Blue_Fire.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Ink Fire（Secret B）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Ink_FireSecret_B.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:14.886Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 478,
+  "spu_id": 6116,
+  "spu_ext_id": 478,
+  "product_url": "https://www.popmart.com/us/pop-now/set/478",
+  "official_name": "Hirono Tamed Wildgrass Series Figures",
+  "series_name": "Tamed Wildgrass",
+  "folder": "Hirono/Tamed_Wildgrass",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Hirono",
+    "character_group": "Hirono",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Hirono"
+  },
+  "rows": [
+    {
+      "character_name": "Camping",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Camping.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Canned Dreams",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Canned_Dreams.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sisyphean Work",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sisyphean_Work.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Live Under Receipts",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Live_Under_Receipts.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Boiling Frog",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Boiling_Frog.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Full-time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Full_time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caged Bird",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caged_Bird.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Digital Bind",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Digital_Bind.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Self-Anchored",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Self_Anchored.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fated",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fated.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "City Escape",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "City_Escape.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Overload",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Overload.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Boundary",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Boundary.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:37.907Z"
+}

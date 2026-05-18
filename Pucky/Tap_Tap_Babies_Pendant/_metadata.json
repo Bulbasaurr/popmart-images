@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 434,
+  "spu_id": 5703,
+  "spu_ext_id": 434,
+  "product_url": "https://www.popmart.com/us/pop-now/set/434",
+  "official_name": "PUCKY Tap Tap Babies Series-Pendant Blind Box",
+  "series_name": "Tap Tap Babies Pendant",
+  "folder": "Pucky/Tap_Tap_Babies_Pendant",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Pucky",
+    "character_group": "Pucky",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Pucky"
+  },
+  "rows": [
+    {
+      "character_name": "Luck +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luck_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Happiness +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Happiness_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fate +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fate_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cleverness +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cleverness_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wisdom +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wisdom_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wealth +1",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wealth_+1.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Success +1",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Success_+1.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:25.626Z"
+}

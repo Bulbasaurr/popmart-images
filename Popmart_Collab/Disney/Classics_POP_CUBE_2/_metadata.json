@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 430,
+  "spu_id": 5237,
+  "spu_ext_id": 430,
+  "product_url": "https://www.popmart.com/us/pop-now/set/430",
+  "official_name": "Disney Classics POP CUBE-2 Series Figures",
+  "series_name": "Classics POP CUBE 2",
+  "folder": "Popmart_Collab/Disney/Classics_POP_CUBE_2",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Pinocchio",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pinocchio.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Marie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Marie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Daisy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Daisy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donald",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donald.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Miss Bunny",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Miss_Bunny.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mufasa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mufasa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Eeyore",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eeyore.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chip 'n' Dale",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chip_n_Dale.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Piglet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Piglet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:17.205Z"
+}

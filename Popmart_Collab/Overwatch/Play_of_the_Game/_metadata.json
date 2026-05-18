@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 432,
+  "spu_id": 5235,
+  "spu_ext_id": 432,
+  "product_url": "https://www.popmart.com/us/pop-now/set/432",
+  "official_name": "Overwatch Play of the Game Series Figures",
+  "series_name": "Play of the Game",
+  "folder": "Popmart_Collab/Overwatch/Play_of_the_Game",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Overwatch",
+    "character_group": "Overwatch",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Overwatch"
+  },
+  "rows": [
+    {
+      "character_name": "Reaper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Reaper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kiriko",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kiriko.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Widowmaker",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Widowmaker.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hanzo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hanzo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cassidy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cassidy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "D.Va",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "DVa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Genji",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Genji.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tracer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tracer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mercy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mercy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Black Cat D.Va",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Black_Cat_DVa.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:23.191Z"
+}

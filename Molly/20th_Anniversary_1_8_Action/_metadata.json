@@ -1,0 +1,41 @@
+{
+  "popnow_set_id": 479,
+  "spu_id": 6117,
+  "spu_ext_id": 479,
+  "product_url": "https://www.popmart.com/us/pop-now/set/479",
+  "official_name": "MOLLY 20th Anniversary Series 1/8 Action Figure",
+  "series_name": "20th Anniversary 1 8 Action",
+  "folder": "Molly/20th_Anniversary_1_8_Action",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "BLOSSOM WORLD",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "BLOSSOM_WORLD.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "RED-ROOFED COTTAGE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RED_ROOFED_COTTAGE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:38.438Z"
+}

@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 437,
+  "spu_id": 5613,
+  "spu_ext_id": 437,
+  "product_url": "https://www.popmart.com/us/pop-now/set/437",
+  "official_name": "Disney Mickey Boundless Creativity Series Figures",
+  "series_name": "Mickey Boundless Creativity",
+  "folder": "Popmart_Collab/Disney/Mickey_Boundless_Creativity",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Glaze Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glaze_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pigment Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pigment_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Silver Fluid Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Silver_Fluid_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Graffiti Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Graffiti_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clay Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clay_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blue and White Porcelain Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blue_and_White_Porcelain_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Enamel Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Enamel_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Felt Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Felt_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Painting Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Painting_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wooden Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wooden_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Glass Bubble Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Glass_Bubble_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mural Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mural_Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stardust Ceramic Mickey",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Stardust_Ceramic_Mickey.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:31.484Z"
+}

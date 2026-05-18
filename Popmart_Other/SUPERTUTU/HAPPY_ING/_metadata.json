@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 436,
+  "spu_id": 5612,
+  "spu_ext_id": 436,
+  "product_url": "https://www.popmart.com/us/pop-now/set/436",
+  "official_name": "SUPERTUTU HAPPY-ING! Series Figures",
+  "series_name": "HAPPY ING",
+  "folder": "Popmart_Other/SUPERTUTU/HAPPY_ING",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "SUPERTUTU",
+    "character_group": "SUPERTUTU",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "SUPERTUTU"
+  },
+  "rows": [
+    {
+      "character_name": "Super Delicious",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Super_Delicious.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "GAME START",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "GAME_START.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Super Sweetheart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Super_Sweetheart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bye-Bye Negativity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bye_Bye_Negativity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Donut Power",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Donut_Power.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twist & Cheer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twist_and_Cheer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cheese is Power",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cheese_is_Power.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light on You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Light_on_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Secret Garden",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Secret_Garden.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Greatest Castle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Greatest_Castle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Energy Forest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Energy_Forest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Off We Go!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Off_We_Go.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Super Sweet Dreams",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Super_Sweet_Dreams.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:28.406Z"
+}

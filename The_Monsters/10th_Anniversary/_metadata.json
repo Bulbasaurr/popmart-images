@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 452,
+  "spu_id": 5775,
+  "spu_ext_id": 452,
+  "product_url": "https://www.popmart.com/us/pop-now/set/452",
+  "official_name": "THE MONSTERS 10th Anniversary Series Figures",
+  "series_name": "10th Anniversary",
+  "folder": "The_Monsters/10th_Anniversary",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "The Monsters"
+  },
+  "rows": [
+    {
+      "character_name": "LABUBU&PUCA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandPUCA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&PATO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandPATO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&YAYA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandYAYA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&MOKOKO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandMOKOKO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&PIPPO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandPIPPO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&SPOOKY",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandSPOOKY.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&COWAWA",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandCOWAWA.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&TYCOCO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandTYCOCO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "LABUBU&ZIMOMO",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "LABUBUandZIMOMO.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "MONSTERS BY MONSTERS",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "MONSTERS_BY_MONSTERS.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:53.050Z"
+}

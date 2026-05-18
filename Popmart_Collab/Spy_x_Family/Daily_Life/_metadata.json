@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 445,
+  "spu_id": 5748,
+  "spu_ext_id": 445,
+  "product_url": "https://www.popmart.com/us/pop-now/set/445",
+  "official_name": "SPY × FAMILY Daily Life Series Figures",
+  "series_name": "Daily Life",
+  "folder": "Popmart_Collab/Spy_x_Family/Daily_Life",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Spy x Family",
+    "character_group": "Spy x Family",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Spy x Family"
+  },
+  "rows": [
+    {
+      "character_name": "Loid Forger - Leisure Dining",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Loid_Forger_Leisure_Dining.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yor Forger - Caring Cocoa",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yor_Forger_Caring_Cocoa.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Forger - Gift Penguin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anya_Forger_Gift_Penguin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Forger - Comforting Time",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anya_Forger_Comforting_Time.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Forger - Detective Outfit",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Anya_Forger_Detective_Outfit.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bond Forger - Lost Glove !?",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bond_Forger_Lost_Glove.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Damian Desmond - Chess Thoughts",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Damian_Desmond_Chess_Thoughts.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Becky Blackbell - Stunning Entrance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Becky_Blackbell_Stunning_Entrance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yuri Briar - Present Roses",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yuri_Briar_Present_Roses.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Anya Forger - Star Catch",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Anya_Forger_Star_Catch.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:45.221Z"
+}

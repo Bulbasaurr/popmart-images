@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 475,
+  "spu_id": 6112,
+  "spu_ext_id": 475,
+  "product_url": "https://www.popmart.com/us/pop-now/set/475",
+  "official_name": "Crayon Shinchan POP CUBE-1 Series Figures",
+  "series_name": "POP CUBE 1",
+  "folder": "Popmart_Collab/Crayon_Shinchan/POP_CUBE_1",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Crayon Shinchan",
+    "character_group": "Crayon Shinchan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Crayon Shinchan"
+  },
+  "rows": [
+    {
+      "character_name": "Shinnosuke Nohara",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Shinnosuke_Nohara.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Toru Kazama",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Toru_Kazama.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bochan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bochan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nene Sakurada",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nene_Sakurada.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Masao Sato",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Masao_Sato.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Bunta Takakura",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Bunta_Takakura.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Matsuzaka Sensei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Matsuzaka_Sensei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Yoshinaga Sensei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Yoshinaga_Sensei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ageo Sensei",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ageo_Sensei.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:30.065Z"
+}

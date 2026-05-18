@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 444,
+  "spu_id": 5690,
+  "spu_ext_id": 444,
+  "product_url": "https://www.popmart.com/us/pop-now/set/444",
+  "official_name": "Hello Kitty and Friends Sweet Dream Bubble House Series Scene Sets",
+  "series_name": "Friends Sweet Dream Bubble House Scene Sets",
+  "folder": "Popmart_Collab/Hello_Kitty/Friends_Sweet_Dream_Bubble_House_Scene_Sets",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Hello Kitty",
+    "character_group": "Hello Kitty",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Hello Kitty"
+  },
+  "rows": [
+    {
+      "character_name": "Hello Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hello_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinnamoroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tuxedosam",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tuxedosam.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuromi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuromi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Keroppi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Keroppi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pompompurin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody & Kuromi",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "My_Melody_and_Kuromi.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:42.576Z"
+}

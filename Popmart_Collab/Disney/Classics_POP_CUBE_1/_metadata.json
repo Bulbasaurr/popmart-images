@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 431,
+  "spu_id": 5236,
+  "spu_ext_id": 431,
+  "product_url": "https://www.popmart.com/us/pop-now/set/431",
+  "official_name": "Disney Classics POP CUBE-1 Series Figures",
+  "series_name": "Classics POP CUBE 1",
+  "folder": "Popmart_Collab/Disney/Classics_POP_CUBE_1",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Disney",
+    "character_group": "Disney",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Disney"
+  },
+  "rows": [
+    {
+      "character_name": "Lilo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lilo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Dumbo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Dumbo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lucifer",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Lucifer.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tigger",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tigger.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Scar",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Scar.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Minnie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Minnie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pluto",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pluto.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mickey",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mickey.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Thumper",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Thumper.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:20.293Z"
+}

@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 459,
+  "spu_id": 5829,
+  "spu_ext_id": 459,
+  "product_url": "https://www.popmart.com/us/pop-now/set/459",
+  "official_name": "Tom and Jerry: Funfair Series Figures",
+  "series_name": "Funfair",
+  "folder": "Popmart_Collab/Tom_and_Jerry/Funfair",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Tom and Jerry",
+    "character_group": "Tom and Jerry",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Tom and Jerry"
+  },
+  "rows": [
+    {
+      "character_name": "Jerry's Tom Finger Biting Game",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Finger_Biting_Game.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Inflatable Float",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Inflatable_Float.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Sandcastle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Sandcastle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Gashapon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Gashapon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Rocking Horse",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Rocking_Horse.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom-in-the-Box",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_in_the_Box.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Golf Course",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Golf_Course.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Castle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Castle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Roly-Poly Toy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Jerrys_Tom_Roly_Poly_Toy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Jerry's Tom Kiddie Ride",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Jerrys_Tom_Kiddie_Ride.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:04.129Z"
+}

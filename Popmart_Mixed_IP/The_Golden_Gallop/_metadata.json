@@ -1,0 +1,233 @@
+{
+  "popnow_set_id": 438,
+  "spu_id": 5686,
+  "spu_ext_id": 438,
+  "product_url": "https://www.popmart.com/us/pop-now/set/438",
+  "official_name": "The Golden Gallop Series Figures",
+  "series_name": "The Golden Gallop",
+  "folder": "Popmart_Mixed_IP/The_Golden_Gallop",
+  "classification": "mixed_ip",
+  "sheet_defaults": {
+    "ip": "POP MART",
+    "character_group": "?",
+    "brand": "POP MART",
+    "ip_type": "Mixed POP MART",
+    "pretty": "POP MART"
+  },
+  "rows": [
+    {
+      "character_name": "Pony Dance (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Pony_Dance_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Spring Joy (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Spring_Joy_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Pony Dance",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pony_Dance.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pegasus Unbound",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pegasus_Unbound.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Leaping into Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Leaping_into_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Chasing the Clouds",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Chasing_the_Clouds.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Luck on the Way",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Luck_on_the_Way.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fortune Feast",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fortune_Feast.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Herald",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Herald.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Wind Rider",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Wind_Rider.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Clouds Bearing Blessings",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Clouds_Bearing_Blessings.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Joy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Joy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Starry Arrival",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Starry_Arrival.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pegasus Unbound (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Pegasus_Unbound_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Fortune Rolling in",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fortune_Rolling_in.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Herald (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Spring_Herald_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Leaping into Spring (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Leaping_into_Spring_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Fortune Rolling in (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Fortune_Rolling_in_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Clouds Bearing Blessings (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Clouds_Bearing_Blessings_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Wind Rider (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Wind_Rider_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Fortune Feast (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Fortune_Feast_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Luck on the Way (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Luck_on_the_Way_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Starry Arrival (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Starry_Arrival_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Chasing the Clouds (Special Ver.)",
+      "rarity": "?",
+      "chance": "?",
+      "image": "Chasing_the_Clouds_Special_Ver.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 6
+    },
+    {
+      "character_name": "Wealth Drum",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wealth_Drum.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Wealth Drum (Secret Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Wealth_Drum_Secret_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": true,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:37.586Z"
+}

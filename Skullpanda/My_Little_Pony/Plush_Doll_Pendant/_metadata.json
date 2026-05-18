@@ -1,0 +1,90 @@
+{
+  "popnow_set_id": 458,
+  "spu_id": 5828,
+  "spu_ext_id": 458,
+  "product_url": "https://www.popmart.com/us/pop-now/set/458",
+  "official_name": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
+  "series_name": "Plush Doll Pendant",
+  "folder": "Skullpanda/My_Little_Pony/Plush_Doll_Pendant",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "Skullpanda",
+    "character_group": "Skullpanda",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "Skullpanda",
+    "external_ip": "My Little Pony"
+  },
+  "rows": [
+    {
+      "character_name": "Rarity",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rarity.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Rainbow Dash",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rainbow_Dash.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pinkie Pie",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pinkie_Pie.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Twilight Sparkle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Twilight_Sparkle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fluttershy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fluttershy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Applejack",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Applejack.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Queen Chrysalis",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Queen_Chrysalis.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Sunset Shimmer",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Sunset_Shimmer.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:01.485Z"
+}

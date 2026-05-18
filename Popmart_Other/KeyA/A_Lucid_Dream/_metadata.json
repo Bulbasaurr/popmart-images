@@ -1,0 +1,105 @@
+{
+  "popnow_set_id": 469,
+  "spu_id": 6038,
+  "spu_ext_id": 469,
+  "product_url": "https://www.popmart.com/us/pop-now/set/469",
+  "official_name": "KeyA A Lucid Dream Series Figures",
+  "series_name": "A Lucid Dream",
+  "folder": "Popmart_Other/KeyA/A_Lucid_Dream",
+  "classification": "popmart_other",
+  "sheet_defaults": {
+    "ip": "KeyA",
+    "character_group": "KeyA",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "KeyA"
+  },
+  "rows": [
+    {
+      "character_name": "Stillframe",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stillframe.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Traces",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Traces.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Wayfinder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Wayfinder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ethereal",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ethereal.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Daybreak",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Daybreak.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Gardener",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Gardener.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tides",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tides.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Vitality",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Vitality.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Insight",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Insight.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "First Light",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "First_Light.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:22.389Z"
+}

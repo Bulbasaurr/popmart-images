@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 451,
+  "spu_id": 5761,
+  "spu_ext_id": 451,
+  "product_url": "https://www.popmart.com/us/pop-now/set/451",
+  "official_name": "Frieren: Beyond Journey's End Series Figures",
+  "series_name": "Beyond Journey End",
+  "folder": "Popmart_Collab/Frieren/Beyond_Journey_End",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Frieren",
+    "character_group": "Frieren",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Frieren"
+  },
+  "rows": [
+    {
+      "character_name": "Eisen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Eisen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Heiter",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heiter.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Himmel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Himmel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stark",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stark.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Fern",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Fern.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Frieren",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Frieren.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mimic",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Mimic.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:53.046Z"
+}

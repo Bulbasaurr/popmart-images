@@ -1,0 +1,113 @@
+{
+  "popnow_set_id": 480,
+  "spu_id": 6118,
+  "spu_ext_id": 480,
+  "product_url": "https://www.popmart.com/us/pop-now/set/480",
+  "official_name": "MOLLY Scenery Along the Way 20th Anniversary Series Figures",
+  "series_name": "Scenery Along the Way 20th Anniversary",
+  "folder": "Molly/Scenery_Along_the_Way_20th_Anniversary",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "I Am a Wild Bee",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Am_a_Wild_Bee.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cuddle You to Sleep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cuddle_You_to_Sleep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sharing the Thunder",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sharing_the_Thunder.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Red-roofed Cottage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_roofed_Cottage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The Stars Beyond the Castle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "The_Stars_Beyond_the_Castle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Childhood Forest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Childhood_Forest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Within my Realm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Within_my_Realm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gazing at You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gazing_at_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "World of Blooms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "World_of_Blooms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The First MOLLY (Brown)（Secret B）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_First_MOLLY_BrownSecret_B.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "The First MOLLY (Green)（Secret A）",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_First_MOLLY_GreenSecret_A.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:38.769Z"
+}

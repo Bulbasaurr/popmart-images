@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 433,
+  "spu_id": 5234,
+  "spu_ext_id": 433,
+  "product_url": "https://www.popmart.com/us/pop-now/set/433",
+  "official_name": "NeZha 2 Dress Up Party Series Vinyl Plush Doll Pendant",
+  "series_name": "Dress Up Party Vinyl Plush Doll Pendant",
+  "folder": "Popmart_Collab/NeZha_2/Dress_Up_Party_Vinyl_Plush_Doll_Pendant",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "NeZha 2",
+    "character_group": "NeZha 2",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "NeZha 2"
+  },
+  "rows": [
+    {
+      "character_name": "Ao Bing's Polar Bear Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ao_Bings_Polar_Bear_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ao Bing's Rabbit Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ao_Bings_Rabbit_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ao Bing's Loong Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ao_Bings_Loong_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nezha's Brown Bear Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nezhas_Brown_Bear_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nezha's Panda Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nezhas_Panda_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nezha's Pig Edition",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nezhas_Pig_Edition.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Lotus Root Starch Doll",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Lotus_Root_Starch_Doll.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:24.815Z"
+}

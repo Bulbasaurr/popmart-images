@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 467,
+  "spu_id": 6017,
+  "spu_ext_id": 467,
+  "product_url": "https://www.popmart.com/us/pop-now/set/467",
+  "official_name": "Star Wars Grogu Tiny But Mighty Series Figures",
+  "series_name": "Grogu Tiny But Mighty",
+  "folder": "Popmart_Collab/Star_Wars/Grogu_Tiny_But_Mighty",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Star Wars",
+    "character_group": "Star Wars",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Star Wars"
+  },
+  "rows": [
+    {
+      "character_name": "Under the Beskar Mantle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Under_the_Beskar_Mantle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spark Sprint",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spark_Sprint.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Love Froggy",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Love_Froggy.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Force Push",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Force_Push.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hide and Seek",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hide_and_Seek.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Gluttonous Octopus",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Gluttonous_Octopus.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cozy Nap",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cozy_Nap.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Force Meditation",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Force_Meditation.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Energy Boost",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Energy_Boost.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Swaddling",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Swaddling.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Force Shield",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Force_Shield.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tea Realm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tea_Realm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Din Djarin's Helmet",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Din_Djarins_Helmet.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:21.378Z"
+}

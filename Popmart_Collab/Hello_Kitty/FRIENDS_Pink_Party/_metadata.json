@@ -1,0 +1,121 @@
+{
+  "popnow_set_id": 473,
+  "spu_id": 6042,
+  "spu_ext_id": 473,
+  "product_url": "https://www.popmart.com/us/pop-now/set/473",
+  "official_name": "HELLO KITTY AND FRIENDS Pink Party Series Figures",
+  "series_name": "FRIENDS Pink Party",
+  "folder": "Popmart_Collab/Hello_Kitty/FRIENDS_Pink_Party",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Hello Kitty",
+    "character_group": "Hello Kitty",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Hello Kitty"
+  },
+  "rows": [
+    {
+      "character_name": "Cinnamoroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pompompurin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuromi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuromi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hello Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hello_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinnamoroll (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Cinnamoroll_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Pochacco (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pochacco_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Pompompurin (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Pompompurin_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "My Melody (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "My_Melody_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Kuromi (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Kuromi_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Hello Kitty (Special Ver.)",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Hello_Kitty_Special_Ver.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:25.204Z"
+}

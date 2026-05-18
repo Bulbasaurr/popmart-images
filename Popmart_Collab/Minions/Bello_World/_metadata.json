@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 443,
+  "spu_id": 5689,
+  "spu_ext_id": 443,
+  "product_url": "https://www.popmart.com/us/pop-now/set/443",
+  "official_name": "Minions Bello World Series Figures",
+  "series_name": "Bello World",
+  "folder": "Popmart_Collab/Minions/Bello_World",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Minions",
+    "character_group": "Minions",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Minions"
+  },
+  "rows": [
+    {
+      "character_name": "Ride'em Cowboy Kevin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Rideem_Cowboy_Kevin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Oktoberfest Stuart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Oktoberfest_Stuart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Royal Guard Dave",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Royal_Guard_Dave.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Parisian Artist Stuart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Parisian_Artist_Stuart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Sakura Mel",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Sakura_Mel.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Muay-Thai Phil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Muay_Thai_Phil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Good Fortune Bob",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Good_Fortune_Bob.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Tulip Picking Carl",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Tulip_Picking_Carl.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Greek Stuart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Greek_Stuart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Merlion Stuart",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Merlion_Stuart.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Mariachi Bob",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Mariachi_Bob.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Outback Bob",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Outback_Bob.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Egypt Carl",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Egypt_Carl.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:42.041Z"
+}

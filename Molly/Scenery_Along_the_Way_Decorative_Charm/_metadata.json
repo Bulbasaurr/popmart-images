@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 482,
+  "spu_id": 6120,
+  "spu_ext_id": 482,
+  "product_url": "https://www.popmart.com/us/pop-now/set/482",
+  "official_name": "MOLLY Scenery Along the Way Series - Decorative Charm  Blind Box",
+  "series_name": "Scenery Along the Way Decorative Charm",
+  "folder": "Molly/Scenery_Along_the_Way_Decorative_Charm",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "CUDDLE YOU TO SLEEP",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CUDDLE_YOU_TO_SLEEP.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "STARS BEYOND THE CASTLE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "STARS_BEYOND_THE_CASTLE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WITHIN MY REALM",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WITHIN_MY_REALM.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "WORLD OF BLOOMS",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "WORLD_OF_BLOOMS.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "CHILDHOOD FOREST",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "CHILDHOOD_FOREST.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "RED ROOFED COTTAGE",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "RED_ROOFED_COTTAGE.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "THE FIRST MOLLY REPRODUCTION",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "THE_FIRST_MOLLY_REPRODUCTION.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:42.084Z"
+}

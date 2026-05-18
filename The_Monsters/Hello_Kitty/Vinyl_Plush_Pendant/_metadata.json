@@ -1,0 +1,82 @@
+{
+  "popnow_set_id": 466,
+  "spu_id": 6016,
+  "spu_ext_id": 466,
+  "product_url": "https://www.popmart.com/us/pop-now/set/466",
+  "official_name": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
+  "series_name": "Vinyl Plush Pendant",
+  "folder": "The_Monsters/Hello_Kitty/Vinyl_Plush_Pendant",
+  "classification": "collab_nested",
+  "sheet_defaults": {
+    "ip": "The Monsters",
+    "character_group": "The Monsters",
+    "brand": "POP MART",
+    "ip_type": "External Collab",
+    "pretty": "The Monsters",
+    "external_ip": "Hello Kitty"
+  },
+  "rows": [
+    {
+      "character_name": "Kuromi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuromi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pompompurin",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pompompurin.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Hello Kitty",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hello_Kitty.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Pochacco",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Pochacco.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cinnamoroll",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cinnamoroll.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "My Melody",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "My_Melody.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Classic Hello Kitty",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Classic_Hello_Kitty.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:18.150Z"
+}

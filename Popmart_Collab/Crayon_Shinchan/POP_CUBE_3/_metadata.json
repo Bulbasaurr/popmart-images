@@ -1,0 +1,97 @@
+{
+  "popnow_set_id": 477,
+  "spu_id": 6114,
+  "spu_ext_id": 477,
+  "product_url": "https://www.popmart.com/us/pop-now/set/477",
+  "official_name": "Crayon Shinchan POP CUBE-3 Series Figures",
+  "series_name": "POP CUBE 3",
+  "folder": "Popmart_Collab/Crayon_Shinchan/POP_CUBE_3",
+  "classification": "external_collab",
+  "sheet_defaults": {
+    "ip": "Crayon Shinchan",
+    "character_group": "Crayon Shinchan",
+    "brand": "POP MART",
+    "ip_type": "External",
+    "pretty": "Crayon Shinchan"
+  },
+  "rows": [
+    {
+      "character_name": "Action Shinchan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Action_Shinchan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Action Kamen",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Action_Kamen.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Schoolboy Shinchan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Schoolboy_Shinchan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Messy Shinchan",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Messy_Shinchan.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kantam Robo",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kantam_Robo.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Monster Shirimarudashi",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Monster_Shirimarudashi.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Buriburizaemon",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Buriburizaemon.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Ai Suotome",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Ai_Suotome.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Kuroiso",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Kuroiso.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:34.717Z"
+}

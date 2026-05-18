@@ -1,0 +1,89 @@
+{
+  "popnow_set_id": 450,
+  "spu_id": 5760,
+  "spu_ext_id": 450,
+  "product_url": "https://www.popmart.com/us/pop-now/set/450",
+  "official_name": "Twinkle Twinkle Crush On You Series-Photo Frame Fridge Magnet Blind Box",
+  "series_name": "Crush On You Photo Frame Fridge Magnet",
+  "folder": "Twinkle_Twinkle/Crush_On_You_Photo_Frame_Fridge_Magnet",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Twinkle Twinkle",
+    "character_group": "Twinkle Twinkle",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Twinkle Twinkle"
+  },
+  "rows": [
+    {
+      "character_name": "Heart Unlocked",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Heart_Unlocked.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Blushing Moment",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Blushing_Moment.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Candy Words",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Candy_Words.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "When You Call",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "When_You_Call.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Nerdy Cupid",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Nerdy_Cupid.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "I Hear You",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "I_Hear_You.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Till We're Old",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Till_Were_Old.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    },
+    {
+      "character_name": "Grow Grey Together",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Grow_Grey_Together.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:21:50.986Z"
+}

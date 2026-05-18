@@ -1,0 +1,81 @@
+{
+  "popnow_set_id": 483,
+  "spu_id": 6121,
+  "spu_ext_id": 483,
+  "product_url": "https://www.popmart.com/us/pop-now/set/483",
+  "official_name": "MOLLY Scenery Along the Way Series-Mini Memory Album Bag Blind Box",
+  "series_name": "Scenery Along the Way Mini Memory Album Bag",
+  "folder": "Molly/Scenery_Along_the_Way_Mini_Memory_Album_Bag",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Molly",
+    "character_group": "Molly",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Molly"
+  },
+  "rows": [
+    {
+      "character_name": "Within My Realm",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Within_My_Realm.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Childhood Forest",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Childhood_Forest.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "World of Blooms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "World_of_Blooms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Red Roofed Cottage",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Red_Roofed_Cottage.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Stars Beyond the Castle",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Stars_Beyond_the_Castle.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Cuddle You to Sleep",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Cuddle_You_to_Sleep.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "The First MOLLY Reproduction",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "The_First_MOLLY_Reproduction.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:43.709Z"
+}

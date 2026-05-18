@@ -1,0 +1,129 @@
+{
+  "popnow_set_id": 471,
+  "spu_id": 6040,
+  "spu_ext_id": 471,
+  "product_url": "https://www.popmart.com/us/pop-now/set/471",
+  "official_name": "DIMOO Moments in Bloom Series Figures",
+  "series_name": "Moments in Bloom",
+  "folder": "Dimoo/Moments_in_Bloom",
+  "classification": "popmart_top",
+  "sheet_defaults": {
+    "ip": "Dimoo",
+    "character_group": "Dimoo",
+    "brand": "POP MART",
+    "ip_type": "Original",
+    "pretty": "Dimoo"
+  },
+  "rows": [
+    {
+      "character_name": "Hugging Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Hugging_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Packed with Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Packed_with_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Recoil",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Recoil.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "A Breath of Blossoms",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "A_Breath_of_Blossoms.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Caught by Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Caught_by_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "It Lives in My Boot!",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "It_Lives_in_My_Boot.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Catching Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Catching_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Flying Through Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Flying_Through_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Take Me to Spring",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Take_Me_to_Spring.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring's Trumpet",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Springs_Trumpet.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Falling into Flowers",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Falling_into_Flowers.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Spring Overhead",
+      "rarity": "Normal",
+      "chance": "?",
+      "image": "Spring_Overhead.png",
+      "_popnow_weight": 20,
+      "_popnow_type": 1
+    },
+    {
+      "character_name": "Light Up Spring",
+      "rarity": "Secret",
+      "chance": "?",
+      "image": "Light_Up_Spring.png",
+      "_popnow_weight": 1,
+      "_popnow_type": 2
+    }
+  ],
+  "odds_verified": false,
+  "odds_source": null,
+  "desc_image_urls": [],
+  "cross_ip_audit_needed": false,
+  "notes": "",
+  "_generated_at": "2026-05-18T05:22:23.968Z"
+}
