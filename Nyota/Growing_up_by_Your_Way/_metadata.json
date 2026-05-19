@@ -18,7 +18,7 @@
     {
       "character_name": "Hidden Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hidden_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Hi",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hi.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Growing up",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Growing_up.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Road",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Road.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Into My Heart",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Into_My_Heart.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Dream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Poem",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poem.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Feeling",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Feeling.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Thinking",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Thinking.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Friends",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Friends.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Childhood",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Childhood.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Fly to Your Own Mountain",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Fly_to_Your_Own_Mountain.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -141,5 +141,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1731"
+  "popmart_product_url": "https://www.popmart.com/us/products/1731",
+  "disclosure_verified_at": "2026-05-19T07:41:55.478Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

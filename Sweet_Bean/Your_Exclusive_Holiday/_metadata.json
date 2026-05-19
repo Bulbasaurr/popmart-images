@@ -18,7 +18,7 @@
     {
       "character_name": "Star Wish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Star_Wish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Gingerbread Friends",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gingerbread_Friends.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Holiday Snowman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Holiday_Snowman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Collecting Wishes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Collecting_Wishes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Snowman Bell",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snowman_Bell.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Gift Delivery",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gift_Delivery.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Kitten and Yarn Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kitten_and_Yarn_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Honey Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Honey_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Bear Bell",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bear_Bell.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Angel's Blessing",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Angels_Blessing.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Ski Season",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ski_Season.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Snowflake",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snowflake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Crystal Ball",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Crystal_Ball.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4203"
+  "popmart_product_url": "https://www.popmart.com/us/products/4203",
+  "disclosure_verified_at": "2026-05-19T07:41:55.608Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

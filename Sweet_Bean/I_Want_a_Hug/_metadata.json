@@ -18,7 +18,7 @@
     {
       "character_name": "When I'm in Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_in_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "When I'm Sleeping",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_Sleeping.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "When I'm Sad",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_Sad.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "When I Don't Want to Get up",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_I_Dont_Want_to_Get_up.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "When I Get Something",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_I_Get_Something.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "When I'm a Little Devil",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_a_Little_Devil.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "When I'm Ambitious",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_Ambitious.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Before I Became Numb",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Before_I_Became_Numb.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "When I Try to Be Good",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_I_Try_to_Be_Good.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "When I Feel Peaceful",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_I_Feel_Peaceful.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "When I'm Sick",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_Sick.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "When I'm Angry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "When_Im_Angry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "When I Want a Hug",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "When_I_Want_a_Hug.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -144,5 +144,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2154"
+  "popmart_product_url": "https://www.popmart.com/us/products/2154",
+  "disclosure_verified_at": "2026-05-19T07:41:55.525Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

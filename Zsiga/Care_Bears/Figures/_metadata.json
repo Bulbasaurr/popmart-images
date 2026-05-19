@@ -19,7 +19,7 @@
     {
       "character_name": "True Heart Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "True_Heart_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "Dream Bright Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dream_Bright_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -35,7 +35,7 @@
     {
       "character_name": "Bedtime Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bedtime_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -43,7 +43,7 @@
     {
       "character_name": "Funshine Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Funshine_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -51,7 +51,7 @@
     {
       "character_name": "Always There Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Always_There_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -59,7 +59,7 @@
     {
       "character_name": "Tenderheart Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tenderheart_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -67,7 +67,7 @@
     {
       "character_name": "Good Luck Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Good_Luck_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -75,7 +75,7 @@
     {
       "character_name": "Cheer Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cheer_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -83,7 +83,7 @@
     {
       "character_name": "Grumpy Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Grumpy_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -91,7 +91,7 @@
     {
       "character_name": "Work of Heart Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Work_of_Heart_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -99,7 +99,7 @@
     {
       "character_name": "Love-a-Lot Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Love_a_Lot_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -107,7 +107,7 @@
     {
       "character_name": "Share Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Share_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -115,14 +115,14 @@
     {
       "character_name": "Zsiga and Grumpy Bear",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Zsiga_and_Grumpy_Bear.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3804"
+  "popmart_product_url": "https://www.popmart.com/us/products/3804",
+  "disclosure_verified_at": "2026-05-19T07:41:55.591Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

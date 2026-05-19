@@ -18,7 +18,7 @@
     {
       "character_name": "Seen Her",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Seen_Her.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Follow the Light",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Follow_the_Light.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Painter's Help",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Painters_Help.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Over There!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Over_There.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "See You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "See_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Great Discovery",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Great_Discovery.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Wind's Guidance",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Winds_Guidance.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Move Bravely",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Move_Bravely.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Careless Hunter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Careless_Hunter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Found It！",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Found_It！.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "Heart Maze",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Heart_Maze.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -126,5 +126,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1857"
+  "popmart_product_url": "https://www.popmart.com/us/products/1857",
+  "disclosure_verified_at": "2026-05-19T07:41:55.495Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Freedom of Feathers",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Freedom_of_Feathers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Rebirth of the Lotus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Rebirth_of_the_Lotus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Wisdom of the Owl",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wisdom_of_the_Owl.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Marine Friendship",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Marine_Friendship.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Strength of the Lion",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Strength_of_the_Lion.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Luck of the Ladybug",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Luck_of_the_Ladybug.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Vitality of the Rabbit",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vitality_of_the_Rabbit.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "The Guardian Gargoyle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Guardian_Gargoyle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Arrow of Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Arrow_of_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Wings of Beauty",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wings_of_Beauty.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Innocence of Snowflake",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Innocence_of_Snowflake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Wish of Fortune",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wish_of_Fortune.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Wish Upon a Star",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Wish_Upon_a_Star.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6306"
+  "popmart_product_url": "https://www.popmart.com/us/products/6306",
+  "disclosure_verified_at": "2026-05-19T07:41:55.674Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

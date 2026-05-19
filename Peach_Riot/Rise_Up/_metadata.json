@@ -18,7 +18,7 @@
     {
       "character_name": "Poppy Baddie on Bass",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Baddie_on_Bass.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Gigi Lil' Lead",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Lil_Lead.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Frankie Sick Beats",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Sick_Beats.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Poppy Business",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Business.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Gigi Brain Stormer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Brain_Stormer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Frankie The Boss",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_The_Boss.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Poppy Cutie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Cutie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Gigi Pop Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Pop_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Frankie Diva",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Diva.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Poppy Electric Funk",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Electric_Funk.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Gigi The Singer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_The_Singer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Frankie The Rhythm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_The_Rhythm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Gigi-The Gleeman",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Gigi_The_Gleeman.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -139,5 +139,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1245"
+  "popmart_product_url": "https://www.popmart.com/us/products/1245",
+  "disclosure_verified_at": "2026-05-19T07:41:55.436Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Life-bearing Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Life_bearing_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Wayfinder Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wayfinder_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Melody Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Melody_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Reminiscence Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Reminiscence_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Mirrorlight Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mirrorlight_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Nightlight Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nightlight_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Halo Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Halo_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Meteor Shower",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Meteor_Shower.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Wishing Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wishing_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Fable Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fable_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Sanctuary Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sanctuary_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Bounty Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bounty_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Dreamcatcher Star",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Dreamcatcher_Star.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4717"
+  "popmart_product_url": "https://www.popmart.com/us/products/4717",
+  "disclosure_verified_at": "2026-05-19T07:41:55.622Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

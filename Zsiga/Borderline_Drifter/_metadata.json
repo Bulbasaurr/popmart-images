@@ -18,7 +18,7 @@
     {
       "character_name": "Clutching Blue",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Clutching_Blue.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Bird Above the Rooftop",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bird_Above_the_Rooftop.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "The Archer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Archer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Falling Apple",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Falling_Apple.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "The City Head",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_City_Head.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "The Forest Hat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Forest_Hat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "The Felled Tree",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Felled_Tree.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Leverage for Growth",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Leverage_for_Growth.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Traveler's Parcel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Travelers_Parcel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Resting Boots",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Resting_Boots.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Pocketful of Wind",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pocketful_of_Wind.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Silent Park",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Silent_Park.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Diary",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Diary.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -144,5 +144,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2055"
+  "popmart_product_url": "https://www.popmart.com/us/products/2055",
+  "disclosure_verified_at": "2026-05-19T07:41:55.515Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

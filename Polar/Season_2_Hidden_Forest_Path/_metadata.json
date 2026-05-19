@@ -18,7 +18,7 @@
     {
       "character_name": "\"Gotcha, Wobbling\"",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gotcha_Wobbling.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "The Forgotten Lab",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Forgotten_Lab.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "The Hollow's Secret",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Hollows_Secret.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Yap-Yap Glove",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Yap_Yap_Glove.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "\"Let's Go!\"",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lets_Go.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Bread, Kiloo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bread_Kiloo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "\"Which Way, Polar?\"",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Which_Way_Polar.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Hug Bugsy Gaga",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hug_Bugsy_Gaga.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "\"Mark, Mark\"",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mark_Mark.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "\"Not Your Jar!\"",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Not_Your_Jar.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Whizzy LioLio",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Whizzy_LioLio.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Color Change 404",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Color_Change_404.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "House of Light",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "House_of_Light.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4368"
+  "popmart_product_url": "https://www.popmart.com/us/products/4368",
+  "disclosure_verified_at": "2026-05-19T07:41:55.611Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

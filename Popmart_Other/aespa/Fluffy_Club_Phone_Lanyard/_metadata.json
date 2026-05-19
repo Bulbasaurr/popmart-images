@@ -18,7 +18,7 @@
     {
       "character_name": "FIuffy KARANGI(KARINA VER.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "FIuffy_KARANGIKARINA_VER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "FIuffy GELBULNYANGI(GISELLE VER.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "FIuffy_GELBULNYANGIGISELLE_VER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "FIuffy MUNGTAENGI(WINTER VER.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "FIuffy_MUNGTAENGIWINTER_VER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "FIuffy RWE(NINGNING VER.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "FIuffy_RWENINGNING_VER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "JeIIy KARANGI(KARINA VER.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/48",
       "image": "JeIIy_KARANGIKARINA_VER.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -58,7 +58,7 @@
     {
       "character_name": "JeIIy GELBULNYANGI(GISELLE VER.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/48",
       "image": "JeIIy_GELBULNYANGIGISELLE_VER.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -66,7 +66,7 @@
     {
       "character_name": "JeIIy MUNGTAENGI(WINTER VER.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/48",
       "image": "JeIIy_MUNGTAENGIWINTER_VER.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -74,14 +74,14 @@
     {
       "character_name": "JeIIy RWE(NINGNING VER.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/48",
       "image": "JeIIy_RWENINGNING_VER.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -102,5 +102,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6347"
+  "popmart_product_url": "https://www.popmart.com/us/products/6347",
+  "disclosure_verified_at": "2026-05-19T07:41:55.679Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Blessings from Auditorium",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Blessings_from_Auditorium.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Candlelit Dinner",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Candlelit_Dinner.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Starry Conductor",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Starry_Conductor.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Milky Way Weaver",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Milky_Way_Weaver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Runaway Princess",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Runaway_Princess.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Voyage Through Pages",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Voyage_Through_Pages.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Moonlight Serenade",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Moonlight_Serenade.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Fortune's Elixir",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Fortunes_Elixir.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "Rise and Shine",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/96",
       "image": "Rise_and_Shine.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -111,5 +111,7 @@
     "https://prod-america-res.popmart.com/default/20260417_173649_753436____14_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1716.jpg",
     "https://prod-america-res.popmart.com/default/20260417_173649_218512____15_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x732.jpg"
   ],
-  "disclosure_source": "popmart_product_page_desc_images"
+  "disclosure_source": "popmart_product_page_desc_images",
+  "disclosure_verified_at": "2026-05-19T07:41:55.673Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

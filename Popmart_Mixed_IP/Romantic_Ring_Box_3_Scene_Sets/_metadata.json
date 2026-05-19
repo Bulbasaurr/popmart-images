@@ -18,7 +18,7 @@
     {
       "character_name": "MOLLY Galactic Heart",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "MOLLY_Galactic_Heart.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "SKULLPANDA Close To You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "SKULLPANDA_Close_To_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "DIMOO Another Rose",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "DIMOO_Another_Rose.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "LABUBU Mysterious Trajectory",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "LABUBU_Mysterious_Trajectory.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "PUCKY Blazing Heart",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "PUCKY_Blazing_Heart.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Sweet Bean You Are My Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sweet_Bean_You_Are_My_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "PINO JELLY Sugary Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "PINO_JELLY_Sugary_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "KUBO When I Miss You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "KUBO_When_I_Miss_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "HACIPUPU Our Love Song",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "HACIPUPU_Our_Love_Song.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "CHAKA Distance Between Us",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "CHAKA_Distance_Between_Us.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "SKULLPANDA In My Heart",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "SKULLPANDA_In_My_Heart.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -126,5 +126,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1450"
+  "popmart_product_url": "https://www.popmart.com/us/products/1450",
+  "disclosure_verified_at": "2026-05-19T07:41:55.453Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

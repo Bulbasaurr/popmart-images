@@ -18,7 +18,7 @@
     {
       "character_name": "Laurel Whispers",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Laurel_Whispers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Sands of Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sands_of_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Sea of Oblivion",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sea_of_Oblivion.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Nightmare",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nightmare.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Flipped",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Flipped.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Endless Summer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Endless_Summer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Misty",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Misty.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Tonight or Never",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tonight_or_Never.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Winter's Clarity",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Winters_Clarity.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Soft Embrace",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Soft_Embrace.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Eternal Amber",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Eternal_Amber.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "The Final Rose",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Final_Rose.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Someone Like You",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Someone_Like_You.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -142,5 +142,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1439"
+  "popmart_product_url": "https://www.popmart.com/us/products/1439",
+  "disclosure_verified_at": "2026-05-19T07:41:55.452Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

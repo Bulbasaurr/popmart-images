@@ -18,7 +18,7 @@
     {
       "character_name": "Circles of Joy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Circles_of_Joy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Echoes of Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Echoes_of_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Little Cutie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Little_Cutie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Joyful Honks",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Joyful_Honks.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Sparks in Bloom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Sparks_in_Bloom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Glimmering Invitation",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Glimmering_Invitation.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Dazzling Debut",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Dazzling_Debut.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "3, 2, 1 Boom!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "3_2_1_Boom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Meet Me There!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Meet_Me_There.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Yours to Share",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Yours_to_Share.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Fairy Godmother",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Fairy_Godmother.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Gift of Wishes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Gift_of_Wishes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Call for Celebration",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Call_for_Celebration.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -122,7 +122,7 @@
     {
       "character_name": "Light Up this Moment",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Light_Up_this_Moment.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,7 +130,7 @@
     {
       "character_name": "Countdown",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/15",
       "image": "Countdown.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -138,14 +138,14 @@
     {
       "character_name": "Party Sweetie",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/150",
       "image": "Party_Sweetie.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -163,5 +163,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4199"
+  "popmart_product_url": "https://www.popmart.com/us/products/4199",
+  "disclosure_verified_at": "2026-05-19T07:41:55.601Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

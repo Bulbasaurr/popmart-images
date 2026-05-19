@@ -18,7 +18,7 @@
     {
       "character_name": "Don't Notice Me",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dont_Notice_Me.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Living Room Adventure",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Living_Room_Adventure.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Homework Can Wait",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Homework_Can_Wait.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Sorry Little Plant!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sorry_Little_Plant.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Snack Thief",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snack_Thief.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Prince of the Pond",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Prince_of_the_Pond.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Let's Dance",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lets_Dance.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Snap! Say Cheese!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snap_Say_Cheese.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Gotcha!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gotcha.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Food Adventure",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Food_Adventure.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Wait For Me",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wait_For_Me.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Five More Minutes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Five_More_Minutes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "I'm Fierce",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Im_Fierce.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5835"
+  "popmart_product_url": "https://www.popmart.com/us/products/5835",
+  "disclosure_verified_at": "2026-05-19T07:41:55.649Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

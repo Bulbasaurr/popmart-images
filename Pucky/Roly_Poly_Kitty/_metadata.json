@@ -18,7 +18,7 @@
     {
       "character_name": "Siberian",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Siberian.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Black Cat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Black_Cat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Bengal",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Bengal.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Devil",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Devil.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Noble Cat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Noble_Cat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Red Tabby",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Red_Tabby.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Circus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Circus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Yarn",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Yarn.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Calico",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Calico.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "The Cat King",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "The_Cat_King.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Sphynx",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Sphynx.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Ceramic",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Ceramic.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Windup",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Windup.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -122,7 +122,7 @@
     {
       "character_name": "Siamese",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Siamese.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,7 +130,7 @@
     {
       "character_name": "Panda",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Panda.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -138,7 +138,7 @@
     {
       "character_name": "Scottish Fold",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Scottish_Fold.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -146,14 +146,14 @@
     {
       "character_name": "Lucky Cat",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/192",
       "image": "Lucky_Cat.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -170,5 +170,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1838"
+  "popmart_product_url": "https://www.popmart.com/us/products/1838",
+  "disclosure_verified_at": "2026-05-19T07:41:55.493Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

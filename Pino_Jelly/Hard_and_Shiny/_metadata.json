@@ -18,7 +18,7 @@
     {
       "character_name": "January：Knight",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "January：Knight.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "February：Mamba",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "February：Mamba.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "March：Swan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "March：Swan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "April：Bridegroom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "April：Bridegroom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "May：King",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "May：King.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "June：Mermaid",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "June：Mermaid.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "July：Queen",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "July：Queen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "August：Elf",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "August：Elf.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "September：Nightingale",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "September：Nightingale.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "October：Pegasus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "October：Pegasus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "November：Actor",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "November：Actor.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "December：Clock",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "December：Clock.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Model",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Model.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,14 +122,14 @@
     {
       "character_name": "Joker",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Joker.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -150,5 +150,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1773"
+  "popmart_product_url": "https://www.popmart.com/us/products/1773",
+  "disclosure_verified_at": "2026-05-19T07:41:55.489Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

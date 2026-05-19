@@ -18,7 +18,7 @@
     {
       "character_name": "Trainee",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Trainee.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Studio",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Studio.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Live Stage",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Live_Stage.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Meet＆Greet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Meet＆Greet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Athletics",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Athletics.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Variety Show",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Variety_Show.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Trading Card Shoot",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Trading_Card_Shoot.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Fanchant",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fanchant.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Walk After Work",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Walk_After_Work.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Day Off",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Day_Off.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Makeup Room",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Makeup_Room.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Practice Room",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Practice_Room.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Dance JELLY",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Dance_JELLY.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,14 +122,14 @@
     {
       "character_name": "Award Show",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Award_Show.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -157,5 +157,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1525"
+  "popmart_product_url": "https://www.popmart.com/us/products/1525",
+  "disclosure_verified_at": "2026-05-19T07:41:55.460Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

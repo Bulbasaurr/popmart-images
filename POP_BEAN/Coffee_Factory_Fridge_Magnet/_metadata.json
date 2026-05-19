@@ -18,7 +18,7 @@
     {
       "character_name": "CRYBABY Golden Sugar Seasoning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "CRYBABY_Golden_Sugar_Seasoning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "DIMOO Freshly Hand Ground",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "DIMOO_Freshly_Hand_Ground.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "PINO JELLY Milk Coffee Lover",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "PINO_JELLY_Milk_Coffee_Lover.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "SKULLPANDA Coffee Moment",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "SKULLPANDA_Coffee_Moment.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Zsiga Special Blend",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Zsiga_Special_Blend.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "CHAKA Double-shot Espresso",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "CHAKA_Double_shot_Espresso.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "MOLLY Stir with Sugar",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "MOLLY_Stir_with_Sugar.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "LABUBU White Sugar Seasoning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "LABUBU_White_Sugar_Seasoning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "Coffee Family Combo",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/96",
       "image": "Coffee_Family_Combo.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -108,5 +108,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3781"
+  "popmart_product_url": "https://www.popmart.com/us/products/3781",
+  "disclosure_verified_at": "2026-05-19T07:41:55.589Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

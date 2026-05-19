@@ -18,7 +18,7 @@
     {
       "character_name": "Poppy Daisy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Daisy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Gigi Sweet Pea",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Sweet_Pea.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Frankie Sunflower",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Sunflower.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Poppy Tree Stump",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Tree_Stump.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Gigi Mushroom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Mushroom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Frankie Lily Pad",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Lily_Pad.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Poppy Acorn",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Acorn.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Gigi Leaf",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Leaf.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Frankie Rainstorm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Rainstorm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Poppy Morning Dew",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poppy_Morning_Dew.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Gigi Ice",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gigi_Ice.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Frankie Moonrise",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankie_Moonrise.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Poppy-Strawberry",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Poppy_Strawberry.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -137,5 +137,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1244"
+  "popmart_product_url": "https://www.popmart.com/us/products/1244",
+  "disclosure_verified_at": "2026-05-19T07:41:55.434Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

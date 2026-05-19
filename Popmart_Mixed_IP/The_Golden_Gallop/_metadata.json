@@ -34,7 +34,7 @@
     {
       "character_name": "Pony Dance",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pony_Dance.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Pegasus Unbound",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pegasus_Unbound.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Leaping into Spring",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Leaping_into_Spring.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Chasing the Clouds",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chasing_the_Clouds.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Luck on the Way",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Luck_on_the_Way.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Fortune Feast",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fortune_Feast.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Spring Herald",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spring_Herald.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Wind Rider",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wind_Rider.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Clouds Bearing Blessings",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Clouds_Bearing_Blessings.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Spring Joy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spring_Joy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Starry Arrival",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Starry_Arrival.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,7 +130,7 @@
     {
       "character_name": "Fortune Rolling in",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fortune_Rolling_in.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -210,7 +210,7 @@
     {
       "character_name": "Wealth Drum",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Wealth_Drum.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -218,14 +218,14 @@
     {
       "character_name": "Wealth Drum (Secret Special Ver.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Wealth_Drum_Secret_Special_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -254,5 +254,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5686"
+  "popmart_product_url": "https://www.popmart.com/us/products/5686",
+  "disclosure_verified_at": "2026-05-19T07:41:55.633Z",
+  "disclosure_verified_from_image": "03.jpg"
 }
