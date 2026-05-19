@@ -18,7 +18,7 @@
     {
       "character_name": "I'll Give You All My Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Ill_Give_You_All_My_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Love Makes Us Cry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Love_Makes_Us_Cry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Duck You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Duck_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "I'll Bring You A Flower",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Ill_Bring_You_A_Flower.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "What A Frog",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "What_A_Frog.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "She's Alice",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Shes_Alice.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Baby Brown",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Baby_Brown.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -74,14 +74,14 @@
     {
       "character_name": "Baby Blonde",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Baby_Blonde.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -100,5 +100,10 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1713"
+  "popmart_product_url": "https://www.popmart.com/us/products/1713",
+  "disclosure_verified_at": "2026-05-19T17:20:13.456Z",
+  "super_secret_mapping": {
+    "Baby Brown": "secret",
+    "Baby Blonde": "super"
+  }
 }

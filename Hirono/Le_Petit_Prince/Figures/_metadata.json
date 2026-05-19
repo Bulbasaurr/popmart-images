@@ -19,7 +19,7 @@
     {
       "character_name": "The King",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_King.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "The Conceited Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Conceited_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -35,7 +35,7 @@
     {
       "character_name": "The Tippler",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Tippler.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -43,7 +43,7 @@
     {
       "character_name": "The Businessman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Businessman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -51,7 +51,7 @@
     {
       "character_name": "The Lamplighter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Lamplighter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -59,7 +59,7 @@
     {
       "character_name": "The Geographer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Geographer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -67,7 +67,7 @@
     {
       "character_name": "The Little Prince",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Little_Prince.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -75,7 +75,7 @@
     {
       "character_name": "The Rose",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Rose.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -83,7 +83,7 @@
     {
       "character_name": "The Snake",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Snake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -91,7 +91,7 @@
     {
       "character_name": "The Fox",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Fox.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -99,7 +99,7 @@
     {
       "character_name": "The Switchman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Switchman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -107,7 +107,7 @@
     {
       "character_name": "The Merchant",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Merchant.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -115,7 +115,7 @@
     {
       "character_name": "The Little Prince-Special Edition",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "The_Little_Prince_Special_Edition.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -123,14 +123,14 @@
     {
       "character_name": "The Pilot",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "The_Pilot.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -151,5 +151,10 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1620"
+  "popmart_product_url": "https://www.popmart.com/us/products/1620",
+  "disclosure_verified_at": "2026-05-19T17:20:13.454Z",
+  "super_secret_mapping": {
+    "The Little Prince-Special Edition": "super",
+    "The Pilot": "secret"
+  }
 }

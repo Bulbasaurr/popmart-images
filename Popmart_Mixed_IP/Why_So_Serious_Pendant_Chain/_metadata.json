@@ -18,7 +18,7 @@
     {
       "character_name": "Lumino Feast",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Lumino_Feast.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "String Puppet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "String_Puppet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Crimson Dancer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Crimson_Dancer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Rainbow Jelly Bean",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Rainbow_Jelly_Bean.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Flame Clown",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Flame_Clown.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Juggling Clown",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Juggling_Clown.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Shadow Joker",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Shadow_Joker.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Silver Mist Clown",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Silver_Mist_Clown.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Moonlit Mask",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/80",
       "image": "Moonlit_Mask.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -90,14 +90,14 @@
     {
       "character_name": "Bubblegum",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/40",
       "image": "Bubblegum.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -118,5 +118,10 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3936"
+  "popmart_product_url": "https://www.popmart.com/us/products/3936",
+  "disclosure_verified_at": "2026-05-19T17:20:13.461Z",
+  "super_secret_mapping": {
+    "Moonlit Mask": "super",
+    "Bubblegum": "secret"
+  }
 }

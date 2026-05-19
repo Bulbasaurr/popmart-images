@@ -18,7 +18,7 @@
     {
       "character_name": "Baa Baa Sheep",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Baa_Baa_Sheep.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Comfy Bunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Comfy_Bunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Charming Fox",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Charming_Fox.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Lovely Piggy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lovely_Piggy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Cute Tiger Cub",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cute_Tiger_Cub.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Ding Dong Reindeer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ding_Dong_Reindeer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Grumpy Crocodile",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Grumpy_Crocodile.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Quirky Penguin",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Quirky_Penguin.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Adorkable Koala",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Adorkable_Koala.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Cuddly Squirrel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cuddly_Squirrel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Lucky Puppy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lucky_Puppy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Growling Polar Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Growling_Polar_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Sweetie Pie",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Sweetie_Pie.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,14 +122,14 @@
     {
       "character_name": "Kiss Penguin",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Kiss_Penguin.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -151,5 +151,10 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1911"
+  "popmart_product_url": "https://www.popmart.com/us/products/1911",
+  "disclosure_verified_at": "2026-05-19T17:20:13.457Z",
+  "super_secret_mapping": {
+    "Sweetie Pie": "super",
+    "Kiss Penguin": "secret"
+  }
 }

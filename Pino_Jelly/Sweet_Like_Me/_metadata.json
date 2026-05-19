@@ -18,7 +18,7 @@
     {
       "character_name": "Happy Gummy Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Happy_Gummy_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Jelly Filled Gummy Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Jelly_Filled_Gummy_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Popping Candy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Popping_Candy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Breath Mint",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Breath_Mint.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Sugar Cube",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sugar_Cube.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Chewy Candy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chewy_Candy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Chocolate Egg",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chocolate_Egg.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Sand Fudge",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sand_Fudge.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Smooth Candy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Smooth_Candy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Sleeping Candy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sleeping_Candy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Bubble Gum",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bubble_Gum.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Lollipop",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lollipop.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Price of Sweets",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Price_of_Sweets.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,14 +122,14 @@
     {
       "character_name": "Sugar Blend",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Sugar_Blend.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -159,5 +159,10 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3086"
+  "popmart_product_url": "https://www.popmart.com/us/products/3086",
+  "disclosure_verified_at": "2026-05-19T17:20:13.459Z",
+  "super_secret_mapping": {
+    "Price of Sweets": "secret",
+    "Sugar Blend": "super"
+  }
 }
