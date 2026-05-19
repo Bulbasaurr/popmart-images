@@ -18,7 +18,7 @@
     {
       "character_name": "The Ghost",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Ghost.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Nowhere Safe",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nowhere_Safe.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Raving",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Raving.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Marionette",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Marionette.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Staring",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Staring.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Amnesia",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Amnesia.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "The Crow",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Crow.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Vagrancy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vagrancy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Being Alive",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Being_Alive.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Cuckoo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cuckoo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "The Monster",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Monster.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "The Fox",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Fox.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -120,8 +120,8 @@
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -135,5 +135,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_normal_rate",
-  "disclosure_verified_from_image": "01.jpg"
+  "disclosure_verified_from_image": "01.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:26.144Z"
 }

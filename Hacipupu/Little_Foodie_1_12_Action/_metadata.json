@@ -18,7 +18,7 @@
     {
       "character_name": "Crispy Fried Shrimp",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "Crispy_Fried_Shrimp.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Tomato French Fries",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "Tomato_French_Fries.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Soft-serve Ice Cream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "Soft_serve_Ice_Cream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -48,8 +48,8 @@
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -75,5 +75,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_normal_rate",
-  "disclosure_verified_from_image": "02.jpg"
+  "disclosure_verified_from_image": "02.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:30.929Z"
 }

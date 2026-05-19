@@ -18,7 +18,7 @@
     {
       "character_name": "HEARTBEAT",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "HEARTBEAT.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Meilin Panda",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Meilin_Panda.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "JEAN-MICHEL BASQUIAT",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "JEAN_MICHEL_BASQUIAT.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Mint Chocolate",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Mint_Chocolate.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Pink Panther",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Pink_Panther.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Banana2017",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Banana2017.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Glacier",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Glacier.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Patrick Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Patrick_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "META (Super Secret A)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/54",
       "image": "META_Super_Secret_A.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -90,7 +90,7 @@
     {
       "character_name": "Melting (Super Secret B)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Melting_Super_Secret_B.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -98,7 +98,7 @@
     {
       "character_name": "Birthday Bear (Secret B)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Birthday_Bear_Secret_B.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -106,7 +106,7 @@
     {
       "character_name": "Cheer Bear (Secret A)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Cheer_Bear_Secret_A.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -114,17 +114,17 @@
     {
       "character_name": "Wish Bear (Secret C)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Wish_Bear_Secret_C.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
-  "notes": "",
+  "notes": "Tiered: 3 secret editions @ 1/36, META @ 1/54, Melting @ 1/108",
   "_generated_at": "2026-05-18T05:10:29.198Z",
   "disclosure_image_urls": [
     "https://prod-america-res.popmart.com/default/20260122_113742_351811____1_mega-space-molly-100-series-2-b_mega_details_pop-mart-us_____1200x2135.jpg",
@@ -148,5 +148,6 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1786"
+  "popmart_product_url": "https://www.popmart.com/us/products/1786",
+  "disclosure_verified_at": "2026-05-19T17:44:32.488Z"
 }

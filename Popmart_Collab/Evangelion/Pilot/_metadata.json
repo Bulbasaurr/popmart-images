@@ -18,7 +18,7 @@
     {
       "character_name": "Asuka",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Asuka.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Rei",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rei.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Kaworu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Kaworu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Rei (tentative name)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rei_tentative_name.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Shinji",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Shinji.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Mari",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Mari.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Rei (long hair Ver.)",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Rei_long_hair_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -74,17 +74,17 @@
     {
       "character_name": "Asuka (Q Ver.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Asuka_Q_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
-  "notes": "",
+  "notes": "Has super secret tier per Evangelion Pilot disclosure",
   "_generated_at": "2026-05-18T05:19:43.527Z",
   "disclosure_image_urls": [
     "https://prod-america-res.popmart.com/default/20251222_171832_572204____1_evangelion-pilot-series-figures_blind-boxes_details_pop-mart-us_____1200x1876.jpg",
@@ -104,5 +104,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4711"
+  "popmart_product_url": "https://www.popmart.com/us/products/4711",
+  "disclosure_verified_at": "2026-05-19T17:44:31.154Z"
 }

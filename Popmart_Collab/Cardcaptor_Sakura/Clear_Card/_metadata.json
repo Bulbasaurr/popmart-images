@@ -18,7 +18,7 @@
     {
       "character_name": "Sakura - Afternoon Tea",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Afternoon_Tea.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Tomoyo - Afternoon Tea",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Tomoyo_Afternoon_Tea.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Sakura - School Uniform",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_School_Uniform.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Syaoran - School Uniform",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Syaoran_School_Uniform.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Sakura - Clear Crystal",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Clear_Crystal.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Sakura - Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Sakura - Clow Card",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Clow_Card.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Sakura - Frog Raincoat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Frog_Raincoat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Sakura - Crown",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sakura_Crown.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "Sakura - Clear Crystal Special Ver.",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Sakura_Clear_Crystal_Special_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -117,5 +117,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2944"
+  "popmart_product_url": "https://www.popmart.com/us/products/2944",
+  "disclosure_verified_at": "2026-05-19T17:44:27.550Z"
 }

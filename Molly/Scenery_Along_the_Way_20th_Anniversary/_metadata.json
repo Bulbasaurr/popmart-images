@@ -90,7 +90,7 @@
     {
       "character_name": "The First MOLLY (Brown)（Secret B）",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/216",
       "image": "The_First_MOLLY_BrownSecret_B.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -98,14 +98,14 @@
     {
       "character_name": "The First MOLLY (Green)（Secret A）",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/216",
       "image": "The_First_MOLLY_GreenSecret_A.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -136,5 +136,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_secret_rate",
-  "disclosure_verified_from_image": "04.jpg"
+  "disclosure_verified_from_image": "04.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:32.061Z"
 }

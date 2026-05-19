@@ -18,7 +18,7 @@
     {
       "character_name": "Patch",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Patch.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Marie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Marie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Pinocchio",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Pinocchio.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Stitch",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Stitch.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Donald Duck",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Donald_Duck.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Tinker Bell",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Tinker_Bell.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Dumbo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Dumbo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Bambi",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Bambi.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -88,8 +88,8 @@
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -113,5 +113,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_normal_rate",
-  "disclosure_verified_from_image": "03.jpg"
+  "disclosure_verified_from_image": "03.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:25.218Z"
 }

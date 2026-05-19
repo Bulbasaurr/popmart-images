@@ -18,7 +18,7 @@
     {
       "character_name": "The Forest",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Forest.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "The Moss",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Moss.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "The Bamboo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Bamboo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "The Snow",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Snow.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "The Wind",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Wind.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "The Bridge",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Bridge.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "The Moon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "The Valley",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Valley.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "The Spring",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Spring.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "The Scene",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Scene.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "The Courtyard",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Courtyard.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "The Root",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Root.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -120,8 +120,8 @@
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -143,5 +143,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_normal_rate",
-  "disclosure_verified_from_image": "03.jpg"
+  "disclosure_verified_from_image": "03.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:23.108Z"
 }

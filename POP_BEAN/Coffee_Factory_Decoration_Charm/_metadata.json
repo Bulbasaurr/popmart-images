@@ -18,7 +18,7 @@
     {
       "character_name": "LABUBU",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "LABUBU.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "DIMOO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "DIMOO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "CHAKA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "CHAKA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "MOLLY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "MOLLY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "PINO JELLY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "PINO_JELLY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "CRYBABY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "CRYBABY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Zsiga",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Zsiga.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,14 +74,14 @@
     {
       "character_name": "SKULLPANDA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "SKULLPANDA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -97,5 +97,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3786"
+  "popmart_product_url": "https://www.popmart.com/us/products/3786",
+  "disclosure_verified_at": "2026-05-19T17:44:30.202Z"
 }

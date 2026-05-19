@@ -18,7 +18,7 @@
     {
       "character_name": "Speeding Along",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Speeding_Along.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Muse",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Muse.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Lifeline",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lifeline.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Gentleman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gentleman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Find Your Way",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Find_Your_Way.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Click-click",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Click_click.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Toughness",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Toughness.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "On a Mission",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "On_a_Mission.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Cowboy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cowboy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Vagabond",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vagabond.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Judgement",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Judgement.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Order",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Order.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,17 +114,17 @@
     {
       "character_name": "Victor",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/114",
       "image": "Victor.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
-  "notes": "",
+  "notes": "Unusual secret rate 1/114 per disclosure",
   "_generated_at": "2026-05-18T05:06:01.412Z",
   "disclosure_image_urls": [
     "https://prod-america-res.popmart.com/default/20231114_165548_378389__1200x3192.jpg",
@@ -132,5 +132,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1292"
+  "popmart_product_url": "https://www.popmart.com/us/products/1292",
+  "disclosure_verified_at": "2026-05-19T17:44:24.415Z"
 }

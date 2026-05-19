@@ -18,7 +18,7 @@
     {
       "character_name": "Bond Forger",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Bond_Forger.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Yor Forger",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Yor_Forger.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Damian Desmond",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Damian_Desmond.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Loid Forger",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Loid_Forger.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Becky Blackbell",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Becky_Blackbell.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Anya Forger",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Anya_Forger.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Like",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Like.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -94,5 +94,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3333"
+  "popmart_product_url": "https://www.popmart.com/us/products/3333",
+  "disclosure_verified_at": "2026-05-19T17:44:28.570Z"
 }

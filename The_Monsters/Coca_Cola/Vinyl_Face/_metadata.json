@@ -19,7 +19,7 @@
     {
       "character_name": "Happy Factor",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/2",
       "image": "Happy_Factor.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "Surprise Shake",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/2",
       "image": "Surprise_Shake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -41,8 +41,8 @@
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -67,5 +67,6 @@
   "odds_partial": true,
   "odds_review_needed": true,
   "odds_review_reason": "ocr_missing_normal_rate",
-  "disclosure_verified_from_image": "03.jpg"
+  "disclosure_verified_from_image": "03.jpg",
+  "disclosure_verified_at": "2026-05-19T17:44:26.666Z"
 }

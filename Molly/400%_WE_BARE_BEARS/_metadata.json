@@ -18,7 +18,7 @@
     {
       "character_name": "PANDA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "PANDA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "GRIZZ",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "GRIZZ.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,14 +34,14 @@
     {
       "character_name": "ICE BEAR",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/3",
       "image": "ICE_BEAR.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -58,5 +58,6 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3806"
+  "popmart_product_url": "https://www.popmart.com/us/products/3806",
+  "disclosure_verified_at": "2026-05-19T17:44:30.708Z"
 }
