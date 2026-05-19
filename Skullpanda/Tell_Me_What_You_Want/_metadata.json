@@ -18,7 +18,7 @@
     {
       "character_name": "Still on the Job",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Still_on_the_Job.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Fun Ride",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Fun_Ride.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Baking Best Wishes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Baking_Best_Wishes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Getting Dressed",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Getting_Dressed.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Sweetest Rebel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sweetest_Rebel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Let it Snow",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Let_it_Snow.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Jingle All the Way(Green)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Jingle_All_the_WayGreen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "On Schedule",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "On_Schedule.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Home Alone",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Home_Alone.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Jingle All the Way(Red)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/27",
       "image": "Jingle_All_the_WayRed.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -98,14 +98,14 @@
     {
       "character_name": "As I Wish",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "As_I_Wish.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -132,5 +132,10 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1714"
+  "popmart_product_url": "https://www.popmart.com/us/products/1714",
+  "disclosure_verified_at": "2026-05-19T17:22:30.584Z",
+  "super_secret_mapping": {
+    "As I Wish": "super",
+    "Jingle All the Way(Red)": "secret"
+  }
 }

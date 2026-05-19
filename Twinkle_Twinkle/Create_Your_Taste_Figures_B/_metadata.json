@@ -18,7 +18,7 @@
     {
       "character_name": "Tomato Sauce",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Tomato_Sauce.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Strawberry Milk Cookie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Strawberry_Milk_Cookie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Hot Dog",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Hot_Dog.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Mayonnaise",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Mayonnaise.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Pretzel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Pretzel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Blueberry Bread",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Blueberry_Bread.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Blueberry Jam",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Blueberry_Jam.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Squid Ink Sausage",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Squid_Ink_Sausage.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Black Pepper Sauce",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Black_Pepper_Sauce.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Sugar Cookie",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/18",
       "image": "Sugar_Cookie.png",
       "_popnow_weight": 20,
       "_popnow_type": 6
@@ -98,7 +98,7 @@
     {
       "character_name": "Strawberry Milk",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/18",
       "image": "Strawberry_Milk.png",
       "_popnow_weight": 20,
       "_popnow_type": 6
@@ -106,14 +106,14 @@
     {
       "character_name": "Twinkle Candy",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/27",
       "image": "Twinkle_Candy.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -131,5 +131,11 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3026"
+  "popmart_product_url": "https://www.popmart.com/us/products/3026",
+  "disclosure_verified_at": "2026-05-19T17:24:50.519Z",
+  "super_secret_mapping": {
+    "Sugar Cookie": "secret",
+    "Strawberry Milk": "secret",
+    "Twinkle Candy": "super"
+  }
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Red Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Red_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Lake Blue Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Lake_Blue_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Green Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Green_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Purple Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Purple_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Brown Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Brown_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Love Fire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Love_Fire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Yellow Fire（Secret A）",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Yellow_FireSecret_A.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -74,7 +74,7 @@
     {
       "character_name": "Blue Fire",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Blue_Fire.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -82,14 +82,14 @@
     {
       "character_name": "Ink Fire（Secret B）",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Ink_FireSecret_B.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -114,5 +114,11 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5834"
+  "popmart_product_url": "https://www.popmart.com/us/products/5834",
+  "disclosure_verified_at": "2026-05-19T17:24:50.521Z",
+  "super_secret_mapping": {
+    "Yellow Fire（Secret A）": "secret",
+    "Ink Fire（Secret B）": "secret",
+    "Blue Fire": "super"
+  }
 }

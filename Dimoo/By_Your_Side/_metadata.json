@@ -18,7 +18,7 @@
     {
       "character_name": "Calm Down",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Calm_Down.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Don't Overthink",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dont_Overthink.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Cheer Up",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cheer_Up.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Candy for You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Candy_for_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Light Up",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Light_Up.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Embrace Emotions",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Embrace_Emotions.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Peace of Mind",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Peace_of_Mind.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Meditation",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Meditation.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Pleasure",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pleasure.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Startled",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Startled.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Shielded",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Shielded.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Don't Be Afraid",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dont_Be_Afraid.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Imaginary Encounter",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Imaginary_Encounter.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,14 +122,14 @@
     {
       "character_name": "Imaginary Adventure",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Imaginary_Adventure.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -155,5 +155,10 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1346"
+  "popmart_product_url": "https://www.popmart.com/us/products/1346",
+  "disclosure_verified_at": "2026-05-19T17:24:50.378Z",
+  "super_secret_mapping": {
+    "Imaginary Encounter": "secret",
+    "Imaginary Adventure": "super"
+  }
 }

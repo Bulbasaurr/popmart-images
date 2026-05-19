@@ -18,7 +18,7 @@
     {
       "character_name": "Lilith",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Lilith.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "4th Angel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "4th_Angel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "PENPEN",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "PENPEN.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Gendoh Ikari",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Gendoh_Ikari.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Misato (Penguin Suit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Misato_Penguin_Suit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Misato",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Misato.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Mari (plugsuit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Mari_plugsuit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Mari (School Uniform Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Mari_School_Uniform_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Asuka (plugsuit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Asuka_plugsuit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Asuka (School Uniform Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Asuka_School_Uniform_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Rei (plugsuit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Rei_plugsuit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Rei (School Uniform Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Rei_School_Uniform_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Kaworu (plugsuit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Kaworu_plugsuit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -122,7 +122,7 @@
     {
       "character_name": "Kaworu (School Uniform Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Kaworu_School_Uniform_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,7 +130,7 @@
     {
       "character_name": "Shinji (plugsuit Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Shinji_plugsuit_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -138,7 +138,7 @@
     {
       "character_name": "Shinji (School Uniform Ver.)",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/16",
       "image": "Shinji_School_Uniform_Ver.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -146,7 +146,7 @@
     {
       "character_name": "Asuka (Q Ver.)",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/64",
       "image": "Asuka_Q_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -154,14 +154,14 @@
     {
       "character_name": "Rei (long hair Ver.)",
       "rarity": "Super Secret",
-      "chance": "?",
+      "chance": "1/128",
       "image": "Rei_long_hair_Ver.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -182,5 +182,10 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3937"
+  "popmart_product_url": "https://www.popmart.com/us/products/3937",
+  "disclosure_verified_at": "2026-05-19T17:22:30.591Z",
+  "super_secret_mapping": {
+    "Rei (long hair Ver.)": "super",
+    "Asuka (Q Ver.)": "secret"
+  }
 }

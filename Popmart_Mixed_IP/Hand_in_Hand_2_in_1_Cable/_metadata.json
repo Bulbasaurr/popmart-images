@@ -18,7 +18,7 @@
     {
       "character_name": "Navigating in Dew",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Navigating_in_Dew.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Falling for the Bloom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Falling_for_the_Bloom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Seeing You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Seeing_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Trying to Think",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Trying_to_Think.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Paper Plane Dreams",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Paper_Plane_Dreams.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Journey to Spring",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Journey_to_Spring.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Join My List",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Join_My_List.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Embrace the Breeze",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Embrace_the_Breeze.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Elegant Waltz",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Elegant_Waltz.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Intervals of Silence",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Intervals_of_Silence.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Invisible Monologue",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Invisible_Monologue.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Piloting the Way",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Piloting_the_Way.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "Feeling in the Rain",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Feeling_in_the_Rain.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -122,22 +122,22 @@
     {
       "character_name": "Tranquility Blossom",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/288",
       "image": "Tranquility_Blossom.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     },
     {
-      "character_name": "Existing Notes",
+      "character_name": "Exciting Notes",
       "rarity": "Secret",
-      "chance": "?",
-      "image": "Existing_Notes.png",
+      "chance": "1/144",
+      "image": "Exciting_Notes.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_visual",
   "desc_image_urls": [],
   "cross_ip_audit_needed": true,
   "notes": "",
@@ -158,5 +158,11 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2775"
+  "popmart_product_url": "https://www.popmart.com/us/products/2775",
+  "disclosure_verified_at": "2026-05-19T17:24:50.515Z",
+  "super_secret_mapping": {
+    "Exciting Notes": "secret",
+    "Feeling in the Rain": "super",
+    "Tranquility Blossom": "super"
+  }
 }
