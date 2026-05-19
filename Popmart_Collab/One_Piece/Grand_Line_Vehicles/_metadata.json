@@ -18,7 +18,7 @@
     {
       "character_name": "Red Force",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Red_Force.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Perfume Yuda",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Perfume_Yuda.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Oro Jackson",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Oro_Jackson.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Baratie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Baratie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Thousand Sunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Thousand_Sunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Navy HQ 3",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Navy_HQ_3.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Dragon's Ship",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dragons_Ship.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Moby Dick",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Moby_Dick.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Going Merry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Going_Merry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Queen Mama Chanter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Queen_Mama_Chanter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Polar Tang",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Polar_Tang.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Spade Pirates Ship",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spade_Pirates_Ship.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Mister Luffy Go",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Mister_Luffy_Go.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -150,5 +150,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3442"
+  "popmart_product_url": "https://www.popmart.com/us/products/3442",
+  "disclosure_verified_at": "2026-05-19T07:41:55.574Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

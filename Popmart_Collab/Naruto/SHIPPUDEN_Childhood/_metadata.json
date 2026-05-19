@@ -18,7 +18,7 @@
     {
       "character_name": "Naruto Uzumaki",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Naruto_Uzumaki.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Orochimaru",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Orochimaru.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Tsunade",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tsunade.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Jiraiya",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Jiraiya.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Kushina Uzumaki",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kushina_Uzumaki.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Minato Namikaze",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Minato_Namikaze.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Kakashi Hatake",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kakashi_Hatake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Might Guy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Might_Guy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Gaara",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gaara.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Sakura Haruno",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sakura_Haruno.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Itachi Uchiha",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Itachi_Uchiha.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Sasuke Uchiha",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sasuke_Uchiha.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -158,5 +158,9 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5836"
+  "popmart_product_url": "https://www.popmart.com/us/products/5836",
+  "odds_partial": true,
+  "odds_review_needed": true,
+  "odds_review_reason": "ocr_missing_secret_rate",
+  "disclosure_verified_from_image": "04.jpg"
 }

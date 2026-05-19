@@ -18,7 +18,7 @@
     {
       "character_name": "Mail Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Mail_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Scientist Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Scientist_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Bully Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Bully_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Explorer Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Explorer_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Crutch Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Crutch_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Mascot Fish",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Mascot_Fish.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Clown",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Clown.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -96,5 +96,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6229"
+  "popmart_product_url": "https://www.popmart.com/us/products/6229",
+  "disclosure_verified_at": "2026-05-19T07:41:55.669Z",
+  "disclosure_verified_from_image": "14.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Zetsu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Zetsu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Hidan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Hidan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Sasori",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sasori.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Kakuzu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Kakuzu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Kisame Hoshigaki",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Kisame_Hoshigaki.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Pain",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Pain.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Itachi Uchiha",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Itachi_Uchiha.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Konan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Konan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Deidara",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Deidara.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Tobi",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Tobi.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Nagato",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Nagato.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -106,14 +106,14 @@
     {
       "character_name": "Naruto",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Naruto.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -138,5 +138,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4255"
+  "popmart_product_url": "https://www.popmart.com/us/products/4255",
+  "disclosure_verified_at": "2026-05-19T07:41:55.607Z",
+  "disclosure_verified_from_image": "15.jpg"
 }

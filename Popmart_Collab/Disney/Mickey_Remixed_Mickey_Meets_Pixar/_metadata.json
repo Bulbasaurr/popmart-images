@@ -18,7 +18,7 @@
     {
       "character_name": "Lotso Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Lotso_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Slinky Dog Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Slinky_Dog_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Buzz Lightyear Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Buzz_Lightyear_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Alien Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Alien_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Hamm Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Hamm_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Woody Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Woody_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Chuckles Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Chuckles_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Rex Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Rex_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Bullseye Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Bullseye_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "Green Army Man Mickey",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Green_Army_Man_Mickey.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -115,5 +115,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4134"
+  "popmart_product_url": "https://www.popmart.com/us/products/4134",
+  "disclosure_verified_at": "2026-05-19T07:41:55.602Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Himejima Gyomei",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Himejima_Gyomei.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Shinazugawa Sanemi",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Shinazugawa_Sanemi.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Tomioka Giyu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tomioka_Giyu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Kanroji Mitsuri",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kanroji_Mitsuri.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Kocho Shinobu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kocho_Shinobu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Tokito Muichiro",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tokito_Muichiro.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Agatsuma Zenitsu",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Agatsuma_Zenitsu.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Iguro Obanai",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Iguro_Obanai.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Uzui Tengen",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Uzui_Tengen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Kamado Nezuko",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kamado_Nezuko.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Kamado Tanjiro",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kamado_Tanjiro.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Hashibira Inosuke",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hashibira_Inosuke.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Rengoku Kyojuro",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Rengoku_Kyojuro.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -142,5 +142,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2784"
+  "popmart_product_url": "https://www.popmart.com/us/products/2784",
+  "disclosure_verified_at": "2026-05-19T07:41:55.552Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Under the Beskar Mantle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Under_the_Beskar_Mantle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Spark Sprint",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spark_Sprint.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "I Love Froggy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "I_Love_Froggy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Force Push",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Force_Push.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Hide and Seek",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hide_and_Seek.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Gluttonous Octopus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gluttonous_Octopus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Cozy Nap",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cozy_Nap.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Force Meditation",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Force_Meditation.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Energy Boost",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Energy_Boost.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Swaddling",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Swaddling.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Force Shield",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Force_Shield.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Tea Realm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tea_Realm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Din Djarin's Helmet",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Din_Djarins_Helmet.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6017"
+  "popmart_product_url": "https://www.popmart.com/us/products/6017",
+  "disclosure_verified_at": "2026-05-19T07:41:55.650Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

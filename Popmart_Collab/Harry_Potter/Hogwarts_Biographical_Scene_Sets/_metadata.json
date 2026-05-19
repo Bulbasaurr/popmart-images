@@ -18,7 +18,7 @@
     {
       "character_name": "Albus Dumbledore",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Albus_Dumbledore.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Hermione Granger",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Hermione_Granger.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Luna Lovegood",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Luna_Lovegood.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Ronald Weasley",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Ronald_Weasley.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Draco Malfoy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Draco_Malfoy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Minerva McGonagall",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Minerva_McGonagall.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Harry Potter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Harry_Potter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Ginny Weasley",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Ginny_Weasley.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Severus Snape",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Severus_Snape.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Sirius Black",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sirius_Black.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "Harry Potter Special Edition",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Harry_Potter_Special_Edition.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -131,5 +131,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3688"
+  "popmart_product_url": "https://www.popmart.com/us/products/3688",
+  "disclosure_verified_at": "2026-05-19T07:41:55.584Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

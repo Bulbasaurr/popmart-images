@@ -18,7 +18,7 @@
     {
       "character_name": "K/DA ALL OUT Akali",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/5",
       "image": "K_DA_ALL_OUT_Akali.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "K/DA ALL OUT Ahri",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/5",
       "image": "K_DA_ALL_OUT_Ahri.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "K/DA ALL OUT Evelynn",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/5",
       "image": "K_DA_ALL_OUT_Evelynn.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "K/DA ALL OUT Seraphine",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/5",
       "image": "K_DA_ALL_OUT_Seraphine.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "K/DA ALL OUT Kai'sa",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/5",
       "image": "K_DA_ALL_OUT_Kaisa.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,14 +58,14 @@
     {
       "character_name": "Prestige K/DA ALL OUT Kai'sa",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/60",
       "image": "Prestige_K_DA_ALL_OUT_Kaisa.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -82,5 +82,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1621"
+  "popmart_product_url": "https://www.popmart.com/us/products/1621",
+  "disclosure_verified_at": "2026-05-19T07:41:55.472Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

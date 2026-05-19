@@ -18,7 +18,7 @@
     {
       "character_name": "Gold Coins Pool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Gold_Coins_Pool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Brave Navigator",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Brave_Navigator.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Nice Holiday",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Nice_Holiday.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Surprise Gift",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Surprise_Gift.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "World Tour",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "World_Tour.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Party Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Party_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Romantic Swing",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Romantic_Swing.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Playing Seesaw",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Playing_Seesaw.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "Dancing With You",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/96",
       "image": "Dancing_With_You.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -109,5 +109,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1728"
+  "popmart_product_url": "https://www.popmart.com/us/products/1728",
+  "disclosure_verified_at": "2026-05-19T07:41:55.477Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

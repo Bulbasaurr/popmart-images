@@ -18,7 +18,7 @@
     {
       "character_name": "Cry the Heart out",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cry_the_Heart_out.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Fall Flat on the Face",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fall_Flat_on_the_Face.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Grin from Ear to Ear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Grin_from_Ear_to_Ear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "All Smiles",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "All_Smiles.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "A Case of the Mondays",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "A_Case_of_the_Mondays.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Head's Spinning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Heads_Spinning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Doing a Handstand",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Doing_a_Handstand.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Grumpy and Unsociable",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Grumpy_and_Unsociable.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Howl at the Moon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Howl_at_the_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Act Spoiled",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Act_Spoiled.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Being a Couch Potato",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Being_a_Couch_Potato.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Dance the Hula",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dance_the_Hula.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Turn on the Charm",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Turn_on_the_Charm.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2293"
+  "popmart_product_url": "https://www.popmart.com/us/products/2293",
+  "disclosure_verified_at": "2026-05-19T07:41:55.542Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

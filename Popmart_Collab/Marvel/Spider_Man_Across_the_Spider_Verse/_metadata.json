@@ -18,7 +18,7 @@
     {
       "character_name": "Miles Morales",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Miles_Morales.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Holding a Cat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Holding_a_Cat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Gwen",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Gwen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Spider-Man India",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Spider_Man_India.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Spider-Punk",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Spider_Punk.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Peter·B·Parker",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Peter·B·Parker.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Jessica Drew",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Jessica_Drew.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Spider-Man 2099",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Spider_Man_2099.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Miles G Morales",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Miles_G_Morales.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "Spot",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Spot.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -119,5 +119,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2040"
+  "popmart_product_url": "https://www.popmart.com/us/products/2040",
+  "disclosure_verified_at": "2026-05-19T07:41:55.511Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

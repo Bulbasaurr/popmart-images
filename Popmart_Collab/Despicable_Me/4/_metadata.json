@@ -18,7 +18,7 @@
     {
       "character_name": "Mega Minion Jerry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mega_Minion_Jerry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Mega Minion Mel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mega_Minion_Mel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Mega Minion Gus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mega_Minion_Gus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Pit Crew Carl",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pit_Crew_Carl.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Pit Crew Ron",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pit_Crew_Ron.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Pit Crew Phil",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pit_Crew_Phil.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "AVL Dave",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "AVL_Dave.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "AVL Gus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "AVL_Gus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Thief Phil",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Thief_Phil.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Party Tom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Party_Tom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Party Jerry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Party_Jerry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Party Jorge",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Party_Jorge.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Gru Jr.",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Gru_Jr.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -142,5 +142,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1351"
+  "popmart_product_url": "https://www.popmart.com/us/products/1351",
+  "disclosure_verified_at": "2026-05-19T07:41:55.443Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

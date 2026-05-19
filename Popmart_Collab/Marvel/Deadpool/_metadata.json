@@ -18,7 +18,7 @@
     {
       "character_name": "King Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "King_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Archer Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Archer_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Pirate Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pirate_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Taco Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Taco_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Cupid Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cupid_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "T-Rex Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "T_Rex_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Maid Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Maid_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Horseman Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Horseman_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Wallbreaking Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wallbreaking_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Music Star Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Music_Star_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Vacation Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vacation_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Baby Deadpool",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Baby_Deadpool.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Astronaut Deadpool",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Astronaut_Deadpool.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -144,5 +144,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1725"
+  "popmart_product_url": "https://www.popmart.com/us/products/1725",
+  "disclosure_verified_at": "2026-05-19T07:41:55.475Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

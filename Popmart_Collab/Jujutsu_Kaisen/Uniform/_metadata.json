@@ -18,7 +18,7 @@
     {
       "character_name": "Panda",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Panda.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Megumi Fushiguro",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Megumi_Fushiguro.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Nobara Kugisaki",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nobara_Kugisaki.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Maki Zen'in",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Maki_Zenin.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Mai Zen'in",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mai_Zenin.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Satoru Gojo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Satoru_Gojo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Utahime Iori",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Utahime_Iori.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Aoi Todo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Aoi_Todo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Toge Inumaki",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Toge_Inumaki.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Yuji Itadori",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Yuji_Itadori.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Kento Nanami",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kento_Nanami.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Kasumi Miwa",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kasumi_Miwa.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Ryomen Sukuna",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Ryomen_Sukuna.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1574"
+  "popmart_product_url": "https://www.popmart.com/us/products/1574",
+  "disclosure_verified_at": "2026-05-19T07:41:55.464Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Necktie Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Necktie_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Bow Tie Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Bow_Tie_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Raincoat Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Raincoat_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Cowboy Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Cowboy_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Party Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Party_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Vest Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Vest_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Suit Bear",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Suit_Bear.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -96,5 +96,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2981"
+  "popmart_product_url": "https://www.popmart.com/us/products/2981",
+  "disclosure_verified_at": "2026-05-19T07:41:55.562Z",
+  "disclosure_verified_from_image": "14.jpg"
 }

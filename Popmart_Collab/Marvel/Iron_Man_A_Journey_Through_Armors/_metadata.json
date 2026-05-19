@@ -18,7 +18,7 @@
     {
       "character_name": "Venomized Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Venomized_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Iron God",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Iron_God.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Model Prime Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Model_Prime_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Modular Armor Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Modular_Armor_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Superior Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Superior_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Iron Destroyer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Iron_Destroyer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Vegas Armor Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vegas_Armor_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Hulkbuster Armor Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hulkbuster_Armor_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Silver Centurion Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Silver_Centurion_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Golden Armor Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Golden_Armor_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Retro Armor Iron Man",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Retro_Armor_Iron_Man.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Mysterium Armor Iron Man",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Mysterium_Armor_Iron_Man.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6215"
+  "popmart_product_url": "https://www.popmart.com/us/products/6215",
+  "disclosure_verified_at": "2026-05-19T07:41:55.668Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

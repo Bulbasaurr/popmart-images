@@ -18,7 +18,7 @@
     {
       "character_name": "Uther Lightbringer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Uther_Lightbringer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Valeera Sanguinar",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Valeera_Sanguinar.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Anduin Wrynn",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Anduin_Wrynn.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Gul'dan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Guldan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Garrosh Hellscream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Garrosh_Hellscream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Rexxar",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Rexxar.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Thrall",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Thrall.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Malfurion Stormrage",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Malfurion_Stormrage.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Jaina Proudmoore",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Jaina_Proudmoore.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "Ragnaros the Firelord",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Ragnaros_the_Firelord.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -122,5 +122,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4527"
+  "popmart_product_url": "https://www.popmart.com/us/products/4527",
+  "disclosure_verified_at": "2026-05-19T07:41:55.618Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

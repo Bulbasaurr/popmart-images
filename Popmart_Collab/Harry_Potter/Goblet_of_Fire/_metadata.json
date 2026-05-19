@@ -18,7 +18,7 @@
     {
       "character_name": "Harry Potter's Magical Duel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Harry_Potters_Magical_Duel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Ron at the Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ron_at_the_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Harry Potter at Triwizard Tournament",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Harry_Potter_at_Triwizard_Tournament.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Hungarian Horntail",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hungarian_Horntail.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Dumbledore",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Dumbledore.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Cedric",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cedric.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Hermione at the Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hermione_at_the_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Fleur",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fleur.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Voldemort",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Voldemort.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Harry Potter at the Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Harry_Potter_at_the_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Malfoy at the Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Malfoy_at_the_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Krum at the Ball",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Krum_at_the_Ball.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Goblet of Fire",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Goblet_of_Fire.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3030"
+  "popmart_product_url": "https://www.popmart.com/us/products/3030",
+  "disclosure_verified_at": "2026-05-19T07:41:55.567Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

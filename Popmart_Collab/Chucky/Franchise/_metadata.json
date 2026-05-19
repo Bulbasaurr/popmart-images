@@ -18,7 +18,7 @@
     {
       "character_name": "Chucky and Andy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Chucky_and_Andy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Flame Chucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Flame_Chucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Graveyard Chucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Graveyard_Chucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Stroller Chucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Stroller_Chucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Show Time Chucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Show_Time_Chucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Good Guy Doll",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Good_Guy_Doll.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Bride Tiffany",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Bride_Tiffany.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Delivery Box Chucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Delivery_Box_Chucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Seed of Chucky Glen",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Seed_of_Chucky_Glen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "My Friends Call Me Chucky",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "My_Friends_Call_Me_Chucky.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -122,5 +122,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3615"
+  "popmart_product_url": "https://www.popmart.com/us/products/3615",
+  "disclosure_verified_at": "2026-05-19T07:41:55.584Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

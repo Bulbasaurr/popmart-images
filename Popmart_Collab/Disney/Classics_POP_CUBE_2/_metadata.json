@@ -18,7 +18,7 @@
     {
       "character_name": "Pinocchio",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Pinocchio.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Marie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Marie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Daisy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Daisy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Donald",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Donald.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Miss Bunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Miss_Bunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Mufasa",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Mufasa.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Eeyore",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Eeyore.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Chip 'n' Dale",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Chip_n_Dale.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "Piglet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Piglet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -106,5 +106,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5237"
+  "popmart_product_url": "https://www.popmart.com/us/products/5237",
+  "disclosure_verified_at": "2026-05-19T07:41:55.628Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

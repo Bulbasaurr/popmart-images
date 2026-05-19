@@ -18,7 +18,7 @@
     {
       "character_name": "Scarecrow Woody",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Scarecrow_Woody.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Zombie Buzz Lightyear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Zombie_Buzz_Lightyear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Forky the Vampire",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Forky_the_Vampire.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Ghost Billy, Goat, and Gruff",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ghost_Billy_Goat_and_Gruff.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Witch Bo Peep",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Witch_Bo_Peep.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Jack-in-the-Box Slinky Dog",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Jack_in_the_Box_Slinky_Dog.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Frankenstein Rex",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Frankenstein_Rex.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Vampire Buzz Lightyear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Vampire_Buzz_Lightyear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Masked Jessie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Masked_Jessie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Pirate Ducky and Bunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pirate_Ducky_and_Bunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Wizard Alien",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wizard_Alien.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Pumpkin Alien",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pumpkin_Alien.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Skeleton Woody",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Skeleton_Woody.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -142,5 +142,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1614"
+  "popmart_product_url": "https://www.popmart.com/us/products/1614",
+  "disclosure_verified_at": "2026-05-19T07:41:55.467Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

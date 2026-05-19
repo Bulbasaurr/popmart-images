@@ -18,7 +18,7 @@
     {
       "character_name": "Snow White",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Snow_White.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Cinderella",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Cinderella.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Jasmine",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Jasmine.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Ariel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Ariel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Belle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Belle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Aurora",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Aurora.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Rapunzel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Rapunzel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Mulan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "Mulan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "Snow White And The Seven Dwarfs",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/96",
       "image": "Snow_White_And_The_Seven_Dwarfs.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -111,5 +111,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2140"
+  "popmart_product_url": "https://www.popmart.com/us/products/2140",
+  "disclosure_verified_at": "2026-05-19T07:41:55.522Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

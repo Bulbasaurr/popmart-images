@@ -18,7 +18,7 @@
     {
       "character_name": "Chibi Star Guardian Ahri",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Star_Guardian_Ahri.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Chibi Star Guardian Akali",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Star_Guardian_Akali.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Chibi Immortal Journey Irelia",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Immortal_Journey_Irelia.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Chibi Perfume Maid Orianna",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Perfume_Maid_Orianna.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Chibi Perfume Maid Janna",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Perfume_Maid_Janna.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Chibi Star Guardian Lux",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Star_Guardian_Lux.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Chibi Perfume Maid Riven",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Perfume_Maid_Riven.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Chibi Immortal Journey Talon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Immortal_Journey_Talon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Chibi Spirit Blossom Teemo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Spirit_Blossom_Teemo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Chibi Spirit Blossom Vayne",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Spirit_Blossom_Vayne.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Chibi Truth Dragon Yasuo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Truth_Dragon_Yasuo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Chibi Spirit Blossom Yone",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Chibi_Spirit_Blossom_Yone.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Prestige Chibi Papercut Gwen",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Prestige_Chibi_Papercut_Gwen.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -141,5 +141,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1727"
+  "popmart_product_url": "https://www.popmart.com/us/products/1727",
+  "disclosure_verified_at": "2026-05-19T07:41:55.476Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Reaper",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Reaper.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Kiriko",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Kiriko.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Widowmaker",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Widowmaker.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Hanzo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Hanzo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Cassidy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Cassidy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "D.Va",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "DVa.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Genji",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Genji.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Mei",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Mei.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Tracer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Tracer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Mercy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Mercy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "Black Cat D.Va",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Black_Cat_DVa.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -131,5 +131,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5235"
+  "popmart_product_url": "https://www.popmart.com/us/products/5235",
+  "disclosure_verified_at": "2026-05-19T07:41:55.629Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

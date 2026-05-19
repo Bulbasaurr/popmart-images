@@ -18,7 +18,7 @@
     {
       "character_name": "Laa-Laa & Po， Sleeping with Sweet Dreams",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Laa_Laa_and_Po，_Sleeping_with_Sweet_Dreams.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Dipsy & Po，Happy Reading Together",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Dipsy_and_Po，Happy_Reading_Together.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Dipsy & Laa-Laa， Playing Music",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Dipsy_and_Laa_Laa，_Playing_Music.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Tinky Winky & Dipsy ， Listening to the Voice Trumpet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Tinky_Winky_and_Dipsy_，_Listening_to_the_Voice_Trumpet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Tinky Winky & Laa-Laa ，Enjoying Tummy Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Tinky_Winky_and_Laa_Laa_，Enjoying_Tummy_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Tinky Winky & Po，Joyful Learning Together",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Tinky_Winky_and_Po，Joyful_Learning_Together.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Laa-Laa & Po， Gulping down Tubby Custard",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Laa_Laa_and_Po，_Gulping_down_Tubby_Custard.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -90,5 +90,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1355"
+  "popmart_product_url": "https://www.popmart.com/us/products/1355",
+  "disclosure_verified_at": "2026-05-19T07:41:55.443Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

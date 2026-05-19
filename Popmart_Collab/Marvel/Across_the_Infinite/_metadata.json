@@ -18,7 +18,7 @@
     {
       "character_name": "Vision's Superhuman Power",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Visions_Superhuman_Power.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Hulk Smash",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hulk_Smash.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Spider-Man Defeating Sandman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spider_Man_Defeating_Sandman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Iron Man in Battle Mode",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Iron_Man_in_Battle_Mode.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Groot's Heroic Leap",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Groots_Heroic_Leap.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Ant-Man Crossing the Quantum Tunnel",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ant_Man_Crossing_the_Quantum_Tunnel.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Loki's Interdimensional Portal",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lokis_Interdimensional_Portal.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Captain America Storming the Battlefield",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Captain_America_Storming_the_Battlefield.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Thor Crossing the Rainbow Bridge",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Thor_Crossing_the_Rainbow_Bridge.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Doctor Doom Wielding Magic",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Doctor_Doom_Wielding_Magic.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Scarlet Witch Altering Reality",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Scarlet_Witch_Altering_Reality.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Doctor Strange's Magical Portal",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Doctor_Stranges_Magical_Portal.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Thanos' Space Stone",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Thanos_Space_Stone.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -150,5 +150,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5208"
+  "popmart_product_url": "https://www.popmart.com/us/products/5208",
+  "disclosure_verified_at": "2026-05-19T07:41:55.622Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

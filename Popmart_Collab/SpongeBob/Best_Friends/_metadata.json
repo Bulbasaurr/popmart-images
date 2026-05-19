@@ -18,7 +18,7 @@
     {
       "character_name": "The Farmer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Farmer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "The Gardener",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Gardener.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Ice Cream Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ice_Cream_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Cake Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cake_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Teeth Cleaning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Teeth_Cleaning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Toothpaste Tasting",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Toothpaste_Tasting.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "I'm Patrick",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Im_Patrick.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "I'm SpongeBob",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Im_SpongeBob.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Patty Wagon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Patty_Wagon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Star Express",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Star_Express.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Lasso Player",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lasso_Player.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Ranch Star",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ranch_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Born Together",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Born_Together.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -148,5 +148,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2168"
+  "popmart_product_url": "https://www.popmart.com/us/products/2168",
+  "disclosure_verified_at": "2026-05-19T07:41:55.527Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

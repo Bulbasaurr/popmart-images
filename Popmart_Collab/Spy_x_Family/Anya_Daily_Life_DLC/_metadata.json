@@ -18,7 +18,7 @@
     {
       "character_name": "Damian Proud",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "Damian_Proud.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Becky Happy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "Becky_Happy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Anya Rainy Day",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "Anya_Rainy_Day.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Anya Little Sailor",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/4",
       "image": "Anya_Little_Sailor.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,14 +50,14 @@
     {
       "character_name": "Anya WakuWaku",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/48",
       "image": "Anya_WakuWaku.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -75,5 +75,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3843"
+  "popmart_product_url": "https://www.popmart.com/us/products/3843",
+  "disclosure_verified_at": "2026-05-19T07:41:55.596Z",
+  "disclosure_verified_from_image": "09.jpg"
 }

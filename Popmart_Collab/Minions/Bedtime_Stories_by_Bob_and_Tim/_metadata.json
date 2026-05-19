@@ -18,7 +18,7 @@
     {
       "character_name": "Medieval Songs",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Medieval_Songs.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Royal History",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Royal_History.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Spooky Wives Tales",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spooky_Wives_Tales.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Santa's Workshop Manual",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Santas_Workshop_Manual.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Arctic Survival Guide",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Arctic_Survival_Guide.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Martial Art Legend",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Martial_Art_Legend.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Hula 101",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hula_101.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Breakfast Cookbook",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Breakfast_Cookbook.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Airplane Safety",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Airplane_Safety.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Disco Dance Steps",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Disco_Dance_Steps.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Boxing Fundamentals",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Boxing_Fundamentals.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Galaxy Adventures",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Galaxy_Adventures.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Bedtime Stories",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Bedtime_Stories.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -146,5 +146,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2866"
+  "popmart_product_url": "https://www.popmart.com/us/products/2866",
+  "disclosure_verified_at": "2026-05-19T07:41:55.559Z",
+  "disclosure_verified_from_image": "04.jpg"
 }
