@@ -18,7 +18,7 @@
     {
       "character_name": "Teakwood",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Teakwood.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Blossom",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Blossom.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Pond",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Pond.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Lightning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Lightning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Windflower",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Windflower.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Dawn",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Dawn.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Mist",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Mist.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Dew",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Dew.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Amber",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Amber.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "In the Garden",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "In_the_Garden.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -119,5 +119,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2790"
+  "popmart_product_url": "https://www.popmart.com/us/products/2790",
+  "disclosure_verified_at": "2026-05-19T07:41:55.555Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

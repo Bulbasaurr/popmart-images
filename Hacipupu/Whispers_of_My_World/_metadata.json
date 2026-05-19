@@ -18,7 +18,7 @@
     {
       "character_name": "Grow Big Soon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Grow_Big_Soon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Fairy Tale Dreams",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fairy_Tale_Dreams.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Stay By My Side",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Stay_By_My_Side.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "So Chilly",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "So_Chilly.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Mousey Hungry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mousey_Hungry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Drowsy Day",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Drowsy_Day.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Huffy Puffy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Huffy_Puffy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Little Daydreamer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Little_Daydreamer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Peek-a-boo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Peek_a_boo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Cute Bunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cute_Bunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Zone Out",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Zone_Out.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Snuggle Snuggle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snuggle_Snuggle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Toasty Warm",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Toasty_Warm.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4453"
+  "popmart_product_url": "https://www.popmart.com/us/products/4453",
+  "disclosure_verified_at": "2026-05-19T07:41:55.612Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

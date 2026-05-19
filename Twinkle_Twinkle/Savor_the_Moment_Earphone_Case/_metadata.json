@@ -18,7 +18,7 @@
     {
       "character_name": "Cream rabbit",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Cream_rabbit.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Strawberry rabbit",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Strawberry_rabbit.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Sea salt bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sea_salt_bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Lemon bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Lemon_bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Coffee puppy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Coffee_puppy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Taro puppy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Taro_puppy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Pudding bear",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Pudding_bear.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -90,5 +90,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3933"
+  "popmart_product_url": "https://www.popmart.com/us/products/3933",
+  "disclosure_verified_at": "2026-05-19T07:41:55.595Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

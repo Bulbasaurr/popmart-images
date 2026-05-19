@@ -18,7 +18,7 @@
     {
       "character_name": "Berry Mist Sweet Verse",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Berry_Mist_Sweet_Verse.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Lemon Summer Overture",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Lemon_Summer_Overture.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Red Apple Dream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Red_Apple_Dream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Icy Watermelon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Icy_Watermelon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Sweet Crisp Peach",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sweet_Crisp_Peach.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Snow Pear Whispers",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Snow_Pear_Whispers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Vital Banana",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Vital_Banana.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -90,5 +90,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3612"
+  "popmart_product_url": "https://www.popmart.com/us/products/3612",
+  "disclosure_verified_at": "2026-05-19T07:41:55.581Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

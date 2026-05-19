@@ -18,7 +18,7 @@
     {
       "character_name": "Tenderheart Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Tenderheart_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Garfield",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Garfield.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Good Luck Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Good_Luck_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Gary Baseman",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Gary_Baseman.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "TETRIS",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "TETRIS.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Ted 2",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Ted_2.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Graffiti",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Graffiti.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Heartfelt Words",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Heartfelt_Words.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Peach 2016",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Peach_2016.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Louis De Guzman",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Louis_De_Guzman.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -98,7 +98,7 @@
     {
       "character_name": "TEAM COCA-COLA",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "TEAM_COCA_COLA.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -106,14 +106,14 @@
     {
       "character_name": "Starry",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "Starry.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -133,5 +133,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1463"
+  "popmart_product_url": "https://www.popmart.com/us/products/1463",
+  "disclosure_verified_at": "2026-05-19T07:41:55.455Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

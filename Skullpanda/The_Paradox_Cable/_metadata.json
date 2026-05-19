@@ -18,7 +18,7 @@
     {
       "character_name": "The Bond",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "The_Bond.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Spin a Cocoon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Spin_a_Cocoon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "The External Echoes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "The_External_Echoes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Out of the Mud",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Out_of_the_Mud.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "The Asymmetrical Balance",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "The_Asymmetrical_Balance.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "The Internal Dialogue",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "The_Internal_Dialogue.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "The Key",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "The_Key.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -93,5 +93,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2946"
+  "popmart_product_url": "https://www.popmart.com/us/products/2946",
+  "disclosure_verified_at": "2026-05-19T07:41:55.566Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

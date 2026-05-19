@@ -18,7 +18,7 @@
     {
       "character_name": "Coconut Crisp",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Coconut_Crisp.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Salty Cookie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Salty_Cookie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Vanilla Crunch",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Vanilla_Crunch.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Sweet Cream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sweet_Cream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Matcha Crisp",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Matcha_Crisp.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Bitter Coffee",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Bitter_Coffee.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Little Bear Biscuit",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Little_Bear_Biscuit.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -92,5 +92,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3816"
+  "popmart_product_url": "https://www.popmart.com/us/products/3816",
+  "disclosure_verified_at": "2026-05-19T07:41:55.594Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

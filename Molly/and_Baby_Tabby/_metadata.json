@@ -18,7 +18,7 @@
     {
       "character_name": "Sneak a Bite",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sneak_a_Bite.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Wait for Me",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wait_for_Me.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Face the Storm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Face_the_Storm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "I Am Your Barber",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "I_Am_Your_Barber.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Marks of Friendship",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Marks_of_Friendship.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Furry Brush",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Furry_Brush.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Milk Lover",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Milk_Lover.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Best Partner",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Best_Partner.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Together to the Kindergarten",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Together_to_the_Kindergarten.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Paper Bag Obsession",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Paper_Bag_Obsession.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "The Other Shoe Is for You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Other_Shoe_Is_for_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Come Under the Umbrella",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Come_Under_the_Umbrella.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "The New King",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "The_New_King.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2300"
+  "popmart_product_url": "https://www.popmart.com/us/products/2300",
+  "disclosure_verified_at": "2026-05-19T07:41:55.545Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

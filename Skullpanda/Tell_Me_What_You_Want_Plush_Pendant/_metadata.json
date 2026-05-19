@@ -18,7 +18,7 @@
     {
       "character_name": "Jingle All the Way",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Jingle_All_the_Way.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Getting Dressed（Pink）",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Getting_DressedPink.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Baking Best Wishes",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Baking_Best_Wishes.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Let It Snow（Snowflake）",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Let_It_SnowSnowflake.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "On Schedule",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "On_Schedule.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Getting Dressed（Green）",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Getting_DressedGreen.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Let It Snow（Ice Cube）",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Let_It_SnowIce_Cube.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -90,5 +90,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1717"
+  "popmart_product_url": "https://www.popmart.com/us/products/1717",
+  "disclosure_verified_at": "2026-05-19T07:41:55.474Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

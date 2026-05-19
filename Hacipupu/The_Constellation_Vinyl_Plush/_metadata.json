@@ -18,7 +18,7 @@
     {
       "character_name": "Aries",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Aries.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Taurus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Taurus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Gemini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gemini.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Cancer",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cancer.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Leo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Leo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Virgo",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Virgo.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Libra",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Libra.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Scorpio",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Scorpio.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Sagittarius",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sagittarius.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Capricornus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Capricornus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Aquarius",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Aquarius.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Pisces",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pisces.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Astrological Angel",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Astrological_Angel.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -141,5 +141,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1617"
+  "popmart_product_url": "https://www.popmart.com/us/products/1617",
+  "disclosure_verified_at": "2026-05-19T07:41:55.468Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

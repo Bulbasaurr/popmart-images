@@ -19,7 +19,7 @@
     {
       "character_name": "Judy in Uniform",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Judy_in_Uniform.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "Polar Bear & Mr. Big",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Polar_Bear_and_Mr_Big.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -35,7 +35,7 @@
     {
       "character_name": "Russ",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Russ.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -43,7 +43,7 @@
     {
       "character_name": "Nibbles",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nibbles.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -51,7 +51,7 @@
     {
       "character_name": "Bellwether",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bellwether.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -59,7 +59,7 @@
     {
       "character_name": "Gary",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gary.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -67,7 +67,7 @@
     {
       "character_name": "Undercover Nick",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Undercover_Nick.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -75,7 +75,7 @@
     {
       "character_name": "Undercover Judy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Undercover_Judy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -83,7 +83,7 @@
     {
       "character_name": "Flash",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Flash.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -91,7 +91,7 @@
     {
       "character_name": "Nick in Uniform",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Nick_in_Uniform.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -99,7 +99,7 @@
     {
       "character_name": "Gazelle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Gazelle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -107,7 +107,7 @@
     {
       "character_name": "Clawhauser",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Clawhauser.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -115,14 +115,14 @@
     {
       "character_name": "Finnick in Stroller",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Finnick_in_Stroller.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -144,5 +144,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3951"
+  "popmart_product_url": "https://www.popmart.com/us/products/3951",
+  "disclosure_verified_at": "2026-05-19T07:41:55.599Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

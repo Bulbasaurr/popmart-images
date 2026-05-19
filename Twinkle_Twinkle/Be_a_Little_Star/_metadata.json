@@ -18,7 +18,7 @@
     {
       "character_name": "Little King",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Little_King.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Wake up! Sleepyhead!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Wake_up_Sleepyhead.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Lose a Tooth",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Lose_a_Tooth.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Blowing Bubblegum",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Blowing_Bubblegum.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Globetrotting",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Globetrotting.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Teeter-totter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Teeter_totter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Haircut",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Haircut.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Bad Temper",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bad_Temper.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "The Magical Chef",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Magical_Chef.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Little Balloon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Little_Balloon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Banana Split",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Banana_Split.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Baby Ice Pop",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Baby_Ice_Pop.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Reach for the Stars",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Reach_for_the_Stars.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -151,5 +151,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2210"
+  "popmart_product_url": "https://www.popmart.com/us/products/2210",
+  "disclosure_verified_at": "2026-05-19T07:41:55.534Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

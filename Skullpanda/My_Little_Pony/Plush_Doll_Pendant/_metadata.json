@@ -19,7 +19,7 @@
     {
       "character_name": "Rarity",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rarity.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "Rainbow Dash",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rainbow_Dash.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -35,7 +35,7 @@
     {
       "character_name": "Pinkie Pie",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Pinkie_Pie.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -43,7 +43,7 @@
     {
       "character_name": "Twilight Sparkle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Twilight_Sparkle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -51,7 +51,7 @@
     {
       "character_name": "Fluttershy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Fluttershy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -59,7 +59,7 @@
     {
       "character_name": "Applejack",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Applejack.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -67,7 +67,7 @@
     {
       "character_name": "Queen Chrysalis",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Queen_Chrysalis.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -75,14 +75,14 @@
     {
       "character_name": "Sunset Shimmer",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/36",
       "image": "Sunset_Shimmer.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -106,5 +106,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5828"
+  "popmart_product_url": "https://www.popmart.com/us/products/5828",
+  "disclosure_verified_at": "2026-05-19T07:41:55.645Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

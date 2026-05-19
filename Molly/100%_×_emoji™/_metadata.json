@@ -18,7 +18,7 @@
     {
       "character_name": "LMAO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "LMAO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "BAD WORDS",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "BAD_WORDS.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "CAUTION, THE GHOST IS HERE",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "CAUTION_THE_GHOST_IS_HERE.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "HAPPY PUPPY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "HAPPY_PUPPY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "WHY SO SERIOUS",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "WHY_SO_SERIOUS.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "PISSED OFF",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "PISSED_OFF.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "WORN OUT",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "WORN_OUT.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "ALL IN GREEN",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "ALL_IN_GREEN.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "COW ON ME",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "COW_ON_ME.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "A TRYING SITUATION",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "A_TRYING_SITUATION.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "MONKEY BUSINESS",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "MONKEY_BUSINESS.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "CONFESSION",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "CONFESSION.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "SO WHAT",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "SO_WHAT.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -122,7 +122,7 @@
     {
       "character_name": "LIL DEVIL",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "LIL_DEVIL.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,7 +130,7 @@
     {
       "character_name": "55555",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "55555.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -138,7 +138,7 @@
     {
       "character_name": "FROZEN SMILE",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "FROZEN_SMILE.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -146,7 +146,7 @@
     {
       "character_name": "ADMIRATION",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "ADMIRATION.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -154,7 +154,7 @@
     {
       "character_name": "886",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/18",
       "image": "886.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -162,7 +162,7 @@
     {
       "character_name": "UNICORN",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "UNICORN.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -170,7 +170,7 @@
     {
       "character_name": "MS. BILLIONAIRE",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "MS_BILLIONAIRE.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -178,14 +178,14 @@
     {
       "character_name": "OPEN MINDED",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "OPEN_MINDED.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -213,5 +213,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2292"
+  "popmart_product_url": "https://www.popmart.com/us/products/2292",
+  "disclosure_verified_at": "2026-05-19T07:41:55.541Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "I Am a Wild Bee",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "I_Am_a_Wild_Bee.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Cuddle You to Sleep",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Cuddle_You_to_Sleep.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Sharing the Thunder",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Sharing_the_Thunder.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Red-roofed Cottage",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Red_roofed_Cottage.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "The Stars Beyond the Castle",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "The_Stars_Beyond_the_Castle.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Childhood Forest",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Childhood_Forest.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Within my Realm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Within_my_Realm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Gazing at You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Gazing_at_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "World of Blooms",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "World_of_Blooms.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -132,5 +132,9 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6118"
+  "popmart_product_url": "https://www.popmart.com/us/products/6118",
+  "odds_partial": true,
+  "odds_review_needed": true,
+  "odds_review_reason": "ocr_missing_secret_rate",
+  "disclosure_verified_from_image": "04.jpg"
 }

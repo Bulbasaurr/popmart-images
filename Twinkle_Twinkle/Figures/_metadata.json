@@ -18,7 +18,7 @@
     {
       "character_name": "Nighty Night",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Nighty_Night.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Waiting for You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Waiting_for_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Dream Catcher",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Dream_Catcher.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Just a Tad Sweeter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Just_a_Tad_Sweeter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Where is My Brain?",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Where_is_My_Brain.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Heartbreak Harmony",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Heartbreak_Harmony.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Magic",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Magic.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Moon Gelato",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "Moon_Gelato.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "You Equal Sunshine",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "You_Equal_Sunshine.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "The Master of Chill",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "The_Master_of_Chill.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -117,5 +117,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1485"
+  "popmart_product_url": "https://www.popmart.com/us/products/1485",
+  "disclosure_verified_at": "2026-05-19T07:41:55.457Z",
+  "disclosure_verified_from_image": "04.jpg"
 }
