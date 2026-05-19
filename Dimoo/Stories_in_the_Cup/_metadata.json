@@ -18,7 +18,7 @@
     {
       "character_name": "Spring Brings Springtime",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Spring_Brings_Springtime.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Sachet Lotus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sachet_Lotus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Rooftop Guardian Creatures",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Rooftop_Guardian_Creatures.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Snow and Wintersweet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snow_and_Wintersweet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Propitious Jades",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Propitious_Jades.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Black and White Game",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Black_and_White_Game.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Auspicious Animal Seal",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Auspicious_Animal_Seal.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "River Scroll",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "River_Scroll.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Sandalwood Incense Burner",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sandalwood_Incense_Burner.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Exhale Like an Orchid",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Exhale_Like_an_Orchid.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Ink Bamboo Painting",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Ink_Bamboo_Painting.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Porcelain Blossoms",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Porcelain_Blossoms.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Drunkenness",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Drunkenness.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -142,5 +142,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1767"
+  "popmart_product_url": "https://www.popmart.com/us/products/1767",
+  "disclosure_verified_at": "2026-05-19T07:41:55.482Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Sesame Bean",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sesame_Bean.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Sea Salt Coconut",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sea_Salt_Coconut.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Green Grape",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Green_Grape.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Lychee Berry",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Lychee_Berry.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Soymilk",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Soymilk.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Toffee",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Toffee.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Chestnut Cocoa",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Chestnut_Cocoa.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -91,5 +91,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1398"
+  "popmart_product_url": "https://www.popmart.com/us/products/1398",
+  "disclosure_verified_at": "2026-05-19T07:41:55.448Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

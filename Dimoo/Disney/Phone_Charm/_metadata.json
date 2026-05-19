@@ -19,7 +19,7 @@
     {
       "character_name": "Classic Mickey",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Classic_Mickey.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -27,7 +27,7 @@
     {
       "character_name": "Chip and Dale",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Chip_and_Dale.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -35,7 +35,7 @@
     {
       "character_name": "Daisy's Gift",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Daisys_Gift.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -43,7 +43,7 @@
     {
       "character_name": "Donald Duck's Singing",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Donald_Ducks_Singing.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -51,7 +51,7 @@
     {
       "character_name": "Minnie's Balloon",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Minnies_Balloon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -59,7 +59,7 @@
     {
       "character_name": "Goofy's Prank",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Goofys_Prank.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -67,14 +67,14 @@
     {
       "character_name": "The Captain of Steamboat Willie",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "The_Captain_of_Steamboat_Willie.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -95,5 +95,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2077"
+  "popmart_product_url": "https://www.popmart.com/us/products/2077",
+  "disclosure_verified_at": "2026-05-19T07:41:55.518Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

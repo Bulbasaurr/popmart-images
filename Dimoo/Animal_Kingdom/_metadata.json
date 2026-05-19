@@ -18,7 +18,7 @@
     {
       "character_name": "Duckling Leader",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Duckling_Leader.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Sleeping Bunny",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sleeping_Bunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Warm Polar Bear",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Warm_Polar_Bear.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Taichi Panda",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Taichi_Panda.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Bear Dad",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bear_Dad.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Baby Elephant Bubble",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Baby_Elephant_Bubble.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Foodie Giraffe",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Foodie_Giraffe.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Penguin Tango",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Penguin_Tango.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Crocodile Cleaner",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Crocodile_Cleaner.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Red Panda With Apple",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Red_Panda_With_Apple.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Tigers Learn to Walk",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Tigers_Learn_to_Walk.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Sleepy Koala",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sleepy_Koala.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Monkey Catches the Moon",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Monkey_Catches_the_Moon.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -136,5 +136,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1399"
+  "popmart_product_url": "https://www.popmart.com/us/products/1399",
+  "disclosure_verified_at": "2026-05-19T07:41:55.449Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

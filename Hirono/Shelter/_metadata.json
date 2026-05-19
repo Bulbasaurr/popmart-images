@@ -18,7 +18,7 @@
     {
       "character_name": "Candleholder",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Candleholder.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Mantel Clock",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Mantel_Clock.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Poet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Poet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Traffic Cone",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Traffic_Cone.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Fort",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Fort.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Circus",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Circus.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Cabin",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cabin.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Birdy",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Birdy.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Alien",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Alien.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Warrior",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Warrior.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Sunny Doll",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Sunny_Doll.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Birdcage",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Birdcage.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Stuffed Bear",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Stuffed_Bear.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1438"
+  "popmart_product_url": "https://www.popmart.com/us/products/1438",
+  "disclosure_verified_at": "2026-05-19T07:41:55.451Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

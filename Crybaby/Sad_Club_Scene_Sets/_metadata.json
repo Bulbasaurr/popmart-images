@@ -18,7 +18,7 @@
     {
       "character_name": "LEFT BEHIND",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "LEFT_BEHIND.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "TEARDROP BOWL",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "TEARDROP_BOWL.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "DEVASTATED",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "DEVASTATED.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "THE HOTTEST DAY OF SUMMER",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "THE_HOTTEST_DAY_OF_SUMMER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "BIG CLEANING DAY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "BIG_CLEANING_DAY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "WITHERING FLOWER",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "WITHERING_FLOWER.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "SLEEPLESS",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "SLEEPLESS.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "TEARDROPS ON THE PILLOW",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/8",
       "image": "TEARDROPS_ON_THE_PILLOW.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,14 +82,14 @@
     {
       "character_name": "A SAD SHOW",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/96",
       "image": "A_SAD_SHOW.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -104,5 +104,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1280"
+  "popmart_product_url": "https://www.popmart.com/us/products/1280",
+  "disclosure_verified_at": "2026-05-19T07:41:55.441Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

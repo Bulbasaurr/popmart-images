@@ -18,7 +18,7 @@
     {
       "character_name": "Whispering of The Soft Clouds",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Whispering_of_The_Soft_Clouds.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Salt Confession",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Salt_Confession.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Slightly Bitter Black Coffee",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Slightly_Bitter_Black_Coffee.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Caramel Hug",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Caramel_Hug.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Peppermint Heartbeat",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Peppermint_Heartbeat.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Rose Love Letter",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rose_Love_Letter.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Share Together",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Share_Together.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -96,5 +96,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3305"
+  "popmart_product_url": "https://www.popmart.com/us/products/3305",
+  "disclosure_verified_at": "2026-05-19T07:41:55.570Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

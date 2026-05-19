@@ -35,7 +35,7 @@
     {
       "character_name": "Mysterious Guest",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Mysterious_Guest.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
@@ -63,5 +63,9 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1982"
+  "popmart_product_url": "https://www.popmart.com/us/products/1982",
+  "odds_partial": true,
+  "odds_review_needed": true,
+  "odds_review_reason": "ocr_missing_normal_rate",
+  "disclosure_verified_from_image": "03.jpg"
 }

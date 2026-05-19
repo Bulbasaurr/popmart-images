@@ -18,7 +18,7 @@
     {
       "character_name": "Scary Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Scary_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Adventure Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Adventure_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Reading Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Reading_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Sweet Dream Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sweet_Dream_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Crawling Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Crawling_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Hugging Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Hugging_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Sleepless Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sleepless_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Music Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Music_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Phone Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Phone_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Relaxed Time",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Relaxed_Time.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "Stop the Time",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Stop_the_Time.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -131,5 +131,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4367"
+  "popmart_product_url": "https://www.popmart.com/us/products/4367",
+  "disclosure_verified_at": "2026-05-19T07:41:55.610Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

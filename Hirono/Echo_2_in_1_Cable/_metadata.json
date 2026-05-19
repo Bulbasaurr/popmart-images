@@ -18,7 +18,7 @@
     {
       "character_name": "Knight",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Knight.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Pieces of Memory",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Pieces_of_Memory.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Hiding Behind You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Hiding_Behind_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Soul Connection",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Soul_Connection.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Eaten",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Eaten.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Get Lucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Get_Lucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Never Growing Up",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Never_Growing_Up.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -92,5 +92,7 @@
   ],
   "disclosure_source": "popmart_pop_now_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2240"
+  "popmart_product_url": "https://www.popmart.com/us/products/2240",
+  "disclosure_verified_at": "2026-05-19T07:41:55.537Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

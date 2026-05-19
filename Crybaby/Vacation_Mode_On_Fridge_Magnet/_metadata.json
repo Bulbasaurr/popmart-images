@@ -18,7 +18,7 @@
     {
       "character_name": "My Summer Vibe",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "My_Summer_Vibe.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Let's Surf",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Lets_Surf.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Glug-glug",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Glug_glug.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Full Sail",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Full_Sail.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Chilling on the Beach",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Chilling_on_the_Beach.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Sunbathing",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Sunbathing.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Merbaby Tears",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Merbaby_Tears.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -91,5 +91,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4136"
+  "popmart_product_url": "https://www.popmart.com/us/products/4136",
+  "disclosure_verified_at": "2026-05-19T07:41:55.605Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

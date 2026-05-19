@@ -18,7 +18,7 @@
     {
       "character_name": "First Swim",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "First_Swim.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Blooms from the Mud",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Blooms_from_the_Mud.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Rainbow After Storm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Rainbow_After_Storm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Bad Morning",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Bad_Morning.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Summer on the Grass",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Summer_on_the_Grass.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Cosmic Dream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Cosmic_Dream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "The Goodbye l Cannot Say",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Goodbye_l_Cannot_Say.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Snowfield Swing",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Snowfield_Swing.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "The Hourglass",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Hourglass.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Kiteland",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Kiteland.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Purring Thread",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Purring_Thread.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Path of Whispering Lilies",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Path_of_Whispering_Lilies.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "In Your Arms",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "In_Your_Arms.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -150,5 +150,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5598"
+  "popmart_product_url": "https://www.popmart.com/us/products/5598",
+  "disclosure_verified_at": "2026-05-19T07:41:55.627Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

@@ -18,7 +18,7 @@
     {
       "character_name": "Unlock Me",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Unlock_Me.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Stupid Cupid",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Stupid_Cupid.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Kiss Kiss-Devil Vers.",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Kiss_Kiss_Devil_Vers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Kiss Kiss-Angel Vers.",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Kiss_Kiss_Angel_Vers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Puppy Love",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Puppy_Love.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "You're Purr-Fect",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Youre_Purr_Fect.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Be Mine",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Be_Mine.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -90,5 +90,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2001"
+  "popmart_product_url": "https://www.popmart.com/us/products/2001",
+  "disclosure_verified_at": "2026-05-19T07:41:55.506Z",
+  "disclosure_verified_from_image": "03.jpg"
 }

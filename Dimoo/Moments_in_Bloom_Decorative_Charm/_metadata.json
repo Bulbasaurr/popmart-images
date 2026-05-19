@@ -18,7 +18,7 @@
     {
       "character_name": "Caught by Spring",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Caught_by_Spring.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Falling into Flowers",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Falling_into_Flowers.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "It Lives in My Boot!",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "It_Lives_in_My_Boot.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Spring Overhead",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Spring_Overhead.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Spring Recoil",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Spring_Recoil.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Spring's Trumpet",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Springs_Trumpet.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "Light Up Spring",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "Light_Up_Spring.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -92,5 +92,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/6041"
+  "popmart_product_url": "https://www.popmart.com/us/products/6041",
+  "disclosure_verified_at": "2026-05-19T07:41:55.654Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

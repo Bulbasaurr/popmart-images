@@ -18,7 +18,7 @@
     {
       "character_name": "The Moon Traveler-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Moon_Traveler.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "The Moon Lover-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Moon_Lover.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "The Night Sky-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Night_Sky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "The Outsider-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Outsider.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "The Half Moon-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Half_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "The Dancing Star-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Dancing_Star.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "The Full Moon-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Full_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "The Space Traveller-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Space_Traveller.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "The First Boy on the Moon-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_First_Boy_on_the_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "The Rabbit on the Moon-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Rabbit_on_the_Moon.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "The Sleepy Sunny-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Sleepy_Sunny.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "The Moon Catcher-Mini",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "The_Moon_Catcher.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "The Wishing Star-Mini",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "The_Wishing_Star.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -149,5 +149,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/4713"
+  "popmart_product_url": "https://www.popmart.com/us/products/4713",
+  "disclosure_verified_at": "2026-05-19T07:41:55.619Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

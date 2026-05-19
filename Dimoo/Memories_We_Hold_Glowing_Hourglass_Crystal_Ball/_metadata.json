@@ -18,7 +18,7 @@
     {
       "character_name": "Rainbow After Storm",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Rainbow_After_Storm.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "In Your Arms",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "In_Your_Arms.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "First Swim",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "First_Swim.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Cosmic Dream",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Cosmic_Dream.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Path of Whispering Lilies",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Path_of_Whispering_Lilies.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Purring Thread",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/6",
       "image": "Purring_Thread.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,14 +66,14 @@
     {
       "character_name": "The Goodbye I Cannot Say",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/72",
       "image": "The_Goodbye_I_Cannot_Say.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -95,5 +95,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5599"
+  "popmart_product_url": "https://www.popmart.com/us/products/5599",
+  "disclosure_verified_at": "2026-05-19T07:41:55.626Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

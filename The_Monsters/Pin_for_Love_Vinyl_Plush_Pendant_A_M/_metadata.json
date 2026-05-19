@@ -18,7 +18,7 @@
     {
       "character_name": "M",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "M.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "C",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "C.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "D",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "D.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "F",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "F.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "J",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "J.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "K",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "K.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "G",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "G.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "I",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "I.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "E",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "E.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "H",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "H.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "L",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "L.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "B",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "B.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,7 +114,7 @@
     {
       "character_name": "A",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": "A.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -122,7 +122,7 @@
     {
       "character_name": "?",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/14",
       "image": ".png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -130,14 +130,14 @@
     {
       "character_name": "Heart",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/168",
       "image": "Heart.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -163,5 +163,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/3033"
+  "popmart_product_url": "https://www.popmart.com/us/products/3033",
+  "disclosure_verified_at": "2026-05-19T07:41:55.580Z",
+  "disclosure_verified_from_image": "05.jpg"
 }

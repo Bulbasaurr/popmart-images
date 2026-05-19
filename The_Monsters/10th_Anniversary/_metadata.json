@@ -18,7 +18,7 @@
     {
       "character_name": "LABUBU&PUCA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandPUCA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "LABUBU&PATO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandPATO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "LABUBU&YAYA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandYAYA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "LABUBU&MOKOKO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandMOKOKO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "LABUBU&PIPPO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandPIPPO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "LABUBU&SPOOKY",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandSPOOKY.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "LABUBU&COWAWA",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandCOWAWA.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "LABUBU&TYCOCO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandTYCOCO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "LABUBU&ZIMOMO",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/9",
       "image": "LABUBUandZIMOMO.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,14 +90,14 @@
     {
       "character_name": "MONSTERS BY MONSTERS",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/108",
       "image": "MONSTERS_BY_MONSTERS.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -122,5 +122,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/5775"
+  "popmart_product_url": "https://www.popmart.com/us/products/5775",
+  "disclosure_verified_at": "2026-05-19T07:41:55.640Z",
+  "disclosure_verified_from_image": "04.jpg"
 }

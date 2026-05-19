@@ -18,7 +18,7 @@
     {
       "character_name": "Hiding Behind You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Hiding_Behind_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Journey in the Rain",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Journey_in_the_Rain.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Back Off",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Back_Off.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Pieces of Memory",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Pieces_of_Memory.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Staying Up",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Staying_Up.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Daydreaming",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Daydreaming.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Get Lucky",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Get_Lucky.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Breakout Plan",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Breakout_Plan.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Soul Connection",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Soul_Connection.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Knight",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Knight.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,7 +98,7 @@
     {
       "character_name": "Caught You",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Caught_You.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -106,7 +106,7 @@
     {
       "character_name": "Eaten",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/12",
       "image": "Eaten.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -114,14 +114,14 @@
     {
       "character_name": "Never Growing Up",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/144",
       "image": "Never_Growing_Up.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_ocr",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -150,5 +150,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/2166"
+  "popmart_product_url": "https://www.popmart.com/us/products/2166",
+  "disclosure_verified_at": "2026-05-19T07:41:55.526Z",
+  "disclosure_verified_from_image": "04.jpg"
 }
