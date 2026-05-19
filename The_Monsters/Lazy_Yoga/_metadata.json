@@ -18,7 +18,7 @@
     {
       "character_name": "Little Bird",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Little_Bird.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -26,7 +26,7 @@
     {
       "character_name": "Zone Out",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Zone_Out.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -34,7 +34,7 @@
     {
       "character_name": "Ab Roller",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Ab_Roller.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -42,7 +42,7 @@
     {
       "character_name": "Sweating",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sweating.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -50,7 +50,7 @@
     {
       "character_name": "Confident",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Confident.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -58,7 +58,7 @@
     {
       "character_name": "Stretch Out",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Stretch_Out.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -66,7 +66,7 @@
     {
       "character_name": "Lay Down",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Lay_Down.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -74,7 +74,7 @@
     {
       "character_name": "Americano",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Americano.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -82,7 +82,7 @@
     {
       "character_name": "Show Off",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Show_Off.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -90,7 +90,7 @@
     {
       "character_name": "Sleeping",
       "rarity": "Normal",
-      "chance": "?",
+      "chance": "1/10",
       "image": "Sleeping.png",
       "_popnow_weight": 20,
       "_popnow_type": 1
@@ -98,14 +98,14 @@
     {
       "character_name": "Yoga Coach",
       "rarity": "Secret",
-      "chance": "?",
+      "chance": "1/120",
       "image": "Yoga_Coach.png",
       "_popnow_weight": 1,
       "_popnow_type": 2
     }
   ],
-  "odds_verified": false,
-  "odds_source": null,
+  "odds_verified": true,
+  "odds_source": "popmart_disclosure_jpg_game_rules",
   "desc_image_urls": [],
   "cross_ip_audit_needed": false,
   "notes": "",
@@ -126,5 +126,7 @@
   ],
   "disclosure_source": "popmart_product_page_desc_images",
   "disclosure_instructions": "Chance numbers (e.g. \"1/40\", \"1/80\") are printed on the disclosure images above. Read them carefully when adding rows to the sheet — do not guess or compute from popnow weights.",
-  "popmart_product_url": "https://www.popmart.com/us/products/1470"
+  "popmart_product_url": "https://www.popmart.com/us/products/1470",
+  "disclosure_verified_at": "2026-05-19T04:29:38.781Z",
+  "disclosure_verified_from_image_index": 3
 }
