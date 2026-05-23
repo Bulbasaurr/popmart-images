@@ -6,16 +6,38 @@ Image hosting for the [Thrilljoy PIX!](https://thrilljoy.com/) collectible line,
 
 ```
 Thrilljoy/
-  {Franchise_Slug}/
+  {Folder}/
     {Set_Slug}/
       {Figure_Slug}_{Variant_Slug}.png
+  _franchise_map.json    ← sheet Franchise → folder lookup
 ```
 
-Examples:
-- `Thrilljoy/Lisa_Frankenstein/Lisa_Frankenstein/Lisa_Hero.png`
-- `Thrilljoy/Lisa_Frankenstein/Lisa_Frankenstein/The_Creature_Ultra_Chase.png`
-- `Thrilljoy/The_Boys/Billy_Butcher/Billy_Butcher_Hero.png`
-- `Thrilljoy/Superbad/Seth/Evan_Chase.png`
+`{Folder}` is **either** the franchise's umbrella folder (when its IP is grouped with related franchises) **or** the slugified franchise name itself. The mapping lives in [`_franchise_map.json`](./_franchise_map.json) — consult it first; if a franchise isn't listed there, default to slugifying the `Franchise` column value.
+
+**Disk paths are decoupled from the sheet.** The sheet's `Franchise` column keeps the canonical franchise names (Annabelle, The Conjuring 2, Batman, etc.) — only the on-disk folder structure groups them under umbrellas. AppSheet reads column H (Image URL) and the franchise text labels independently, so the umbrella grouping is invisible to the app.
+
+### Umbrella folders (current)
+
+| Umbrella `{Folder}`            | Franchises folded in                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------------ |
+| `Conjuring_Universe`           | Annabelle, The Conjuring, The Conjuring 2, The Nun                                   |
+| `DC`                           | Batman, Batman 1966, Batman: The Animated Series, The Dark Knight Trilogy, Superman, Peacemaker, Teen Titans Go |
+| `Teenage_Mutant_Ninja_Turtles` | TMNT (and any future TMNT sub-lines)                                                 |
+| `Chucky`                       | Child's Play, Chucky 2                                                               |
+| `Universal_Monsters`           | Bram Stoker's Dracula, Creature from the Black Lagoon, The Mummy                     |
+| `Stephen_King`                 | Welcome to Derry (and other King-IP drops)                                           |
+
+Everything else lives under its own slugified franchise folder.
+
+### Examples
+
+- `Thrilljoy/Lisa_Frankenstein/Lisa_Frankenstein/Lisa_Hero.png` (standalone franchise)
+- `Thrilljoy/The_Boys/Billy_Butcher/Billy_Butcher_Hero.png` (standalone franchise)
+- `Thrilljoy/Conjuring_Universe/Annabelle/Annabelle_Hero.png` (sheet Franchise = "Annabelle")
+- `Thrilljoy/Conjuring_Universe/The_Nun/The_Nun_Super_Chase.png` (sheet Franchise = "The Nun")
+- `Thrilljoy/DC/Batman_Comics/Batman_Hero.png` (sheet Franchise = "Batman")
+- `Thrilljoy/Universal_Monsters/Count_Dracula/Count_Dracula_Hero.png` (sheet Franchise = "Bram Stoker's Dracula")
+- `Thrilljoy/Superbad/Seth/Evan_Chase.png` (standalone franchise)
 
 Slug rule: spaces → `_`, drop non-`[A-Za-z0-9_]`, collapse multiple `_`. Apostrophes, ampersands, periods all become `_`.
 
@@ -52,3 +74,4 @@ Short version: fetch `https://thrilljoy.com/products.json?limit=250`, find produ
 - All images downloaded from `cdn.shopify.com/s/files/1/0672/1096/9252/files/...` (Thrilljoy's Shopify store)
 - Ingested via the runbook in `.github/copilot-instructions.md`
 - Initial ingest: 416 images across 108 franchises (Pop Mart Phase 7 close-out → Thrilljoy migration, 2026-05-22)
+- 2026-05-23: Reorganized into 6 IP umbrellas (Conjuring_Universe, DC, Chucky, Universal_Monsters, Stephen_King, Teenage_Mutant_Ninja_Turtles) to reduce single-set franchise dirs. 91 top-level folders post-reorg. `_franchise_map.json` added as the sheet→folder bridge.
