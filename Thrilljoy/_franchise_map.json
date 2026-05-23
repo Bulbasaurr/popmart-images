@@ -1,0 +1,32 @@
+{
+  "_comment": "Maps sheet Franchise column values to repo folder paths. Used by the ingest runbook to determine where new images go. If a franchise isn't listed, the default path is Thrilljoy/{slug(Franchise)}/{slug(Set Name)}/{slug(Figure)}_{slug(Variant)}.png",
+
+  "Annabelle":                       "Conjuring_Universe",
+  "The Conjuring":                   "Conjuring_Universe",
+  "The Conjuring 2":                 "Conjuring_Universe",
+  "The Nun":                         "Conjuring_Universe",
+
+  "Batman":                          "DC",
+  "Batman 1966":                     "DC",
+  "Batman The Animated Series":      "DC",
+  "Batman: The Animated Series":     "DC",
+  "The Dark Knight Trilogy":         "DC",
+  "Superman":                        "DC",
+  "Peacemaker":                      "DC",
+  "Teen Titans Go!":                 "DC",
+  "Teen Titans Go":                  "DC",
+  "DC":                              "DC",
+
+  "TMNT":                            "Teenage_Mutant_Ninja_Turtles",
+  "Teenage Mutant Ninja Turtles":    "Teenage_Mutant_Ninja_Turtles",
+
+  "Child's Play":                    "Chucky",
+  "Chucky 2":                        "Chucky",
+
+  "Bram Stoker's Dracula":           "Universal_Monsters",
+  "Creature from the Black Lagoon":  "Universal_Monsters",
+  "The Mummy":                       "Universal_Monsters",
+  "Universal Monsters":              "Universal_Monsters",
+
+  "Welcome to Derry":                "Stephen_King"
+}
