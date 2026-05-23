@@ -43,7 +43,8 @@ Short version: fetch `https://thrilljoy.com/products.json?limit=250`, find produ
 
 ## Out of scope
 
-- `MEGA PIX!` and `PIXL` product types (different lines, sheet doesn't track them)
+- `MEGA PIX!`, `PIXL`, and `PIX! PANORAMIX` product types (different lines, sheet doesn't track them)
+- Some products are listed as `PIX!` on the Shopify API but rebadged from Panoramix — the live product page will say `PLEASE NOTE- THIS PRODUCT WILL BE BRANDED "PIX!", NOT "PIX! PANORAMIX"`. Skip those too (known case: `pix-aang`).
 - 39 webstore-exclusive variants (Bloo crossovers, GitD recolors, Hot Topic exclusives, etc.) that have no Shopify product entry — these need manual sourcing
 
 ## Source
